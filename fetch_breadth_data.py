@@ -8,7 +8,9 @@ from icecream import ic
 from pathlib import Path
 from shutil import move
 from datetime import datetime
+from rich.console import Console
 
+console = Console()
 
 def download_screener(url):
     driver = webdriver.Chrome()
@@ -57,11 +59,11 @@ def get_ema_data(input_csv):
 
 
 def process_ema_data(twenty_ema_data, Date):
-    num_days_data = 400
+    num_days_data = 15
     ema_20_values = list(twenty_ema_data.values())[:num_days_data]
     ema_20_days = list(twenty_ema_data.keys())[:num_days_data]
-    ic(ema_20_values)
-    ic(ema_20_days)
+    # ic(ema_20_values)
+    # ic(ema_20_days)
     data_size = len(ema_20_values)
     # Reverse the date to show latest in last
     Date.reverse()
@@ -75,10 +77,9 @@ def process_ema_data(twenty_ema_data, Date):
         else:
             last_5_values = ema_20_values[start_index:end_index]
         days = ema_20_days[start_index]
-        print('---------------------------')
-        print(days)
-        print(Date[index+4])
-        print(last_5_values[::-1])
+        print(f'{"-"*25}{days.upper()} | {Date[index+4]} {"-"*25}')
+        print(f'#Stocks above 20 ema(Last 5 days): '
+              f'{", ".join(last_5_values[::-1])}')
         decide_market_status(last_5_values)
         index += 1
         start_index -= 1
@@ -86,39 +87,41 @@ def process_ema_data(twenty_ema_data, Date):
 
 
 def decide_market_status(last_5_values):
+    print(f'Market Status:', end=' ')
     day1, day2, day3, day4, day5 = [int(val)
                                     for val in
                                     last_5_values]
     if day1 > 800:
         if (day1 > day2 > day3 > day4 > day5):
             if day1 < 1300:
-                print('Light Green')
+                console.print('Light Green', style='green' )
             if day1 > 1300:
-                print('Bright Green')
+                console.print('Bright Green', style='bold green')
                 if day5 < 400:
-                    print('Fresh Bullish trend possible')
+                    console.print('Fresh Bullish trend possible',
+                                  style='green')
         elif (day1 < day2 < day3 < max(day4, day5)):
             if day1 < 1200:
-                print('Light Red')
+                console.print('[red] Light Red')
             else:
-                print('Bright to Light Green')
+                console.print('[green] Bright to Light Green')
         elif all([(750 < int(val) < 1200) for val in last_5_values]):
-            print('Yellow to Red')
+            console.print('Yellow to Red', style='yellow')
         elif all([(900 < int(val) < 1300) for val in last_5_values]):
-            print('Yellow to Green')
+            console.print('[light_green] Yellow to Green')
         elif all([(450 < int(val) < 1100) for val in last_5_values]):
-            print('Red to Yellow')
+            console.print('[yellow] Red to Yellow')
         elif all([(1200 < int(val)) for val in last_5_values]):
-            print('Light Green')
+            console.print('[light_green]Light Green')
         else:
-            print('Green to Yellow')
+            console.print('[light_green] Green to Yellow')
     elif day1 < 800:
         if (day1 < day2 < day3 < day4):
-            print('Dark Red')
+            console.print('[dark_red] Dark Red')
         elif (day1 > day2 > day3 > day4):
-            print('Red to Yellow')
+            console.print('[yellow] Red to Yellow')
         else:
-            print('Light Red')
+            console.print('[red] Light Red')
 
 
 if __name__ == "__main__":
@@ -128,7 +131,7 @@ if __name__ == "__main__":
     ic(config_file)
     # Download screeners csvs
     data = get_data(config_file)
-    ic(data)
+    # ic(data)
     for screener in data:
         screener_url = data[screener]['url']
         destination_folder = f"{data_dir}/{data[screener]['folder']}"
@@ -136,14 +139,18 @@ if __name__ == "__main__":
                                        exist_ok=True)
         destination_file = (f"{destination_folder}/"
                             f"{datetime.today().strftime('%Y.%m.%d')}.csv")
-        download_screener(screener_url)
-        latest_file = get_latest_download()
-        ic(latest_file)
-        fetched_file = move(latest_file, destination_file)
-        ic(fetched_file)
+        # Check if file already exists
+        if not Path(destination_file).exists():
+            download_screener(screener_url)
+            latest_file = get_latest_download()
+            ic(latest_file)
+            fetched_file = move(latest_file, destination_file)
+            ic(fetched_file)
+        else:
+            fetched_file = destination_file
 
     # Get number of stocks above 20 ema data
     twenty_ema_data, Date = get_ema_data(fetched_file)
-    print(twenty_ema_data)
-    ic(Date)
+    # print(twenty_ema_data)
+    # ic(Date)
     process_ema_data(twenty_ema_data, Date)

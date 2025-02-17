@@ -77,9 +77,9 @@ def process_ema_data(twenty_ema_data, Date):
         else:
             last_5_values = ema_20_values[start_index:end_index]
         days = ema_20_days[start_index]
-        print(f'{"-"*25}{days.upper()} | {Date[index+4]} {"-"*25}')
-        print(f'#Stocks above 20 ema(Last 5 days): '
-              f'{", ".join(last_5_values[::-1])}')
+        print(f'\n{days.upper()} | {Date[index+4]}:')
+        print(f'     #stocks > 20 ema (Last 5 days):\n'
+              f'\t{", ".join(last_5_values[::-1])}')
         decide_market_status(last_5_values)
         index += 1
         start_index -= 1
@@ -87,7 +87,7 @@ def process_ema_data(twenty_ema_data, Date):
 
 
 def decide_market_status(last_5_values):
-    print(f'Market Status:', end=' ')
+    print(f'     Market Status:', end=' ')
     day1, day2, day3, day4, day5 = [int(val)
                                     for val in
                                     last_5_values]

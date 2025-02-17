@@ -3,6 +3,7 @@ import json
 
 from time import sleep
 from selenium.webdriver.common.by import By
+from selenium.webdriver.chrome.options import Options
 from selenium import webdriver
 from icecream import ic
 from pathlib import Path
@@ -11,9 +12,13 @@ from datetime import datetime
 from rich.console import Console
 
 console = Console()
+options = Options()
+options.add_argument("--headless")  # Run in headless mode
+options.add_argument("--no-sandbox")
+options.add_argument("--disable-dev-shm-usage")
 
 def download_screener(url):
-    driver = webdriver.Chrome()
+    driver = webdriver.Chrome(options=options)
     driver.implicitly_wait(10)
     driver.get(url)
     sleep(10)

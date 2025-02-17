@@ -22,6 +22,11 @@ def download_screener(url):
     driver.implicitly_wait(10)
     driver.get(url)
     sleep(10)
+    # Locate the div containing "Market Breadth"
+    market_breadth_div = driver.find_element(By.XPATH,
+                                             "//span[contains(text(), 'Market Breadth')]")
+    # Click the div
+    market_breadth_div.click()
     dom = driver.find_element(by=By.CSS_SELECTOR, value='a.flex.items-center')
     ic(dom)
     sleep(10)

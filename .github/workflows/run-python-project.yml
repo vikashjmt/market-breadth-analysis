@@ -29,7 +29,9 @@ jobs:
         run: python fetch_breadth_data.py >"Report/market_breadth_`date +'%Y-%m-%d_%H:%M'`.txt"
 
       - name: Commit and Push Changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git add Report
-          git commit -m "Auto-generated report at `date +'%Y-%m-%d_%H:%M'`"
-          git push     
+          git commit -m "Auto-generated report at `date +'%Y-%m-%d_%H:%M'`" || echo "No changes to commit"
+          git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git

@@ -10,9 +10,6 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Generate a file
-        run:
-
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
@@ -24,4 +21,15 @@ jobs:
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
       - name: Run Python Script
-        run: python fetch_breadth_data.py
+        run: python fetch_breadth_data.py >"Report/market_breadth_`date +'%Y-%m-%d_%H:%M'`.txt"
+
+      - name: Configure Git
+	      run: |
+		git config --global user.name "github-actions[bot]"
+		git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit and Push Changes
+	      run: |
+		git add Report
+		git commit -m "Auto-generated report at `date +'%Y-%m-%d_%H:%M'`"
+		git push

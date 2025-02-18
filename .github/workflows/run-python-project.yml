@@ -1,6 +1,10 @@
 name: Run Market Breadth Project
 
-on: [pull_request, workflow_dispatch]
+on:
+  pull_request:
+  workflow_dispatch:
+  schedule:
+    - cron: '30 10 * * 1-5'
 
 jobs:
   run-python:

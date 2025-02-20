@@ -1,0 +1,1855 @@
+
+DAY371 | 29th Aug:
+     #stocks > 20 ema (Last 5 days):
+	1128, 1128, 994, 1050, 1160
+     Market Status: Yellow to Red
+
+DAY370 | 30th Aug:
+     #stocks > 20 ema (Last 5 days):
+	1128, 994, 1050, 1160, 1276
+     Market Status:  Yellow to Green
+
+DAY369 | 31st Aug:
+     #stocks > 20 ema (Last 5 days):
+	994, 1050, 1160, 1276, 1234
+     Market Status:  Yellow to Green
+
+DAY368 | 1st Sep:
+     #stocks > 20 ema (Last 5 days):
+	1050, 1160, 1276, 1234, 1323
+     Market Status:  Green to Yellow
+
+DAY367 | 4th Sep:
+     #stocks > 20 ema (Last 5 days):
+	1160, 1276, 1234, 1323, 1374
+     Market Status:  Green to Yellow
+
+DAY366 | 5th Sep:
+     #stocks > 20 ema (Last 5 days):
+	1276, 1234, 1323, 1374, 1401
+     Market Status: Light Green
+
+DAY365 | 6th Sep:
+     #stocks > 20 ema (Last 5 days):
+	1234, 1323, 1374, 1401, 1403
+     Market Status: Bright Green
+
+DAY364 | 7th Sep:
+     #stocks > 20 ema (Last 5 days):
+	1323, 1374, 1401, 1403, 1436
+     Market Status: Bright Green
+
+DAY363 | 8th Sep:
+     #stocks > 20 ema (Last 5 days):
+	1374, 1401, 1403, 1436, 1438
+     Market Status: Bright Green
+
+DAY362 | 11th Sep:
+     #stocks > 20 ema (Last 5 days):
+	1401, 1403, 1436, 1438, 1427
+     Market Status: Light Green
+
+DAY361 | 12th Sep:
+     #stocks > 20 ema (Last 5 days):
+	1403, 1436, 1438, 1427, 796
+     Market Status:  Light Red
+
+DAY360 | 13th Sep:
+     #stocks > 20 ema (Last 5 days):
+	1436, 1438, 1427, 796, 943
+     Market Status:  Green to Yellow
+
+DAY359 | 14th Sep:
+     #stocks > 20 ema (Last 5 days):
+	1438, 1427, 796, 943, 1131
+     Market Status:  Green to Yellow
+
+DAY358 | 15th Sep:
+     #stocks > 20 ema (Last 5 days):
+	1427, 796, 943, 1131, 1169
+     Market Status:  Green to Yellow
+
+DAY357 | 18th Sep:
+     #stocks > 20 ema (Last 5 days):
+	796, 943, 1131, 1169, 1062
+     Market Status: Yellow to Red
+
+DAY356 | 20th Sep:
+     #stocks > 20 ema (Last 5 days):
+	943, 1131, 1169, 1062, 941
+     Market Status: Yellow to Red
+
+DAY355 | 21st Sep:
+     #stocks > 20 ema (Last 5 days):
+	1131, 1169, 1062, 941, 721
+     Market Status:  Dark Red
+
+DAY354 | 22nd Sep:
+     #stocks > 20 ema (Last 5 days):
+	1169, 1062, 941, 721, 707
+     Market Status:  Dark Red
+
+DAY353 | 25th Sep:
+     #stocks > 20 ema (Last 5 days):
+	1062, 941, 721, 707, 797
+     Market Status:  Light Red
+
+DAY352 | 26th Sep:
+     #stocks > 20 ema (Last 5 days):
+	941, 721, 707, 797, 801
+     Market Status:  Red to Yellow
+
+DAY351 | 27th Sep:
+     #stocks > 20 ema (Last 5 days):
+	721, 707, 797, 801, 900
+     Market Status:  Red to Yellow
+
+DAY350 | 28th Sep:
+     #stocks > 20 ema (Last 5 days):
+	707, 797, 801, 900, 777
+     Market Status:  Light Red
+
+DAY349 | 29th Sep:
+     #stocks > 20 ema (Last 5 days):
+	797, 801, 900, 777, 911
+     Market Status: Yellow to Red
+
+DAY348 | 3rd Oct:
+     #stocks > 20 ema (Last 5 days):
+	801, 900, 777, 911, 934
+     Market Status: Yellow to Red
+
+DAY347 | 4th Oct:
+     #stocks > 20 ema (Last 5 days):
+	900, 777, 911, 934, 757
+     Market Status:  Light Red
+
+DAY346 | 5th Oct:
+     #stocks > 20 ema (Last 5 days):
+	777, 911, 934, 757, 876
+     Market Status: Yellow to Red
+
+DAY345 | 6th Oct:
+     #stocks > 20 ema (Last 5 days):
+	911, 934, 757, 876, 1032
+     Market Status: Yellow to Red
+
+DAY344 | 9th Oct:
+     #stocks > 20 ema (Last 5 days):
+	934, 757, 876, 1032, 652
+     Market Status:  Light Red
+
+DAY343 | 10th Oct:
+     #stocks > 20 ema (Last 5 days):
+	757, 876, 1032, 652, 906
+     Market Status:  Red to Yellow
+
+DAY342 | 11th Oct:
+     #stocks > 20 ema (Last 5 days):
+	876, 1032, 652, 906, 1083
+     Market Status:  Red to Yellow
+
+DAY341 | 12th Oct:
+     #stocks > 20 ema (Last 5 days):
+	1032, 652, 906, 1083, 1184
+     Market Status:  Green to Yellow
+
+DAY340 | 13th Oct:
+     #stocks > 20 ema (Last 5 days):
+	652, 906, 1083, 1184, 1142
+     Market Status:  Green to Yellow
+
+DAY339 | 16th Oct:
+     #stocks > 20 ema (Last 5 days):
+	906, 1083, 1184, 1142, 1182
+     Market Status: Yellow to Red
+
+DAY338 | 17th Oct:
+     #stocks > 20 ema (Last 5 days):
+	1083, 1184, 1142, 1182, 1277
+     Market Status:  Yellow to Green
+
+DAY337 | 18th Oct:
+     #stocks > 20 ema (Last 5 days):
+	1184, 1142, 1182, 1277, 1102
+     Market Status:  Yellow to Green
+
+DAY336 | 19th Oct:
+     #stocks > 20 ema (Last 5 days):
+	1142, 1182, 1277, 1102, 1070
+     Market Status:  Yellow to Green
+
+DAY335 | 20th Oct:
+     #stocks > 20 ema (Last 5 days):
+	1182, 1277, 1102, 1070, 923
+     Market Status:  Light Red
+
+DAY334 | 23rd Oct:
+     #stocks > 20 ema (Last 5 days):
+	1277, 1102, 1070, 923, 360
+     Market Status:  Dark Red
+
+DAY333 | 25th Oct:
+     #stocks > 20 ema (Last 5 days):
+	1102, 1070, 923, 360, 331
+     Market Status:  Dark Red
+
+DAY332 | 26th Oct:
+     #stocks > 20 ema (Last 5 days):
+	1070, 923, 360, 331, 315
+     Market Status:  Dark Red
+
+DAY331 | 27th Oct:
+     #stocks > 20 ema (Last 5 days):
+	923, 360, 331, 315, 513
+     Market Status:  Light Red
+
+DAY330 | 30th Oct:
+     #stocks > 20 ema (Last 5 days):
+	360, 331, 315, 513, 569
+     Market Status:  Light Red
+
+DAY329 | 31st Oct:
+     #stocks > 20 ema (Last 5 days):
+	331, 315, 513, 569, 622
+     Market Status:  Red to Yellow
+
+DAY328 | 1st Nov:
+     #stocks > 20 ema (Last 5 days):
+	315, 513, 569, 622, 583
+     Market Status:  Light Red
+
+DAY327 | 2nd Nov:
+     #stocks > 20 ema (Last 5 days):
+	513, 569, 622, 583, 762
+     Market Status:  Light Red
+
+DAY326 | 3rd Nov:
+     #stocks > 20 ema (Last 5 days):
+	569, 622, 583, 762, 902
+     Market Status:  Red to Yellow
+
+DAY325 | 6th Nov:
+     #stocks > 20 ema (Last 5 days):
+	622, 583, 762, 902, 1098
+     Market Status:  Red to Yellow
+
+DAY324 | 7th Nov:
+     #stocks > 20 ema (Last 5 days):
+	583, 762, 902, 1098, 1107
+     Market Status: Light Green
+
+DAY323 | 8th Nov:
+     #stocks > 20 ema (Last 5 days):
+	762, 902, 1098, 1107, 1139
+     Market Status: Light Green
+
+DAY322 | 9th Nov:
+     #stocks > 20 ema (Last 5 days):
+	902, 1098, 1107, 1139, 1023
+     Market Status: Yellow to Red
+
+DAY321 | 10th Nov:
+     #stocks > 20 ema (Last 5 days):
+	1098, 1107, 1139, 1023, 1007
+     Market Status: Yellow to Red
+
+DAY320 | 12th Nov:
+     #stocks > 20 ema (Last 5 days):
+	1107, 1139, 1023, 1007, 1190
+     Market Status: Yellow to Red
+
+DAY319 | 13th Nov:
+     #stocks > 20 ema (Last 5 days):
+	1139, 1023, 1007, 1190, 1092
+     Market Status: Yellow to Red
+
+DAY318 | 15th Nov:
+     #stocks > 20 ema (Last 5 days):
+	1023, 1007, 1190, 1092, 1215
+     Market Status:  Yellow to Green
+
+DAY317 | 16th Nov:
+     #stocks > 20 ema (Last 5 days):
+	1007, 1190, 1092, 1215, 1241
+     Market Status:  Yellow to Green
+
+DAY316 | 17th Nov:
+     #stocks > 20 ema (Last 5 days):
+	1190, 1092, 1215, 1241, 1195
+     Market Status:  Yellow to Green
+
+DAY315 | 20th Nov:
+     #stocks > 20 ema (Last 5 days):
+	1092, 1215, 1241, 1195, 1165
+     Market Status:  Yellow to Green
+
+DAY314 | 21st Nov:
+     #stocks > 20 ema (Last 5 days):
+	1215, 1241, 1195, 1165, 1213
+     Market Status:  Yellow to Green
+
+DAY313 | 22nd Nov:
+     #stocks > 20 ema (Last 5 days):
+	1241, 1195, 1165, 1213, 1185
+     Market Status:  Yellow to Green
+
+DAY312 | 23rd Nov:
+     #stocks > 20 ema (Last 5 days):
+	1195, 1165, 1213, 1185, 1207
+     Market Status:  Yellow to Green
+
+DAY311 | 24th Nov:
+     #stocks > 20 ema (Last 5 days):
+	1165, 1213, 1185, 1207, 1193
+     Market Status:  Yellow to Green
+
+DAY310 | 28th Nov:
+     #stocks > 20 ema (Last 5 days):
+	1213, 1185, 1207, 1193, 1243
+     Market Status:  Yellow to Green
+
+DAY309 | 29th Nov:
+     #stocks > 20 ema (Last 5 days):
+	1185, 1207, 1193, 1243, 1230
+     Market Status:  Yellow to Green
+
+DAY308 | 30th Nov:
+     #stocks > 20 ema (Last 5 days):
+	1207, 1193, 1243, 1230, 1233
+     Market Status:  Yellow to Green
+
+DAY307 | 1st Dec:
+     #stocks > 20 ema (Last 5 days):
+	1193, 1243, 1230, 1233, 1266
+     Market Status:  Yellow to Green
+
+DAY306 | 4th Dec:
+     #stocks > 20 ema (Last 5 days):
+	1243, 1230, 1233, 1266, 1365
+     Market Status: Light Green
+
+DAY305 | 5th Dec:
+     #stocks > 20 ema (Last 5 days):
+	1230, 1233, 1266, 1365, 1307
+     Market Status: Light Green
+
+DAY304 | 6th Dec:
+     #stocks > 20 ema (Last 5 days):
+	1233, 1266, 1365, 1307, 1312
+     Market Status: Light Green
+
+DAY303 | 7th Dec:
+     #stocks > 20 ema (Last 5 days):
+	1266, 1365, 1307, 1312, 1352
+     Market Status: Light Green
+
+DAY302 | 8th Dec:
+     #stocks > 20 ema (Last 5 days):
+	1365, 1307, 1312, 1352, 1272
+     Market Status: Light Green
+
+DAY301 | 11th Dec:
+     #stocks > 20 ema (Last 5 days):
+	1307, 1312, 1352, 1272, 1290
+     Market Status: Light Green
+
+DAY300 | 12th Dec:
+     #stocks > 20 ema (Last 5 days):
+	1312, 1352, 1272, 1290, 1221
+     Market Status: Light Green
+
+DAY299 | 13th Dec:
+     #stocks > 20 ema (Last 5 days):
+	1352, 1272, 1290, 1221, 1271
+     Market Status: Light Green
+
+DAY298 | 14th Dec:
+     #stocks > 20 ema (Last 5 days):
+	1272, 1290, 1221, 1271, 1296
+     Market Status:  Yellow to Green
+
+DAY297 | 15th Dec:
+     #stocks > 20 ema (Last 5 days):
+	1290, 1221, 1271, 1296, 1323
+     Market Status: Light Green
+
+DAY296 | 18th Dec:
+     #stocks > 20 ema (Last 5 days):
+	1221, 1271, 1296, 1323, 1371
+     Market Status: Bright Green
+
+DAY295 | 19th Dec:
+     #stocks > 20 ema (Last 5 days):
+	1271, 1296, 1323, 1371, 1357
+     Market Status: Light Green
+
+DAY294 | 20th Dec:
+     #stocks > 20 ema (Last 5 days):
+	1296, 1323, 1371, 1357, 754
+     Market Status:  Light Red
+
+DAY293 | 21st Dec:
+     #stocks > 20 ema (Last 5 days):
+	1323, 1371, 1357, 754, 1003
+     Market Status:  Green to Yellow
+
+DAY292 | 22nd Dec:
+     #stocks > 20 ema (Last 5 days):
+	1371, 1357, 754, 1003, 1157
+     Market Status:  Green to Yellow
+
+DAY291 | 26th Dec:
+     #stocks > 20 ema (Last 5 days):
+	1357, 754, 1003, 1157, 1226
+     Market Status:  Green to Yellow
+
+DAY290 | 27th Dec:
+     #stocks > 20 ema (Last 5 days):
+	754, 1003, 1157, 1226, 1262
+     Market Status: Light Green
+
+DAY289 | 28th Dec:
+     #stocks > 20 ema (Last 5 days):
+	1003, 1157, 1226, 1262, 1231
+     Market Status:  Yellow to Green
+
+DAY288 | 29th Dec:
+     #stocks > 20 ema (Last 5 days):
+	1157, 1226, 1262, 1231, 1267
+     Market Status:  Yellow to Green
+
+DAY287 | 1st Jan:
+     #stocks > 20 ema (Last 5 days):
+	1226, 1262, 1231, 1267, 1392
+     Market Status: Light Green
+
+DAY286 | 2nd Jan:
+     #stocks > 20 ema (Last 5 days):
+	1262, 1231, 1267, 1392, 1380
+     Market Status: Light Green
+
+DAY285 | 3rd Jan:
+     #stocks > 20 ema (Last 5 days):
+	1231, 1267, 1392, 1380, 1358
+     Market Status: Light Green
+
+DAY284 | 4th Jan:
+     #stocks > 20 ema (Last 5 days):
+	1267, 1392, 1380, 1358, 1454
+     Market Status: Light Green
+
+DAY283 | 5th Jan:
+     #stocks > 20 ema (Last 5 days):
+	1392, 1380, 1358, 1454, 1473
+     Market Status: Light Green
+
+DAY282 | 8th Jan:
+     #stocks > 20 ema (Last 5 days):
+	1380, 1358, 1454, 1473, 1290
+     Market Status: Light Green
+
+DAY281 | 9th Jan:
+     #stocks > 20 ema (Last 5 days):
+	1358, 1454, 1473, 1290, 1298
+     Market Status: Light Green
+
+DAY280 | 10th Jan:
+     #stocks > 20 ema (Last 5 days):
+	1454, 1473, 1290, 1298, 1296
+     Market Status: Light Green
+
+DAY279 | 11th Jan:
+     #stocks > 20 ema (Last 5 days):
+	1473, 1290, 1298, 1296, 1381
+     Market Status: Light Green
+
+DAY278 | 12th Jan:
+     #stocks > 20 ema (Last 5 days):
+	1290, 1298, 1296, 1381, 1430
+     Market Status: Light Green
+
+DAY277 | 15th Jan:
+     #stocks > 20 ema (Last 5 days):
+	1298, 1296, 1381, 1430, 1393
+     Market Status: Light Green
+
+DAY276 | 16th Jan:
+     #stocks > 20 ema (Last 5 days):
+	1296, 1381, 1430, 1393, 1268
+     Market Status: Light Green
+
+DAY275 | 17th Jan:
+     #stocks > 20 ema (Last 5 days):
+	1381, 1430, 1393, 1268, 1028
+     Market Status:  Light Red
+
+DAY274 | 18th Jan:
+     #stocks > 20 ema (Last 5 days):
+	1430, 1393, 1268, 1028, 979
+     Market Status:  Light Red
+
+DAY273 | 19th Jan:
+     #stocks > 20 ema (Last 5 days):
+	1393, 1268, 1028, 979, 1155
+     Market Status:  Green to Yellow
+
+DAY272 | 20th Jan:
+     #stocks > 20 ema (Last 5 days):
+	1268, 1028, 979, 1155, 1173
+     Market Status:  Yellow to Green
+
+DAY271 | 23rd Jan:
+     #stocks > 20 ema (Last 5 days):
+	1028, 979, 1155, 1173, 710
+     Market Status:  Light Red
+
+DAY270 | 24th Jan:
+     #stocks > 20 ema (Last 5 days):
+	979, 1155, 1173, 710, 922
+     Market Status:  Green to Yellow
+
+DAY269 | 25th Jan:
+     #stocks > 20 ema (Last 5 days):
+	1155, 1173, 710, 922, 989
+     Market Status:  Green to Yellow
+
+DAY268 | 29th Jan:
+     #stocks > 20 ema (Last 5 days):
+	1173, 710, 922, 989, 1099
+     Market Status:  Green to Yellow
+
+DAY267 | 30th Jan:
+     #stocks > 20 ema (Last 5 days):
+	710, 922, 989, 1099, 1098
+     Market Status:  Red to Yellow
+
+DAY266 | 31st Jan:
+     #stocks > 20 ema (Last 5 days):
+	922, 989, 1099, 1098, 1281
+     Market Status:  Yellow to Green
+
+DAY265 | 1st Feb:
+     #stocks > 20 ema (Last 5 days):
+	989, 1099, 1098, 1281, 1225
+     Market Status:  Yellow to Green
+
+DAY264 | 2nd Feb:
+     #stocks > 20 ema (Last 5 days):
+	1099, 1098, 1281, 1225, 1192
+     Market Status:  Yellow to Green
+
+DAY263 | 5th Feb:
+     #stocks > 20 ema (Last 5 days):
+	1098, 1281, 1225, 1192, 1089
+     Market Status:  Light Red
+
+DAY262 | 6th Feb:
+     #stocks > 20 ema (Last 5 days):
+	1281, 1225, 1192, 1089, 1201
+     Market Status:  Yellow to Green
+
+DAY261 | 7th Feb:
+     #stocks > 20 ema (Last 5 days):
+	1225, 1192, 1089, 1201, 1237
+     Market Status:  Yellow to Green
+
+DAY260 | 8th Feb:
+     #stocks > 20 ema (Last 5 days):
+	1192, 1089, 1201, 1237, 1136
+     Market Status:  Yellow to Green
+
+DAY259 | 9th Feb:
+     #stocks > 20 ema (Last 5 days):
+	1089, 1201, 1237, 1136, 950
+     Market Status:  Yellow to Green
+
+DAY258 | 12th Feb:
+     #stocks > 20 ema (Last 5 days):
+	1201, 1237, 1136, 950, 591
+     Market Status:  Dark Red
+
+DAY257 | 13th Feb:
+     #stocks > 20 ema (Last 5 days):
+	1237, 1136, 950, 591, 617
+     Market Status:  Light Red
+
+DAY256 | 14th Feb:
+     #stocks > 20 ema (Last 5 days):
+	1136, 950, 591, 617, 763
+     Market Status:  Light Red
+
+DAY255 | 15th Feb:
+     #stocks > 20 ema (Last 5 days):
+	950, 591, 617, 763, 866
+     Market Status:  Red to Yellow
+
+DAY254 | 16th Feb:
+     #stocks > 20 ema (Last 5 days):
+	591, 617, 763, 866, 990
+     Market Status: Light Green
+
+DAY253 | 19th Feb:
+     #stocks > 20 ema (Last 5 days):
+	617, 763, 866, 990, 1086
+     Market Status: Light Green
+
+DAY252 | 20th Feb:
+     #stocks > 20 ema (Last 5 days):
+	763, 866, 990, 1086, 1110
+     Market Status: Light Green
+
+DAY251 | 21st Feb:
+     #stocks > 20 ema (Last 5 days):
+	866, 990, 1086, 1110, 956
+     Market Status: Yellow to Red
+
+DAY250 | 22nd Feb:
+     #stocks > 20 ema (Last 5 days):
+	990, 1086, 1110, 956, 1011
+     Market Status: Yellow to Red
+
+DAY249 | 23rd Feb:
+     #stocks > 20 ema (Last 5 days):
+	1086, 1110, 956, 1011, 1063
+     Market Status: Yellow to Red
+
+DAY248 | 26th Feb:
+     #stocks > 20 ema (Last 5 days):
+	1110, 956, 1011, 1063, 981
+     Market Status: Yellow to Red
+
+DAY247 | 27th Feb:
+     #stocks > 20 ema (Last 5 days):
+	956, 1011, 1063, 981, 919
+     Market Status: Yellow to Red
+
+DAY246 | 28th Feb:
+     #stocks > 20 ema (Last 5 days):
+	1011, 1063, 981, 919, 632
+     Market Status:  Dark Red
+
+DAY245 | 29th Feb:
+     #stocks > 20 ema (Last 5 days):
+	1063, 981, 919, 632, 681
+     Market Status:  Light Red
+
+DAY244 | 1st Mar:
+     #stocks > 20 ema (Last 5 days):
+	981, 919, 632, 681, 830
+     Market Status:  Red to Yellow
+
+DAY243 | 2nd Mar:
+     #stocks > 20 ema (Last 5 days):
+	919, 632, 681, 830, 963
+     Market Status:  Red to Yellow
+
+DAY242 | 4th Mar:
+     #stocks > 20 ema (Last 5 days):
+	632, 681, 830, 963, 857
+     Market Status:  Red to Yellow
+
+DAY241 | 5th Mar:
+     #stocks > 20 ema (Last 5 days):
+	681, 830, 963, 857, 757
+     Market Status:  Light Red
+
+DAY240 | 6th Mar:
+     #stocks > 20 ema (Last 5 days):
+	830, 963, 857, 757, 549
+     Market Status:  Dark Red
+
+DAY239 | 7th Mar:
+     #stocks > 20 ema (Last 5 days):
+	963, 857, 757, 549, 621
+     Market Status:  Light Red
+
+DAY238 | 11th Mar:
+     #stocks > 20 ema (Last 5 days):
+	857, 757, 549, 621, 450
+     Market Status:  Light Red
+
+DAY237 | 12th Mar:
+     #stocks > 20 ema (Last 5 days):
+	757, 549, 621, 450, 332
+     Market Status:  Light Red
+
+DAY236 | 13th Mar:
+     #stocks > 20 ema (Last 5 days):
+	549, 621, 450, 332, 122
+     Market Status:  Dark Red
+
+DAY235 | 14th Mar:
+     #stocks > 20 ema (Last 5 days):
+	621, 450, 332, 122, 232
+     Market Status:  Light Red
+
+DAY234 | 15th Mar:
+     #stocks > 20 ema (Last 5 days):
+	450, 332, 122, 232, 226
+     Market Status:  Light Red
+
+DAY233 | 18th Mar:
+     #stocks > 20 ema (Last 5 days):
+	332, 122, 232, 226, 278
+     Market Status:  Light Red
+
+DAY232 | 19th Mar:
+     #stocks > 20 ema (Last 5 days):
+	122, 232, 226, 278, 225
+     Market Status:  Light Red
+
+DAY231 | 20th Mar:
+     #stocks > 20 ema (Last 5 days):
+	232, 226, 278, 225, 246
+     Market Status:  Light Red
+
+DAY230 | 21st Mar:
+     #stocks > 20 ema (Last 5 days):
+	226, 278, 225, 246, 418
+     Market Status:  Light Red
+
+DAY229 | 22nd Mar:
+     #stocks > 20 ema (Last 5 days):
+	278, 225, 246, 418, 610
+     Market Status:  Red to Yellow
+
+DAY228 | 26th Mar:
+     #stocks > 20 ema (Last 5 days):
+	225, 246, 418, 610, 563
+     Market Status:  Light Red
+
+DAY227 | 27th Mar:
+     #stocks > 20 ema (Last 5 days):
+	246, 418, 610, 563, 651
+     Market Status:  Light Red
+
+DAY226 | 28th Mar:
+     #stocks > 20 ema (Last 5 days):
+	418, 610, 563, 651, 722
+     Market Status:  Light Red
+
+DAY225 | 1st Apr:
+     #stocks > 20 ema (Last 5 days):
+	610, 563, 651, 722, 1191
+     Market Status:  Green to Yellow
+
+DAY224 | 2nd Apr:
+     #stocks > 20 ema (Last 5 days):
+	563, 651, 722, 1191, 1448
+     Market Status: Bright Green
+
+DAY223 | 3rd Apr:
+     #stocks > 20 ema (Last 5 days):
+	651, 722, 1191, 1448, 1595
+     Market Status: Bright Green
+
+DAY222 | 4th Apr:
+     #stocks > 20 ema (Last 5 days):
+	722, 1191, 1448, 1595, 1634
+     Market Status: Bright Green
+
+DAY221 | 5th Apr:
+     #stocks > 20 ema (Last 5 days):
+	1191, 1448, 1595, 1634, 1659
+     Market Status: Bright Green
+
+DAY220 | 8th Apr:
+     #stocks > 20 ema (Last 5 days):
+	1448, 1595, 1634, 1659, 1618
+     Market Status: Light Green
+
+DAY219 | 9th Apr:
+     #stocks > 20 ema (Last 5 days):
+	1595, 1634, 1659, 1618, 1502
+     Market Status: Light Green
+
+DAY218 | 10th Apr:
+     #stocks > 20 ema (Last 5 days):
+	1634, 1659, 1618, 1502, 1482
+     Market Status:  Bright to Light Green
+
+DAY217 | 12th Apr:
+     #stocks > 20 ema (Last 5 days):
+	1659, 1618, 1502, 1482, 1323
+     Market Status:  Bright to Light Green
+
+DAY216 | 15th Apr:
+     #stocks > 20 ema (Last 5 days):
+	1618, 1502, 1482, 1323, 870
+     Market Status:  Light Red
+
+DAY215 | 16th Apr:
+     #stocks > 20 ema (Last 5 days):
+	1502, 1482, 1323, 870, 964
+     Market Status:  Green to Yellow
+
+DAY214 | 18th Apr:
+     #stocks > 20 ema (Last 5 days):
+	1482, 1323, 870, 964, 929
+     Market Status:  Green to Yellow
+
+DAY213 | 19th Apr:
+     #stocks > 20 ema (Last 5 days):
+	1323, 870, 964, 929, 885
+     Market Status:  Light Red
+
+DAY212 | 22nd Apr:
+     #stocks > 20 ema (Last 5 days):
+	870, 964, 929, 885, 1218
+     Market Status:  Green to Yellow
+
+DAY211 | 23rd Apr:
+     #stocks > 20 ema (Last 5 days):
+	964, 929, 885, 1218, 1355
+     Market Status:  Green to Yellow
+
+DAY210 | 24th Apr:
+     #stocks > 20 ema (Last 5 days):
+	929, 885, 1218, 1355, 1439
+     Market Status:  Green to Yellow
+
+DAY209 | 25th Apr:
+     #stocks > 20 ema (Last 5 days):
+	885, 1218, 1355, 1439, 1445
+     Market Status: Bright Green
+
+DAY208 | 26th Apr:
+     #stocks > 20 ema (Last 5 days):
+	1218, 1355, 1439, 1445, 1451
+     Market Status: Bright Green
+
+DAY207 | 29th Apr:
+     #stocks > 20 ema (Last 5 days):
+	1355, 1439, 1445, 1451, 1453
+     Market Status: Bright Green
+
+DAY206 | 30th Apr:
+     #stocks > 20 ema (Last 5 days):
+	1439, 1445, 1451, 1453, 1420
+     Market Status: Light Green
+
+DAY205 | 2nd May:
+     #stocks > 20 ema (Last 5 days):
+	1445, 1451, 1453, 1420, 1320
+     Market Status: Light Green
+
+DAY204 | 3rd May:
+     #stocks > 20 ema (Last 5 days):
+	1451, 1453, 1420, 1320, 1205
+     Market Status:  Bright to Light Green
+
+DAY203 | 6th May:
+     #stocks > 20 ema (Last 5 days):
+	1453, 1420, 1320, 1205, 973
+     Market Status:  Light Red
+
+DAY202 | 7th May:
+     #stocks > 20 ema (Last 5 days):
+	1420, 1320, 1205, 973, 659
+     Market Status:  Dark Red
+
+DAY201 | 8th May:
+     #stocks > 20 ema (Last 5 days):
+	1320, 1205, 973, 659, 768
+     Market Status:  Light Red
+
+DAY200 | 9th May:
+     #stocks > 20 ema (Last 5 days):
+	1205, 973, 659, 768, 426
+     Market Status:  Light Red
+
+DAY199 | 10th May:
+     #stocks > 20 ema (Last 5 days):
+	973, 659, 768, 426, 544
+     Market Status:  Light Red
+
+DAY198 | 13th May:
+     #stocks > 20 ema (Last 5 days):
+	659, 768, 426, 544, 558
+     Market Status:  Light Red
+
+DAY197 | 14th May:
+     #stocks > 20 ema (Last 5 days):
+	768, 426, 544, 558, 784
+     Market Status:  Red to Yellow
+
+DAY196 | 15th May:
+     #stocks > 20 ema (Last 5 days):
+	426, 544, 558, 784, 914
+     Market Status: Light Green
+
+DAY195 | 16th May:
+     #stocks > 20 ema (Last 5 days):
+	544, 558, 784, 914, 1011
+     Market Status: Light Green
+
+DAY194 | 17th May:
+     #stocks > 20 ema (Last 5 days):
+	558, 784, 914, 1011, 1134
+     Market Status: Light Green
+
+DAY193 | 18th May:
+     #stocks > 20 ema (Last 5 days):
+	784, 914, 1011, 1134, 1274
+     Market Status: Light Green
+
+DAY192 | 21st May:
+     #stocks > 20 ema (Last 5 days):
+	914, 1011, 1134, 1274, 1107
+     Market Status:  Yellow to Green
+
+DAY191 | 22nd May:
+     #stocks > 20 ema (Last 5 days):
+	1011, 1134, 1274, 1107, 1087
+     Market Status:  Yellow to Green
+
+DAY190 | 23rd May:
+     #stocks > 20 ema (Last 5 days):
+	1134, 1274, 1107, 1087, 1094
+     Market Status:  Yellow to Green
+
+DAY189 | 24th May:
+     #stocks > 20 ema (Last 5 days):
+	1274, 1107, 1087, 1094, 991
+     Market Status:  Yellow to Green
+
+DAY188 | 27th May:
+     #stocks > 20 ema (Last 5 days):
+	1107, 1087, 1094, 991, 910
+     Market Status:  Light Red
+
+DAY187 | 28th May:
+     #stocks > 20 ema (Last 5 days):
+	1087, 1094, 991, 910, 798
+     Market Status:  Dark Red
+
+DAY186 | 29th May:
+     #stocks > 20 ema (Last 5 days):
+	1094, 991, 910, 798, 752
+     Market Status:  Dark Red
+
+DAY185 | 30th May:
+     #stocks > 20 ema (Last 5 days):
+	991, 910, 798, 752, 581
+     Market Status:  Dark Red
+
+DAY184 | 31st May:
+     #stocks > 20 ema (Last 5 days):
+	910, 798, 752, 581, 618
+     Market Status:  Light Red
+
+DAY183 | 3rd Jun:
+     #stocks > 20 ema (Last 5 days):
+	798, 752, 581, 618, 811
+     Market Status:  Red to Yellow
+
+DAY182 | 4th Jun:
+     #stocks > 20 ema (Last 5 days):
+	752, 581, 618, 811, 254
+     Market Status:  Light Red
+
+DAY181 | 5th Jun:
+     #stocks > 20 ema (Last 5 days):
+	581, 618, 811, 254, 480
+     Market Status:  Light Red
+
+DAY180 | 6th Jun:
+     #stocks > 20 ema (Last 5 days):
+	618, 811, 254, 480, 873
+     Market Status:  Green to Yellow
+
+DAY179 | 7th Jun:
+     #stocks > 20 ema (Last 5 days):
+	811, 254, 480, 873, 1251
+     Market Status:  Green to Yellow
+
+DAY178 | 10th Jun:
+     #stocks > 20 ema (Last 5 days):
+	254, 480, 873, 1251, 1410
+     Market Status: Bright Green
+Fresh Bullish trend possible
+
+DAY177 | 11th Jun:
+     #stocks > 20 ema (Last 5 days):
+	480, 873, 1251, 1410, 1486
+     Market Status: Bright Green
+
+DAY176 | 12th Jun:
+     #stocks > 20 ema (Last 5 days):
+	873, 1251, 1410, 1486, 1564
+     Market Status: Bright Green
+
+DAY175 | 13th Jun:
+     #stocks > 20 ema (Last 5 days):
+	1251, 1410, 1486, 1564, 1592
+     Market Status: Bright Green
+
+DAY174 | 14th Jun:
+     #stocks > 20 ema (Last 5 days):
+	1410, 1486, 1564, 1592, 1607
+     Market Status: Bright Green
+
+DAY173 | 18th Jun:
+     #stocks > 20 ema (Last 5 days):
+	1486, 1564, 1592, 1607, 1583
+     Market Status: Light Green
+
+DAY172 | 19th Jun:
+     #stocks > 20 ema (Last 5 days):
+	1564, 1592, 1607, 1583, 1507
+     Market Status: Light Green
+
+DAY171 | 20th Jun:
+     #stocks > 20 ema (Last 5 days):
+	1592, 1607, 1583, 1507, 1586
+     Market Status: Light Green
+
+DAY170 | 21st Jun:
+     #stocks > 20 ema (Last 5 days):
+	1607, 1583, 1507, 1586, 1555
+     Market Status: Light Green
+
+DAY169 | 24th Jun:
+     #stocks > 20 ema (Last 5 days):
+	1583, 1507, 1586, 1555, 1482
+     Market Status: Light Green
+
+DAY168 | 25th Jun:
+     #stocks > 20 ema (Last 5 days):
+	1507, 1586, 1555, 1482, 1458
+     Market Status:  Bright to Light Green
+
+DAY167 | 26th Jun:
+     #stocks > 20 ema (Last 5 days):
+	1586, 1555, 1482, 1458, 1393
+     Market Status:  Bright to Light Green
+
+DAY166 | 27th Jun:
+     #stocks > 20 ema (Last 5 days):
+	1555, 1482, 1458, 1393, 1247
+     Market Status:  Bright to Light Green
+
+DAY165 | 28th Jun:
+     #stocks > 20 ema (Last 5 days):
+	1482, 1458, 1393, 1247, 1277
+     Market Status: Light Green
+
+DAY164 | 1st Jul:
+     #stocks > 20 ema (Last 5 days):
+	1458, 1393, 1247, 1277, 1407
+     Market Status: Light Green
+
+DAY163 | 2nd Jul:
+     #stocks > 20 ema (Last 5 days):
+	1393, 1247, 1277, 1407, 1414
+     Market Status: Light Green
+
+DAY162 | 3rd Jul:
+     #stocks > 20 ema (Last 5 days):
+	1247, 1277, 1407, 1414, 1498
+     Market Status: Bright Green
+
+DAY161 | 4th Jul:
+     #stocks > 20 ema (Last 5 days):
+	1277, 1407, 1414, 1498, 1505
+     Market Status: Bright Green
+
+DAY160 | 5th Jul:
+     #stocks > 20 ema (Last 5 days):
+	1407, 1414, 1498, 1505, 1519
+     Market Status: Bright Green
+
+DAY159 | 8th Jul:
+     #stocks > 20 ema (Last 5 days):
+	1414, 1498, 1505, 1519, 1437
+     Market Status: Light Green
+
+DAY158 | 9th Jul:
+     #stocks > 20 ema (Last 5 days):
+	1498, 1505, 1519, 1437, 1462
+     Market Status: Light Green
+
+DAY157 | 10th Jul:
+     #stocks > 20 ema (Last 5 days):
+	1505, 1519, 1437, 1462, 1303
+     Market Status: Light Green
+
+DAY156 | 11th Jul:
+     #stocks > 20 ema (Last 5 days):
+	1519, 1437, 1462, 1303, 1362
+     Market Status: Light Green
+
+DAY155 | 12th Jul:
+     #stocks > 20 ema (Last 5 days):
+	1437, 1462, 1303, 1362, 1281
+     Market Status: Light Green
+
+DAY154 | 15th Jul:
+     #stocks > 20 ema (Last 5 days):
+	1462, 1303, 1362, 1281, 1308
+     Market Status: Light Green
+
+DAY153 | 16th Jul:
+     #stocks > 20 ema (Last 5 days):
+	1303, 1362, 1281, 1308, 1303
+     Market Status: Light Green
+
+DAY152 | 18th Jul:
+     #stocks > 20 ema (Last 5 days):
+	1362, 1281, 1308, 1303, 1118
+     Market Status:  Light Red
+
+DAY151 | 19th Jul:
+     #stocks > 20 ema (Last 5 days):
+	1281, 1308, 1303, 1118, 711
+     Market Status:  Dark Red
+
+DAY150 | 22nd Jul:
+     #stocks > 20 ema (Last 5 days):
+	1308, 1303, 1118, 711, 829
+     Market Status:  Green to Yellow
+
+DAY149 | 23rd Jul:
+     #stocks > 20 ema (Last 5 days):
+	1303, 1118, 711, 829, 745
+     Market Status:  Light Red
+
+DAY148 | 24th Jul:
+     #stocks > 20 ema (Last 5 days):
+	1118, 711, 829, 745, 1085
+     Market Status:  Green to Yellow
+
+DAY147 | 25th Jul:
+     #stocks > 20 ema (Last 5 days):
+	711, 829, 745, 1085, 1096
+     Market Status:  Red to Yellow
+
+DAY146 | 26th Jul:
+     #stocks > 20 ema (Last 5 days):
+	829, 745, 1085, 1096, 1304
+     Market Status:  Green to Yellow
+
+DAY145 | 29th Jul:
+     #stocks > 20 ema (Last 5 days):
+	745, 1085, 1096, 1304, 1396
+     Market Status: Bright Green
+
+DAY144 | 30th Jul:
+     #stocks > 20 ema (Last 5 days):
+	1085, 1096, 1304, 1396, 1440
+     Market Status: Bright Green
+
+DAY143 | 31st Jul:
+     #stocks > 20 ema (Last 5 days):
+	1096, 1304, 1396, 1440, 1431
+     Market Status:  Green to Yellow
+
+DAY142 | 1st Aug:
+     #stocks > 20 ema (Last 5 days):
+	1304, 1396, 1440, 1431, 1257
+     Market Status: Light Green
+
+DAY141 | 2nd Aug:
+     #stocks > 20 ema (Last 5 days):
+	1396, 1440, 1431, 1257, 1095
+     Market Status:  Light Red
+
+DAY140 | 5th Aug:
+     #stocks > 20 ema (Last 5 days):
+	1440, 1431, 1257, 1095, 472
+     Market Status:  Dark Red
+
+DAY139 | 6th Aug:
+     #stocks > 20 ema (Last 5 days):
+	1431, 1257, 1095, 472, 471
+     Market Status:  Dark Red
+
+DAY138 | 7th Aug:
+     #stocks > 20 ema (Last 5 days):
+	1257, 1095, 472, 471, 737
+     Market Status:  Light Red
+
+DAY137 | 8th Aug:
+     #stocks > 20 ema (Last 5 days):
+	1095, 472, 471, 737, 716
+     Market Status:  Light Red
+
+DAY136 | 9th Aug:
+     #stocks > 20 ema (Last 5 days):
+	472, 471, 737, 716, 841
+     Market Status:  Red to Yellow
+
+DAY135 | 12th Aug:
+     #stocks > 20 ema (Last 5 days):
+	471, 737, 716, 841, 849
+     Market Status:  Red to Yellow
+
+DAY134 | 13th Aug:
+     #stocks > 20 ema (Last 5 days):
+	737, 716, 841, 849, 651
+     Market Status:  Light Red
+
+DAY133 | 14th Aug:
+     #stocks > 20 ema (Last 5 days):
+	716, 841, 849, 651, 619
+     Market Status:  Light Red
+
+DAY132 | 16th Aug:
+     #stocks > 20 ema (Last 5 days):
+	841, 849, 651, 619, 819
+     Market Status:  Red to Yellow
+
+DAY131 | 19th Aug:
+     #stocks > 20 ema (Last 5 days):
+	849, 651, 619, 819, 1023
+     Market Status:  Red to Yellow
+
+DAY130 | 20th Aug:
+     #stocks > 20 ema (Last 5 days):
+	651, 619, 819, 1023, 1147
+     Market Status:  Green to Yellow
+
+DAY129 | 21st Aug:
+     #stocks > 20 ema (Last 5 days):
+	619, 819, 1023, 1147, 1300
+     Market Status: 
+DAY128 | 22nd Aug:
+     #stocks > 20 ema (Last 5 days):
+	819, 1023, 1147, 1300, 1406
+     Market Status: Bright Green
+
+DAY127 | 23rd Aug:
+     #stocks > 20 ema (Last 5 days):
+	1023, 1147, 1300, 1406, 1371
+     Market Status:  Green to Yellow
+
+DAY126 | 26th Aug:
+     #stocks > 20 ema (Last 5 days):
+	1147, 1300, 1406, 1371, 1333
+     Market Status:  Green to Yellow
+
+DAY125 | 27th Aug:
+     #stocks > 20 ema (Last 5 days):
+	1300, 1406, 1371, 1333, 1365
+     Market Status: Light Green
+
+DAY124 | 28th Aug:
+     #stocks > 20 ema (Last 5 days):
+	1406, 1371, 1333, 1365, 1300
+     Market Status: Light Green
+
+DAY123 | 29th Aug:
+     #stocks > 20 ema (Last 5 days):
+	1371, 1333, 1365, 1300, 1152
+     Market Status:  Light Red
+
+DAY122 | 30th Aug:
+     #stocks > 20 ema (Last 5 days):
+	1333, 1365, 1300, 1152, 1233
+     Market Status:  Green to Yellow
+
+DAY121 | 2nd Sep:
+     #stocks > 20 ema (Last 5 days):
+	1365, 1300, 1152, 1233, 1120
+     Market Status:  Green to Yellow
+
+DAY120 | 3rd Sep:
+     #stocks > 20 ema (Last 5 days):
+	1300, 1152, 1233, 1120, 1142
+     Market Status:  Green to Yellow
+
+DAY119 | 4th Sep:
+     #stocks > 20 ema (Last 5 days):
+	1152, 1233, 1120, 1142, 1104
+     Market Status:  Yellow to Green
+
+DAY118 | 5th Sep:
+     #stocks > 20 ema (Last 5 days):
+	1233, 1120, 1142, 1104, 1188
+     Market Status:  Yellow to Green
+
+DAY117 | 6th Sep:
+     #stocks > 20 ema (Last 5 days):
+	1120, 1142, 1104, 1188, 952
+     Market Status: Yellow to Red
+
+DAY116 | 9th Sep:
+     #stocks > 20 ema (Last 5 days):
+	1142, 1104, 1188, 952, 864
+     Market Status: Yellow to Red
+
+DAY115 | 10th Sep:
+     #stocks > 20 ema (Last 5 days):
+	1104, 1188, 952, 864, 1082
+     Market Status: Yellow to Red
+
+DAY114 | 11th Sep:
+     #stocks > 20 ema (Last 5 days):
+	1188, 952, 864, 1082, 904
+     Market Status: Yellow to Red
+
+DAY113 | 12th Sep:
+     #stocks > 20 ema (Last 5 days):
+	952, 864, 1082, 904, 1054
+     Market Status: Yellow to Red
+
+DAY112 | 13th Sep:
+     #stocks > 20 ema (Last 5 days):
+	864, 1082, 904, 1054, 1172
+     Market Status: Yellow to Red
+
+DAY111 | 16th Sep:
+     #stocks > 20 ema (Last 5 days):
+	1082, 904, 1054, 1172, 1192
+     Market Status: Yellow to Red
+
+DAY110 | 17th Sep:
+     #stocks > 20 ema (Last 5 days):
+	904, 1054, 1172, 1192, 1129
+     Market Status: Yellow to Red
+
+DAY109 | 18th Sep:
+     #stocks > 20 ema (Last 5 days):
+	1054, 1172, 1192, 1129, 977
+     Market Status: Yellow to Red
+
+DAY108 | 19th Sep:
+     #stocks > 20 ema (Last 5 days):
+	1172, 1192, 1129, 977, 762
+     Market Status:  Dark Red
+
+DAY107 | 20th Sep:
+     #stocks > 20 ema (Last 5 days):
+	1192, 1129, 977, 762, 917
+     Market Status: Yellow to Red
+
+DAY106 | 23rd Sep:
+     #stocks > 20 ema (Last 5 days):
+	1129, 977, 762, 917, 1063
+     Market Status: Yellow to Red
+
+DAY105 | 24th Sep:
+     #stocks > 20 ema (Last 5 days):
+	977, 762, 917, 1063, 1074
+     Market Status: Yellow to Red
+
+DAY104 | 25th Sep:
+     #stocks > 20 ema (Last 5 days):
+	762, 917, 1063, 1074, 990
+     Market Status: Yellow to Red
+
+DAY103 | 26th Sep:
+     #stocks > 20 ema (Last 5 days):
+	917, 1063, 1074, 990, 918
+     Market Status: Yellow to Red
+
+DAY102 | 27th Sep:
+     #stocks > 20 ema (Last 5 days):
+	1063, 1074, 990, 918, 947
+     Market Status: Yellow to Red
+
+DAY101 | 30th Sep:
+     #stocks > 20 ema (Last 5 days):
+	1074, 990, 918, 947, 889
+     Market Status: Yellow to Red
+
+DAY100 | 1st Oct:
+     #stocks > 20 ema (Last 5 days):
+	990, 918, 947, 889, 999
+     Market Status: Yellow to Red
+
+DAY99 | 3rd Oct:
+     #stocks > 20 ema (Last 5 days):
+	918, 947, 889, 999, 628
+     Market Status:  Light Red
+
+DAY98 | 4th Oct:
+     #stocks > 20 ema (Last 5 days):
+	947, 889, 999, 628, 512
+     Market Status:  Light Red
+
+DAY97 | 7th Oct:
+     #stocks > 20 ema (Last 5 days):
+	889, 999, 628, 512, 266
+     Market Status:  Dark Red
+
+DAY96 | 8th Oct:
+     #stocks > 20 ema (Last 5 days):
+	999, 628, 512, 266, 478
+     Market Status:  Light Red
+
+DAY95 | 9th Oct:
+     #stocks > 20 ema (Last 5 days):
+	628, 512, 266, 478, 632
+     Market Status:  Light Red
+
+DAY94 | 10th Oct:
+     #stocks > 20 ema (Last 5 days):
+	512, 266, 478, 632, 722
+     Market Status:  Red to Yellow
+
+DAY93 | 11th Oct:
+     #stocks > 20 ema (Last 5 days):
+	266, 478, 632, 722, 771
+     Market Status:  Red to Yellow
+
+DAY92 | 14th Oct:
+     #stocks > 20 ema (Last 5 days):
+	478, 632, 722, 771, 823
+     Market Status: Light Green
+
+DAY91 | 15th Oct:
+     #stocks > 20 ema (Last 5 days):
+	632, 722, 771, 823, 873
+     Market Status: Light Green
+
+DAY90 | 16th Oct:
+     #stocks > 20 ema (Last 5 days):
+	722, 771, 823, 873, 910
+     Market Status: Light Green
+
+DAY89 | 17th Oct:
+     #stocks > 20 ema (Last 5 days):
+	771, 823, 873, 910, 697
+     Market Status:  Light Red
+
+DAY88 | 18th Oct:
+     #stocks > 20 ema (Last 5 days):
+	823, 873, 910, 697, 694
+     Market Status:  Light Red
+
+DAY87 | 21st Oct:
+     #stocks > 20 ema (Last 5 days):
+	873, 910, 697, 694, 505
+     Market Status:  Dark Red
+
+DAY86 | 22nd Oct:
+     #stocks > 20 ema (Last 5 days):
+	910, 697, 694, 505, 238
+     Market Status:  Dark Red
+
+DAY85 | 23rd Oct:
+     #stocks > 20 ema (Last 5 days):
+	697, 694, 505, 238, 289
+     Market Status:  Light Red
+
+DAY84 | 24th Oct:
+     #stocks > 20 ema (Last 5 days):
+	694, 505, 238, 289, 277
+     Market Status:  Light Red
+
+DAY83 | 25th Oct:
+     #stocks > 20 ema (Last 5 days):
+	505, 238, 289, 277, 204
+     Market Status:  Light Red
+
+DAY82 | 28th Oct:
+     #stocks > 20 ema (Last 5 days):
+	238, 289, 277, 204, 273
+     Market Status:  Light Red
+
+DAY81 | 29th Oct:
+     #stocks > 20 ema (Last 5 days):
+	289, 277, 204, 273, 372
+     Market Status:  Light Red
+
+DAY80 | 30th Oct:
+     #stocks > 20 ema (Last 5 days):
+	277, 204, 273, 372, 594
+     Market Status:  Red to Yellow
+
+DAY79 | 31st Oct:
+     #stocks > 20 ema (Last 5 days):
+	204, 273, 372, 594, 763
+     Market Status:  Red to Yellow
+
+DAY78 | 1st Nov:
+     #stocks > 20 ema (Last 5 days):
+	273, 372, 594, 763, 1037
+     Market Status: Light Green
+
+DAY77 | 4th Nov:
+     #stocks > 20 ema (Last 5 days):
+	372, 594, 763, 1037, 682
+     Market Status:  Light Red
+
+DAY76 | 5th Nov:
+     #stocks > 20 ema (Last 5 days):
+	594, 763, 1037, 682, 813
+     Market Status:  Red to Yellow
+
+DAY75 | 6th Nov:
+     #stocks > 20 ema (Last 5 days):
+	763, 1037, 682, 813, 1221
+     Market Status:  Green to Yellow
+
+DAY74 | 7th Nov:
+     #stocks > 20 ema (Last 5 days):
+	1037, 682, 813, 1221, 1080
+     Market Status:  Green to Yellow
+
+DAY73 | 8th Nov:
+     #stocks > 20 ema (Last 5 days):
+	682, 813, 1221, 1080, 785
+     Market Status:  Light Red
+
+DAY72 | 11th Nov:
+     #stocks > 20 ema (Last 5 days):
+	813, 1221, 1080, 785, 683
+     Market Status:  Dark Red
+
+DAY71 | 12th Nov:
+     #stocks > 20 ema (Last 5 days):
+	1221, 1080, 785, 683, 493
+     Market Status:  Dark Red
+
+DAY70 | 13th Nov:
+     #stocks > 20 ema (Last 5 days):
+	1080, 785, 683, 493, 247
+     Market Status:  Dark Red
+
+DAY69 | 14th Nov:
+     #stocks > 20 ema (Last 5 days):
+	785, 683, 493, 247, 324
+     Market Status:  Light Red
+
+DAY68 | 18th Nov:
+     #stocks > 20 ema (Last 5 days):
+	683, 493, 247, 324, 323
+     Market Status:  Light Red
+
+DAY67 | 19th Nov:
+     #stocks > 20 ema (Last 5 days):
+	493, 247, 324, 323, 411
+     Market Status:  Light Red
+
+DAY66 | 21st Nov:
+     #stocks > 20 ema (Last 5 days):
+	247, 324, 323, 411, 379
+     Market Status:  Light Red
+
+DAY65 | 22nd Nov:
+     #stocks > 20 ema (Last 5 days):
+	324, 323, 411, 379, 465
+     Market Status:  Light Red
+
+DAY64 | 25th Nov:
+     #stocks > 20 ema (Last 5 days):
+	323, 411, 379, 465, 721
+     Market Status:  Light Red
+
+DAY63 | 26th Nov:
+     #stocks > 20 ema (Last 5 days):
+	411, 379, 465, 721, 839
+     Market Status:  Green to Yellow
+
+DAY62 | 27th Nov:
+     #stocks > 20 ema (Last 5 days):
+	379, 465, 721, 839, 1050
+     Market Status: Light Green
+
+DAY61 | 28th Nov:
+     #stocks > 20 ema (Last 5 days):
+	465, 721, 839, 1050, 1091
+     Market Status: Light Green
+
+DAY60 | 29th Nov:
+     #stocks > 20 ema (Last 5 days):
+	721, 839, 1050, 1091, 1224
+     Market Status: Light Green
+
+DAY59 | 2nd Dec:
+     #stocks > 20 ema (Last 5 days):
+	839, 1050, 1091, 1224, 1340
+     Market Status: Bright Green
+
+DAY58 | 3rd Dec:
+     #stocks > 20 ema (Last 5 days):
+	1050, 1091, 1224, 1340, 1531
+     Market Status: Bright Green
+
+DAY57 | 4th Dec:
+     #stocks > 20 ema (Last 5 days):
+	1091, 1224, 1340, 1531, 1556
+     Market Status: Bright Green
+
+DAY56 | 5th Dec:
+     #stocks > 20 ema (Last 5 days):
+	1224, 1340, 1531, 1556, 1550
+     Market Status: Light Green
+
+DAY55 | 6th Dec:
+     #stocks > 20 ema (Last 5 days):
+	1340, 1531, 1556, 1550, 1599
+     Market Status: Light Green
+
+DAY54 | 9th Dec:
+     #stocks > 20 ema (Last 5 days):
+	1531, 1556, 1550, 1599, 1603
+     Market Status: Light Green
+
+DAY53 | 10th Dec:
+     #stocks > 20 ema (Last 5 days):
+	1556, 1550, 1599, 1603, 1595
+     Market Status: Light Green
+
+DAY52 | 11th Dec:
+     #stocks > 20 ema (Last 5 days):
+	1550, 1599, 1603, 1595, 1587
+     Market Status: Light Green
+
+DAY51 | 12th Dec:
+     #stocks > 20 ema (Last 5 days):
+	1599, 1603, 1595, 1587, 1392
+     Market Status:  Bright to Light Green
+
+DAY50 | 13th Dec:
+     #stocks > 20 ema (Last 5 days):
+	1603, 1595, 1587, 1392, 1288
+     Market Status:  Bright to Light Green
+
+DAY49 | 16th Dec:
+     #stocks > 20 ema (Last 5 days):
+	1595, 1587, 1392, 1288, 1335
+     Market Status: Light Green
+
+DAY48 | 17th Dec:
+     #stocks > 20 ema (Last 5 days):
+	1587, 1392, 1288, 1335, 1128
+     Market Status:  Green to Yellow
+
+DAY47 | 18th Dec:
+     #stocks > 20 ema (Last 5 days):
+	1392, 1288, 1335, 1128, 898
+     Market Status:  Light Red
+
+DAY46 | 19th Dec:
+     #stocks > 20 ema (Last 5 days):
+	1288, 1335, 1128, 898, 837
+     Market Status:  Light Red
+
+DAY45 | 20th Dec:
+     #stocks > 20 ema (Last 5 days):
+	1335, 1128, 898, 837, 530
+     Market Status:  Dark Red
+
+DAY44 | 23rd Dec:
+     #stocks > 20 ema (Last 5 days):
+	1128, 898, 837, 530, 500
+     Market Status:  Dark Red
+
+DAY43 | 24th Dec:
+     #stocks > 20 ema (Last 5 days):
+	898, 837, 530, 500, 534
+     Market Status:  Light Red
+
+DAY42 | 26th Dec:
+     #stocks > 20 ema (Last 5 days):
+	837, 530, 500, 534, 488
+     Market Status:  Light Red
+
+DAY41 | 27th Dec:
+     #stocks > 20 ema (Last 5 days):
+	530, 500, 534, 488, 531
+     Market Status:  Light Red
+
+DAY40 | 30th Dec:
+     #stocks > 20 ema (Last 5 days):
+	500, 534, 488, 531, 477
+     Market Status:  Light Red
+
+DAY39 | 31st Dec:
+     #stocks > 20 ema (Last 5 days):
+	534, 488, 531, 477, 569
+     Market Status:  Light Red
+
+DAY38 | 1st Jan:
+     #stocks > 20 ema (Last 5 days):
+	488, 531, 477, 569, 772
+     Market Status:  Light Red
+
+DAY37 | 2nd Jan:
+     #stocks > 20 ema (Last 5 days):
+	531, 477, 569, 772, 1005
+     Market Status:  Red to Yellow
+
+DAY36 | 3rd Jan:
+     #stocks > 20 ema (Last 5 days):
+	477, 569, 772, 1005, 983
+     Market Status:  Red to Yellow
+
+DAY35 | 6th Jan:
+     #stocks > 20 ema (Last 5 days):
+	569, 772, 1005, 983, 433
+     Market Status:  Light Red
+
+DAY34 | 7th Jan:
+     #stocks > 20 ema (Last 5 days):
+	772, 1005, 983, 433, 647
+     Market Status:  Light Red
+
+DAY33 | 8th Jan:
+     #stocks > 20 ema (Last 5 days):
+	1005, 983, 433, 647, 548
+     Market Status:  Light Red
+
+DAY32 | 9th Jan:
+     #stocks > 20 ema (Last 5 days):
+	983, 433, 647, 548, 443
+     Market Status:  Light Red
+
+DAY31 | 10th Jan:
+     #stocks > 20 ema (Last 5 days):
+	433, 647, 548, 443, 277
+     Market Status:  Dark Red
+
+DAY30 | 13th Jan:
+     #stocks > 20 ema (Last 5 days):
+	647, 548, 443, 277, 149
+     Market Status:  Dark Red
+
+DAY29 | 14th Jan:
+     #stocks > 20 ema (Last 5 days):
+	548, 443, 277, 149, 198
+     Market Status:  Light Red
+
+DAY28 | 15th Jan:
+     #stocks > 20 ema (Last 5 days):
+	443, 277, 149, 198, 240
+     Market Status:  Light Red
+
+DAY27 | 16th Jan:
+     #stocks > 20 ema (Last 5 days):
+	277, 149, 198, 240, 386
+     Market Status:  Red to Yellow
+
+DAY26 | 17th Jan:
+     #stocks > 20 ema (Last 5 days):
+	149, 198, 240, 386, 440
+     Market Status:  Red to Yellow
+
+DAY25 | 20th Jan:
+     #stocks > 20 ema (Last 5 days):
+	198, 240, 386, 440, 605
+     Market Status:  Red to Yellow
+
+DAY24 | 21st Jan:
+     #stocks > 20 ema (Last 5 days):
+	240, 386, 440, 605, 422
+     Market Status:  Light Red
+
+DAY23 | 22nd Jan:
+     #stocks > 20 ema (Last 5 days):
+	386, 440, 605, 422, 316
+     Market Status:  Light Red
+
+DAY22 | 23rd Jan:
+     #stocks > 20 ema (Last 5 days):
+	440, 605, 422, 316, 405
+     Market Status:  Light Red
+
+DAY21 | 24th Jan:
+     #stocks > 20 ema (Last 5 days):
+	605, 422, 316, 405, 278
+     Market Status:  Light Red
+
+DAY20 | 27th Jan:
+     #stocks > 20 ema (Last 5 days):
+	422, 316, 405, 278, 149
+     Market Status:  Light Red
+
+DAY19 | 28th Jan:
+     #stocks > 20 ema (Last 5 days):
+	316, 405, 278, 149, 134
+     Market Status:  Dark Red
+
+DAY18 | 29th Jan:
+     #stocks > 20 ema (Last 5 days):
+	405, 278, 149, 134, 272
+     Market Status:  Light Red
+
+DAY17 | 30th Jan:
+     #stocks > 20 ema (Last 5 days):
+	278, 149, 134, 272, 313
+     Market Status:  Light Red
+
+DAY16 | 31st Jan:
+     #stocks > 20 ema (Last 5 days):
+	149, 134, 272, 313, 559
+     Market Status:  Red to Yellow
+
+DAY15 | 1st Feb:
+     #stocks > 20 ema (Last 5 days):
+	134, 272, 313, 559, 626
+     Market Status:  Red to Yellow
+
+DAY14 | 3rd Feb:
+     #stocks > 20 ema (Last 5 days):
+	272, 313, 559, 626, 456
+     Market Status:  Light Red
+
+DAY13 | 4th Feb:
+     #stocks > 20 ema (Last 5 days):
+	313, 559, 626, 456, 646
+     Market Status:  Light Red
+
+DAY12 | 5th Feb:
+     #stocks > 20 ema (Last 5 days):
+	559, 626, 456, 646, 849
+     Market Status:  Red to Yellow
+
+DAY11 | 6th Feb:
+     #stocks > 20 ema (Last 5 days):
+	626, 456, 646, 849, 835
+     Market Status:  Red to Yellow
+
+DAY10 | 7th Feb:
+     #stocks > 20 ema (Last 5 days):
+	456, 646, 849, 835, 732
+     Market Status:  Light Red
+
+DAY9 | 10th Feb:
+     #stocks > 20 ema (Last 5 days):
+	646, 849, 835, 732, 427
+     Market Status:  Dark Red
+
+DAY8 | 11th Feb:
+     #stocks > 20 ema (Last 5 days):
+	849, 835, 732, 427, 188
+     Market Status:  Dark Red
+
+DAY7 | 12th Feb:
+     #stocks > 20 ema (Last 5 days):
+	835, 732, 427, 188, 221
+     Market Status:  Light Red
+
+DAY6 | 13th Feb:
+     #stocks > 20 ema (Last 5 days):
+	732, 427, 188, 221, 228
+     Market Status:  Light Red
+
+DAY5 | 14th Feb:
+     #stocks > 20 ema (Last 5 days):
+	427, 188, 221, 228, 139
+     Market Status:  Light Red
+
+DAY4 | 17th Feb:
+     #stocks > 20 ema (Last 5 days):
+	188, 221, 228, 139, 155
+     Market Status:  Light Red
+
+DAY3 | 18th Feb:
+     #stocks > 20 ema (Last 5 days):
+	221, 228, 139, 155, 139
+     Market Status:  Light Red
+
+DAY2 | 19th Feb:
+     #stocks > 20 ema (Last 5 days):
+	228, 139, 155, 139, 232
+     Market Status:  Light Red
+
+DAY1 | 20th Feb:
+     #stocks > 20 ema (Last 5 days):
+	139, 155, 139, 232, 321
+     Market Status:  Light Red

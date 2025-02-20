@@ -34,7 +34,7 @@ jobs:
         run: |
           report_file="Report/market_breadth_`date +'%Y-%m-%d_%H:%M'`.txt"
           python fetch_breadth_data.py --history-days 15 >$report_file
-          ln -s "$(realpath Report/market_breadth_2025-02-20_10:39.txt)" Report/latest
+          ln -s $report_file Report/latest
 
       - name: Commit and Push Changes
         env:

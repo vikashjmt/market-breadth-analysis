@@ -32,6 +32,7 @@ jobs:
 
       - name: Run Market Breadth Script
         run: |
+          rm Report/latest
           report_file="Report/market_breadth_`date +'%Y-%m-%d_%H:%M'`.txt"
           python fetch_breadth_data.py --history-days 15 >$report_file
           ln -s $report_file Report/latest

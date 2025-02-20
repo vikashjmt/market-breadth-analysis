@@ -1,5 +1,6 @@
 import csv
 import json
+import argparse
 
 from time import sleep
 from selenium.webdriver.common.by import By
@@ -68,16 +69,17 @@ def get_ema_data(input_csv):
         return breadth_details, Date
 
 
-def process_ema_data(twenty_ema_data, Date):
-    num_days_data = 15
-    ema_20_values = list(twenty_ema_data.values())[:num_days_data]
-    ema_20_days = list(twenty_ema_data.keys())[:num_days_data]
+def process_ema_data(twenty_ema_data, Date, history_days):
+    if not history_days:
+        history_days = len(twenty_ema_data)
+    ema_20_values = list(twenty_ema_data.values())[:history_days]
+    ema_20_days = list(twenty_ema_data.keys())[:history_days]
     # ic(ema_20_values)
     # ic(ema_20_days)
     data_size = len(ema_20_values)
     # Reverse the date to show latest in last
     Date.reverse()
-    Date = Date[-num_days_data:]
+    Date = Date[-history_days:]
     start_index = -5
     end_index = 0
     index = 0
@@ -135,6 +137,11 @@ def decide_market_status(last_5_values):
 
 
 if __name__ == "__main__":
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--history-days", type=int,
+                        help="Get the analysis for the past given days")
+    args = parser.parse_args()
+    history_days = args.history_days
     # Map screener url with screener type and its destination folder
     data_dir = Path(__file__).parent
     config_file = f"{data_dir}/data_config.json"
@@ -163,4 +170,4 @@ if __name__ == "__main__":
     twenty_ema_data, Date = get_ema_data(fetched_file)
     # print(twenty_ema_data)
     # ic(Date)
-    process_ema_data(twenty_ema_data, Date)
+    process_ema_data(twenty_ema_data, Date, history_days)

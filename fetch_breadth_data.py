@@ -29,7 +29,6 @@ def download_screener(url):
     # Click the div
     market_breadth_div.click()
     dom = driver.find_element(by=By.CSS_SELECTOR, value='a.flex.items-center')
-    ic(dom)
     sleep(10)
     dom.click()
     sleep(10)
@@ -145,7 +144,6 @@ if __name__ == "__main__":
     # Map screener url with screener type and its destination folder
     data_dir = Path(__file__).parent
     config_file = f"{data_dir}/data_config.json"
-    ic(config_file)
     # Download screeners csvs
     data = get_data(config_file)
     # ic(data)
@@ -160,9 +158,7 @@ if __name__ == "__main__":
         if not Path(destination_file).exists():
             download_screener(screener_url)
             latest_file = get_latest_download()
-            ic(latest_file)
             fetched_file = move(latest_file, destination_file)
-            ic(fetched_file)
         else:
             fetched_file = destination_file
 

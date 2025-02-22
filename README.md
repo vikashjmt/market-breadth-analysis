@@ -1,10 +1,10 @@
-# Market-breadth-analysis of Indian Equity Market
+## Market-breadth-analysis of Indian Equity Market
 
 This tool downloads market breadth data from [chartink](https://chartink.com/dashboard/86550) and make use of `the number of stocks above 20 dma` to analysze the status of the market.
 
 It automatically generates the market report daily at 4:10 PM IST [here](Report/latest) using Github Action on this repo.
 
-# Install and Setup Env
+## Install and Setup Env
 ```
 git clone https://github.com/vikashjmt/market-breadth-analysis.git
 cd market-breadth-analysis
@@ -12,7 +12,7 @@ pip install -r requirements.txt
 
 ```
 
-# Usage
+## Usage
 ```
 market-breadth-analysis$ python3 fetch_breadth_data.py -h
 usage: fetch_breadth_data.py [-h] [--history-days HISTORY_DAYS]
@@ -25,7 +25,7 @@ options:
 
 ```
 
-# Illustration
+## Illustration
 ```
 market-breadth-analysis$ python3 fetch_breadth_data.py --history-days 11               
                                                                                                                                        

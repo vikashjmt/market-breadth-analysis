@@ -31,10 +31,15 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
       - name: Run Market Breadth Script
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          CHAT_ID: ${{ secrets.CHAT_ID }}
         run: |
           rm Report/latest
           report_file="Report/market_breadth_`date +'%Y-%m-%d_%H:%M'`.txt"
           python fetch_breadth_data.py --history-days 15 >$report_file
+          # Send Telegram message
+          python3 send_telegram.py $report_file || echo "Telegram Notification Failed, Continuing..."
           cp $report_file Report/latest
 
       - name: Commit and Push Changes

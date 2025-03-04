@@ -1,55 +1,55 @@
 
-DAY11 | 17th Feb:
+DAY11 | 12th Feb:
      #stocks > 20 ema (Last 5 days):
-	185, 219, 226, 136, 151
+	832, 730, 423, 186, 220
      Market Status:  Light Red
 
-DAY10 | 18th Feb:
+DAY10 | 13th Feb:
      #stocks > 20 ema (Last 5 days):
-	219, 226, 136, 151, 137
+	730, 423, 186, 220, 226
      Market Status:  Light Red
 
-DAY9 | 19th Feb:
+DAY9 | 14th Feb:
      #stocks > 20 ema (Last 5 days):
-	226, 136, 151, 137, 230
+	423, 186, 220, 226, 137
      Market Status:  Light Red
 
-DAY8 | 20th Feb:
+DAY8 | 17th Feb:
      #stocks > 20 ema (Last 5 days):
-	136, 151, 137, 230, 312
+	186, 220, 226, 137, 153
      Market Status:  Light Red
 
-DAY7 | 21st Feb:
+DAY7 | 18th Feb:
      #stocks > 20 ema (Last 5 days):
-	151, 137, 230, 312, 298
+	220, 226, 137, 153, 137
      Market Status:  Light Red
 
-DAY6 | 24th Feb:
+DAY6 | 19th Feb:
      #stocks > 20 ema (Last 5 days):
-	137, 230, 312, 298, 240
+	226, 137, 153, 137, 230
      Market Status:  Light Red
 
-DAY5 | 25th Feb:
+DAY5 | 20th Feb:
      #stocks > 20 ema (Last 5 days):
-	230, 312, 298, 240, 246
+	137, 153, 137, 230, 313
      Market Status:  Light Red
 
-DAY4 | 27th Feb:
+DAY4 | 21st Feb:
      #stocks > 20 ema (Last 5 days):
-	312, 298, 240, 246, 190
+	153, 137, 230, 313, 299
      Market Status:  Light Red
 
-DAY3 | 28th Feb:
+DAY3 | 24th Feb:
      #stocks > 20 ema (Last 5 days):
-	298, 240, 246, 190, 109
+	137, 230, 313, 299, 241
      Market Status:  Light Red
 
-DAY2 | 3rd Mar:
+DAY2 | 25th Feb:
      #stocks > 20 ema (Last 5 days):
-	240, 246, 190, 109, 121
+	230, 313, 299, 241, 248
      Market Status:  Light Red
 
-DAY1 | 4th Mar:
+DAY1 | 27th Feb:
      #stocks > 20 ema (Last 5 days):
-	246, 190, 109, 121, 178
+	313, 299, 241, 248, 193
      Market Status:  Light Red

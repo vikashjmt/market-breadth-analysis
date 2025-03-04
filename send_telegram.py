@@ -30,5 +30,5 @@ def send_file_to_telegram(file_path, caption="🚨 Market Breadth Report 📊"):
 
 # Example Usage
 data_file = sys.argv[1]
-response = send_file_to_telegram(data_file, caption="🚨 Market Breadth Analysis Report")
-#print(response)
+response = send_file_to_telegram(data_file, caption="🚨 Market Breadth Analysis Report2")
+print(response)

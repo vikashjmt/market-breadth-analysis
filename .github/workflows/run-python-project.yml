@@ -43,6 +43,11 @@ jobs:
           python3 send_telegram.py $report_file || echo "Telegram Notification Failed, Continuing..."
           cp $report_file Report/latest
 
+      - name: Debug Secrets
+        run: |
+          echo "TELEGRAM_TOKEN=${{ secrets.TELEGRAM_TOKEN }}"
+          echo "CHAT_ID=${{ secrets.CHAT_ID }}"
+
       - name: Commit and Push Changes
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

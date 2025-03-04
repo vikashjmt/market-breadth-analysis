@@ -35,18 +35,13 @@ jobs:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           CHAT_ID: ${{ secrets.CHAT_ID }}
         run: |
-          echo "chat id is $CHAT_ID"
           rm Report/latest
           report_file="Report/market_breadth_`date +'%Y-%m-%d_%H:%M'`.txt"
-          python fetch_breadth_data.py --history-days 15 >$report_file
+          python fetch_breadth_data.py --history-days 12 >$report_file
           # Send Telegram message
           python3 send_telegram.py $report_file || echo "Telegram Notification Failed, Continuing..."
           cp $report_file Report/latest
 
-      - name: Debug Secrets
-        run: |
-          echo "TELEGRAM_TOKEN=${{ secrets.TELEGRAM_TOKEN }}"
-          echo "CHAT_ID=${{ secrets.CHAT_ID }}"
 
       - name: Commit and Push Changes
         env:
@@ -54,4 +49,4 @@ jobs:
         run: |
           git add Report
           git commit -m "Auto-generated report at `date +'%Y-%m-%d_%H:%M'`" || echo "No changes to commit"
-          # git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
+          git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git

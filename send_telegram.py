@@ -4,7 +4,6 @@ import sys
 
 TELEGRAM_TOKEN = os.environ.get('TELEGRAM_TOKEN')
 CHAT_ID = os.environ.get('CHAT_ID')
-MAX_LENGTH = 2048
 
 def send_telegram_message(message):
     url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage"
@@ -30,5 +29,11 @@ def send_file_to_telegram(file_path, caption="🚨 Market Breadth Report 📊"):
 
 # Example Usage
 data_file = sys.argv[1]
-response = send_file_to_telegram(data_file, caption="🚨 Market Breadth Analysis Report2")
+file_data = None
+with open(data_file) as fd:
+    file_data = fd.readlines()
+
+file_data_str = ''.join(file_data)
+# response = send_file_to_telegram(data_file, caption="🚨 Market Breadth Analysis Report")
+response = send_telegram_message(file_data_str)
 print(response)

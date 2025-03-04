@@ -35,6 +35,7 @@ jobs:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           CHAT_ID: ${{ secrets.CHAT_ID }}
         run: |
+          echo "chat id is $CHAT_ID"
           rm Report/latest
           report_file="Report/market_breadth_`date +'%Y-%m-%d_%H:%M'`.txt"
           python fetch_breadth_data.py --history-days 15 >$report_file
@@ -48,4 +49,4 @@ jobs:
         run: |
           git add Report
           git commit -m "Auto-generated report at `date +'%Y-%m-%d_%H:%M'`" || echo "No changes to commit"
-          git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
+          # git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git

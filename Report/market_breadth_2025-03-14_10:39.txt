@@ -1,0 +1,30 @@
+
+DAY6 | 6th Mar:
+     #stocks > 20 ema (Last 5 days):
+	111, 123, 179, 362, 564
+     Market Status:  Red to Yellow
+
+DAY5 | 7th Mar:
+     #stocks > 20 ema (Last 5 days):
+	123, 179, 362, 564, 712
+     Market Status:  Red to Yellow
+
+DAY4 | 10th Mar:
+     #stocks > 20 ema (Last 5 days):
+	179, 362, 564, 712, 438
+     Market Status:  Light Red
+
+DAY3 | 11th Mar:
+     #stocks > 20 ema (Last 5 days):
+	362, 564, 712, 438, 402
+     Market Status:  Light Red
+
+DAY2 | 12th Mar:
+     #stocks > 20 ema (Last 5 days):
+	564, 712, 438, 402, 375
+     Market Status:  Dark Red
+
+DAY1 | 13th Mar:
+     #stocks > 20 ema (Last 5 days):
+	712, 438, 402, 375, 350
+     Market Status:  Dark Red

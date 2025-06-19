@@ -152,15 +152,19 @@ def convert_to_json(csv_file):
     counts = df.groupby('Datetime', sort=False).size()
 
     # Save to JSON file
-    counts.to_json("Report/hourly_screener_count.json", indent=4)
+    counts.to_json("hourly_screener_count.json", indent=4)
+
 
 def analyze_json_data():
-	with open('Report/hourly_screener_count.json') as fd:
-		json_data = json.load(fd)
-
-	for date, stock_count in list(json_data.items())[-50:]:
-		if '11:15' in date or ' 2:15' in date:
-			print(f'\t{date}: {stock_count}')
+    with open('hourly_screener_count.json') as fd:
+        json_data = json.load(fd)
+    if not json_data:
+        print('There is no data in the json')
+    # Writing a comment
+    print('\n-------------Hourly Screener Data--------------')
+    for date, stock_count in list(json_data.items())[-50:]:
+        if '11:15' in date or ' 2:15' in date:
+            print(f'\t{date}: {stock_count}')
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
@@ -198,7 +202,7 @@ if __name__ == "__main__":
             download_screener(screener_url)
             latest_file = get_latest_download()
             fetched_file = move(latest_file, destination_file)
-            print(f'\nNumber of stocks screened from screener:{screener_url}')
+            print('fetched_file :', fetched_file)
 
         if 'dashboard' in screener_url:
             # Get number of stocks above 20 ema data
@@ -209,3 +213,4 @@ if __name__ == "__main__":
         else:
             convert_to_json(fetched_file)
             analyze_json_data()
+            print(f'\nAbove number of stocks screened from screener:{screener_url}')

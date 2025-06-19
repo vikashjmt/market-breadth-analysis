@@ -5,7 +5,7 @@ on:
   pull_request:
   workflow_dispatch:
   schedule:
-    - cron: '30 10 * * 1-5'
+    - cron: '00 09 * * 1-5'
 
 jobs:
   run-python:
@@ -19,6 +19,11 @@ jobs:
         uses: actions/setup-python@v4
         with:
           python-version: '3.10'
+
+      - name: Set Timezone to IST
+        run: |
+          sudo timedatectl set-timezone Asia/Kolkata
+          echo "Current Timezone: $(date)"
 
       - name: Install Dependencies
         run: |
@@ -40,7 +45,7 @@ jobs:
           python fetch_breadth_data.py --history-days 10 >$report_file
           cat hourly_screener_count.json
           # Send Telegram message
-          # python3 send_telegram.py $report_file || echo "Telegram Notification Failed, Continuing..."
+          python3 send_telegram.py $report_file || echo "Telegram Notification Failed, Continuing..."
           cp $report_file Report/latest
 
 

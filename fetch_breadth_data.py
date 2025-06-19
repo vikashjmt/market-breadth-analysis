@@ -12,23 +12,31 @@ from shutil import move
 from datetime import datetime
 from rich.console import Console
 
+import pandas as pd
+
 console = Console()
 options = Options()
 options.add_argument("--headless")  # Run in headless mode
 options.add_argument("--no-sandbox")
 options.add_argument("--disable-dev-shm-usage")
 
-def download_screener(url):
+
+def download_screener(url, dashboard=False):
     driver = webdriver.Chrome(options=options)
     driver.implicitly_wait(10)
     driver.get(url)
     sleep(10)
     # Locate the div containing "Market Breadth"
-    market_breadth_div = driver.find_element(By.XPATH,
-                                             "//span[contains(text(), 'Market Breadth')]")
-    # Click the div
-    market_breadth_div.click()
-    dom = driver.find_element(by=By.CSS_SELECTOR, value='a.flex.items-center')
+    if dashboard:
+        market_breadth_div = driver.find_element(By.XPATH,
+                                                 "//span[contains(text(), 'Market Breadth')]")
+        # Click the div
+        market_breadth_div.click()
+        dom = driver.find_element(
+            by=By.CSS_SELECTOR, value='a.flex.items-center')
+    else:
+        dom = driver.find_element(by=By.CSS_SELECTOR, value="a.btn-primary")
+
     sleep(10)
     dom.click()
     sleep(10)
@@ -105,7 +113,7 @@ def decide_market_status(last_5_values):
     if day1 > 800:
         if (day1 > day2 > day3 > day4 > day5):
             if day1 < 1300:
-                console.print('Light Green', style='green' )
+                console.print('Light Green', style='green')
             if day1 > 1300:
                 console.print('Bright Green', style='bold green')
                 if day5 < 400:
@@ -135,6 +143,25 @@ def decide_market_status(last_5_values):
             console.print('[red] Light Red')
 
 
+def convert_to_json(csv_file):
+    # Read the CSV and assign column names
+    df = pd.read_csv(csv_file, header=None)
+    df.columns = ['Datetime', 'Stock', 'Cap', 'Sector']
+
+    # Group by 'Datetime' without sorting to preserve order
+    counts = df.groupby('Datetime', sort=False).size()
+
+    # Save to JSON file
+    counts.to_json("Report/hourly_screener_count.json", indent=4)
+
+def analyze_json_data():
+	with open('Report/hourly_screener_count.json') as fd:
+		json_data = json.load(fd)
+
+	for date, stock_count in list(json_data.items())[-50:]:
+		if '11:15' in date or ' 2:15' in date:
+			print(f'\t{date}: {stock_count}')
+
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--history-days", type=int,
@@ -152,18 +179,33 @@ if __name__ == "__main__":
         destination_folder = f"{data_dir}/{data[screener]['folder']}"
         Path(destination_folder).mkdir(parents=True,
                                        exist_ok=True)
-        destination_file = (f"{destination_folder}/"
-                            f"{datetime.today().strftime('%Y.%m.%d')}.csv")
-        # Check if file already exists
-        if not Path(destination_file).exists():
+        if 'dashboard' in screener_url:
+            destination_file = (f"{destination_folder}/"
+                                f"{datetime.today().strftime('%Y.%m.%d')}.csv")
+        else:
+            destination_file = (f"{destination_folder}/"
+                                f"{datetime.today().strftime('%Y.%m.%d-%H')}.csv")
+        if 'dashboard' in screener_url:
+            # Check if file already exists
+            # if not Path(destination_file).exists():
+            download_screener(screener_url, dashboard=True)
+            latest_file = get_latest_download()
+            fetched_file = move(latest_file, destination_file)
+            # else:
+            #    fetched_file = destination_file
+            #    print(f'It is coming here as {fetched_file}')
+        else:
             download_screener(screener_url)
             latest_file = get_latest_download()
             fetched_file = move(latest_file, destination_file)
-        else:
-            fetched_file = destination_file
+            print(f'\nNumber of stocks screened from screener:{screener_url}')
 
-    # Get number of stocks above 20 ema data
-    twenty_ema_data, Date = get_ema_data(fetched_file)
-    # print(twenty_ema_data)
-    # ic(Date)
-    process_ema_data(twenty_ema_data, Date, history_days)
+        if 'dashboard' in screener_url:
+            # Get number of stocks above 20 ema data
+            twenty_ema_data, Date = get_ema_data(fetched_file)
+            # print(twenty_ema_data)
+            # ic(Date)
+            process_ema_data(twenty_ema_data, Date, history_days)
+        else:
+            convert_to_json(fetched_file)
+            analyze_json_data()

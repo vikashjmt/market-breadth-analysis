@@ -150,21 +150,44 @@ def convert_to_json(csv_file):
 
     # Group by 'Datetime' without sorting to preserve order
     counts = df.groupby('Datetime', sort=False).size()
+    counts_dict = counts.to_dict()
 
-    # Save to JSON file
-    counts.to_json("hourly_screener_count.json", indent=4)
+    # Get json file name 
+    json_file = f'{csv_file.rsplit('/')[-2]}.json'
+    # Load existing data if the file exists
+    if os.path.exists(json_file):
+        with open(json_file, 'r') as f:
+            existing_data = json.load(f)
+    else:
+        existing_data = {}
 
+    # Merge counts_dict into existing_data (update only changed/new keys)
+    updated = False
+    for k, v in counts_dict.items():
+        if k not in existing_data or existing_data[k] != v:
+            existing_data[k] = v
+            updated = True
+    # Write to JSON only if there's an update
+    if updated:
+        with open(json_file, 'w') as f:
+            json.dump(existing_data, f, indent=2)
+        print(f"Updated {json_file}")
+    else:
+        print(f"No update needed for {json_file}")
 
-def analyze_json_data():
-    with open('hourly_screener_count.json') as fd:
+def analyze_json_data(json_file, screener_url):
+    with open(json_file) as fd:
         json_data = json.load(fd)
+    # Write to txt file
+    fd = open("continuity_screener_data_"
+              f"{datetime.now().strftime('%d-%m-%Y')}.txt", 'a')
     if not json_data:
         print('There is no data in the json')
     # Writing a comment
-    print('\n-------------Hourly Screener Data--------------')
+    fd.write(f'\nNumber of stocks screened from screener: {screener_url}')
     for date, stock_count in list(json_data.items())[-50:]:
         if '11:15' in date or ' 2:15' in date:
-            print(f'\t{date}: {stock_count}')
+            fd.write(f'\n\t{date}: {stock_count}')
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
@@ -211,6 +234,5 @@ if __name__ == "__main__":
             # ic(Date)
             process_ema_data(twenty_ema_data, Date, history_days)
         else:
-            convert_to_json(fetched_file)
-            analyze_json_data()
-            print(f'\nAbove number of stocks screened from screener:{screener_url}')
+            json_file = convert_to_json(fetched_file)
+            analyze_json_data(json_file, screener_url)

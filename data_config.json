@@ -5,5 +5,9 @@
 "hourly_multiple_ema_screener": {
     "url": "https://chartink.com/screener/trending-10-21-50-200",
     "folder": "hourly_trending_screener"
+},
+"multiple_timeframe_ema_screener": {
+    "url": "https://chartink.com/screener/all-emas-in-hour-day-week-month-interval-trending",
+    "folder": "multiple_timeframe_ema_screener"
 }
 }

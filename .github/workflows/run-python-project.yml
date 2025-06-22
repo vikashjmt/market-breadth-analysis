@@ -46,7 +46,9 @@ jobs:
           cat hourly_screener_count.json
           # Send Telegram message
           python3 send_telegram.py $report_file || echo "Telegram Notification Failed, Continuing..."
+          python3 send_telegram.py continuity_screener_data_* || echo "Telegram Notification Failed, Continuing..."
           cp $report_file Report/latest
+          cat continuity_screener_data_* >> Report/latest
 
 
       - name: Commit and Push Changes

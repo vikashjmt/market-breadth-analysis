@@ -1,6 +1,7 @@
 import csv
 import json
 import argparse
+import os
 
 from time import sleep
 from selenium.webdriver.common.by import By
@@ -153,7 +154,7 @@ def convert_to_json(csv_file):
     counts_dict = counts.to_dict()
 
     # Get json file name 
-    json_file = f"{csv_file.rsplit('/')[-2]}.json"
+    json_file = f"Report/{csv_file.rsplit('/')[-2]}.json"
     # Load existing data if the file exists
     if os.path.exists(json_file):
         with open(json_file, 'r') as f:
@@ -171,9 +172,11 @@ def convert_to_json(csv_file):
     if updated:
         with open(json_file, 'w') as f:
             json.dump(existing_data, f, indent=2)
-        print(f"Updated {json_file}")
+        # print(f"Updated {json_file}")
     else:
-        print(f"No update needed for {json_file}")
+        # print(f"No update needed for {json_file}")
+        pass
+    return json_file
 
 def analyze_json_data(json_file, screener_url):
     with open(json_file) as fd:
@@ -182,7 +185,8 @@ def analyze_json_data(json_file, screener_url):
     fd = open("continuity_screener_data_"
               f"{datetime.now().strftime('%d-%m-%Y')}.txt", 'a')
     if not json_data:
-        print('There is no data in the json')
+        # print('There is no data in the json')
+        pass
     # Writing a comment
     fd.write(f'\nNumber of stocks screened from screener: {screener_url}')
     for date, stock_count in list(json_data.items())[-50:]:
@@ -225,7 +229,6 @@ if __name__ == "__main__":
             download_screener(screener_url)
             latest_file = get_latest_download()
             fetched_file = move(latest_file, destination_file)
-            print('fetched_file :', fetched_file)
 
         if 'dashboard' in screener_url:
             # Get number of stocks above 20 ema data

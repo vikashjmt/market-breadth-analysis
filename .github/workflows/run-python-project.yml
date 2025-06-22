@@ -43,7 +43,6 @@ jobs:
           rm Report/latest
           report_file="Report/market_breadth_`date +'%Y-%m-%d_%H:%M'`.txt"
           python fetch_breadth_data.py --history-days 10 >$report_file
-          cat hourly_screener_count.json
           # Send Telegram message
           python3 send_telegram.py $report_file || echo "Telegram Notification Failed, Continuing..."
           python3 send_telegram.py continuity_screener_data_* || echo "Telegram Notification Failed, Continuing..."

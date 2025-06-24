@@ -1,41 +1,39 @@
 
-DAY6 | 16th Jun:
+DAY6 | 17th Jun:
      #stocks > 20 ema (Last 5 days):
-	1658, 1663, 1445, 1206, 1255
-     Market Status: Light Green
-
-DAY5 | 17th Jun:
-     #stocks > 20 ema (Last 5 days):
-	1663, 1445, 1206, 1255, 1027
+	1665, 1447, 1207, 1257, 1029
      Market Status:  Green to Yellow
 
-DAY4 | 18th Jun:
+DAY5 | 18th Jun:
      #stocks > 20 ema (Last 5 days):
-	1445, 1206, 1255, 1027, 941
+	1447, 1207, 1257, 1029, 944
      Market Status:  Light Red
 
-DAY3 | 19th Jun:
+DAY4 | 19th Jun:
      #stocks > 20 ema (Last 5 days):
-	1206, 1255, 1027, 941, 596
+	1207, 1257, 1029, 944, 598
      Market Status:  Dark Red
 
-DAY2 | 20th Jun:
+DAY3 | 20th Jun:
      #stocks > 20 ema (Last 5 days):
-	1255, 1027, 941, 596, 829
+	1257, 1029, 944, 598, 831
      Market Status:  Green to Yellow
 
-DAY1 | 23rd Jun:
+DAY2 | 23rd Jun:
      #stocks > 20 ema (Last 5 days):
-	1027, 941, 596, 829, 818
+	1029, 944, 598, 831, 829
+     Market Status:  Red to Yellow
+
+DAY1 | 24th Jun:
+     #stocks > 20 ema (Last 5 days):
+	944, 598, 831, 829, 1071
      Market Status:  Red to Yellow
 
 Number of stocks screened from screener: https://chartink.com/screener/trending-10-21-50-200
-	12-06-2025 2:15 pm: 155
-	13-06-2025 11:15 am: 114
-	13-06-2025 2:15 pm: 102
-	16-06-2025 11:15 am: 90
-	16-06-2025 2:15 pm: 90
-	17-06-2025 11:15 am: 88
+	13-06-2025 2:15 pm: 104
+	16-06-2025 11:15 am: 92
+	16-06-2025 2:15 pm: 92
+	17-06-2025 11:15 am: 89
 	17-06-2025 2:15 pm: 83
 	18-06-2025 11:15 am: 64
 	18-06-2025 2:15 pm: 45
@@ -44,10 +42,10 @@ Number of stocks screened from screener: https://chartink.com/screener/trending-
 	20-06-2025 11:15 am: 17
 	20-06-2025 2:15 pm: 22
 	23-06-2025 11:15 am: 27
-	23-06-2025 2:15 pm: 25
+	23-06-2025 2:15 pm: 26
+	24-06-2025 11:15 am: 34
+	24-06-2025 2:15 pm: 32
 Number of stocks screened from screener: https://chartink.com/screener/all-emas-in-hour-day-week-month-interval-trending
-	12-06-2025 2:15 pm: 107
-	13-06-2025 11:15 am: 90
 	13-06-2025 2:15 pm: 85
 	16-06-2025 11:15 am: 98
 	16-06-2025 2:15 pm: 119
@@ -60,4 +58,6 @@ Number of stocks screened from screener: https://chartink.com/screener/all-emas-
 	20-06-2025 11:15 am: 54
 	20-06-2025 2:15 pm: 64
 	23-06-2025 11:15 am: 85
-	23-06-2025 2:15 pm: 99
+	23-06-2025 2:15 pm: 100
+	24-06-2025 11:15 am: 139
+	24-06-2025 2:15 pm: 149

@@ -1,37 +1,35 @@
 
-DAY6 | 17th Jun:
+DAY6 | 18th Jun:
      #stocks > 20 ema (Last 5 days):
-	1665, 1447, 1207, 1257, 1029
-     Market Status:  Green to Yellow
-
-DAY5 | 18th Jun:
-     #stocks > 20 ema (Last 5 days):
-	1447, 1207, 1257, 1029, 944
+	1451, 1210, 1260, 1031, 946
      Market Status:  Light Red
 
-DAY4 | 19th Jun:
+DAY5 | 19th Jun:
      #stocks > 20 ema (Last 5 days):
-	1207, 1257, 1029, 944, 598
+	1210, 1260, 1031, 946, 599
      Market Status:  Dark Red
 
-DAY3 | 20th Jun:
+DAY4 | 20th Jun:
      #stocks > 20 ema (Last 5 days):
-	1257, 1029, 944, 598, 831
+	1260, 1031, 946, 599, 834
      Market Status:  Green to Yellow
 
-DAY2 | 23rd Jun:
+DAY3 | 23rd Jun:
      #stocks > 20 ema (Last 5 days):
-	1029, 944, 598, 831, 829
+	1031, 946, 599, 834, 831
      Market Status:  Red to Yellow
 
-DAY1 | 24th Jun:
+DAY2 | 24th Jun:
      #stocks > 20 ema (Last 5 days):
-	944, 598, 831, 829, 1071
+	946, 599, 834, 831, 1049
      Market Status:  Red to Yellow
+
+DAY1 | 25th Jun:
+     #stocks > 20 ema (Last 5 days):
+	599, 834, 831, 1049, 1350
+     Market Status:  Green to Yellow
 
 Number of stocks screened from screener: https://chartink.com/screener/trending-10-21-50-200
-	13-06-2025 2:15 pm: 104
-	16-06-2025 11:15 am: 92
 	16-06-2025 2:15 pm: 92
 	17-06-2025 11:15 am: 89
 	17-06-2025 2:15 pm: 83
@@ -44,10 +42,10 @@ Number of stocks screened from screener: https://chartink.com/screener/trending-
 	23-06-2025 11:15 am: 27
 	23-06-2025 2:15 pm: 26
 	24-06-2025 11:15 am: 34
-	24-06-2025 2:15 pm: 32
+	24-06-2025 2:15 pm: 33
+	25-06-2025 11:15 am: 41
+	25-06-2025 2:15 pm: 44
 Number of stocks screened from screener: https://chartink.com/screener/all-emas-in-hour-day-week-month-interval-trending
-	13-06-2025 2:15 pm: 85
-	16-06-2025 11:15 am: 98
 	16-06-2025 2:15 pm: 119
 	17-06-2025 11:15 am: 126
 	17-06-2025 2:15 pm: 115
@@ -59,5 +57,7 @@ Number of stocks screened from screener: https://chartink.com/screener/all-emas-
 	20-06-2025 2:15 pm: 64
 	23-06-2025 11:15 am: 85
 	23-06-2025 2:15 pm: 100
-	24-06-2025 11:15 am: 139
+	24-06-2025 11:15 am: 137
 	24-06-2025 2:15 pm: 149
+	25-06-2025 11:15 am: 180
+	25-06-2025 2:15 pm: 201

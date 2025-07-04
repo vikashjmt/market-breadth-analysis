@@ -1,63 +1,63 @@
 
-DAY6 | 26th Jun:
+DAY6 | 27th Jun:
      #stocks > 20 ema (Last 5 days):
-	831, 828, 1050, 1364, 1368
-     Market Status:  Green to Yellow
-
-DAY5 | 27th Jun:
-     #stocks > 20 ema (Last 5 days):
-	828, 1050, 1364, 1368, 1434
+	832, 1055, 1368, 1372, 1437
      Market Status: Bright Green
 
-DAY4 | 30th Jun:
+DAY5 | 30th Jun:
      #stocks > 20 ema (Last 5 days):
-	1050, 1364, 1368, 1434, 1490
+	1055, 1368, 1372, 1437, 1494
      Market Status: Bright Green
 
-DAY3 | 1st Jul:
+DAY4 | 1st Jul:
      #stocks > 20 ema (Last 5 days):
-	1364, 1368, 1434, 1490, 1455
+	1368, 1372, 1437, 1494, 1459
      Market Status: Light Green
 
-DAY2 | 2nd Jul:
+DAY3 | 2nd Jul:
      #stocks > 20 ema (Last 5 days):
-	1368, 1434, 1490, 1455, 1346
+	1372, 1437, 1494, 1459, 1353
      Market Status: Light Green
 
-DAY1 | 3rd Jul:
+DAY2 | 3rd Jul:
      #stocks > 20 ema (Last 5 days):
-	1434, 1490, 1455, 1346, 1344
-     Market Status:  Bright to Light Green
+	1437, 1494, 1459, 1353, 1368
+     Market Status: Light Green
+
+DAY1 | 4th Jul:
+     #stocks > 20 ema (Last 5 days):
+	1494, 1459, 1353, 1368, 1330
+     Market Status: Light Green
 
 Number of stocks screened from screener: https://chartink.com/screener/trending-10-21-50-200
-	24-06-2025 2:15 pm: 33
-	25-06-2025 11:15 am: 42
 	25-06-2025 2:15 pm: 47
 	26-06-2025 11:15 am: 65
 	26-06-2025 2:15 pm: 87
 	27-06-2025 11:15 am: 109
-	27-06-2025 2:15 pm: 122
+	27-06-2025 2:15 pm: 123
 	30-06-2025 11:15 am: 174
 	30-06-2025 2:15 pm: 196
 	01-07-2025 11:15 am: 238
 	01-07-2025 2:15 pm: 273
 	02-07-2025 11:15 am: 264
 	02-07-2025 2:15 pm: 241
-	03-07-2025 11:15 am: 235
-	03-07-2025 2:15 pm: 236
+	03-07-2025 11:15 am: 236
+	03-07-2025 2:15 pm: 237
+	04-07-2025 11:15 am: 217
+	04-07-2025 2:15 pm: 206
 Number of stocks screened from screener: https://chartink.com/screener/all-emas-in-hour-day-week-month-interval-trending
-	24-06-2025 2:15 pm: 150
-	25-06-2025 11:15 am: 177
-	25-06-2025 2:15 pm: 203
-	26-06-2025 11:15 am: 198
-	26-06-2025 2:15 pm: 200
-	27-06-2025 11:15 am: 219
-	27-06-2025 2:15 pm: 215
-	30-06-2025 11:15 am: 287
-	30-06-2025 2:15 pm: 287
-	01-07-2025 11:15 am: 269
-	01-07-2025 2:15 pm: 258
-	02-07-2025 11:15 am: 224
-	02-07-2025 2:15 pm: 207
-	03-07-2025 11:15 am: 226
-	03-07-2025 2:15 pm: 218
+	25-06-2025 2:15 pm: 202
+	26-06-2025 11:15 am: 197
+	26-06-2025 2:15 pm: 199
+	27-06-2025 11:15 am: 218
+	27-06-2025 2:15 pm: 214
+	30-06-2025 11:15 am: 285
+	30-06-2025 2:15 pm: 285
+	01-07-2025 11:15 am: 266
+	01-07-2025 2:15 pm: 255
+	02-07-2025 11:15 am: 221
+	02-07-2025 2:15 pm: 204
+	03-07-2025 11:15 am: 223
+	03-07-2025 2:15 pm: 226
+	04-07-2025 11:15 am: 213
+	04-07-2025 2:15 pm: 206

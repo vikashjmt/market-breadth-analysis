@@ -1,0 +1,30 @@
+
+DAY6 | 30th Jun:
+     #stocks > 20 ema (Last 5 days):
+	1053, 1366, 1373, 1437, 1492
+     Market Status: Bright Green
+
+DAY5 | 1st Jul:
+     #stocks > 20 ema (Last 5 days):
+	1366, 1373, 1437, 1492, 1457
+     Market Status: Light Green
+
+DAY4 | 2nd Jul:
+     #stocks > 20 ema (Last 5 days):
+	1373, 1437, 1492, 1457, 1352
+     Market Status: Light Green
+
+DAY3 | 3rd Jul:
+     #stocks > 20 ema (Last 5 days):
+	1437, 1492, 1457, 1352, 1367
+     Market Status: Light Green
+
+DAY2 | 4th Jul:
+     #stocks > 20 ema (Last 5 days):
+	1492, 1457, 1352, 1367, 1382
+     Market Status: Light Green
+
+DAY1 | 7th Jul:
+     #stocks > 20 ema (Last 5 days):
+	1457, 1352, 1367, 1382, 1244
+     Market Status: Light Green

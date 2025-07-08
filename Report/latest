@@ -1,37 +1,35 @@
 
-DAY6 | 30th Jun:
+DAY6 | 1st Jul:
      #stocks > 20 ema (Last 5 days):
-	1053, 1366, 1373, 1437, 1492
-     Market Status: Bright Green
-
-DAY5 | 1st Jul:
-     #stocks > 20 ema (Last 5 days):
-	1366, 1373, 1437, 1492, 1457
+	1367, 1372, 1436, 1492, 1457
      Market Status: Light Green
 
-DAY4 | 2nd Jul:
+DAY5 | 2nd Jul:
      #stocks > 20 ema (Last 5 days):
-	1373, 1437, 1492, 1457, 1352
+	1372, 1436, 1492, 1457, 1349
      Market Status: Light Green
 
-DAY3 | 3rd Jul:
+DAY4 | 3rd Jul:
      #stocks > 20 ema (Last 5 days):
-	1437, 1492, 1457, 1352, 1367
+	1436, 1492, 1457, 1349, 1365
      Market Status: Light Green
 
-DAY2 | 4th Jul:
+DAY3 | 4th Jul:
      #stocks > 20 ema (Last 5 days):
-	1492, 1457, 1352, 1367, 1382
+	1492, 1457, 1349, 1365, 1381
      Market Status: Light Green
 
-DAY1 | 7th Jul:
+DAY2 | 7th Jul:
      #stocks > 20 ema (Last 5 days):
-	1457, 1352, 1367, 1382, 1244
+	1457, 1349, 1365, 1381, 1262
      Market Status: Light Green
+
+DAY1 | 8th Jul:
+     #stocks > 20 ema (Last 5 days):
+	1349, 1365, 1381, 1262, 1147
+     Market Status:  Green to Yellow
 
 Number of stocks screened from screener: https://chartink.com/screener/trending-10-21-50-200
-	26-06-2025 2:15 pm: 86
-	27-06-2025 11:15 am: 108
 	27-06-2025 2:15 pm: 121
 	30-06-2025 11:15 am: 172
 	30-06-2025 2:15 pm: 194
@@ -44,10 +42,10 @@ Number of stocks screened from screener: https://chartink.com/screener/trending-
 	04-07-2025 11:15 am: 215
 	04-07-2025 2:15 pm: 206
 	07-07-2025 11:15 am: 179
-	07-07-2025 2:15 pm: 155
+	07-07-2025 2:15 pm: 153
+	08-07-2025 11:15 am: 138
+	08-07-2025 2:15 pm: 136
 Number of stocks screened from screener: https://chartink.com/screener/all-emas-in-hour-day-week-month-interval-trending
-	26-06-2025 2:15 pm: 197
-	27-06-2025 11:15 am: 216
 	27-06-2025 2:15 pm: 212
 	30-06-2025 11:15 am: 283
 	30-06-2025 2:15 pm: 283
@@ -59,5 +57,7 @@ Number of stocks screened from screener: https://chartink.com/screener/all-emas-
 	03-07-2025 2:15 pm: 225
 	04-07-2025 11:15 am: 211
 	04-07-2025 2:15 pm: 203
-	07-07-2025 11:15 am: 180
-	07-07-2025 2:15 pm: 165
+	07-07-2025 11:15 am: 181
+	07-07-2025 2:15 pm: 168
+	08-07-2025 11:15 am: 142
+	08-07-2025 2:15 pm: 138

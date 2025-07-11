@@ -1,36 +1,35 @@
 
-DAY6 | 3rd Jul:
+DAY6 | 4th Jul:
      #stocks > 20 ema (Last 5 days):
-	1437, 1494, 1458, 1352, 1366
+	1495, 1459, 1354, 1368, 1384
      Market Status: Light Green
 
-DAY5 | 4th Jul:
+DAY5 | 7th Jul:
      #stocks > 20 ema (Last 5 days):
-	1494, 1458, 1352, 1366, 1383
+	1459, 1354, 1368, 1384, 1266
      Market Status: Light Green
 
-DAY4 | 7th Jul:
+DAY4 | 8th Jul:
      #stocks > 20 ema (Last 5 days):
-	1458, 1352, 1366, 1383, 1264
+	1354, 1368, 1384, 1266, 1211
      Market Status: Light Green
 
-DAY3 | 8th Jul:
+DAY3 | 9th Jul:
      #stocks > 20 ema (Last 5 days):
-	1352, 1366, 1383, 1264, 1210
+	1368, 1384, 1266, 1211, 1241
      Market Status: Light Green
 
-DAY2 | 9th Jul:
+DAY2 | 10th Jul:
      #stocks > 20 ema (Last 5 days):
-	1366, 1383, 1264, 1210, 1240
+	1384, 1266, 1211, 1241, 1210
      Market Status: Light Green
 
-DAY1 | 10th Jul:
+DAY1 | 11th Jul:
      #stocks > 20 ema (Last 5 days):
-	1383, 1264, 1210, 1240, 1210
-     Market Status: Light Green
+	1266, 1211, 1241, 1210, 994
+     Market Status:  Light Red
 
 Number of stocks screened from screener: https://chartink.com/screener/trending-10-21-50-200
-	02-07-2025 11:15 am: 267
 	02-07-2025 2:15 pm: 244
 	03-07-2025 11:15 am: 238
 	03-07-2025 2:15 pm: 239
@@ -39,23 +38,26 @@ Number of stocks screened from screener: https://chartink.com/screener/trending-
 	07-07-2025 11:15 am: 180
 	07-07-2025 2:15 pm: 154
 	08-07-2025 11:15 am: 139
-	08-07-2025 2:15 pm: 137
+	08-07-2025 2:15 pm: 136
 	09-07-2025 11:15 am: 135
 	09-07-2025 2:15 pm: 127
-	10-07-2025 11:15 am: 126
-	10-07-2025 2:15 pm: 118
+	10-07-2025 11:15 am: 127
+	10-07-2025 2:15 pm: 119
+	11-07-2025 11:15 am: 105
+	11-07-2025 2:15 pm: 96
 Number of stocks screened from screener: https://chartink.com/screener/all-emas-in-hour-day-week-month-interval-trending
-	02-07-2025 11:15 am: 219
-	02-07-2025 2:15 pm: 203
-	03-07-2025 11:15 am: 222
-	03-07-2025 2:15 pm: 225
-	04-07-2025 11:15 am: 211
-	04-07-2025 2:15 pm: 203
-	07-07-2025 11:15 am: 179
-	07-07-2025 2:15 pm: 166
-	08-07-2025 11:15 am: 142
-	08-07-2025 2:15 pm: 144
-	09-07-2025 11:15 am: 156
-	09-07-2025 2:15 pm: 162
-	10-07-2025 11:15 am: 168
-	10-07-2025 2:15 pm: 159
+	02-07-2025 2:15 pm: 202
+	03-07-2025 11:15 am: 221
+	03-07-2025 2:15 pm: 224
+	04-07-2025 11:15 am: 209
+	04-07-2025 2:15 pm: 202
+	07-07-2025 11:15 am: 174
+	07-07-2025 2:15 pm: 160
+	08-07-2025 11:15 am: 138
+	08-07-2025 2:15 pm: 140
+	09-07-2025 11:15 am: 152
+	09-07-2025 2:15 pm: 158
+	10-07-2025 11:15 am: 164
+	10-07-2025 2:15 pm: 154
+	11-07-2025 11:15 am: 121
+	11-07-2025 2:15 pm: 118

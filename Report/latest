@@ -1,63 +1,63 @@
 
-DAY6 | 4th Jul:
+DAY6 | 7th Jul:
      #stocks > 20 ema (Last 5 days):
-	1495, 1459, 1354, 1368, 1384
+	1457, 1352, 1367, 1384, 1265
      Market Status: Light Green
 
-DAY5 | 7th Jul:
+DAY5 | 8th Jul:
      #stocks > 20 ema (Last 5 days):
-	1459, 1354, 1368, 1384, 1266
+	1352, 1367, 1384, 1265, 1211
      Market Status: Light Green
 
-DAY4 | 8th Jul:
+DAY4 | 9th Jul:
      #stocks > 20 ema (Last 5 days):
-	1354, 1368, 1384, 1266, 1211
+	1367, 1384, 1265, 1211, 1240
      Market Status: Light Green
 
-DAY3 | 9th Jul:
+DAY3 | 10th Jul:
      #stocks > 20 ema (Last 5 days):
-	1368, 1384, 1266, 1211, 1241
+	1384, 1265, 1211, 1240, 1209
      Market Status: Light Green
 
-DAY2 | 10th Jul:
+DAY2 | 11th Jul:
      #stocks > 20 ema (Last 5 days):
-	1384, 1266, 1211, 1241, 1210
-     Market Status: Light Green
+	1265, 1211, 1240, 1209, 981
+     Market Status:  Light Red
 
-DAY1 | 11th Jul:
+DAY1 | 14th Jul:
      #stocks > 20 ema (Last 5 days):
-	1266, 1211, 1241, 1210, 994
+	1211, 1240, 1209, 981, 979
      Market Status:  Light Red
 
 Number of stocks screened from screener: https://chartink.com/screener/trending-10-21-50-200
-	02-07-2025 2:15 pm: 244
-	03-07-2025 11:15 am: 238
-	03-07-2025 2:15 pm: 239
-	04-07-2025 11:15 am: 218
-	04-07-2025 2:15 pm: 208
-	07-07-2025 11:15 am: 180
-	07-07-2025 2:15 pm: 154
-	08-07-2025 11:15 am: 139
-	08-07-2025 2:15 pm: 136
-	09-07-2025 11:15 am: 135
-	09-07-2025 2:15 pm: 127
-	10-07-2025 11:15 am: 127
-	10-07-2025 2:15 pm: 119
-	11-07-2025 11:15 am: 105
-	11-07-2025 2:15 pm: 96
-Number of stocks screened from screener: https://chartink.com/screener/all-emas-in-hour-day-week-month-interval-trending
-	02-07-2025 2:15 pm: 202
-	03-07-2025 11:15 am: 221
-	03-07-2025 2:15 pm: 224
-	04-07-2025 11:15 am: 209
-	04-07-2025 2:15 pm: 202
-	07-07-2025 11:15 am: 174
-	07-07-2025 2:15 pm: 160
+	03-07-2025 2:15 pm: 237
+	04-07-2025 11:15 am: 216
+	04-07-2025 2:15 pm: 205
+	07-07-2025 11:15 am: 178
+	07-07-2025 2:15 pm: 153
 	08-07-2025 11:15 am: 138
-	08-07-2025 2:15 pm: 140
-	09-07-2025 11:15 am: 152
-	09-07-2025 2:15 pm: 158
-	10-07-2025 11:15 am: 164
-	10-07-2025 2:15 pm: 154
-	11-07-2025 11:15 am: 121
-	11-07-2025 2:15 pm: 118
+	08-07-2025 2:15 pm: 136
+	09-07-2025 11:15 am: 134
+	09-07-2025 2:15 pm: 126
+	10-07-2025 11:15 am: 126
+	10-07-2025 2:15 pm: 118
+	11-07-2025 11:15 am: 105
+	11-07-2025 2:15 pm: 95
+	14-07-2025 11:15 am: 91
+	14-07-2025 2:15 pm: 92
+Number of stocks screened from screener: https://chartink.com/screener/all-emas-in-hour-day-week-month-interval-trending
+	03-07-2025 2:15 pm: 222
+	04-07-2025 11:15 am: 208
+	04-07-2025 2:15 pm: 200
+	07-07-2025 11:15 am: 174
+	07-07-2025 2:15 pm: 162
+	08-07-2025 11:15 am: 140
+	08-07-2025 2:15 pm: 142
+	09-07-2025 11:15 am: 154
+	09-07-2025 2:15 pm: 159
+	10-07-2025 11:15 am: 166
+	10-07-2025 2:15 pm: 155
+	11-07-2025 11:15 am: 123
+	11-07-2025 2:15 pm: 117
+	14-07-2025 11:15 am: 137
+	14-07-2025 2:15 pm: 142

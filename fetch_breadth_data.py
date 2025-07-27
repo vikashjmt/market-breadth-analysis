@@ -195,18 +195,18 @@ def get_market_status(counts):
 
     if last > 150:
         if ascending_5:
-            return "Very Bullish. Consider adding fresh entry"
+            return "Very Bullish. Consider adding fresh entry."
         elif inc:
-            return "Bullish"
+            return "Bullish."
         else:
-            return "Neutral with Bullish bias"
+            return "Neutral with Bullish bias."
     else:
         if descending_5:
-            return "Very Bearish. Consider reducing portfolio and avoid fresh entry"
+            return "Very Bearish. Consider reducing portfolio and avoid fresh entry."
         elif dec:
-            return "Bearish"
+            return "Bearish."
         else:
-            return "Neutral with Bearish bias"
+            return "Neutral with Bearish bias."
 
 
 def analyze_json_data(json_file, screener_url):
@@ -225,10 +225,11 @@ def analyze_json_data(json_file, screener_url):
         if '11:15' in date or ' 2:15' in date:
             fd.write(f'\n\t{date}: {stock_count}')
             count_list.append(stock_count)
-    print('Stock_count :', count_list)
     if '10-21-50-200' in screener_url:
         status = get_market_status(count_list)
-        fd.write(f'\nStatus: {status}')
+        star_pattern = '*'*25
+        fd.write(f'\nStatus: {status}\n{star_pattern}\n')
+
 
 
 if __name__ == "__main__":

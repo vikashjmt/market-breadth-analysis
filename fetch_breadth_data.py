@@ -153,7 +153,7 @@ def convert_to_json(csv_file):
     counts = df.groupby('Datetime', sort=False).size()
     counts_dict = counts.to_dict()
 
-    # Get json file name 
+    # Get json file name
     json_file = f"Report/{csv_file.rsplit('/')[-2]}.json"
     # Load existing data if the file exists
     if os.path.exists(json_file):
@@ -178,7 +178,39 @@ def convert_to_json(csv_file):
         pass
     return json_file
 
+
+def get_market_status(counts):
+    last = counts[-1]
+    last_5 = counts[-5:]
+    ascending_5 = all(earlier < later for earlier,
+                      later in zip(last_5, last_5[1:]))
+    descending_5 = all(earlier > later for earlier,
+                       later in zip(last_5, last_5[1:]))
+
+    # last, third last, and fifth last
+    # indices: -1, -3, -5
+    pos = [counts[-1], counts[-3], counts[-5]]
+    inc = pos[0] > pos[1] > pos[2]
+    dec = pos[0] < pos[1] < pos[2]
+
+    if last > 150:
+        if ascending_5:
+            return "Very Bullish. Consider adding fresh entry"
+        elif inc:
+            return "Bullish"
+        else:
+            return "Neutral with Bullish bias"
+    else:
+        if descending_5:
+            return "Very Bearish. Consider reducing portfolio and avoid fresh entry"
+        elif dec:
+            return "Bearish"
+        else:
+            return "Neutral with Bearish bias"
+
+
 def analyze_json_data(json_file, screener_url):
+    count_list = []
     with open(json_file) as fd:
         json_data = json.load(fd)
     # Write to txt file
@@ -192,6 +224,12 @@ def analyze_json_data(json_file, screener_url):
     for date, stock_count in list(json_data.items())[-50:]:
         if '11:15' in date or ' 2:15' in date:
             fd.write(f'\n\t{date}: {stock_count}')
+            count_list.append(stock_count)
+    print('Stock_count :', count_list)
+    if '10-21-50-200' in screener_url:
+        status = get_market_status(count_list)
+        fd.write(f'\nStatus: {status}')
+
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()

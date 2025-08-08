@@ -1,37 +1,35 @@
 
-DAY6 | 31st Jul:
+DAY6 | 1st Aug:
      #stocks > 20 ema (Last 5 days):
-	614, 480, 600, 669, 572
+	480, 600, 669, 573, 439
      Market Status:  Light Red
 
-DAY5 | 1st Aug:
+DAY5 | 4th Aug:
      #stocks > 20 ema (Last 5 days):
-	480, 600, 669, 572, 438
+	600, 669, 573, 439, 569
      Market Status:  Light Red
 
-DAY4 | 4th Aug:
+DAY4 | 5th Aug:
      #stocks > 20 ema (Last 5 days):
-	600, 669, 572, 438, 569
+	669, 573, 439, 569, 564
      Market Status:  Light Red
 
-DAY3 | 5th Aug:
+DAY3 | 6th Aug:
      #stocks > 20 ema (Last 5 days):
-	669, 572, 438, 569, 564
+	573, 439, 569, 564, 449
      Market Status:  Light Red
 
-DAY2 | 6th Aug:
+DAY2 | 7th Aug:
      #stocks > 20 ema (Last 5 days):
-	572, 438, 569, 564, 449
-     Market Status:  Light Red
+	439, 569, 564, 449, 427
+     Market Status:  Dark Red
 
-DAY1 | 7th Aug:
+DAY1 | 8th Aug:
      #stocks > 20 ema (Last 5 days):
-	438, 569, 564, 449, 406
+	569, 564, 449, 427, 391
      Market Status:  Dark Red
 
 Number of stocks screened from screener: https://chartink.com/screener/trending-10-21-50-200
-	29-07-2025 2:15 pm: 33
-	30-07-2025 11:15 am: 39
 	30-07-2025 2:15 pm: 44
 	31-07-2025 11:15 am: 40
 	31-07-2025 2:15 pm: 43
@@ -39,28 +37,30 @@ Number of stocks screened from screener: https://chartink.com/screener/trending-
 	01-08-2025 2:15 pm: 35
 	04-08-2025 11:15 am: 30
 	04-08-2025 2:15 pm: 33
-	05-08-2025 11:15 am: 43
-	05-08-2025 2:15 pm: 47
-	06-08-2025 11:15 am: 37
-	06-08-2025 2:15 pm: 35
-	07-08-2025 11:15 am: 28
-	07-08-2025 2:15 pm: 29
-Status: Bearish.
+	05-08-2025 11:15 am: 44
+	05-08-2025 2:15 pm: 48
+	06-08-2025 11:15 am: 39
+	06-08-2025 2:15 pm: 37
+	07-08-2025 11:15 am: 30
+	07-08-2025 2:15 pm: 30
+	08-08-2025 11:15 am: 31
+	08-08-2025 2:15 pm: 33
+Status: Neutral with Bearish bias.
 *************************
 
 Number of stocks screened from screener: https://chartink.com/screener/all-emas-in-hour-day-week-month-interval-trending
-	29-07-2025 2:15 pm: 84
-	30-07-2025 11:15 am: 122
-	30-07-2025 2:15 pm: 137
-	31-07-2025 11:15 am: 112
-	31-07-2025 2:15 pm: 117
-	01-08-2025 11:15 am: 100
-	01-08-2025 2:15 pm: 91
-	04-08-2025 11:15 am: 85
-	04-08-2025 2:15 pm: 99
+	30-07-2025 2:15 pm: 138
+	31-07-2025 11:15 am: 113
+	31-07-2025 2:15 pm: 118
+	01-08-2025 11:15 am: 101
+	01-08-2025 2:15 pm: 92
+	04-08-2025 11:15 am: 86
+	04-08-2025 2:15 pm: 100
 	05-08-2025 11:15 am: 95
 	05-08-2025 2:15 pm: 107
-	06-08-2025 11:15 am: 69
-	06-08-2025 2:15 pm: 68
-	07-08-2025 11:15 am: 54
-	07-08-2025 2:15 pm: 60
+	06-08-2025 11:15 am: 68
+	06-08-2025 2:15 pm: 67
+	07-08-2025 11:15 am: 55
+	07-08-2025 2:15 pm: 61
+	08-08-2025 11:15 am: 65
+	08-08-2025 2:15 pm: 65

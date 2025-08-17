@@ -9,5 +9,9 @@
 "multiple_timeframe_ema_screener": {
     "url": "https://chartink.com/screener/all-emas-in-hour-day-week-month-interval-trending",
     "folder": "multiple_timeframe_ema_screener"
+},
+"weekly_macd_crossover_screener": {
+    "url": "https://chartink.com/screener/after-weekly-macd-crossover-emas-crossed",
+    "folder": "weekly_macd_crossover_screener"
 }
 }

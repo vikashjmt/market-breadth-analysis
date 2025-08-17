@@ -46,6 +46,9 @@ jobs:
           # Send Telegram message
           python3 send_telegram.py $report_file || echo "Telegram Notification Failed, Continuing..."
           python3 send_telegram.py continuity_screener_data_* || echo "Telegram Notification Failed, Continuing..."
+          if test -f continuity_macd_data_*; then
+            python3 send_telegram.py continuity_macd_data_* || echo "Telegram Notification Failed, Continuing..."
+          fi
           cp $report_file Report/latest
           cat continuity_screener_data_* >> Report/latest
 

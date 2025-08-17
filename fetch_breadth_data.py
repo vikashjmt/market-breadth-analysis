@@ -218,6 +218,41 @@ def get_market_status(counts, avg_10, avg_25, avg_50):
         else:
             return "Non-trending with Bearish bias."
 
+def get_market_status_by_macd(count_list):
+    last = count_list[-1]
+    last_3 = count_list[-3:]
+    ascending_3 = all(earlier < later for earlier,
+                      later in zip(last_3, last_3[1:]))
+    descending_3 = all(earlier > later for earlier,
+                       later in zip(last_3, last_3[1:]))
+    ma_5 = sum(count_list[-5:])/5
+    if ascending_3 and last > ma_5:
+        status = 'Very Bullish'
+    elif descending_3 and last < ma_5:
+        status = 'Very Bearish'
+    elif last > ma_5:
+        status = 'Neutral with Bullish bias'
+    else:
+        status = 'Neutral with Bearish bias'
+    return status
+
+def analyze_weekly_macd_data(json_file, screener_url):
+    count_list = []
+    with open(json_file) as fd:
+        json_data = json.load(fd)
+    # Write to txt file
+    fd = open("continuity_macd_data_"
+              f"{datetime.now().strftime('%d-%m-%Y')}.txt", 'a')
+    # Writing a comment
+    fd.write(f'\nAnalysis on the weekly macd X screener: {screener_url}')
+    for date, stock_count in list(json_data.items()):
+        count_list.append(stock_count)
+        if len(count_list) < 5:
+            continue
+        fd.write(f'\n{date}: {stock_count}')
+        # Write a function here to get market status of past
+        status = get_market_status_by_macd(count_list)
+        fd.write(f'\n\tCurrent market status: {status}')
 
 def analyze_json_data(json_file, screener_url):
     count_list = []
@@ -278,7 +313,6 @@ if __name__ == "__main__":
         if 'dashboard' in screener_url:
             # Check if file already exists
             # if not Path(destination_file).exists():
-            continue
             download_screener(screener_url, dashboard=True)
             latest_file = get_latest_download()
             fetched_file = move(latest_file, destination_file)
@@ -292,11 +326,14 @@ if __name__ == "__main__":
 
         if 'dashboard' in screener_url:
             # Get number of stocks above 20 ema data
-            continue
             twenty_ema_data, Date = get_ema_data(fetched_file)
             # print(twenty_ema_data)
             # ic(Date)
             process_ema_data(twenty_ema_data, Date, history_days)
         else:
             json_file = convert_to_json(fetched_file)
-            analyze_json_data(json_file, screener_url)
+            if ('macd' in screener_url and
+                datetime.today().weekday() == 0):
+                analyze_weekly_macd_data(json_file, screener_url)
+            else:
+                analyze_json_data(json_file, screener_url)

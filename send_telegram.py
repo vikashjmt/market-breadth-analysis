@@ -29,11 +29,16 @@ def send_file_to_telegram(file_path, caption="🚨 Market Breadth Report 📊"):
 
 # Example Usage
 data_file = sys.argv[1]
-file_data = None
-with open(data_file) as fd:
-    file_data = fd.readlines()
+if len(sys.argv) > 1:
+    file_mode = True
+if not file_mode:
+    file_data = None
+    with open(data_file) as fd:
+        file_data = fd.readlines()
 
-file_data_str = ''.join(file_data)
-# response = send_file_to_telegram(data_file, caption="🚨 Market Breadth Analysis Report")
-response = send_telegram_message(file_data_str)
-print(response)
+    file_data_str = ''.join(file_data)
+    # response = send_file_to_telegram(data_file, caption="🚨 Market Breadth Analysis Report")
+    response = send_telegram_message(file_data_str)
+    print(response)
+else:
+    response = send_file_to_telegram(data_file, caption="🚨 Market MACD Analysis Report")

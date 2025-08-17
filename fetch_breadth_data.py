@@ -179,13 +179,15 @@ def convert_to_json(csv_file):
     return json_file
 
 
-def get_market_status(counts):
+def get_market_status(counts, avg_10, avg_25, avg_50):
     last = counts[-1]
     last_5 = counts[-5:]
     ascending_5 = all(earlier < later for earlier,
                       later in zip(last_5, last_5[1:]))
     descending_5 = all(earlier > later for earlier,
                        later in zip(last_5, last_5[1:]))
+    above_all_mas = all(last > ma for ma in [avg_10, avg_25, avg_50])
+    below_all_mas = all(last > ma for ma in [avg_10, avg_25, avg_50])
 
     # last, third last, and fifth last
     # indices: -1, -3, -5
@@ -194,23 +196,32 @@ def get_market_status(counts):
     dec = pos[0] < pos[1] < pos[2]
 
     if last > 150:
-        if ascending_5:
+        if ascending_5 and above_all_mas:
             return "Very Bullish. Consider adding fresh entry."
-        elif inc:
+        elif inc or above_all_mas:
             return "Bullish."
+        elif below_all_mas or descending_5:
+            return "Trend changing from Bullish to Bearish!"
         else:
-            return "Neutral with Bullish bias."
+            return "Non trending with Bullish bias."
     else:
-        if descending_5:
-            return "Very Bearish. Consider reducing portfolio and avoid fresh entry."
-        elif dec:
+        if (descending_5 or below_all_mas):
+           if last > 100:
+                return ("Very Bearish. Consider reducing portfolio "
+                       "and avoid fresh entry.")
+           else:
+               return "Very Bearish."
+        elif dec or below_all_mas:
             return "Bearish."
+        elif above_all_mas or ascending_5:
+            return "Trend changing from Bearish to Bullish!"
         else:
-            return "Neutral with Bearish bias."
+            return "Non-trending with Bearish bias."
 
 
 def analyze_json_data(json_file, screener_url):
     count_list = []
+    all_counts = []
     with open(json_file) as fd:
         json_data = json.load(fd)
     # Write to txt file
@@ -225,11 +236,20 @@ def analyze_json_data(json_file, screener_url):
         if '11:15' in date or ' 2:15' in date:
             fd.write(f'\n\t{date}: {stock_count}')
             count_list.append(stock_count)
+    for date, stock_count in list(json_data.items()):
+        if '11:15' in date or ' 2:15' in date:
+            all_counts.append(stock_count)
+    ten_days_avg = sum(all_counts[-20:])/20
+    ma_25_days = sum(all_counts[-50:])/50
+    ma_50_days = sum(all_counts[-100:])/100
+    fd.write(f'\nAvg of last 10 days: {ten_days_avg}')
+    fd.write(f'\nAvg of last 25 days: {ma_25_days}')
+    fd.write(f'\nAvg of last 50 days: {ma_50_days}')
     if '10-21-50-200' in screener_url:
-        status = get_market_status(count_list)
+        status = get_market_status(count_list, ten_days_avg, ma_25_days,
+                                   ma_50_days)
         star_pattern = '*'*25
         fd.write(f'\nStatus: {status}\n{star_pattern}\n')
-
 
 
 if __name__ == "__main__":
@@ -258,6 +278,7 @@ if __name__ == "__main__":
         if 'dashboard' in screener_url:
             # Check if file already exists
             # if not Path(destination_file).exists():
+            continue
             download_screener(screener_url, dashboard=True)
             latest_file = get_latest_download()
             fetched_file = move(latest_file, destination_file)
@@ -271,6 +292,7 @@ if __name__ == "__main__":
 
         if 'dashboard' in screener_url:
             # Get number of stocks above 20 ema data
+            continue
             twenty_ema_data, Date = get_ema_data(fetched_file)
             # print(twenty_ema_data)
             # ic(Date)

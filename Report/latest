@@ -1,36 +1,35 @@
 
-DAY6 | 7th Aug:
+DAY6 | 8th Aug:
      #stocks > 20 ema (Last 5 days):
-	440, 569, 565, 449, 428
+	569, 565, 449, 428, 351
      Market Status:  Dark Red
 
-DAY5 | 8th Aug:
+DAY5 | 11th Aug:
      #stocks > 20 ema (Last 5 days):
-	569, 565, 449, 428, 353
-     Market Status:  Dark Red
-
-DAY4 | 11th Aug:
-     #stocks > 20 ema (Last 5 days):
-	565, 449, 428, 353, 426
+	565, 449, 428, 351, 426
      Market Status:  Light Red
 
-DAY3 | 12th Aug:
+DAY4 | 12th Aug:
      #stocks > 20 ema (Last 5 days):
-	449, 428, 353, 426, 482
+	449, 428, 351, 426, 483
      Market Status:  Light Red
 
-DAY2 | 13th Aug:
+DAY3 | 13th Aug:
      #stocks > 20 ema (Last 5 days):
-	428, 353, 426, 482, 576
+	428, 351, 426, 483, 576
      Market Status:  Red to Yellow
 
-DAY1 | 14th Aug:
+DAY2 | 14th Aug:
      #stocks > 20 ema (Last 5 days):
-	353, 426, 482, 576, 532
+	351, 426, 483, 576, 532
+     Market Status:  Light Red
+
+DAY1 | 18th Aug:
+     #stocks > 20 ema (Last 5 days):
+	426, 483, 576, 532, 784
      Market Status:  Light Red
 
 Number of stocks screened from screener: https://chartink.com/screener/trending-10-21-50-200
-	06-08-2025 11:15 am: 39
 	06-08-2025 2:15 pm: 37
 	07-08-2025 11:15 am: 30
 	07-08-2025 2:15 pm: 30
@@ -44,14 +43,15 @@ Number of stocks screened from screener: https://chartink.com/screener/trending-
 	13-08-2025 2:15 pm: 28
 	14-08-2025 11:15 am: 32
 	14-08-2025 2:15 pm: 36
-Avg of last 10 days: 32.9
-Avg of last 25 days: 72.56
-Avg of last 50 days: 106.05
-Status: Non-trending with Bearish bias.
+	18-08-2025 11:15 am: 45
+	18-08-2025 2:15 pm: 52
+Avg of last 10 days: 34.0
+Avg of last 25 days: 70.46
+Avg of last 50 days: 103.16
+Status: Trend changing from Bearish to Bullish!
 *************************
 
 Number of stocks screened from screener: https://chartink.com/screener/all-emas-in-hour-day-week-month-interval-trending
-	06-08-2025 11:15 am: 69
 	06-08-2025 2:15 pm: 67
 	07-08-2025 11:15 am: 54
 	07-08-2025 2:15 pm: 60
@@ -59,12 +59,14 @@ Number of stocks screened from screener: https://chartink.com/screener/all-emas-
 	08-08-2025 2:15 pm: 58
 	11-08-2025 11:15 am: 55
 	11-08-2025 2:15 pm: 69
-	12-08-2025 11:15 am: 82
-	12-08-2025 2:15 pm: 90
-	13-08-2025 11:15 am: 98
-	13-08-2025 2:15 pm: 106
+	12-08-2025 11:15 am: 83
+	12-08-2025 2:15 pm: 91
+	13-08-2025 11:15 am: 99
+	13-08-2025 2:15 pm: 107
 	14-08-2025 11:15 am: 104
-	14-08-2025 2:15 pm: 106
-Avg of last 10 days: 83.1
-Avg of last 25 days: 125.54
-Avg of last 50 days: 143.6
+	14-08-2025 2:15 pm: 107
+	18-08-2025 11:15 am: 150
+	18-08-2025 2:15 pm: 162
+Avg of last 10 days: 89.05
+Avg of last 25 days: 126.94
+Avg of last 50 days: 143.59

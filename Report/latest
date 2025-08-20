@@ -1,37 +1,35 @@
 
-DAY6 | 11th Aug:
-     #stocks > 20 ema (Last 5 days):
-	564, 448, 426, 349, 424
-     Market Status:  Light Red
-
-DAY5 | 12th Aug:
+DAY6 | 12th Aug:
      #stocks > 20 ema (Last 5 days):
 	448, 426, 349, 424, 482
      Market Status:  Light Red
 
-DAY4 | 13th Aug:
+DAY5 | 13th Aug:
      #stocks > 20 ema (Last 5 days):
 	426, 349, 424, 482, 574
      Market Status:  Red to Yellow
 
-DAY3 | 14th Aug:
+DAY4 | 14th Aug:
      #stocks > 20 ema (Last 5 days):
 	349, 424, 482, 574, 530
      Market Status:  Light Red
 
-DAY2 | 18th Aug:
+DAY3 | 18th Aug:
      #stocks > 20 ema (Last 5 days):
-	424, 482, 574, 530, 756
+	424, 482, 574, 530, 757
      Market Status:  Light Red
 
-DAY1 | 19th Aug:
+DAY2 | 19th Aug:
      #stocks > 20 ema (Last 5 days):
-	482, 574, 530, 756, 909
+	482, 574, 530, 757, 928
+     Market Status:  Red to Yellow
+
+DAY1 | 20th Aug:
+     #stocks > 20 ema (Last 5 days):
+	574, 530, 757, 928, 998
      Market Status:  Red to Yellow
 
 Number of stocks screened from screener: https://chartink.com/screener/trending-10-21-50-200
-	07-08-2025 2:15 pm: 30
-	08-08-2025 11:15 am: 31
 	08-08-2025 2:15 pm: 32
 	11-08-2025 11:15 am: 25
 	11-08-2025 2:15 pm: 31
@@ -45,15 +43,15 @@ Number of stocks screened from screener: https://chartink.com/screener/trending-
 	18-08-2025 2:15 pm: 53
 	19-08-2025 11:15 am: 67
 	19-08-2025 2:15 pm: 74
-Avg of last 10 days: 38.25
-Avg of last 25 days: 69.5
-Avg of last 50 days: 100.22
+	20-08-2025 11:15 am: 92
+	20-08-2025 2:15 pm: 95
+Avg of last 10 days: 43.0
+Avg of last 25 days: 68.46
+Avg of last 50 days: 97.15
 Status: Trend changing from Bearish to Bullish!
 *************************
 
 Number of stocks screened from screener: https://chartink.com/screener/all-emas-in-hour-day-week-month-interval-trending
-	07-08-2025 2:15 pm: 59
-	08-08-2025 11:15 am: 62
 	08-08-2025 2:15 pm: 58
 	11-08-2025 11:15 am: 54
 	11-08-2025 2:15 pm: 68
@@ -65,11 +63,13 @@ Number of stocks screened from screener: https://chartink.com/screener/all-emas-
 	14-08-2025 2:15 pm: 106
 	18-08-2025 11:15 am: 149
 	18-08-2025 2:15 pm: 162
-	19-08-2025 11:15 am: 184
-	19-08-2025 2:15 pm: 194
-Avg of last 10 days: 98.15
-Avg of last 25 days: 128.0
-Avg of last 50 days: 143.42
+	19-08-2025 11:15 am: 183
+	19-08-2025 2:15 pm: 197
+	20-08-2025 11:15 am: 204
+	20-08-2025 2:15 pm: 196
+Avg of last 10 days: 108.1
+Avg of last 25 days: 128.08
+Avg of last 50 days: 143.43
 Number of stocks screened from screener: https://chartink.com/screener/after-weekly-macd-crossover-emas-crossed
 Avg of last 10 days: 0.0
 Avg of last 25 days: 0.0

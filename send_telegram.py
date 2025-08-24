@@ -29,7 +29,8 @@ def send_file_to_telegram(file_path, caption="🚨 Market Breadth Report 📊"):
 
 # Example Usage
 data_file = sys.argv[1]
-if len(sys.argv) > 1:
+file_mode = None
+if len(sys.argv) > 2:
     file_mode = True
 if not file_mode:
     file_data = None

@@ -187,7 +187,7 @@ def get_market_status(counts, avg_10, avg_25, avg_50):
     descending_5 = all(earlier > later for earlier,
                        later in zip(last_5, last_5[1:]))
     above_all_mas = all(last > ma for ma in [avg_10, avg_25, avg_50])
-    below_all_mas = all(last > ma for ma in [avg_10, avg_25, avg_50])
+    below_all_mas = all(last < ma for ma in [avg_10, avg_25, avg_50])
 
     # last, third last, and fifth last
     # indices: -1, -3, -5
@@ -257,10 +257,14 @@ def analyze_weekly_macd_data(json_file, screener_url):
 def analyze_json_data(json_file, screener_url):
     count_list = []
     all_counts = []
+    if '10-21-50-200' in screener_url:
+        file_prefix = 'continuity_screener_hourly_'
+    else:
+        file_prefix = 'continuity_screener_multi_interval_'
     with open(json_file) as fd:
         json_data = json.load(fd)
     # Write to txt file
-    fd = open("continuity_screener_data_"
+    fd = open(f"{file_prefix}"
               f"{datetime.now().strftime('%d-%m-%Y')}.txt", 'a')
     if not json_data:
         # print('There is no data in the json')
@@ -269,8 +273,9 @@ def analyze_json_data(json_file, screener_url):
     fd.write(f'\nNumber of stocks screened from screener: {screener_url}')
     for date, stock_count in list(json_data.items())[-50:]:
         if '11:15' in date or ' 2:15' in date:
-            fd.write(f'\n\t{date}: {stock_count}')
+            # fd.write(f'\n\t{date}: {stock_count}')
             count_list.append(stock_count)
+    fd.write(f'\n    Last 15 3-hourly bullish stock counts:\n{count_list}')
     for date, stock_count in list(json_data.items()):
         if '11:15' in date or ' 2:15' in date:
             all_counts.append(stock_count)
@@ -284,7 +289,7 @@ def analyze_json_data(json_file, screener_url):
         status = get_market_status(count_list, ten_days_avg, ma_25_days,
                                    ma_50_days)
         star_pattern = '*'*25
-        fd.write(f'\nStatus: {status}\n{star_pattern}\n')
+        fd.write(f'\n{star_pattern}\nStatus: {status}\n{star_pattern}\n')
 
 
 if __name__ == "__main__":
@@ -332,8 +337,8 @@ if __name__ == "__main__":
             process_ema_data(twenty_ema_data, Date, history_days)
         else:
             json_file = convert_to_json(fetched_file)
-            if ('macd' in screener_url and
-                datetime.today().weekday() == 0):
-                analyze_weekly_macd_data(json_file, screener_url)
+            if 'macd' in screener_url:
+                if datetime.today().weekday() == 6:
+                    analyze_weekly_macd_data(json_file, screener_url)
             else:
                 analyze_json_data(json_file, screener_url)

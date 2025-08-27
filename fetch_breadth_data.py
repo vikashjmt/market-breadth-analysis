@@ -11,6 +11,7 @@ from icecream import ic
 from pathlib import Path
 from shutil import move
 from datetime import datetime
+from ordered_set import OrderedSet
 from rich.console import Console
 
 import pandas as pd
@@ -218,7 +219,7 @@ def get_market_status(counts, avg_10, avg_25, avg_50):
         else:
             return "Non-trending with Bearish bias."
 
-def get_market_status_by_macd(count_list):
+def get_market_status_by_macdxover(count_list):
     last = count_list[-1]
     last_3 = count_list[-3:]
     ascending_3 = all(earlier < later for earlier,
@@ -236,23 +237,110 @@ def get_market_status_by_macd(count_list):
         status = 'Neutral with Bearish bias'
     return status
 
-def analyze_weekly_macd_data(json_file, screener_url):
+def analyze_weekly_macd_xover_data(json_file, screener_url):
     count_list = []
+    prev_status = ''
+    weekly_date_status = {}
+    with open(json_file) as fd:
+        json_data = json.load(fd)
+    # Update the summary of the MACD analysis to other txt file
+    fd_other = open(f"continuity_screener_hourly_"
+                  f"{datetime.now().strftime('%d-%m-%Y')}.txt", 'a')
+    # Write to txt file
+    fd = open("continuity_macd_data_"
+              f"{datetime.now().strftime('%d-%m-%Y')}.txt", 'a')
+    # Writing a comment
+    fd.write(f'\nAnalysis on the weekly macd xOver screener: {screener_url}')
+    fd_other.write(f'\n\nAnalysis on the weekly macd xOver screener: {screener_url}')
+    for date, stock_count in list(json_data.items()):
+        count_list.append(stock_count)
+        if len(count_list) < 5:
+            continue
+        # fd.write(f'\n{date}: {stock_count}')
+        # Write a function here to get market status of past
+        status = get_market_status_by_macdxover(count_list)
+        weekly_date_status[date] = status
+    fd.write(f'\n    Current market status: {status}')
+    fd_other.write(f'\n    Current market status: {status}')
+    fd.write('\n\nHistorical MACD data:')
+    same_status_date = OrderedSet()
+    for date in reversed(weekly_date_status):
+        curr_status = weekly_date_status[date]
+        if prev_status == curr_status:
+            same_status_date.add(prev_date)
+            same_status_date.add(date)
+        else:
+            if not same_status_date:
+                pass # Skip first iteration
+            else:
+                same_status_date.items.reverse()
+                fd.write(f'\n\n    {prev_status} since {len(same_status_date)}'
+                         f' weeks: {same_status_date.items}')
+            same_status_date = OrderedSet([date])
+            prev_date = date
+        prev_status = curr_status
+
+def get_market_status_by_macdxdown(count_list):
+    last = count_list[-1]
+    last_3 = count_list[-3:]
+    ascending_3 = all(earlier < later for earlier,
+                      later in zip(last_3, last_3[1:]))
+    descending_3 = all(earlier > later for earlier,
+                       later in zip(last_3, last_3[1:]))
+    ma_5 = sum(count_list[-5:])/5
+    if ascending_3 and last > ma_5:
+        status = 'Very Bearish'
+    elif descending_3 and last < ma_5:
+        status = 'Very Bullish'
+    elif last > ma_5:
+        status = 'Neutral with Bearish bias'
+    else:
+        status = 'Neutral with Bullish bias'
+    return status
+
+def analyze_weekly_macd_xdown_data(json_file, screener_url):
+    count_list = []
+    prev_status = ''
+    weekly_date_status = {}
     with open(json_file) as fd:
         json_data = json.load(fd)
     # Write to txt file
     fd = open("continuity_macd_data_"
               f"{datetime.now().strftime('%d-%m-%Y')}.txt", 'a')
+    # Update the summary of the MACD analysis to other txt file
+    fd_other = open(f"continuity_screener_hourly_"
+                  f"{datetime.now().strftime('%d-%m-%Y')}.txt", 'a')
     # Writing a comment
-    fd.write(f'\nAnalysis on the weekly macd X screener: {screener_url}')
+    fd.write(f"\n\n{'*'*80}")
+    fd.write(f'\nAnalysis on the weekly macd xDown screener: {screener_url}')
+    fd_other.write(f'\n\nAnalysis on the weekly macd xDown screener: {screener_url}')
     for date, stock_count in list(json_data.items()):
         count_list.append(stock_count)
         if len(count_list) < 5:
             continue
-        fd.write(f'\n{date}: {stock_count}')
+        # fd.write(f'\n{date}: {stock_count}')
         # Write a function here to get market status of past
-        status = get_market_status_by_macd(count_list)
-        fd.write(f'\n\tCurrent market status: {status}')
+        status = get_market_status_by_macdxdown(count_list)
+        weekly_date_status[date] = status
+    fd.write(f'\n    Current market status: {status}')
+    fd_other.write(f'\n    Current market status: {status}')
+    fd.write('\n\nHistorical MACD data:')
+    same_status_date = OrderedSet()
+    for date in reversed(weekly_date_status):
+        curr_status = weekly_date_status[date]
+        if prev_status == curr_status:
+            same_status_date.add(prev_date)
+            same_status_date.add(date)
+        else:
+            if not same_status_date:
+                pass # Skip first iteration
+            else:
+                same_status_date.items.reverse()
+                fd.write(f'\n\n    "{prev_status}" since {len(same_status_date)}'
+                         f' weeks: {same_status_date.items}')
+            same_status_date = OrderedSet([date])
+            prev_date = date
+        prev_status = curr_status
 
 def analyze_json_data(json_file, screener_url):
     count_list = []
@@ -275,7 +363,7 @@ def analyze_json_data(json_file, screener_url):
         if '11:15' in date or ' 2:15' in date:
             # fd.write(f'\n\t{date}: {stock_count}')
             count_list.append(stock_count)
-    fd.write(f'\n    Last 15 3-hourly bullish stock counts:\n{count_list}')
+    fd.write(f'\n\nLast 15 3-hour stock counts:\n{count_list}\n')
     for date, stock_count in list(json_data.items()):
         if '11:15' in date or ' 2:15' in date:
             all_counts.append(stock_count)
@@ -337,8 +425,15 @@ if __name__ == "__main__":
             process_ema_data(twenty_ema_data, Date, history_days)
         else:
             json_file = convert_to_json(fetched_file)
-            if 'macd' in screener_url:
-                if datetime.today().weekday() == 6:
-                    analyze_weekly_macd_data(json_file, screener_url)
+            if 'macd-crossover' in screener_url:
+                if (datetime.today().weekday() == 2 or datetime.today().weekday() == 3 or
+                    datetime.today().weekday() == 4):
+                    analyze_weekly_macd_xover_data(json_file,
+                                                   screener_url)
+            elif 'macd-crossdown' in screener_url:
+                if (datetime.today().weekday() == 2 or datetime.today().weekday() == 3 or
+                    datetime.today().weekday() == 4):
+                    analyze_weekly_macd_xdown_data(json_file,
+                                                   screener_url)
             else:
                 analyze_json_data(json_file, screener_url)

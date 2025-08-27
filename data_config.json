@@ -13,5 +13,9 @@
 "weekly_macd_crossover_screener": {
     "url": "https://chartink.com/screener/after-weekly-macd-crossover-emas-crossed",
     "folder": "weekly_macd_crossover_screener"
+},
+"weekly_macd_crossdown_screener": {
+    "url": "https://chartink.com/screener/after-weekly-macd-crossdown",
+    "folder": "weekly_macd_crossdown_screener"
 }
 }

@@ -28,15 +28,3 @@ DAY1 | 1st Sep:
      #stocks > 20 ema (Last 5 days):
 	918, 611, 511, 498, 700
      Market Status:  Light Red
-
-Number of stocks screened from screener: https://chartink.com/screener/trending-10-21-50-200
-
-Last 15 3-hour stock counts:
-[92, 100, 109, 122, 130, 117, 108, 86, 70, 44, 30, 26, 26, 25, 25]
-
-Avg of last 10 days: 71.55
-Avg of last 25 days: 51.14
-Avg of last 50 days: 90.78
-*************************
-Status: Very Bearish.
-*************************

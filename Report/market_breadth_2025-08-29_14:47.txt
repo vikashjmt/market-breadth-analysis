@@ -1,0 +1,30 @@
+
+DAY6 | 21st Aug:
+     #stocks > 20 ema (Last 5 days):
+	530, 760, 930, 985, 1003
+     Market Status: Light Green
+
+DAY5 | 22nd Aug:
+     #stocks > 20 ema (Last 5 days):
+	760, 930, 985, 1003, 890
+     Market Status: Yellow to Red
+
+DAY4 | 25th Aug:
+     #stocks > 20 ema (Last 5 days):
+	930, 985, 1003, 890, 913
+     Market Status: Yellow to Red
+
+DAY3 | 26th Aug:
+     #stocks > 20 ema (Last 5 days):
+	985, 1003, 890, 913, 610
+     Market Status:  Light Red
+
+DAY2 | 28th Aug:
+     #stocks > 20 ema (Last 5 days):
+	1003, 890, 913, 610, 510
+     Market Status:  Light Red
+
+DAY1 | 29th Aug:
+     #stocks > 20 ema (Last 5 days):
+	890, 913, 610, 510, 513
+     Market Status:  Light Red

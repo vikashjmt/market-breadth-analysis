@@ -28,22 +28,3 @@ DAY1 | 4th Sep:
      #stocks > 20 ema (Last 5 days):
 	504, 719, 856, 1029, 980
      Market Status:  Red to Yellow
-
-Number of stocks screened from screener: https://chartink.com/screener/trending-10-21-50-200
-
-Last 15 3-hour stock counts:
-[110, 90, 70, 44, 30, 27, 27, 26, 25, 23, 23, 27, 29, 44, 47]
-
-Avg of last 10 days: 61.85
-Avg of last 25 days: 49.7
-Avg of last 50 days: 91.38
-*************************
-Status: Very Bearish.
-*************************
-
-
-Analysis on the weekly macd xOver screener: https://chartink.com/screener/after-weekly-macd-crossover-emas-crossed
-    Current market status: Neutral with Bearish bias
-
-Analysis on the weekly macd xDown screener: https://chartink.com/screener/after-weekly-macd-crossdown
-    Current market status: Neutral with Bearish bias

@@ -37,7 +37,7 @@ def download_screener(url, dashboard=False):
         dom = driver.find_element(
             by=By.CSS_SELECTOR, value='a.flex.items-center')
     else:
-        dom = driver.find_element(by=By.CSS_SELECTOR, value="a.btn-primary")
+        dom = driver.find_element(By.XPATH, "//div[contains(text(), 'Download csv')]")
 
     sleep(10)
     dom.click()
@@ -394,6 +394,7 @@ if __name__ == "__main__":
     # ic(data)
     for screener in data:
         screener_url = data[screener]['url']
+        print(f'Processing url : {screener_url}')
         destination_folder = f"{data_dir}/{data[screener]['folder']}"
         Path(destination_folder).mkdir(parents=True,
                                        exist_ok=True)

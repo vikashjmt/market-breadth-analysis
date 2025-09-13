@@ -394,7 +394,6 @@ if __name__ == "__main__":
     # ic(data)
     for screener in data:
         screener_url = data[screener]['url']
-        print(f'Processing url : {screener_url}')
         destination_folder = f"{data_dir}/{data[screener]['folder']}"
         Path(destination_folder).mkdir(parents=True,
                                        exist_ok=True)
@@ -407,6 +406,7 @@ if __name__ == "__main__":
         if 'dashboard' in screener_url:
             # Check if file already exists
             # if not Path(destination_file).exists():
+            print(f'Processing url : {screener_url}')
             download_screener(screener_url, dashboard=True)
             latest_file = get_latest_download()
             fetched_file = move(latest_file, destination_file)
@@ -427,12 +427,12 @@ if __name__ == "__main__":
         else:
             json_file = convert_to_json(fetched_file)
             if 'macd-crossover' in screener_url:
-                if (datetime.today().weekday() == 2 or datetime.today().weekday() == 3 or
+                if (datetime.today().weekday() == 2 or datetime.today().weekday() == 5 or
                     datetime.today().weekday() == 4):
                     analyze_weekly_macd_xover_data(json_file,
                                                    screener_url)
             elif 'macd-crossdown' in screener_url:
-                if (datetime.today().weekday() == 2 or datetime.today().weekday() == 3 or
+                if (datetime.today().weekday() == 2 or datetime.today().weekday() == 5 or
                     datetime.today().weekday() == 4):
                     analyze_weekly_macd_xdown_data(json_file,
                                                    screener_url)

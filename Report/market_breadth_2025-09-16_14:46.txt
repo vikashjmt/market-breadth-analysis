@@ -29,15 +29,3 @@ DAY1 | 16th Sep:
      #stocks > 20 ema (Last 5 days):
 	1200, 1210, 1203, 1296, 1382
      Market Status:  Green to Yellow
-
-Number of stocks screened from screener: https://chartink.com/screener/trending-10-21-50-200
-
-Last 15 3-hour stock counts:
-[81, 101, 107, 122, 115, 108, 92, 90, 79, 80, 81, 81, 86, 103, 101]
-
-Avg of last 10 days: 82.3
-Avg of last 25 days: 67.94
-Avg of last 50 days: 78.87
-*************************
-Status: Trend changing from Bearish to Bullish!
-*************************

@@ -30,17 +30,16 @@ def download_screener(url, dashboard=False):
     sleep(10)
     # Locate the div containing "Market Breadth"
     if dashboard:
-        market_breadth_div = driver.find_element(By.XPATH,
-                                                 "//span[contains(text(), 'Market Breadth')]")
-        # Click the div
-        market_breadth_div.click()
-        dom = driver.find_element(
-            by=By.CSS_SELECTOR, value='a.flex.items-center')
+        dom = driver.find_element(By.XPATH,
+                                  "//a[contains(@class,'flex items-center') and contains(@class,'border-lavender-mist')]")
+        driver.execute_script("arguments[0].scrollIntoView(true);", dom)
+        sleep(1)
+        driver.execute_script("arguments[0].click();", dom)
     else:
         dom = driver.find_element(By.XPATH, "//div[contains(text(), 'Download csv')]")
-
-    sleep(10)
-    dom.click()
+        sleep(1)
+        dom.click()
+    # Sleep for 10 secs
     sleep(10)
     driver.quit()
 
@@ -410,9 +409,6 @@ if __name__ == "__main__":
             download_screener(screener_url, dashboard=True)
             latest_file = get_latest_download()
             fetched_file = move(latest_file, destination_file)
-            # else:
-            #    fetched_file = destination_file
-            #    print(f'It is coming here as {fetched_file}')
         else:
             download_screener(screener_url)
             latest_file = get_latest_download()

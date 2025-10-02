@@ -7,7 +7,7 @@ from time import sleep
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
 from selenium import webdriver
-from icecream import ic
+# from icecream import ic
 from pathlib import Path
 from shutil import move
 from datetime import datetime
@@ -36,7 +36,8 @@ def download_screener(url, dashboard=False):
         sleep(1)
         driver.execute_script("arguments[0].click();", dom)
     else:
-        dom = driver.find_element(By.XPATH, "//div[contains(text(), 'Download csv')]")
+        dom = driver.find_element(
+            By.XPATH, "//div[contains(text(), 'Download csv')]")
         sleep(1)
         dom.click()
     # Sleep for 10 secs
@@ -107,10 +108,16 @@ def process_ema_data(twenty_ema_data, Date, history_days):
 
 
 def decide_market_status(last_5_values):
-    print(f'     Market Status:', end=' ')
+    print('     Market Status:', end=' ')
     day1, day2, day3, day4, day5 = [int(val)
                                     for val in
                                     last_5_values]
+    if day1 > 1400:
+        if 0 <= day1-day2 <= 25:
+            console.print('MB losing steam, may top out soon')
+        elif day1-day2 < 0:
+            console.print('MB topped out today')
+
     if day1 > 800:
         if (day1 > day2 > day3 > day4 > day5):
             if day1 < 1300:
@@ -122,24 +129,35 @@ def decide_market_status(last_5_values):
                                   style='green')
         elif (day1 < day2 < day3 < max(day4, day5)):
             if day1 < 1200:
-                console.print('[red] Light Red')
+                console.print('[red] Light Red. Could be right time'
+                              ' to panic and tighten the stop loss')
             else:
-                console.print('[green] Bright to Light Green')
+                console.print('[green] Bright to Light Green,'
+                              ' market losing momentum')
         elif all([(750 < int(val) < 1200) for val in last_5_values]):
             console.print('Yellow to Red', style='yellow')
         elif all([(900 < int(val) < 1300) for val in last_5_values]):
-            console.print('[light_green] Yellow to Green')
+            console.print('[light_green] Yellow to Green.')
+            if (day1 > max(day2, day3, day4, day5)):
+                console.print('\t Market could be ready for minor rally')
         elif all([(450 < int(val) < 1100) for val in last_5_values]):
             console.print('[yellow] Red to Yellow')
         elif all([(1200 < int(val)) for val in last_5_values]):
             console.print('[light_green]Light Green')
         else:
-            console.print('[light_green] Green to Yellow')
+            console.print('[light_green] Green-Yellow (non-trending phase)')
     elif day1 < 800:
+        if day1 < 220:
+            console.print('Extreme panic. Might see short/long term'
+                          ' bottom soon')
         if (day1 < day2 < day3 < day4):
             console.print('[dark_red] Dark Red')
         elif (day1 > day2 > day3 > day4):
             console.print('[yellow] Red to Yellow')
+            if (day5 < min(day2, day3, day4, day1)):
+                console.print('Market might have bottomed for short/long '
+                              'term. Beware of 3 phases of bear market '
+                              'downfall')
         else:
             console.print('[red] Light Red')
 
@@ -206,17 +224,18 @@ def get_market_status(counts, avg_10, avg_25, avg_50):
             return "Non trending with Bullish bias."
     else:
         if (descending_5 or below_all_mas):
-           if last > 100:
+            if last > 100:
                 return ("Very Bearish. Consider reducing portfolio "
-                       "and avoid fresh entry.")
-           else:
-               return "Very Bearish."
+                        "and avoid fresh entry.")
+            else:
+                return "Very Bearish."
         elif dec or below_all_mas:
             return "Bearish."
         elif above_all_mas or ascending_5:
             return "Trend changing from Bearish to Bullish!"
         else:
             return "Non-trending with Bearish bias."
+
 
 def get_market_status_by_macdxover(count_list):
     last = count_list[-1]
@@ -236,6 +255,7 @@ def get_market_status_by_macdxover(count_list):
         status = 'Neutral with Bearish bias'
     return status
 
+
 def analyze_weekly_macd_xover_data(json_file, screener_url):
     count_list = []
     prev_status = ''
@@ -244,13 +264,14 @@ def analyze_weekly_macd_xover_data(json_file, screener_url):
         json_data = json.load(fd)
     # Update the summary of the MACD analysis to other txt file
     fd_other = open(f"continuity_screener_hourly_"
-                  f"{datetime.now().strftime('%d-%m-%Y')}.txt", 'a')
+                    f"{datetime.now().strftime('%d-%m-%Y')}.txt", 'a')
     # Write to txt file
     fd = open("continuity_macd_data_"
               f"{datetime.now().strftime('%d-%m-%Y')}.txt", 'a')
     # Writing a comment
     fd.write(f'\nAnalysis on the weekly macd xOver screener: {screener_url}')
-    fd_other.write(f'\n\nAnalysis on the weekly macd xOver screener: {screener_url}')
+    fd_other.write(
+        f'\n\nAnalysis on the weekly macd xOver screener: {screener_url}')
     for date, stock_count in list(json_data.items()):
         count_list.append(stock_count)
         if len(count_list) < 5:
@@ -270,7 +291,7 @@ def analyze_weekly_macd_xover_data(json_file, screener_url):
             same_status_date.add(date)
         else:
             if not same_status_date:
-                pass # Skip first iteration
+                pass  # Skip first iteration
             else:
                 same_status_date.items.reverse()
                 fd.write(f'\n\n    {prev_status} since {len(same_status_date)}'
@@ -278,6 +299,7 @@ def analyze_weekly_macd_xover_data(json_file, screener_url):
             same_status_date = OrderedSet([date])
             prev_date = date
         prev_status = curr_status
+
 
 def get_market_status_by_macdxdown(count_list):
     last = count_list[-1]
@@ -297,6 +319,7 @@ def get_market_status_by_macdxdown(count_list):
         status = 'Neutral with Bullish bias'
     return status
 
+
 def analyze_weekly_macd_xdown_data(json_file, screener_url):
     count_list = []
     prev_status = ''
@@ -308,11 +331,12 @@ def analyze_weekly_macd_xdown_data(json_file, screener_url):
               f"{datetime.now().strftime('%d-%m-%Y')}.txt", 'a')
     # Update the summary of the MACD analysis to other txt file
     fd_other = open(f"continuity_screener_hourly_"
-                  f"{datetime.now().strftime('%d-%m-%Y')}.txt", 'a')
+                    f"{datetime.now().strftime('%d-%m-%Y')}.txt", 'a')
     # Writing a comment
     fd.write(f"\n\n{'*'*80}")
     fd.write(f'\nAnalysis on the weekly macd xDown screener: {screener_url}')
-    fd_other.write(f'\n\nAnalysis on the weekly macd xDown screener: {screener_url}')
+    fd_other.write(
+        f'\n\nAnalysis on the weekly macd xDown screener: {screener_url}')
     for date, stock_count in list(json_data.items()):
         count_list.append(stock_count)
         if len(count_list) < 5:
@@ -332,7 +356,7 @@ def analyze_weekly_macd_xdown_data(json_file, screener_url):
             same_status_date.add(date)
         else:
             if not same_status_date:
-                pass # Skip first iteration
+                pass  # Skip first iteration
             else:
                 same_status_date.items.reverse()
                 fd.write(f'\n\n    "{prev_status}" since {len(same_status_date)}'
@@ -340,6 +364,7 @@ def analyze_weekly_macd_xdown_data(json_file, screener_url):
             same_status_date = OrderedSet([date])
             prev_date = date
         prev_status = curr_status
+
 
 def analyze_json_data(json_file, screener_url):
     count_list = []
@@ -424,12 +449,12 @@ if __name__ == "__main__":
             json_file = convert_to_json(fetched_file)
             if 'macd-crossover' in screener_url:
                 if (datetime.today().weekday() == 2 or datetime.today().weekday() == 5 or
-                    datetime.today().weekday() == 4):
+                        datetime.today().weekday() == 4):
                     analyze_weekly_macd_xover_data(json_file,
                                                    screener_url)
             elif 'macd-crossdown' in screener_url:
                 if (datetime.today().weekday() == 2 or datetime.today().weekday() == 5 or
-                    datetime.today().weekday() == 4):
+                        datetime.today().weekday() == 4):
                     analyze_weekly_macd_xdown_data(json_file,
                                                    screener_url)
             else:

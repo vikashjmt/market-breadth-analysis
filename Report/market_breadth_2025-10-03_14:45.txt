@@ -29,22 +29,3 @@ DAY1 | 3rd Oct:
      #stocks > 20 ema (Last 5 days):
 	434, 435, 475, 673, 866
      Market Status: Light Green
-
-Number of stocks screened from screener: https://chartink.com/screener/trending-10-21-50-200
-
-Last 15 3-hour stock counts:
-[117, 110, 92, 86, 70, 48, 33, 29, 28, 27, 20, 18, 17, 16, 17]
-
-Avg of last 10 days: 67.5
-Avg of last 25 days: 72.56
-Avg of last 50 days: 65.68
-*************************
-Status: Very Bearish.
-*************************
-
-
-Analysis on the weekly macd xOver screener: https://chartink.com/screener/after-weekly-macd-crossover-emas-crossed
-    Current market status: Very Bearish
-
-Analysis on the weekly macd xDown screener: https://chartink.com/screener/after-weekly-macd-crossdown
-    Current market status: Very Bearish

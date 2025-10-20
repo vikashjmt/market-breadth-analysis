@@ -29,15 +29,3 @@ DAY1 | 20th Oct:
      #stocks > 20 ema (Last 5 days):
 	662, 819, 922, 830, 917
      Market Status:  Red to Yellow
-
-Number of stocks screened from screener: https://chartink.com/screener/trending-10-21-50-200
-
-Last 15 3-hour stock counts:
-[76, 84, 86, 83, 81, 75, 57, 58, 60, 72, 76, 77, 74, 73, 68]
-
-Avg of last 10 days: 68.5
-Avg of last 25 days: 71.82
-Avg of last 50 days: 67.4
-*************************
-Status: Bearish.
-*************************

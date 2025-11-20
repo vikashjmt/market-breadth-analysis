@@ -21,15 +21,3 @@ Stacktrace:
 #16 0x7f61e0e9caa4 <unknown>
 #17 0x7f61e0f29c6c <unknown>
 
-
-Number of stocks screened from screener: https://chartink.com/screener/trending-10-21-50-200
-
-Last 15 3-hour stock counts:
-[43, 46, 45, 59, 66, 76, 75, 88, 87, 92, 78, 77, 84, 81]
-
-Avg of last 10 days: 63.95
-Avg of last 25 days: 75.4
-Avg of last 50 days: 76.22
-*************************
-Status: Trend changing from Bearish to Bullish!
-*************************

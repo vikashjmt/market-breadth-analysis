@@ -1,0 +1,31 @@
+Processing url : https://chartink.com/dashboard/381757
+
+DAY6 | 24th Sep:
+     #stocks > 20 ema (Last 5 days):
+	1451, 1397, 1208, 1105, 927
+     Market Status:  Light Red. Could be right time to panic and tighten the stop loss
+
+DAY5 | 25th Sep:
+     #stocks > 20 ema (Last 5 days):
+	1397, 1208, 1105, 927, 740
+     Market Status:  Dark Red
+
+DAY4 | 26th Sep:
+     #stocks > 20 ema (Last 5 days):
+	1208, 1105, 927, 740, 438
+     Market Status:  Dark Red
+
+DAY3 | 29th Sep:
+     #stocks > 20 ema (Last 5 days):
+	1105, 927, 740, 438, 438
+     Market Status:  Light Red
+
+DAY2 | 30th Sep:
+     #stocks > 20 ema (Last 5 days):
+	927, 740, 438, 438, 476
+     Market Status:  Light Red
+
+DAY1 | 1st Oct:
+     #stocks > 20 ema (Last 5 days):
+	740, 438, 438, 476, 675
+     Market Status:  Light Red

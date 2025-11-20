@@ -29,22 +29,3 @@ DAY1 | 24th Oct:
      #stocks > 20 ema (Last 5 days):
 	833, 927, 1119, 1065, 936
      Market Status: Yellow to Red
-
-Number of stocks screened from screener: https://chartink.com/screener/trending-10-21-50-200
-
-Last 15 3-hour stock counts:
-[75, 57, 58, 60, 72, 76, 77, 74, 73, 68, 79, 82, 95, 87, 87]
-
-Avg of last 10 days: 76.5
-Avg of last 25 days: 70.8
-Avg of last 50 days: 70.28
-*************************
-Status: Trend changing from Bearish to Bullish!
-*************************
-
-
-Analysis on the weekly macd xOver screener: https://chartink.com/screener/after-weekly-macd-crossover-emas-crossed
-    Current market status: Very Bearish
-
-Analysis on the weekly macd xDown screener: https://chartink.com/screener/after-weekly-macd-crossdown
-    Current market status: Neutral with Bearish bias

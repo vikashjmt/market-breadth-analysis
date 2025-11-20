@@ -1,0 +1,31 @@
+Processing url : https://chartink.com/dashboard/381757
+
+DAY6 | 14th Oct:
+     #stocks > 20 ema (Last 5 days):
+	812, 894, 992, 847, 663
+     Market Status:  Light Red
+
+DAY5 | 15th Oct:
+     #stocks > 20 ema (Last 5 days):
+	894, 992, 847, 663, 820
+     Market Status:  Red to Yellow
+
+DAY4 | 16th Oct:
+     #stocks > 20 ema (Last 5 days):
+	992, 847, 663, 820, 923
+     Market Status:  Red to Yellow
+
+DAY3 | 17th Oct:
+     #stocks > 20 ema (Last 5 days):
+	847, 663, 820, 923, 831
+     Market Status:  Red to Yellow
+
+DAY2 | 20th Oct:
+     #stocks > 20 ema (Last 5 days):
+	663, 820, 923, 831, 925
+     Market Status:  Red to Yellow
+
+DAY1 | 21st Oct:
+     #stocks > 20 ema (Last 5 days):
+	820, 923, 831, 925, 1110
+     Market Status: Yellow to Red

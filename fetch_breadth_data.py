@@ -21,29 +21,36 @@ options = Options()
 options.add_argument("--headless")  # Run in headless mode
 options.add_argument("--no-sandbox")
 options.add_argument("--disable-dev-shm-usage")
+options.page_load_strategy = "none"       # prevents early timeout
+options.add_argument("--disable-blink-features=AutomationControlled")
 
 
 def download_screener(url, dashboard=False):
-    driver = webdriver.Chrome(options=options)
-    driver.implicitly_wait(10)
-    driver.get(url)
-    sleep(10)
-    # Locate the div containing "Market Breadth"
-    if dashboard:
-        dom = driver.find_element(By.XPATH,
-                                  "//a[contains(@class,'flex items-center') and contains(@class,'border-lavender-mist')]")
-        driver.execute_script("arguments[0].scrollIntoView(true);", dom)
-        sleep(1)
-        driver.execute_script("arguments[0].click();", dom)
-    else:
-        dom = driver.find_element(
-            By.XPATH, "//div[contains(text(), 'Download csv')]")
-        sleep(1)
-        dom.click()
-    # Sleep for 10 secs
-    sleep(10)
-    driver.quit()
+    try:
+        driver = webdriver.Chrome(options=options)
+        driver.implicitly_wait(20)
+        driver.set_page_load_timeout(120)
+        driver.get(url)
+        sleep(15)
+        # Locate the div containing "Market Breadth"
+        if dashboard:
+            dom = driver.find_element(By.XPATH,
+                                      "//a[contains(@class,'flex items-center') and contains(@class,'border-lavender-mist')]")
+            driver.execute_script("arguments[0].scrollIntoView(true);", dom)
+            sleep(1)
+            driver.execute_script("arguments[0].click();", dom)
 
+        else:
+            dom = driver.find_element(
+                By.XPATH, "//div[contains(text(), 'Download csv')]")
+            sleep(1)
+            dom.click()
+        # Sleep for 10 secs
+        sleep(10)
+        driver.quit()
+    except Exception as Err:
+        print(f'Could not process url {url} due to {Err}')
+        return 100
 
 def get_latest_download():
     download_folder = Path.home() / 'Downloads'
@@ -431,11 +438,15 @@ if __name__ == "__main__":
             # Check if file already exists
             # if not Path(destination_file).exists():
             print(f'Processing url : {screener_url}')
-            download_screener(screener_url, dashboard=True)
+            status = download_screener(screener_url, dashboard=True)
+            if status == 100:
+                continue
             latest_file = get_latest_download()
             fetched_file = move(latest_file, destination_file)
         else:
-            download_screener(screener_url)
+            status = download_screener(screener_url)
+            if status == 100:
+                continue
             latest_file = get_latest_download()
             fetched_file = move(latest_file, destination_file)
 

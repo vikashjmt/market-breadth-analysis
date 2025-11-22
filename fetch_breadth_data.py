@@ -4,8 +4,10 @@ import argparse
 import os
 
 from time import sleep
-from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.common.by import By
 from selenium import webdriver
 # from icecream import ic
 from pathlib import Path
@@ -22,39 +24,58 @@ options.add_argument("--headless")  # Run in headless mode
 options.add_argument("--no-sandbox")
 options.add_argument("--disable-dev-shm-usage")
 
-def download_screener(url, dashboard=False):
-    try:
-        driver = webdriver.Chrome(options=options)
-        driver.implicitly_wait(10)
-        driver.get(url)
-        sleep(10)
-        # Locate the div containing "Market Breadth"
-        if dashboard:
-            market_breadth_div = driver.find_element(By.XPATH,
-                                                     "//span[contains(text(), 'Market Breadth')]")
-            # Click the div
-            market_breadth_div.click()
-            dom = driver.find_element(
-                    by=By.CSS_SELECTOR, value='a.flex.items-center')
 
-        else:
-            dom = driver.find_element(
-                By.XPATH, "//div[contains(text(), 'Download csv')]")
-        sleep(6)
+def download_screener(url, dashboard=False):
+    driver = webdriver.Chrome(options=options)
+    wait = WebDriverWait(driver, 20)
+
+    driver.get(url)
+    # Let page load initial layout
+    sleep(5)
+
+    if dashboard:
+        # Click the Market Breadth pane/title
+        market_breadth_div = wait.until(
+            EC.element_to_be_clickable(
+                (By.XPATH, "//div[contains(., 'Market Breadth')]"))
+        )
+        market_breadth_div.click()
+        sleep(5)
+        csv_button = wait.until(
+            EC.element_to_be_clickable((By.XPATH, "//span[text()='CSV']"))
+        )
+        sleep(5)
+        wait.until(
+            EC.presence_of_element_located((By.CSS_SELECTOR, "table tbody tr"))
+        )
+        csv_button.click()
+
+    # Normal Screener Page (Non-dashboard)
+    else:
+        # Wait for screener’s download button
+        dom = wait.until(
+            EC.element_to_be_clickable(
+                (By.XPATH, "//div[contains(text(), 'Download csv')]"))
+        )
         dom.click()
-        # Sleep for 10 secs
-        sleep(6)
-        driver.quit()
-    except Exception as Err:
-        print(f'Could not process url {url} due to {Err}')
-        return 100
+        print("Downloading CSV...")
+
+    # Give 10s time for download (safest across systems)
+    sleep(10)
+    driver.quit()
+
 
 def get_latest_download():
     download_folder = Path.home() / 'Downloads'
     # Get all csv files
     files = download_folder.glob('*csv')
-    return max([file for file in files],
-               key=lambda item: item.stat().st_ctime)
+    print(f'Download folder: {download_folder}')
+    files = list(files)
+    if not files:
+        raise FileNotFoundError("No CSV files found in Downloads")
+
+    return max(files,
+               key=lambda item: item.stat().st_mtime)
 
 
 def get_data(config_file):
@@ -423,6 +444,7 @@ if __name__ == "__main__":
     for screener in data:
         screener_url = data[screener]['url']
         destination_folder = f"{data_dir}/{data[screener]['folder']}"
+        print(f'Destination folder: {destination_folder}')
         Path(destination_folder).mkdir(parents=True,
                                        exist_ok=True)
         if 'dashboard' in screener_url:
@@ -435,15 +457,11 @@ if __name__ == "__main__":
             # Check if file already exists
             # if not Path(destination_file).exists():
             print(f'Processing url : {screener_url}')
-            status = download_screener(screener_url, dashboard=True)
-            if status == 100:
-                continue
+            download_screener(screener_url, dashboard=True)
             latest_file = get_latest_download()
             fetched_file = move(latest_file, destination_file)
         else:
-            status = download_screener(screener_url)
-            if status == 100:
-                continue
+            download_screener(screener_url)
             latest_file = get_latest_download()
             fetched_file = move(latest_file, destination_file)
 

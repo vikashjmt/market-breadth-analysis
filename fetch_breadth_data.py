@@ -644,7 +644,7 @@ def detect_crossovers(ma_list):
         for line in reversed(list_line):
             print(line, file=analysis_file)
     print(('\n\nMarket Breadth MA analysis link: '
-           'https://github.com/vikashjmt/market-breadth-analysis/blob/main/market_breadth/analysis.txt')
+           'https://github.com/vikashjmt/market-breadth-analysis/blob/main/market_breadth/analysis.txt'))
 
 
 def get_and_process_ma_values(twenty_ema_data):

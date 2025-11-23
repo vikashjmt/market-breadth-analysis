@@ -643,7 +643,8 @@ def detect_crossovers(ma_list):
     with open(MB_ANALYSIS_FILE, 'w') as analysis_file:
         for line in reversed(list_line):
             print(line, file=analysis_file)
-    print(f'Market Breadth MA analysis link: https://github.com/vikashjmt/market_breadth/analysis.txt')
+    print(('\n\nMarket Breadth MA analysis link: '
+           'https://github.com/vikashjmt/market-breadth-analysis/blob/main/market_breadth/analysis.txt')
 
 
 def get_and_process_ma_values(twenty_ema_data):
@@ -699,8 +700,8 @@ if __name__ == "__main__":
             twenty_ema_data, Date = get_ema_data(MB_CONSOLIDATION_FILE)
             # print(twenty_ema_data)
             # ic(Date)
-            process_ema_data(twenty_ema_data, Date, history_days)
             get_and_process_ma_values(twenty_ema_data)
+            process_ema_data(twenty_ema_data, Date, history_days)
         else:
             json_file = convert_to_json(fetched_file)
             if 'macd-crossover' in screener_url:

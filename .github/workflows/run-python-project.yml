@@ -59,5 +59,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git add Report
+          # Add MB analysis
+          git add market_breadth/analysis.txt market_breadth/consolidated_market_breadth.csv
+          git add market_breadth/index_value.txt
           git commit -m "Auto-generated report at `date +'%Y-%m-%d_%H:%M'`" || echo "No changes to commit"
           git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git

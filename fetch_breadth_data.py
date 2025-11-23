@@ -9,7 +9,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 from selenium import webdriver
-# from icecream import ic
+from icecream import ic
 from pathlib import Path
 from shutil import move
 from datetime import datetime
@@ -23,6 +23,10 @@ options = Options()
 options.add_argument("--headless")  # Run in headless mode
 options.add_argument("--no-sandbox")
 options.add_argument("--disable-dev-shm-usage")
+
+MB_CONSOLIDATION_FILE = "market_breadth/consolidated_market_breadth.csv"
+INDEX_VALUE_FILE = "market_breadth/index_value.txt"
+MB_ANALYSIS_FILE = "market_breadth/analysis.txt"
 
 
 def download_screener(url, dashboard=False):
@@ -58,7 +62,7 @@ def download_screener(url, dashboard=False):
                 (By.XPATH, "//div[contains(text(), 'Download csv')]"))
         )
         dom.click()
-        print("Downloading CSV...")
+        # print("Downloading CSV...")
 
     # Give 10s time for download (safest across systems)
     sleep(10)
@@ -69,7 +73,7 @@ def get_latest_download():
     download_folder = Path.home() / 'Downloads'
     # Get all csv files
     files = download_folder.glob('*csv')
-    print(f'Download folder: {download_folder}')
+    # print(f'Download folder: {download_folder}')
     files = list(files)
     if not files:
         raise FileNotFoundError("No CSV files found in Downloads")
@@ -391,6 +395,109 @@ def analyze_weekly_macd_xdown_data(json_file, screener_url):
         prev_status = curr_status
 
 
+def update_breadth_csv(old_path: str, new_path: str, out_path: str = None) -> None:
+    """
+    old_path: path to existing (previous) CSV
+    new_path: path to newly downloaded CSV (newest date at top)
+    out_path: where to write updated CSV; if None, overwrite old_path
+    """
+
+    # 1. Read previous file completely (header + rows)
+    with open(old_path, newline="", encoding="utf-8") as f_old:
+        reader_old = list(csv.reader(f_old))
+
+    if not reader_old:
+        # No data in previous file, just copy new file over it
+        if out_path is None:
+            out_path = old_path
+        with open(new_path, newline="", encoding="utf-8") as f_new, \
+                open(out_path, "w", newline="", encoding="utf-8") as f_out:
+            for line in f_new:
+                f_out.write(line)
+        return
+
+    header_old = reader_old[0]
+    old_rows = reader_old[1:]
+
+    # Top row date in previous file (first data row, column 0)
+    if not old_rows:
+        top_prev_date = None
+    else:
+        top_prev_date = old_rows[0][0]
+
+    # 2. Read new downloaded file completely
+    with open(new_path, newline="", encoding="utf-8") as f_new:
+        reader_new = list(csv.reader(f_new))
+
+    if not reader_new:
+        # New file is empty; nothing to do
+        return
+
+    header_new = reader_new[0]
+    new_rows = reader_new[1:]
+
+    # Optional sanity check: headers should match
+    # If you want, you can raise an error if they don't:
+    # if header_old != header_new:
+    #     raise ValueError("Header mismatch between old and new CSV files")
+
+    if top_prev_date is None:
+        # No old rows; all new_rows are new, just use new file
+        if out_path is None:
+            out_path = old_path
+        with open(out_path, "w", newline="", encoding="utf-8") as f_out:
+            writer = csv.writer(f_out)
+            writer.writerow(header_new)
+            writer.writerows(new_rows)
+        return
+
+    # 3. Compare top dates: if same, exit (no update)
+    if not new_rows:
+        # New file has only header and no data; nothing to do
+        return
+
+    top_new_date = new_rows[0][0]
+
+    if top_new_date == top_prev_date:
+        # Top dates are same, no new data; exit
+        return
+
+    # 4. Traverse new_rows and collect rows until top_prev_date is found
+    temp_rows = []  # rows to prepend
+    found_top_prev = False
+
+    for row in new_rows:
+        row_date = row[0]
+
+        if row_date == top_prev_date:
+            found_top_prev = True
+            break
+        else:
+            # Temporarily record this row
+            temp_rows.append(row)
+
+    # If never found, you have two choices:
+    # (a) treat all rows as new, or
+    # (b) do nothing because something is inconsistent.
+    # Here, use (a): all rows are new.
+    if not found_top_prev:
+        temp_rows = new_rows
+
+    # 5. Write updated file with new rows on top (recorded order, then old data)
+    if out_path is None:
+        out_path = old_path
+
+    with open(out_path, "w", newline="", encoding="utf-8") as f_out:
+        writer = csv.writer(f_out)
+        writer.writerow(header_old)
+        # new rows first (on top)
+        for row in temp_rows:
+            writer.writerow(row)
+        # then all previous rows
+        for row in old_rows:
+            writer.writerow(row)
+
+
 def analyze_json_data(json_file, screener_url):
     count_list = []
     all_counts = []
@@ -429,6 +536,125 @@ def analyze_json_data(json_file, screener_url):
         fd.write(f'\n{star_pattern}\nStatus: {status}\n{star_pattern}\n')
 
 
+def moving_averages(data, periods=[10, 20, 50, 200]):
+    n = len(data)
+
+    # Compute prefix sums for O(1) range-sum
+    prefix = [0]
+    for x in data:
+        prefix.append(prefix[-1] + int(x))
+
+    result = []
+
+    for i in range(n):
+        idx_result = {}
+        for p in periods:
+            end = i + p
+            if end <= n:
+                # Average = (sum from i to i+p-1) / p
+                s = prefix[end] - prefix[i]
+                idx_result[f"ma{p}"] = s / p
+            else:
+                idx_result[f"ma{p}"] = 0   # Not enough data
+        result.append(idx_result)
+
+    return result
+
+
+def detect_crossovers(ma_list):
+    # Process from oldest → newest
+    rev = list(ma_list)
+    # Print
+    with open(INDEX_VALUE_FILE, 'w') as index_file:
+        for index in range(len(rev)):
+            print(f'{index}: {rev[index]}', file=index_file)
+        """
+        current = rev[index]
+        print(f"Index:{index}", end=' ')
+        if current['ma10'] > current['ma20']:
+            print('ma10 > ma20', end=' ')
+        else:
+            print('ma10 < ma20', end=' ')
+        if current['ma20'] > current['ma50']:
+            print('ma20 > ma50', end=' ')
+        else:
+            print('ma20 < ma50', end=' ')
+        if current['ma50'] > current['ma200']:
+            print('ma50 > ma200')
+        else:
+            print('ma50 < ma200')
+        """
+    list_line = []
+    for i in range(len(rev)-1, -1, -1):
+        prev = rev[i]
+        curr = rev[i-1]
+        # print(f"{i}:", end=' ', file=analysis_file)
+        line = f"{i}: "
+        if prev['ma10'] > prev['ma20']:
+            # print('ma10 > ma20', end=' ', file=analysis_file)
+            line += 'ma10 > ma20' 
+        else:
+            # print('ma10 < ma20', end=' ', file=analysis_file)
+            line += 'ma10 < ma20'
+        if prev['ma20'] > prev['ma50']:
+            # print(' > ma50', end=' ', file=analysis_file)
+            line += ' > ma50'
+        else:
+            # print(' < ma50', end=' ', file=analysis_file)
+            line += ' < ma50'
+        if prev['ma50'] > prev['ma200']:
+            # print(' > ma200', file=analysis_file)
+            line += ' > ma200'
+        else:
+            # print(' < ma200', file=analysis_file)
+            line += ' < ma200'
+
+        # Short-term bullish
+        if prev["ma20"] < prev["ma50"] and curr["ma20"] > curr["ma50"]:
+            if curr["ma50"] > curr["ma200"]:
+                # print(f"Index {i}: Strong Bullish momentum", file=analysis_file)
+                line += f"\n\tIndex {i}: Strong Bullish momentum"
+            else:
+                # print(f"Index {i}: Weak Bullish momentum", file=analysis_file)
+                line += f"\n\tIndex {i}: Weak Bullish momentum"
+
+        # Short-term bearish
+        if prev["ma20"] > prev["ma50"] and curr["ma20"] < curr["ma50"]:
+            if curr["ma50"] > curr["ma200"]:
+                # print(f"Index {i}: Short-term Bearish momentum", file=analysis_file)
+                line += f"\n\tIndex {i}: Short-term Bearish momentum"
+            else:
+                # print(f"Index {i}: Strong Bearish momentum", file=analysis_file)
+                line += f"\n\tIndex {i}: Strong Bearish momentum"
+
+        # Long-term bullish
+        if prev["ma50"] < prev["ma200"] and curr["ma50"] > curr["ma200"]:
+            if curr["ma20"] > curr["ma50"]:
+                # print(f"Index {i}: Start of Long-term Bullish market", file=analysis_file)
+                line += f"\n\tIndex {i}: Start of Long-term Bullish market"
+        # Long-term bearish
+        if prev["ma50"] > prev["ma200"] and curr["ma50"] < curr["ma200"]:
+            if curr["ma20"] < curr["ma50"]:
+                # print(f"Index {i}: Start of Long-term Bearish market", file=analysis_file)
+                line += f"\n\tIndex {i}: Start of Long-term Bearish market"
+        # Update to list
+        list_line.append(line)
+        # Update to file in reverse order
+    with open(MB_ANALYSIS_FILE, 'w') as analysis_file:
+        for line in reversed(list_line):
+            print(line, file=analysis_file)
+    print(f'Market Breadth MA analysis link: https://github.com/vikashjmt/market_breadth/analysis.txt')
+
+
+def get_and_process_ma_values(twenty_ema_data):
+    ema_20_values = list(twenty_ema_data.values())
+    out = moving_averages(ema_20_values)
+    # ic(out)
+    # for index in range(len(out)):
+    #    print(f'{index}: {out[index]}')
+    detect_crossovers(out)
+
+
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--history-days", type=int,
@@ -444,7 +670,7 @@ if __name__ == "__main__":
     for screener in data:
         screener_url = data[screener]['url']
         destination_folder = f"{data_dir}/{data[screener]['folder']}"
-        print(f'Destination folder: {destination_folder}')
+        # print(f'Destination folder: {destination_folder}')
         Path(destination_folder).mkdir(parents=True,
                                        exist_ok=True)
         if 'dashboard' in screener_url:
@@ -466,11 +692,15 @@ if __name__ == "__main__":
             fetched_file = move(latest_file, destination_file)
 
         if 'dashboard' in screener_url:
+            # Update the consolidated csv
+            update_breadth_csv(MB_CONSOLIDATION_FILE,
+                               fetched_file)
             # Get number of stocks above 20 ema data
-            twenty_ema_data, Date = get_ema_data(fetched_file)
+            twenty_ema_data, Date = get_ema_data(MB_CONSOLIDATION_FILE)
             # print(twenty_ema_data)
             # ic(Date)
             process_ema_data(twenty_ema_data, Date, history_days)
+            get_and_process_ma_values(twenty_ema_data)
         else:
             json_file = convert_to_json(fetched_file)
             if 'macd-crossover' in screener_url:

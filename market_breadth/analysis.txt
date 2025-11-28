@@ -5,15 +5,15 @@
 4: ma10 < ma20 < ma50 < ma200
 5: ma10 < ma20 < ma50 < ma200
 6: ma10 < ma20 < ma50 < ma200
-7: ma10 < ma20 < ma50 > ma200
-	Index 7: Start of Long-term Bearish market
+7: ma10 < ma20 < ma50 < ma200
 8: ma10 < ma20 < ma50 > ma200
+	Index 8: Start of Long-term Bearish market
 9: ma10 < ma20 < ma50 > ma200
 10: ma10 < ma20 < ma50 > ma200
 11: ma10 < ma20 < ma50 > ma200
 12: ma10 < ma20 < ma50 > ma200
 13: ma10 < ma20 < ma50 > ma200
-14: ma10 > ma20 < ma50 > ma200
+14: ma10 < ma20 < ma50 > ma200
 15: ma10 > ma20 < ma50 > ma200
 16: ma10 > ma20 < ma50 > ma200
 17: ma10 > ma20 < ma50 > ma200
@@ -24,12 +24,12 @@
 22: ma10 > ma20 < ma50 > ma200
 23: ma10 > ma20 < ma50 > ma200
 24: ma10 > ma20 < ma50 > ma200
-25: ma10 > ma20 < ma50 < ma200
+25: ma10 > ma20 < ma50 > ma200
 26: ma10 > ma20 < ma50 < ma200
 27: ma10 > ma20 < ma50 < ma200
-28: ma10 < ma20 > ma50 < ma200
-	Index 28: Strong Bearish momentum
+28: ma10 > ma20 < ma50 < ma200
 29: ma10 < ma20 > ma50 < ma200
+	Index 29: Strong Bearish momentum
 30: ma10 < ma20 > ma50 < ma200
 31: ma10 < ma20 > ma50 < ma200
 32: ma10 < ma20 > ma50 < ma200
@@ -41,7 +41,7 @@
 38: ma10 < ma20 > ma50 < ma200
 39: ma10 < ma20 > ma50 < ma200
 40: ma10 < ma20 > ma50 < ma200
-41: ma10 > ma20 > ma50 < ma200
+41: ma10 < ma20 > ma50 < ma200
 42: ma10 > ma20 > ma50 < ma200
 43: ma10 > ma20 > ma50 < ma200
 44: ma10 > ma20 > ma50 < ma200
@@ -52,13 +52,13 @@
 49: ma10 > ma20 > ma50 < ma200
 50: ma10 > ma20 > ma50 < ma200
 51: ma10 > ma20 > ma50 < ma200
-52: ma10 > ma20 < ma50 < ma200
-	Index 52: Weak Bullish momentum
+52: ma10 > ma20 > ma50 < ma200
 53: ma10 > ma20 < ma50 < ma200
+	Index 53: Weak Bullish momentum
 54: ma10 > ma20 < ma50 < ma200
-55: ma10 > ma20 < ma50 > ma200
-	Index 55: Start of Long-term Bearish market
+55: ma10 > ma20 < ma50 < ma200
 56: ma10 > ma20 < ma50 > ma200
+	Index 56: Start of Long-term Bearish market
 57: ma10 > ma20 < ma50 > ma200
 58: ma10 > ma20 < ma50 > ma200
 59: ma10 > ma20 < ma50 > ma200
@@ -69,7 +69,7 @@
 64: ma10 > ma20 < ma50 > ma200
 65: ma10 > ma20 < ma50 > ma200
 66: ma10 > ma20 < ma50 > ma200
-67: ma10 < ma20 < ma50 > ma200
+67: ma10 > ma20 < ma50 > ma200
 68: ma10 < ma20 < ma50 > ma200
 69: ma10 < ma20 < ma50 > ma200
 70: ma10 < ma20 < ma50 > ma200
@@ -93,7 +93,7 @@
 88: ma10 < ma20 < ma50 > ma200
 89: ma10 < ma20 < ma50 > ma200
 90: ma10 < ma20 < ma50 > ma200
-91: ma10 > ma20 < ma50 > ma200
+91: ma10 < ma20 < ma50 > ma200
 92: ma10 > ma20 < ma50 > ma200
 93: ma10 > ma20 < ma50 > ma200
 94: ma10 > ma20 < ma50 > ma200
@@ -102,7 +102,7 @@
 97: ma10 > ma20 < ma50 > ma200
 98: ma10 > ma20 < ma50 > ma200
 99: ma10 > ma20 < ma50 > ma200
-100: ma10 < ma20 < ma50 > ma200
+100: ma10 > ma20 < ma50 > ma200
 101: ma10 < ma20 < ma50 > ma200
 102: ma10 < ma20 < ma50 > ma200
 103: ma10 < ma20 < ma50 > ma200
@@ -111,9 +111,9 @@
 106: ma10 < ma20 < ma50 > ma200
 107: ma10 < ma20 < ma50 > ma200
 108: ma10 < ma20 < ma50 > ma200
-109: ma10 < ma20 > ma50 > ma200
-	Index 109: Short-term Bearish momentum
+109: ma10 < ma20 < ma50 > ma200
 110: ma10 < ma20 > ma50 > ma200
+	Index 110: Short-term Bearish momentum
 111: ma10 < ma20 > ma50 > ma200
 112: ma10 < ma20 > ma50 > ma200
 113: ma10 < ma20 > ma50 > ma200
@@ -124,7 +124,7 @@
 118: ma10 < ma20 > ma50 > ma200
 119: ma10 < ma20 > ma50 > ma200
 120: ma10 < ma20 > ma50 > ma200
-121: ma10 > ma20 > ma50 > ma200
+121: ma10 < ma20 > ma50 > ma200
 122: ma10 > ma20 > ma50 > ma200
 123: ma10 > ma20 > ma50 > ma200
 124: ma10 > ma20 > ma50 > ma200
@@ -136,7 +136,7 @@
 130: ma10 > ma20 > ma50 > ma200
 131: ma10 > ma20 > ma50 > ma200
 132: ma10 > ma20 > ma50 > ma200
-133: ma10 < ma20 > ma50 > ma200
+133: ma10 > ma20 > ma50 > ma200
 134: ma10 < ma20 > ma50 > ma200
 135: ma10 < ma20 > ma50 > ma200
 136: ma10 < ma20 > ma50 > ma200
@@ -144,24 +144,24 @@
 138: ma10 < ma20 > ma50 > ma200
 139: ma10 < ma20 > ma50 > ma200
 140: ma10 < ma20 > ma50 > ma200
-141: ma10 > ma20 > ma50 > ma200
+141: ma10 < ma20 > ma50 > ma200
 142: ma10 > ma20 > ma50 > ma200
 143: ma10 > ma20 > ma50 > ma200
-144: ma10 > ma20 > ma50 < ma200
-	Index 144: Start of Long-term Bullish market
+144: ma10 > ma20 > ma50 > ma200
 145: ma10 > ma20 > ma50 < ma200
+	Index 145: Start of Long-term Bullish market
 146: ma10 > ma20 > ma50 < ma200
 147: ma10 > ma20 > ma50 < ma200
 148: ma10 > ma20 > ma50 < ma200
 149: ma10 > ma20 > ma50 < ma200
 150: ma10 > ma20 > ma50 < ma200
-151: ma10 < ma20 > ma50 < ma200
+151: ma10 > ma20 > ma50 < ma200
 152: ma10 < ma20 > ma50 < ma200
 153: ma10 < ma20 > ma50 < ma200
 154: ma10 < ma20 > ma50 < ma200
 155: ma10 < ma20 > ma50 < ma200
 156: ma10 < ma20 > ma50 < ma200
-157: ma10 > ma20 > ma50 < ma200
+157: ma10 < ma20 > ma50 < ma200
 158: ma10 > ma20 > ma50 < ma200
 159: ma10 > ma20 > ma50 < ma200
 160: ma10 > ma20 > ma50 < ma200
@@ -175,16 +175,16 @@
 168: ma10 > ma20 > ma50 < ma200
 169: ma10 > ma20 > ma50 < ma200
 170: ma10 > ma20 > ma50 < ma200
-171: ma10 > ma20 < ma50 < ma200
-	Index 171: Weak Bullish momentum
+171: ma10 > ma20 > ma50 < ma200
 172: ma10 > ma20 < ma50 < ma200
+	Index 172: Weak Bullish momentum
 173: ma10 > ma20 < ma50 < ma200
 174: ma10 > ma20 < ma50 < ma200
 175: ma10 > ma20 < ma50 < ma200
 176: ma10 > ma20 < ma50 < ma200
 177: ma10 > ma20 < ma50 < ma200
 178: ma10 > ma20 < ma50 < ma200
-179: ma10 < ma20 < ma50 < ma200
+179: ma10 > ma20 < ma50 < ma200
 180: ma10 < ma20 < ma50 < ma200
 181: ma10 < ma20 < ma50 < ma200
 182: ma10 < ma20 < ma50 < ma200
@@ -195,7 +195,7 @@
 187: ma10 < ma20 < ma50 < ma200
 188: ma10 < ma20 < ma50 < ma200
 189: ma10 < ma20 < ma50 < ma200
-190: ma10 > ma20 < ma50 < ma200
+190: ma10 < ma20 < ma50 < ma200
 191: ma10 > ma20 < ma50 < ma200
 192: ma10 > ma20 < ma50 < ma200
 193: ma10 > ma20 < ma50 < ma200
@@ -206,7 +206,7 @@
 198: ma10 > ma20 < ma50 < ma200
 199: ma10 > ma20 < ma50 < ma200
 200: ma10 > ma20 < ma50 < ma200
-201: ma10 < ma20 < ma50 < ma200
+201: ma10 > ma20 < ma50 < ma200
 202: ma10 < ma20 < ma50 < ma200
 203: ma10 < ma20 < ma50 < ma200
 204: ma10 < ma20 < ma50 < ma200
@@ -226,9 +226,9 @@
 218: ma10 < ma20 < ma50 < ma200
 219: ma10 < ma20 < ma50 < ma200
 220: ma10 < ma20 < ma50 < ma200
-221: ma10 < ma20 > ma50 < ma200
-	Index 221: Strong Bearish momentum
+221: ma10 < ma20 < ma50 < ma200
 222: ma10 < ma20 > ma50 < ma200
+	Index 222: Strong Bearish momentum
 223: ma10 < ma20 > ma50 < ma200
 224: ma10 < ma20 > ma50 < ma200
 225: ma10 < ma20 > ma50 < ma200
@@ -239,7 +239,7 @@
 230: ma10 < ma20 > ma50 < ma200
 231: ma10 < ma20 > ma50 < ma200
 232: ma10 < ma20 > ma50 < ma200
-233: ma10 > ma20 > ma50 < ma200
+233: ma10 < ma20 > ma50 < ma200
 234: ma10 > ma20 > ma50 < ma200
 235: ma10 > ma20 > ma50 < ma200
 236: ma10 > ma20 > ma50 < ma200
@@ -253,14 +253,14 @@
 244: ma10 > ma20 > ma50 < ma200
 245: ma10 > ma20 > ma50 < ma200
 246: ma10 > ma20 > ma50 < ma200
-247: ma10 < ma20 > ma50 < ma200
+247: ma10 > ma20 > ma50 < ma200
 248: ma10 < ma20 > ma50 < ma200
-249: ma10 < ma20 < ma50 < ma200
-	Index 249: Weak Bullish momentum
+249: ma10 < ma20 > ma50 < ma200
 250: ma10 < ma20 < ma50 < ma200
+	Index 250: Weak Bullish momentum
 251: ma10 < ma20 < ma50 < ma200
 252: ma10 < ma20 < ma50 < ma200
-253: ma10 > ma20 < ma50 < ma200
+253: ma10 < ma20 < ma50 < ma200
 254: ma10 > ma20 < ma50 < ma200
 255: ma10 > ma20 < ma50 < ma200
 256: ma10 > ma20 < ma50 < ma200
@@ -269,7 +269,7 @@
 259: ma10 > ma20 < ma50 < ma200
 260: ma10 > ma20 < ma50 < ma200
 261: ma10 > ma20 < ma50 < ma200
-262: ma10 < ma20 < ma50 < ma200
+262: ma10 > ma20 < ma50 < ma200
 263: ma10 < ma20 < ma50 < ma200
 264: ma10 < ma20 < ma50 < ma200
 265: ma10 < ma20 < ma50 < ma200
@@ -297,22 +297,22 @@
 287: ma10 < ma20 < ma50 < ma200
 288: ma10 < ma20 < ma50 < ma200
 289: ma10 < ma20 < ma50 < ma200
-290: ma10 < ma20 > ma50 < ma200
-	Index 290: Strong Bearish momentum
+290: ma10 < ma20 < ma50 < ma200
 291: ma10 < ma20 > ma50 < ma200
+	Index 291: Strong Bearish momentum
 292: ma10 < ma20 > ma50 < ma200
 293: ma10 < ma20 > ma50 < ma200
 294: ma10 < ma20 > ma50 < ma200
 295: ma10 < ma20 > ma50 < ma200
 296: ma10 < ma20 > ma50 < ma200
-297: ma10 < ma20 > ma50 > ma200
+297: ma10 < ma20 > ma50 < ma200
 298: ma10 < ma20 > ma50 > ma200
 299: ma10 < ma20 > ma50 > ma200
 300: ma10 < ma20 > ma50 > ma200
 301: ma10 < ma20 > ma50 > ma200
-302: ma10 > ma20 < ma50 > ma200
-	Index 302: Strong Bullish momentum
+302: ma10 < ma20 > ma50 > ma200
 303: ma10 > ma20 < ma50 > ma200
+	Index 303: Strong Bullish momentum
 304: ma10 > ma20 < ma50 > ma200
 305: ma10 > ma20 < ma50 > ma200
 306: ma10 > ma20 < ma50 > ma200
@@ -323,7 +323,7 @@
 311: ma10 > ma20 < ma50 > ma200
 312: ma10 > ma20 < ma50 > ma200
 313: ma10 > ma20 < ma50 > ma200
-314: ma10 < ma20 < ma50 > ma200
+314: ma10 > ma20 < ma50 > ma200
 315: ma10 < ma20 < ma50 > ma200
 316: ma10 < ma20 < ma50 > ma200
 317: ma10 < ma20 < ma50 > ma200
@@ -337,9 +337,9 @@
 325: ma10 < ma20 < ma50 > ma200
 326: ma10 < ma20 < ma50 > ma200
 327: ma10 < ma20 < ma50 > ma200
-328: ma10 < ma20 > ma50 > ma200
-	Index 328: Short-term Bearish momentum
+328: ma10 < ma20 < ma50 > ma200
 329: ma10 < ma20 > ma50 > ma200
+	Index 329: Short-term Bearish momentum
 330: ma10 < ma20 > ma50 > ma200
 331: ma10 < ma20 > ma50 > ma200
 332: ma10 < ma20 > ma50 > ma200
@@ -359,7 +359,7 @@
 346: ma10 < ma20 > ma50 > ma200
 347: ma10 < ma20 > ma50 > ma200
 348: ma10 < ma20 > ma50 > ma200
-349: ma10 > ma20 > ma50 > ma200
+349: ma10 < ma20 > ma50 > ma200
 350: ma10 > ma20 > ma50 > ma200
 351: ma10 > ma20 > ma50 > ma200
 352: ma10 > ma20 > ma50 > ma200
@@ -368,27 +368,27 @@
 355: ma10 > ma20 > ma50 > ma200
 356: ma10 > ma20 > ma50 > ma200
 357: ma10 > ma20 > ma50 > ma200
-358: ma10 > ma20 < ma50 > ma200
-	Index 358: Strong Bullish momentum
+358: ma10 > ma20 > ma50 > ma200
 359: ma10 > ma20 < ma50 > ma200
+	Index 359: Strong Bullish momentum
 360: ma10 > ma20 < ma50 > ma200
 361: ma10 > ma20 < ma50 > ma200
 362: ma10 > ma20 < ma50 > ma200
-363: ma10 < ma20 < ma50 > ma200
+363: ma10 > ma20 < ma50 > ma200
 364: ma10 < ma20 < ma50 > ma200
 365: ma10 < ma20 < ma50 > ma200
 366: ma10 < ma20 < ma50 > ma200
 367: ma10 < ma20 < ma50 > ma200
-368: ma10 < ma20 < ma50 < ma200
+368: ma10 < ma20 < ma50 > ma200
 369: ma10 < ma20 < ma50 < ma200
-370: ma10 > ma20 < ma50 < ma200
+370: ma10 < ma20 < ma50 < ma200
 371: ma10 > ma20 < ma50 < ma200
 372: ma10 > ma20 < ma50 < ma200
 373: ma10 > ma20 < ma50 < ma200
 374: ma10 > ma20 < ma50 < ma200
-375: ma10 > ma20 > ma50 < ma200
-	Index 375: Strong Bearish momentum
-376: ma10 < ma20 > ma50 < ma200
+375: ma10 > ma20 < ma50 < ma200
+376: ma10 > ma20 > ma50 < ma200
+	Index 376: Strong Bearish momentum
 377: ma10 < ma20 > ma50 < ma200
 378: ma10 < ma20 > ma50 < ma200
 379: ma10 < ma20 > ma50 < ma200
@@ -400,33 +400,33 @@
 385: ma10 < ma20 > ma50 < ma200
 386: ma10 < ma20 > ma50 < ma200
 387: ma10 < ma20 > ma50 < ma200
-388: ma10 > ma20 > ma50 < ma200
+388: ma10 < ma20 > ma50 < ma200
 389: ma10 > ma20 > ma50 < ma200
 390: ma10 > ma20 > ma50 < ma200
-391: ma10 < ma20 > ma50 < ma200
+391: ma10 > ma20 > ma50 < ma200
 392: ma10 < ma20 > ma50 < ma200
 393: ma10 < ma20 > ma50 < ma200
 394: ma10 < ma20 > ma50 < ma200
 395: ma10 < ma20 > ma50 < ma200
 396: ma10 < ma20 > ma50 < ma200
-397: ma10 > ma20 > ma50 < ma200
+397: ma10 < ma20 > ma50 < ma200
 398: ma10 > ma20 > ma50 < ma200
 399: ma10 > ma20 > ma50 < ma200
 400: ma10 > ma20 > ma50 < ma200
 401: ma10 > ma20 > ma50 < ma200
 402: ma10 > ma20 > ma50 < ma200
 403: ma10 > ma20 > ma50 < ma200
-404: ma10 > ma20 < ma50 < ma200
-	Index 404: Weak Bullish momentum
+404: ma10 > ma20 > ma50 < ma200
 405: ma10 > ma20 < ma50 < ma200
-406: ma10 > ma20 < ma50 > ma200
-	Index 406: Start of Long-term Bearish market
+	Index 405: Weak Bullish momentum
+406: ma10 > ma20 < ma50 < ma200
 407: ma10 > ma20 < ma50 > ma200
+	Index 407: Start of Long-term Bearish market
 408: ma10 > ma20 < ma50 > ma200
 409: ma10 > ma20 < ma50 > ma200
 410: ma10 > ma20 < ma50 > ma200
 411: ma10 > ma20 < ma50 > ma200
-412: ma10 < ma20 < ma50 > ma200
+412: ma10 > ma20 < ma50 > ma200
 413: ma10 < ma20 < ma50 > ma200
 414: ma10 < ma20 < ma50 > ma200
 415: ma10 < ma20 < ma50 > ma200
@@ -458,11 +458,11 @@
 441: ma10 < ma20 < ma50 > ma200
 442: ma10 < ma20 < ma50 > ma200
 443: ma10 < ma20 < ma50 > ma200
-444: ma10 > ma20 < ma50 > ma200
+444: ma10 < ma20 < ma50 > ma200
 445: ma10 > ma20 < ma50 > ma200
 446: ma10 > ma20 < ma50 > ma200
 447: ma10 > ma20 < ma50 > ma200
-448: ma10 < ma20 < ma50 > ma200
+448: ma10 > ma20 < ma50 > ma200
 449: ma10 < ma20 < ma50 > ma200
 450: ma10 < ma20 < ma50 > ma200
 451: ma10 < ma20 < ma50 > ma200
@@ -470,13 +470,13 @@
 453: ma10 < ma20 < ma50 > ma200
 454: ma10 < ma20 < ma50 > ma200
 455: ma10 < ma20 < ma50 > ma200
-456: ma10 < ma20 > ma50 > ma200
-	Index 456: Short-term Bearish momentum
+456: ma10 < ma20 < ma50 > ma200
 457: ma10 < ma20 > ma50 > ma200
+	Index 457: Short-term Bearish momentum
 458: ma10 < ma20 > ma50 > ma200
 459: ma10 < ma20 > ma50 > ma200
 460: ma10 < ma20 > ma50 > ma200
-461: ma10 > ma20 > ma50 > ma200
+461: ma10 < ma20 > ma50 > ma200
 462: ma10 > ma20 > ma50 > ma200
 463: ma10 > ma20 > ma50 > ma200
 464: ma10 > ma20 > ma50 > ma200
@@ -487,7 +487,7 @@
 469: ma10 > ma20 > ma50 > ma200
 470: ma10 > ma20 > ma50 > ma200
 471: ma10 > ma20 > ma50 > ma200
-472: ma10 < ma20 > ma50 > ma200
+472: ma10 > ma20 > ma50 > ma200
 473: ma10 < ma20 > ma50 > ma200
 474: ma10 < ma20 > ma50 > ma200
 475: ma10 < ma20 > ma50 > ma200
@@ -496,7 +496,7 @@
 478: ma10 < ma20 > ma50 > ma200
 479: ma10 < ma20 > ma50 > ma200
 480: ma10 < ma20 > ma50 > ma200
-481: ma10 > ma20 > ma50 > ma200
+481: ma10 < ma20 > ma50 > ma200
 482: ma10 > ma20 > ma50 > ma200
 483: ma10 > ma20 > ma50 > ma200
 484: ma10 > ma20 > ma50 > ma200
@@ -516,16 +516,16 @@
 498: ma10 > ma20 > ma50 > ma200
 499: ma10 > ma20 > ma50 > ma200
 500: ma10 > ma20 > ma50 > ma200
-501: ma10 > ma20 < ma50 > ma200
-	Index 501: Strong Bullish momentum
+501: ma10 > ma20 > ma50 > ma200
 502: ma10 > ma20 < ma50 > ma200
+	Index 502: Strong Bullish momentum
 503: ma10 > ma20 < ma50 > ma200
 504: ma10 > ma20 < ma50 > ma200
 505: ma10 > ma20 < ma50 > ma200
 506: ma10 > ma20 < ma50 > ma200
 507: ma10 > ma20 < ma50 > ma200
 508: ma10 > ma20 < ma50 > ma200
-509: ma10 < ma20 < ma50 > ma200
+509: ma10 > ma20 < ma50 > ma200
 510: ma10 < ma20 < ma50 > ma200
 511: ma10 < ma20 < ma50 > ma200
 512: ma10 < ma20 < ma50 > ma200
@@ -535,7 +535,7 @@
 516: ma10 < ma20 < ma50 > ma200
 517: ma10 < ma20 < ma50 > ma200
 518: ma10 < ma20 < ma50 > ma200
-519: ma10 > ma20 < ma50 > ma200
+519: ma10 < ma20 < ma50 > ma200
 520: ma10 > ma20 < ma50 > ma200
 521: ma10 > ma20 < ma50 > ma200
 522: ma10 > ma20 < ma50 > ma200
@@ -544,7 +544,7 @@
 525: ma10 > ma20 < ma50 > ma200
 526: ma10 > ma20 < ma50 > ma200
 527: ma10 > ma20 < ma50 > ma200
-528: ma10 < ma20 < ma50 > ma200
+528: ma10 > ma20 < ma50 > ma200
 529: ma10 < ma20 < ma50 > ma200
 530: ma10 < ma20 < ma50 > ma200
 531: ma10 < ma20 < ma50 > ma200
@@ -553,30 +553,30 @@
 534: ma10 < ma20 < ma50 > ma200
 535: ma10 < ma20 < ma50 > ma200
 536: ma10 < ma20 < ma50 > ma200
-537: ma10 < ma20 > ma50 > ma200
-	Index 537: Short-term Bearish momentum
+537: ma10 < ma20 < ma50 > ma200
 538: ma10 < ma20 > ma50 > ma200
+	Index 538: Short-term Bearish momentum
 539: ma10 < ma20 > ma50 > ma200
 540: ma10 < ma20 > ma50 > ma200
 541: ma10 < ma20 > ma50 > ma200
 542: ma10 < ma20 > ma50 > ma200
 543: ma10 < ma20 > ma50 > ma200
-544: ma10 > ma20 > ma50 > ma200
+544: ma10 < ma20 > ma50 > ma200
 545: ma10 > ma20 > ma50 > ma200
 546: ma10 > ma20 > ma50 > ma200
 547: ma10 > ma20 > ma50 > ma200
 548: ma10 > ma20 > ma50 > ma200
 549: ma10 > ma20 > ma50 > ma200
-550: ma10 > ma20 < ma50 > ma200
-	Index 550: Strong Bullish momentum
+550: ma10 > ma20 > ma50 > ma200
 551: ma10 > ma20 < ma50 > ma200
+	Index 551: Strong Bullish momentum
 552: ma10 > ma20 < ma50 > ma200
 553: ma10 > ma20 < ma50 > ma200
 554: ma10 > ma20 < ma50 > ma200
 555: ma10 > ma20 < ma50 > ma200
-556: ma10 > ma20 > ma50 < ma200
-	Index 556: Short-term Bearish momentum
-557: ma10 < ma20 > ma50 < ma200
+556: ma10 > ma20 < ma50 > ma200
+557: ma10 > ma20 > ma50 < ma200
+	Index 557: Short-term Bearish momentum
 558: ma10 < ma20 > ma50 < ma200
 559: ma10 < ma20 > ma50 < ma200
 560: ma10 < ma20 > ma50 < ma200
@@ -596,16 +596,16 @@
 574: ma10 < ma20 > ma50 < ma200
 575: ma10 < ma20 > ma50 < ma200
 576: ma10 < ma20 > ma50 < ma200
-577: ma10 > ma20 > ma50 < ma200
-578: ma10 < ma20 > ma50 < ma200
+577: ma10 < ma20 > ma50 < ma200
+578: ma10 > ma20 > ma50 < ma200
 579: ma10 < ma20 > ma50 < ma200
 580: ma10 < ma20 > ma50 < ma200
 581: ma10 < ma20 > ma50 < ma200
 582: ma10 < ma20 > ma50 < ma200
-583: ma10 > ma20 > ma50 < ma200
+583: ma10 < ma20 > ma50 < ma200
 584: ma10 > ma20 > ma50 < ma200
 585: ma10 > ma20 > ma50 < ma200
-586: ma10 > ma20 < ma50 < ma200
+586: ma10 > ma20 > ma50 < ma200
 587: ma10 > ma20 < ma50 < ma200
 588: ma10 > ma20 < ma50 < ma200
 589: ma10 > ma20 < ma50 < ma200
@@ -615,7 +615,7 @@
 593: ma10 > ma20 < ma50 < ma200
 594: ma10 > ma20 < ma50 < ma200
 595: ma10 > ma20 < ma50 < ma200
-596: ma10 < ma20 < ma50 < ma200
+596: ma10 > ma20 < ma50 < ma200
 597: ma10 < ma20 < ma50 < ma200
 598: ma10 < ma20 < ma50 < ma200
 599: ma10 < ma20 < ma50 < ma200
@@ -624,3 +624,4 @@
 602: ma10 < ma20 < ma50 < ma200
 603: ma10 < ma20 < ma50 < ma200
 604: ma10 < ma20 < ma50 < ma200
+605: ma10 < ma20 < ma50 < ma200

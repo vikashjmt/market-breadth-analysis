@@ -32,15 +32,3 @@ DAY1 | 11th Dec:
      #stocks > 20 ema (Last 5 days):
 	525, 304, 373, 387, 477
      Market Status:  Red to Yellow
-
-Number of stocks screened from screener: https://chartink.com/screener/trending-10-21-50-200
-
-Last 15 3-hour stock counts:
-[56, 48, 48, 43, 43, 41, 39, 29, 26, 13, 10, 7, 5, 12, 11]
-
-Avg of last 10 days: 31.15
-Avg of last 25 days: 45.34
-Avg of last 50 days: 57.48
-*************************
-Status: Very Bearish.
-*************************

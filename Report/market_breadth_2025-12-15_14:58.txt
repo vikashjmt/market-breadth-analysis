@@ -36,15 +36,3 @@ DAY1 | 15th Dec:
      Market Status:  Red to Yellow
 Market might have bottomed for short/long term. Beware of 3 phases of bear 
 market downfall
-
-Number of stocks screened from screener: https://chartink.com/screener/trending-10-21-50-200
-
-Last 15 3-hour stock counts:
-[43, 41, 39, 29, 26, 14, 11, 8, 6, 13, 12, 12, 14, 19, 27]
-
-Avg of last 10 days: 28.45
-Avg of last 25 days: 43.28
-Avg of last 50 days: 57.39
-*************************
-Status: Very Bearish.
-*************************

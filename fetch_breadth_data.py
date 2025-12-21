@@ -436,8 +436,6 @@ def update_breadth_csv(old_path: str, new_path: str, out_path: str = None) -> No
     header_new = reader_new[0]
     new_rows = reader_new[1:]
 
-    # Optional sanity check: headers should match
-    # If you want, you can raise an error if they don't:
     # if header_old != header_new:
     #     raise ValueError("Header mismatch between old and new CSV files")
 
@@ -467,7 +465,8 @@ def update_breadth_csv(old_path: str, new_path: str, out_path: str = None) -> No
     found_top_prev = False
 
     for row in new_rows:
-        row_date = row[0]
+        row_date = f"{row[0]} {datetime.now().year}"
+
 
         if row_date == top_prev_date:
             found_top_prev = True
@@ -561,13 +560,14 @@ def moving_averages(data, periods=[10, 20, 50, 200]):
     return result
 
 
-def detect_crossovers(ma_list):
+def detect_crossovers(ma_list, Date):
     # Process from oldest → newest
     rev = list(ma_list)
     # Print
     with open(INDEX_VALUE_FILE, 'w') as index_file:
         for index in range(len(rev)):
-            print(f'{index}: {rev[index]}', file=index_file)
+            print(f'{index}: Date: {Date[index]}, Values={rev[index]}',
+                  file=index_file)
         """
         current = rev[index]
         print(f"Index:{index}", end=' ')
@@ -589,10 +589,10 @@ def detect_crossovers(ma_list):
         prev = rev[i]
         curr = rev[i-1]
         # print(f"{i}:", end=' ', file=analysis_file)
-        line = f"{i}: "
+        line = f'\t{Date[i]:15}: '
         if prev['ma10'] > prev['ma20']:
             # print('ma10 > ma20', end=' ', file=analysis_file)
-            line += 'ma10 > ma20' 
+            line += 'ma10 > ma20'
         else:
             # print('ma10 < ma20', end=' ', file=analysis_file)
             line += 'ma10 < ma20'
@@ -613,47 +613,48 @@ def detect_crossovers(ma_list):
         if prev["ma20"] < prev["ma50"] and curr["ma20"] > curr["ma50"]:
             if curr["ma50"] > curr["ma200"]:
                 # print(f"Index {i}: Strong Bullish momentum", file=analysis_file)
-                line += f"\n\tIndex {i}: Strong Bullish momentum"
+                line += f"\nIndex {i}({Date[i]}): Strong Bullish momentum"
             else:
                 # print(f"Index {i}: Weak Bullish momentum", file=analysis_file)
-                line += f"\n\tIndex {i}: Weak Bullish momentum"
+                line += f"\nIndex {i}({Date[i]}): Weak Bullish momentum"
 
         # Short-term bearish
         if prev["ma20"] > prev["ma50"] and curr["ma20"] < curr["ma50"]:
             if curr["ma50"] > curr["ma200"]:
                 # print(f"Index {i}: Short-term Bearish momentum", file=analysis_file)
-                line += f"\n\tIndex {i}: Short-term Bearish momentum"
+                line += f"\nIndex {i}({Date[i]}): Short-term Bearish momentum"
             else:
                 # print(f"Index {i}: Strong Bearish momentum", file=analysis_file)
-                line += f"\n\tIndex {i}: Strong Bearish momentum"
+                line += f"\nIndex {i}({Date[i]}): Strong Bearish momentum"
 
         # Long-term bullish
         if prev["ma50"] < prev["ma200"] and curr["ma50"] > curr["ma200"]:
             if curr["ma20"] > curr["ma50"]:
                 # print(f"Index {i}: Start of Long-term Bullish market", file=analysis_file)
-                line += f"\n\tIndex {i}: Start of Long-term Bullish market"
+                line += f"\nIndex {i}({Date[i]}): Start of Long-term Bullish market"
         # Long-term bearish
         if prev["ma50"] > prev["ma200"] and curr["ma50"] < curr["ma200"]:
             if curr["ma20"] < curr["ma50"]:
                 # print(f"Index {i}: Start of Long-term Bearish market", file=analysis_file)
-                line += f"\n\tIndex {i}: Start of Long-term Bearish market"
+                line += f"\nIndex {i}({Date[i]}): Start of Long-term Bearish market"
         # Update to list
         list_line.append(line)
         # Update to file in reverse order
     with open(MB_ANALYSIS_FILE, 'w') as analysis_file:
         for line in reversed(list_line):
             print(line, file=analysis_file)
-    print(('\n\nMarket Breadth MA analysis link: '
+    print(f"\nToday's MB status:\n{list_line[-1]}")
+    print(('\nMarket Breadth MA analysis link: '
            'https://github.com/vikashjmt/market-breadth-analysis/blob/main/market_breadth/analysis.txt'))
 
 
-def get_and_process_ma_values(twenty_ema_data):
+def get_and_process_ma_values(twenty_ema_data, Date):
     ema_20_values = list(twenty_ema_data.values())
     out = moving_averages(ema_20_values)
     # ic(out)
     # for index in range(len(out)):
     #    print(f'{index}: {out[index]}')
-    detect_crossovers(out)
+    detect_crossovers(out, Date)
 
 
 if __name__ == "__main__":
@@ -700,7 +701,7 @@ if __name__ == "__main__":
             twenty_ema_data, Date = get_ema_data(MB_CONSOLIDATION_FILE)
             # print(twenty_ema_data)
             # ic(Date)
-            get_and_process_ma_values(twenty_ema_data)
+            get_and_process_ma_values(twenty_ema_data, Date)
             process_ema_data(twenty_ema_data, Date, history_days)
         else:
             json_file = convert_to_json(fetched_file)

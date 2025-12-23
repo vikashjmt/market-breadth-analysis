@@ -18,9 +18,12 @@ from rich.console import Console
 
 import pandas as pd
 
+user_agent = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
 console = Console()
 options = Options()
 options.add_argument("--headless")  # Run in headless mode
+options.add_argument("--window-size=1920,1080")
+options.add_argument(f'user-agent={user_agent}')
 options.add_argument("--no-sandbox")
 options.add_argument("--disable-dev-shm-usage")
 
@@ -35,7 +38,7 @@ def download_screener(url, dashboard=False):
 
     driver.get(url)
     # Let page load initial layout
-    sleep(5)
+    sleep(8)
 
     if dashboard:
         # Click the Market Breadth pane/title
@@ -44,15 +47,17 @@ def download_screener(url, dashboard=False):
                 (By.XPATH, "//div[contains(., 'Market Breadth')]"))
         )
         market_breadth_div.click()
-        sleep(5)
+        sleep(7)
         csv_button = wait.until(
             EC.element_to_be_clickable((By.XPATH, "//span[text()='CSV']"))
         )
-        sleep(5)
+        sleep(6)
         wait.until(
             EC.presence_of_element_located((By.CSS_SELECTOR, "table tbody tr"))
         )
         csv_button.click()
+        # Use the below one if above click does not work
+        # driver.execute_script("arguments[0].click();", csv_button)
 
     # Normal Screener Page (Non-dashboard)
     else:

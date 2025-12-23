@@ -24,15 +24,3 @@ DAY1 | 23rd Dec:
      #stocks > 20 ema (Last 5 days):
 	495, 485, 693, 994, 1119
      Market Status:  Green-Yellow (non-trending phase)
-
-Number of stocks screened from screener: https://chartink.com/screener/trending-10-21-50-200
-
-Last 15 3-hour stock counts:
-[21, 29, 33, 29, 31, 30, 29, 26, 29, 33, 37, 38, 47, 46]
-
-Avg of last 10 days: 26.7
-Avg of last 25 days: 36.14
-Avg of last 50 days: 56.13
-*************************
-Status: Non-trending with Bearish bias.
-*************************

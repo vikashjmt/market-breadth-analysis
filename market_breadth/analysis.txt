@@ -1,3 +1,4 @@
+	26th Dec       : ma10 > ma20 < ma50 < ma200
 	24th Dec       : ma10 > ma20 < ma50 < ma200
 	23rd Dec       : ma10 > ma20 < ma50 < ma200
 	22nd Dec       : ma10 < ma20 < ma50 < ma200
@@ -24,7 +25,7 @@
 	21st Nov       : ma10 < ma20 < ma50 < ma200
 	20th Nov       : ma10 < ma20 < ma50 < ma200
 	19th Nov       : ma10 < ma20 < ma50 > ma200
-Index 25(19th Nov): Start of Long-term Bearish market
+Index 26(19th Nov): Start of Long-term Bearish market
 	18th Nov       : ma10 < ma20 < ma50 > ma200
 	17th Nov       : ma10 < ma20 < ma50 > ma200
 	14th Nov       : ma10 < ma20 < ma50 > ma200
@@ -35,10 +36,10 @@ Index 25(19th Nov): Start of Long-term Bearish market
 	7th Nov        : ma10 > ma20 < ma50 > ma200
 	6th Nov        : ma10 > ma20 < ma50 > ma200
 	4th Nov        : ma10 > ma20 > ma50 > ma200
-Index 35(4th Nov): Short-term Bearish momentum
-	3rd Nov        : ma10 > ma20 > ma50 > ma200
+Index 36(4th Nov): Short-term Bearish momentum
+	3rd Nov        : ma10 > ma20 < ma50 > ma200
+Index 37(3rd Nov): Strong Bullish momentum
 	31st Oct       : ma10 > ma20 < ma50 > ma200
-Index 37(31st Oct): Strong Bullish momentum
 	30th Oct       : ma10 > ma20 < ma50 > ma200
 	29th Oct       : ma10 > ma20 < ma50 > ma200
 	28th Oct       : ma10 > ma20 < ma50 > ma200
@@ -49,7 +50,7 @@ Index 37(31st Oct): Strong Bullish momentum
 	20th Oct       : ma10 > ma20 < ma50 < ma200
 	17th Oct       : ma10 > ma20 < ma50 < ma200
 	16th Oct       : ma10 < ma20 > ma50 < ma200
-Index 47(16th Oct): Strong Bearish momentum
+Index 48(16th Oct): Strong Bearish momentum
 	15th Oct       : ma10 < ma20 > ma50 < ma200
 	14th Oct       : ma10 < ma20 > ma50 < ma200
 	13th Oct       : ma10 < ma20 > ma50 < ma200
@@ -63,7 +64,7 @@ Index 47(16th Oct): Strong Bearish momentum
 	30th Sep       : ma10 < ma20 > ma50 < ma200
 	29th Sep       : ma10 < ma20 > ma50 < ma200
 	26th Sep       : ma10 > ma20 > ma50 < ma200
-	25th Sep       : ma10 > ma20 > ma50 > ma200
+	25th Sep       : ma10 > ma20 > ma50 < ma200
 	24th Sep       : ma10 > ma20 > ma50 > ma200
 	23rd Sep       : ma10 > ma20 > ma50 > ma200
 	22nd Sep       : ma10 > ma20 > ma50 > ma200
@@ -74,7 +75,7 @@ Index 47(16th Oct): Strong Bearish momentum
 	15th Sep       : ma10 > ma20 > ma50 > ma200
 	12th Sep       : ma10 > ma20 > ma50 > ma200
 	11th Sep       : ma10 > ma20 < ma50 > ma200
-Index 71(11th Sep): Strong Bullish momentum
+Index 72(11th Sep): Strong Bullish momentum
 	10th Sep       : ma10 > ma20 < ma50 > ma200
 	9th Sep        : ma10 > ma20 < ma50 > ma200
 	8th Sep        : ma10 > ma20 < ma50 > ma200
@@ -132,7 +133,7 @@ Index 71(11th Sep): Strong Bullish momentum
 	24th Jun       : ma10 < ma20 < ma50 > ma200
 	23rd Jun       : ma10 < ma20 < ma50 > ma200
 	20th Jun       : ma10 < ma20 > ma50 > ma200
-Index 128(20th Jun): Short-term Bearish momentum
+Index 129(20th Jun): Short-term Bearish momentum
 	19th Jun       : ma10 < ma20 > ma50 > ma200
 	18th Jun       : ma10 < ma20 > ma50 > ma200
 	17th Jun       : ma10 < ma20 > ma50 > ma200
@@ -172,7 +173,7 @@ Index 128(20th Jun): Short-term Bearish momentum
 	29th Apr       : ma10 > ma20 > ma50 > ma200
 	28th Apr       : ma10 > ma20 > ma50 > ma200
 	25th Apr       : ma10 > ma20 > ma50 < ma200
-Index 167(25th Apr): Start of Long-term Bullish market
+Index 168(25th Apr): Start of Long-term Bullish market
 	24th Apr       : ma10 > ma20 > ma50 < ma200
 	23rd Apr       : ma10 > ma20 > ma50 < ma200
 	22nd Apr       : ma10 < ma20 > ma50 < ma200
@@ -196,7 +197,266 @@ Index 167(25th Apr): Start of Long-term Bullish market
 	21st Mar       : ma10 > ma20 > ma50 < ma200
 	20th Mar       : ma10 > ma20 > ma50 < ma200
 	19th Mar       : ma10 > ma20 < ma50 < ma200
-Index 190(19th Mar): Weak Bullish momentum
+Index 191(19th Mar): Weak Bullish momentum
+	18th Mar       : ma10 > ma20 < ma50 < ma200
+	17th Mar       : ma10 > ma20 < ma50 < ma200
+	13th Mar       : ma10 > ma20 < ma50 < ma200
+	12th Mar       : ma10 > ma20 < ma50 < ma200
+	11th Mar       : ma10 > ma20 < ma50 < ma200
+	10th Mar       : ma10 > ma20 < ma50 < ma200
+	7th Mar        : ma10 > ma20 < ma50 < ma200
+	6th Mar        : ma10 < ma20 < ma50 < ma200
+	5th Mar        : ma10 < ma20 < ma50 < ma200
+	4th Mar        : ma10 < ma20 < ma50 < ma200
+	3rd Mar        : ma10 < ma20 < ma50 < ma200
+	28th Feb       : ma10 < ma20 < ma50 < ma200
+	27th Feb       : ma10 < ma20 < ma50 < ma200
+	25th Feb       : ma10 < ma20 < ma50 < ma200
+	24th Feb       : ma10 < ma20 < ma50 < ma200
+	21st Feb       : ma10 < ma20 < ma50 < ma200
+	20th Feb       : ma10 < ma20 < ma50 < ma200
+	19th Feb       : ma10 < ma20 < ma50 < ma200
+	18th Feb       : ma10 > ma20 < ma50 < ma200
+	17th Feb       : ma10 > ma20 < ma50 < ma200
+	14th Feb       : ma10 > ma20 < ma50 < ma200
+	13th Feb       : ma10 > ma20 < ma50 < ma200
+	12th Feb       : ma10 > ma20 < ma50 < ma200
+	11th Feb       : ma10 > ma20 < ma50 < ma200
+	10th Feb       : ma10 > ma20 < ma50 < ma200
+	7th Feb        : ma10 > ma20 < ma50 < ma200
+	6th Feb        : ma10 > ma20 < ma50 < ma200
+	5th Feb        : ma10 > ma20 < ma50 < ma200
+	4th Feb        : ma10 > ma20 < ma50 < ma200
+	3rd Feb        : ma10 < ma20 < ma50 < ma200
+	1st Feb        : ma10 < ma20 < ma50 < ma200
+	31st Jan       : ma10 < ma20 < ma50 < ma200
+	30th Jan       : ma10 < ma20 < ma50 < ma200
+	29th Jan       : ma10 < ma20 < ma50 < ma200
+	28th Jan       : ma10 < ma20 < ma50 < ma200
+	27th Jan       : ma10 < ma20 < ma50 < ma200
+	24th Jan       : ma10 < ma20 < ma50 < ma200
+	23rd Jan       : ma10 < ma20 < ma50 < ma200
+	22nd Jan       : ma10 < ma20 < ma50 < ma200
+	21st Jan       : ma10 < ma20 < ma50 < ma200
+	20th Jan       : ma10 < ma20 < ma50 < ma200
+	17th Jan       : ma10 < ma20 < ma50 < ma200
+	16th Jan       : ma10 < ma20 < ma50 < ma200
+	15th Jan       : ma10 < ma20 < ma50 < ma200
+	14th Jan       : ma10 < ma20 < ma50 < ma200
+	13th Jan       : ma10 < ma20 < ma50 < ma200
+	10th Jan       : ma10 < ma20 < ma50 < ma200
+	9th Jan        : ma10 < ma20 < ma50 < ma200
+	8th Jan        : ma10 < ma20 < ma50 < ma200
+	7th Jan        : ma10 < ma20 < ma50 < ma200
+	6th Jan        : ma10 < ma20 < ma50 < ma200
+	3rd Jan        : ma10 > ma20 < ma50 < ma200
+	2nd Jan        : ma10 > ma20 < ma50 < ma200
+	1st Jan        : ma10 > ma20 < ma50 < ma200
+	31st Dec       : ma10 > ma20 < ma50 < ma200
+	30th Dec       : ma10 > ma20 < ma50 < ma200
+	27th Dec       : ma10 > ma20 < ma50 < ma200
+	26th Dec       : ma10 > ma20 < ma50 < ma200
+	24th Dec       : ma10 > ma20 < ma50 < ma200
+	23rd Dec       : ma10 > ma20 < ma50 < ma200
+	24th Dec       : ma10 > ma20 < ma50 < ma200
+	23rd Dec       : ma10 > ma20 < ma50 < ma200
+	22nd Dec       : ma10 < ma20 < ma50 < ma200
+	19th Dec       : ma10 < ma20 < ma50 < ma200
+	18th Dec       : ma10 < ma20 < ma50 < ma200
+	17th Dec       : ma10 < ma20 < ma50 < ma200
+	16th Dec       : ma10 < ma20 < ma50 < ma200
+	15th Dec       : ma10 < ma20 < ma50 < ma200
+	12th Dec       : ma10 < ma20 < ma50 < ma200
+	11th Dec       : ma10 < ma20 < ma50 < ma200
+	10th Dec       : ma10 < ma20 < ma50 < ma200
+	9th Dec        : ma10 < ma20 < ma50 < ma200
+	8th Dec        : ma10 < ma20 < ma50 < ma200
+	5th Dec        : ma10 < ma20 < ma50 < ma200
+	4th Dec        : ma10 < ma20 < ma50 < ma200
+	3rd Dec        : ma10 < ma20 < ma50 < ma200
+	2nd Dec        : ma10 < ma20 < ma50 < ma200
+	1st Dec        : ma10 < ma20 < ma50 < ma200
+	28th Nov       : ma10 < ma20 < ma50 < ma200
+	27th Nov       : ma10 < ma20 < ma50 < ma200
+	26th Nov       : ma10 < ma20 < ma50 < ma200
+	25th Nov       : ma10 < ma20 < ma50 < ma200
+	24th Nov       : ma10 < ma20 < ma50 < ma200
+	21st Nov       : ma10 < ma20 < ma50 < ma200
+	20th Nov       : ma10 < ma20 < ma50 < ma200
+	19th Nov       : ma10 < ma20 < ma50 > ma200
+Index 277(19th Nov): Start of Long-term Bearish market
+	18th Nov       : ma10 < ma20 < ma50 > ma200
+	17th Nov       : ma10 < ma20 < ma50 > ma200
+	14th Nov       : ma10 < ma20 < ma50 > ma200
+	13th Nov       : ma10 < ma20 < ma50 > ma200
+	12th Nov       : ma10 < ma20 < ma50 > ma200
+	11th Nov       : ma10 < ma20 < ma50 > ma200
+	10th Nov       : ma10 > ma20 < ma50 > ma200
+	7th Nov        : ma10 > ma20 < ma50 > ma200
+	6th Nov        : ma10 > ma20 < ma50 > ma200
+	4th Nov        : ma10 > ma20 > ma50 > ma200
+Index 287(4th Nov): Short-term Bearish momentum
+	3rd Nov        : ma10 > ma20 > ma50 > ma200
+	31st Oct       : ma10 > ma20 < ma50 > ma200
+Index 289(31st Oct): Strong Bullish momentum
+	30th Oct       : ma10 > ma20 < ma50 > ma200
+	29th Oct       : ma10 > ma20 < ma50 > ma200
+	28th Oct       : ma10 > ma20 < ma50 > ma200
+	27th Oct       : ma10 > ma20 < ma50 > ma200
+	24th Oct       : ma10 > ma20 < ma50 > ma200
+	23rd Oct       : ma10 > ma20 < ma50 > ma200
+	21st Oct       : ma10 > ma20 < ma50 < ma200
+	20th Oct       : ma10 > ma20 < ma50 < ma200
+	17th Oct       : ma10 > ma20 < ma50 < ma200
+	16th Oct       : ma10 < ma20 > ma50 < ma200
+Index 299(16th Oct): Strong Bearish momentum
+	15th Oct       : ma10 < ma20 > ma50 < ma200
+	14th Oct       : ma10 < ma20 > ma50 < ma200
+	13th Oct       : ma10 < ma20 > ma50 < ma200
+	10th Oct       : ma10 < ma20 > ma50 < ma200
+	9th Oct        : ma10 < ma20 > ma50 < ma200
+	8th Oct        : ma10 < ma20 > ma50 < ma200
+	7th Oct        : ma10 < ma20 > ma50 < ma200
+	6th Oct        : ma10 < ma20 > ma50 < ma200
+	3rd Oct        : ma10 < ma20 > ma50 < ma200
+	1st Oct        : ma10 < ma20 > ma50 < ma200
+	30th Sep       : ma10 < ma20 > ma50 < ma200
+	29th Sep       : ma10 < ma20 > ma50 < ma200
+	26th Sep       : ma10 > ma20 > ma50 < ma200
+	25th Sep       : ma10 > ma20 > ma50 > ma200
+	24th Sep       : ma10 > ma20 > ma50 > ma200
+	23rd Sep       : ma10 > ma20 > ma50 > ma200
+	22nd Sep       : ma10 > ma20 > ma50 > ma200
+	19th Sep       : ma10 > ma20 > ma50 > ma200
+	18th Sep       : ma10 > ma20 > ma50 > ma200
+	17th Sep       : ma10 > ma20 > ma50 > ma200
+	16th Sep       : ma10 > ma20 > ma50 > ma200
+	15th Sep       : ma10 > ma20 > ma50 > ma200
+	12th Sep       : ma10 > ma20 > ma50 > ma200
+	11th Sep       : ma10 > ma20 < ma50 > ma200
+Index 323(11th Sep): Strong Bullish momentum
+	10th Sep       : ma10 > ma20 < ma50 > ma200
+	9th Sep        : ma10 > ma20 < ma50 > ma200
+	8th Sep        : ma10 > ma20 < ma50 > ma200
+	5th Sep        : ma10 > ma20 < ma50 > ma200
+	4th Sep        : ma10 > ma20 < ma50 > ma200
+	3rd Sep        : ma10 > ma20 < ma50 > ma200
+	2nd Sep        : ma10 > ma20 < ma50 > ma200
+	1st Sep        : ma10 > ma20 < ma50 > ma200
+	29th Aug       : ma10 > ma20 < ma50 > ma200
+	28th Aug       : ma10 > ma20 < ma50 > ma200
+	26th Aug       : ma10 > ma20 < ma50 > ma200
+	25th Aug       : ma10 > ma20 < ma50 > ma200
+	22nd Aug       : ma10 > ma20 < ma50 > ma200
+	21st Aug       : ma10 > ma20 < ma50 > ma200
+	20th Aug       : ma10 < ma20 < ma50 > ma200
+	19th Aug       : ma10 < ma20 < ma50 > ma200
+	18th Aug       : ma10 < ma20 < ma50 > ma200
+	14th Aug       : ma10 < ma20 < ma50 > ma200
+	13th Aug       : ma10 < ma20 < ma50 > ma200
+	12th Aug       : ma10 < ma20 < ma50 > ma200
+	11th Aug       : ma10 < ma20 < ma50 > ma200
+	8th Aug        : ma10 < ma20 < ma50 > ma200
+	7th Aug        : ma10 < ma20 < ma50 > ma200
+	6th Aug        : ma10 < ma20 < ma50 > ma200
+	5th Aug        : ma10 < ma20 < ma50 > ma200
+	4th Aug        : ma10 < ma20 < ma50 > ma200
+	1st Aug        : ma10 < ma20 < ma50 > ma200
+	31st Jul       : ma10 < ma20 < ma50 > ma200
+	30th Jul       : ma10 < ma20 < ma50 > ma200
+	29th Jul       : ma10 < ma20 < ma50 > ma200
+	28th Jul       : ma10 < ma20 < ma50 > ma200
+	25th Jul       : ma10 < ma20 < ma50 > ma200
+	24th Jul       : ma10 < ma20 < ma50 > ma200
+	23rd Jul       : ma10 < ma20 < ma50 > ma200
+	22nd Jul       : ma10 < ma20 < ma50 > ma200
+	21st Jul       : ma10 < ma20 < ma50 > ma200
+	18th Jul       : ma10 < ma20 < ma50 > ma200
+	17th Jul       : ma10 < ma20 < ma50 > ma200
+	16th Jul       : ma10 > ma20 < ma50 > ma200
+	15th Jul       : ma10 > ma20 < ma50 > ma200
+	14th Jul       : ma10 > ma20 < ma50 > ma200
+	11th Jul       : ma10 > ma20 < ma50 > ma200
+	10th Jul       : ma10 > ma20 < ma50 > ma200
+	9th Jul        : ma10 > ma20 < ma50 > ma200
+	8th Jul        : ma10 > ma20 < ma50 > ma200
+	7th Jul        : ma10 > ma20 < ma50 > ma200
+	4th Jul        : ma10 > ma20 < ma50 > ma200
+	3rd Jul        : ma10 < ma20 < ma50 > ma200
+	2nd Jul        : ma10 < ma20 < ma50 > ma200
+	1st Jul        : ma10 < ma20 < ma50 > ma200
+	30th Jun       : ma10 < ma20 < ma50 > ma200
+	27th Jun       : ma10 < ma20 < ma50 > ma200
+	26th Jun       : ma10 < ma20 < ma50 > ma200
+	25th Jun       : ma10 < ma20 < ma50 > ma200
+	24th Jun       : ma10 < ma20 < ma50 > ma200
+	23rd Jun       : ma10 < ma20 < ma50 > ma200
+	20th Jun       : ma10 < ma20 > ma50 > ma200
+Index 380(20th Jun): Short-term Bearish momentum
+	19th Jun       : ma10 < ma20 > ma50 > ma200
+	18th Jun       : ma10 < ma20 > ma50 > ma200
+	17th Jun       : ma10 < ma20 > ma50 > ma200
+	16th Jun       : ma10 < ma20 > ma50 > ma200
+	13th Jun       : ma10 < ma20 > ma50 > ma200
+	12th Jun       : ma10 < ma20 > ma50 > ma200
+	11th Jun       : ma10 < ma20 > ma50 > ma200
+	10th Jun       : ma10 < ma20 > ma50 > ma200
+	9th Jun        : ma10 < ma20 > ma50 > ma200
+	6th Jun        : ma10 < ma20 > ma50 > ma200
+	5th Jun        : ma10 < ma20 > ma50 > ma200
+	4th Jun        : ma10 > ma20 > ma50 > ma200
+	3rd Jun        : ma10 > ma20 > ma50 > ma200
+	2nd Jun        : ma10 > ma20 > ma50 > ma200
+	30th May       : ma10 > ma20 > ma50 > ma200
+	29th May       : ma10 > ma20 > ma50 > ma200
+	28th May       : ma10 > ma20 > ma50 > ma200
+	27th May       : ma10 > ma20 > ma50 > ma200
+	26th May       : ma10 > ma20 > ma50 > ma200
+	23rd May       : ma10 > ma20 > ma50 > ma200
+	22nd May       : ma10 > ma20 > ma50 > ma200
+	21st May       : ma10 > ma20 > ma50 > ma200
+	20th May       : ma10 > ma20 > ma50 > ma200
+	19th May       : ma10 < ma20 > ma50 > ma200
+	16th May       : ma10 < ma20 > ma50 > ma200
+	15th May       : ma10 < ma20 > ma50 > ma200
+	14th May       : ma10 < ma20 > ma50 > ma200
+	13th May       : ma10 < ma20 > ma50 > ma200
+	12th May       : ma10 < ma20 > ma50 > ma200
+	9th May        : ma10 < ma20 > ma50 > ma200
+	8th May        : ma10 < ma20 > ma50 > ma200
+	7th May        : ma10 > ma20 > ma50 > ma200
+	6th May        : ma10 > ma20 > ma50 > ma200
+	5th May        : ma10 > ma20 > ma50 > ma200
+	2nd May        : ma10 > ma20 > ma50 > ma200
+	30th Apr       : ma10 > ma20 > ma50 > ma200
+	29th Apr       : ma10 > ma20 > ma50 > ma200
+	28th Apr       : ma10 > ma20 > ma50 > ma200
+	25th Apr       : ma10 > ma20 > ma50 < ma200
+Index 419(25th Apr): Start of Long-term Bullish market
+	24th Apr       : ma10 > ma20 > ma50 < ma200
+	23rd Apr       : ma10 > ma20 > ma50 < ma200
+	22nd Apr       : ma10 < ma20 > ma50 < ma200
+	21st Apr       : ma10 < ma20 > ma50 < ma200
+	17th Apr       : ma10 < ma20 > ma50 < ma200
+	16th Apr       : ma10 < ma20 > ma50 < ma200
+	15th Apr       : ma10 < ma20 > ma50 < ma200
+	11th Apr       : ma10 < ma20 > ma50 < ma200
+	9th Apr        : ma10 > ma20 > ma50 < ma200
+	8th Apr        : ma10 > ma20 > ma50 < ma200
+	7th Apr        : ma10 > ma20 > ma50 < ma200
+	4th Apr        : ma10 > ma20 > ma50 < ma200
+	3rd Apr        : ma10 > ma20 > ma50 < ma200
+	2nd Apr        : ma10 > ma20 > ma50 < ma200
+	1st Apr        : ma10 > ma20 > ma50 < ma200
+	28th Mar       : ma10 > ma20 > ma50 < ma200
+	27th Mar       : ma10 > ma20 > ma50 < ma200
+	26th Mar       : ma10 > ma20 > ma50 < ma200
+	25th Mar       : ma10 > ma20 > ma50 < ma200
+	24th Mar       : ma10 > ma20 > ma50 < ma200
+	21st Mar       : ma10 > ma20 > ma50 < ma200
+	20th Mar       : ma10 > ma20 > ma50 < ma200
+	19th Mar       : ma10 > ma20 < ma50 < ma200
+Index 442(19th Mar): Weak Bullish momentum
 	18th Mar       : ma10 > ma20 < ma50 < ma200
 	17th Mar       : ma10 > ma20 < ma50 < ma200
 	13th Mar       : ma10 > ma20 < ma50 < ma200
@@ -283,7 +543,7 @@ Index 190(19th Mar): Weak Bullish momentum
 	21st Nov       : ma10 < ma20 < ma50 < ma200
 	20th Nov       : ma10 < ma20 < ma50 < ma200
 	19th Nov       : ma10 < ma20 < ma50 > ma200
-Index 276(19th Nov): Start of Long-term Bearish market
+Index 528(19th Nov): Start of Long-term Bearish market
 	18th Nov       : ma10 < ma20 < ma50 > ma200
 	17th Nov       : ma10 < ma20 < ma50 > ma200
 	14th Nov       : ma10 < ma20 < ma50 > ma200
@@ -294,10 +554,10 @@ Index 276(19th Nov): Start of Long-term Bearish market
 	7th Nov        : ma10 > ma20 < ma50 > ma200
 	6th Nov        : ma10 > ma20 < ma50 > ma200
 	4th Nov        : ma10 > ma20 > ma50 > ma200
-Index 286(4th Nov): Short-term Bearish momentum
+Index 538(4th Nov): Short-term Bearish momentum
 	3rd Nov        : ma10 > ma20 > ma50 > ma200
 	31st Oct       : ma10 > ma20 < ma50 > ma200
-Index 288(31st Oct): Strong Bullish momentum
+Index 540(31st Oct): Strong Bullish momentum
 	30th Oct       : ma10 > ma20 < ma50 > ma200
 	29th Oct       : ma10 > ma20 < ma50 > ma200
 	28th Oct       : ma10 > ma20 < ma50 > ma200
@@ -308,7 +568,7 @@ Index 288(31st Oct): Strong Bullish momentum
 	20th Oct       : ma10 > ma20 < ma50 < ma200
 	17th Oct       : ma10 > ma20 < ma50 < ma200
 	16th Oct       : ma10 < ma20 > ma50 < ma200
-Index 298(16th Oct): Strong Bearish momentum
+Index 550(16th Oct): Strong Bearish momentum
 	15th Oct       : ma10 < ma20 > ma50 < ma200
 	14th Oct       : ma10 < ma20 > ma50 < ma200
 	13th Oct       : ma10 < ma20 > ma50 < ma200
@@ -333,7 +593,7 @@ Index 298(16th Oct): Strong Bearish momentum
 	15th Sep       : ma10 > ma20 > ma50 > ma200
 	12th Sep       : ma10 > ma20 > ma50 > ma200
 	11th Sep       : ma10 > ma20 < ma50 > ma200
-Index 322(11th Sep): Strong Bullish momentum
+Index 574(11th Sep): Strong Bullish momentum
 	10th Sep       : ma10 > ma20 < ma50 > ma200
 	9th Sep        : ma10 > ma20 < ma50 > ma200
 	8th Sep        : ma10 > ma20 < ma50 > ma200
@@ -391,7 +651,7 @@ Index 322(11th Sep): Strong Bullish momentum
 	24th Jun       : ma10 < ma20 < ma50 > ma200
 	23rd Jun       : ma10 < ma20 < ma50 > ma200
 	20th Jun       : ma10 < ma20 > ma50 > ma200
-Index 379(20th Jun): Short-term Bearish momentum
+Index 631(20th Jun): Short-term Bearish momentum
 	19th Jun       : ma10 < ma20 > ma50 > ma200
 	18th Jun       : ma10 < ma20 > ma50 > ma200
 	17th Jun       : ma10 < ma20 > ma50 > ma200
@@ -432,7 +692,7 @@ Index 379(20th Jun): Short-term Bearish momentum
 	28th Apr       : ma10 > ma20 > ma50 > ma200
 	25th Apr       : ma10 > ma20 > ma50 > ma200
 	24th Apr       : ma10 > ma20 > ma50 < ma200
-Index 419(24th Apr): Start of Long-term Bullish market
+Index 671(24th Apr): Start of Long-term Bullish market
 	23rd Apr       : ma10 > ma20 > ma50 < ma200
 	22nd Apr       : ma10 < ma20 > ma50 < ma200
 	21st Apr       : ma10 < ma20 > ma50 < ma200
@@ -455,7 +715,7 @@ Index 419(24th Apr): Start of Long-term Bullish market
 	21st Mar       : ma10 > ma20 > ma50 < ma200
 	20th Mar       : ma10 > ma20 > ma50 < ma200
 	19th Mar       : ma10 > ma20 < ma50 < ma200
-Index 441(19th Mar): Weak Bullish momentum
+Index 693(19th Mar): Weak Bullish momentum
 	18th Mar       : ma10 > ma20 < ma50 < ma200
 	17th Mar       : ma10 > ma20 < ma50 < ma200
 	13th Mar       : ma10 > ma20 < ma50 < ma200
@@ -542,7 +802,7 @@ Index 441(19th Mar): Weak Bullish momentum
 	20th Nov       : ma10 < ma20 < ma50 < ma200
 	19th Nov       : ma10 < ma20 < ma50 < ma200
 	18th Nov       : ma10 < ma20 < ma50 > ma200
-Index 527(18th Nov): Start of Long-term Bearish market
+Index 779(18th Nov): Start of Long-term Bearish market
 	17th Nov       : ma10 < ma20 < ma50 > ma200
 	14th Nov       : ma10 < ma20 < ma50 > ma200
 	13th Nov       : ma10 < ma20 < ma50 > ma200
@@ -564,7 +824,7 @@ Index 527(18th Nov): Start of Long-term Bearish market
 	20th Oct       : ma10 > ma20 < ma50 < ma200
 	17th Oct       : ma10 > ma20 < ma50 < ma200
 	16th Oct       : ma10 < ma20 > ma50 < ma200
-Index 548(16th Oct): Strong Bearish momentum
+Index 800(16th Oct): Strong Bearish momentum
 	15th Oct       : ma10 < ma20 > ma50 < ma200
 	14th Oct       : ma10 < ma20 > ma50 < ma200
 	13th Oct       : ma10 < ma20 > ma50 < ma200
@@ -589,11 +849,11 @@ Index 548(16th Oct): Strong Bearish momentum
 	15th Sep       : ma10 > ma20 > ma50 < ma200
 	12th Sep       : ma10 > ma20 > ma50 < ma200
 	11th Sep       : ma10 > ma20 < ma50 < ma200
-Index 572(11th Sep): Weak Bullish momentum
+Index 824(11th Sep): Weak Bullish momentum
 	10th Sep       : ma10 > ma20 < ma50 < ma200
 	9th Sep        : ma10 > ma20 < ma50 < ma200
 	8th Sep        : ma10 > ma20 < ma50 > ma200
-Index 575(8th Sep): Start of Long-term Bearish market
+Index 827(8th Sep): Start of Long-term Bearish market
 	5th Sep        : ma10 > ma20 < ma50 > ma200
 	4th Sep        : ma10 > ma20 < ma50 > ma200
 	3rd Sep        : ma10 > ma20 < ma50 > ma200
@@ -648,7 +908,7 @@ Index 575(8th Sep): Start of Long-term Bearish market
 	24th Jun       : ma10 < ma20 < ma50 > ma200
 	23rd Jun       : ma10 < ma20 < ma50 > ma200
 	20th Jun       : ma10 < ma20 > ma50 > ma200
-Index 629(20th Jun): Short-term Bearish momentum
+Index 881(20th Jun): Short-term Bearish momentum
 	19th Jun       : ma10 < ma20 > ma50 > ma200
 	18th Jun       : ma10 < ma20 > ma50 > ma200
 	17th Jun       : ma10 < ma20 > ma50 > ma200
@@ -684,7 +944,7 @@ Index 629(20th Jun): Short-term Bearish momentum
 	6th May        : ma10 > ma20 > ma50 > ma200
 	5th May        : ma10 > ma20 > ma50 > ma200
 	2nd May        : ma10 > ma20 > ma50 < ma200
-Index 664(2nd May): Start of Long-term Bullish market
+Index 916(2nd May): Start of Long-term Bullish market
 	30th Apr       : ma10 > ma20 > ma50 < ma200
 	29th Apr       : ma10 > ma20 > ma50 < ma200
 	28th Apr       : ma10 > ma20 > ma50 < ma200
@@ -712,7 +972,7 @@ Index 664(2nd May): Start of Long-term Bullish market
 	21st Mar       : ma10 > ma20 > ma50 < ma200
 	20th Mar       : ma10 > ma20 > ma50 < ma200
 	19th Mar       : ma10 > ma20 < ma50 < ma200
-Index 691(19th Mar): Weak Bullish momentum
+Index 943(19th Mar): Weak Bullish momentum
 	18th Mar       : ma10 > ma20 < ma50 < ma200
 	17th Mar       : ma10 > ma20 < ma50 < ma200
 	13th Mar       : ma10 > ma20 < ma50 < ma200
@@ -763,7 +1023,7 @@ Index 691(19th Mar): Weak Bullish momentum
 	9th Jan        : ma10 < ma20 < ma50 < ma200
 	8th Jan        : ma10 < ma20 < ma50 < ma200
 	7th Jan        : ma10 < ma20 > ma50 < ma200
-Index 741(7th Jan): Strong Bearish momentum
+Index 993(7th Jan): Strong Bearish momentum
 	6th Jan        : ma10 < ma20 > ma50 < ma200
 	3rd Jan        : ma10 < ma20 > ma50 < ma200
 	2nd Jan        : ma10 < ma20 > ma50 < ma200
@@ -792,7 +1052,7 @@ Index 741(7th Jan): Strong Bearish momentum
 	29th Nov       : ma10 < ma20 > ma50 < ma200
 	28th Nov       : ma10 < ma20 > ma50 < ma200
 	27th Nov       : ma10 < ma20 < ma50 < ma200
-Index 769(27th Nov): Weak Bullish momentum
+Index 1021(27th Nov): Weak Bullish momentum
 	26th Nov       : ma10 < ma20 < ma50 < ma200
 	25th Nov       : ma10 < ma20 < ma50 < ma200
 	22nd Nov       : ma10 < ma20 < ma50 < ma200
@@ -834,7 +1094,7 @@ Index 769(27th Nov): Weak Bullish momentum
 	30th Sep       : ma10 < ma20 < ma50 < ma200
 	27th Sep       : ma10 < ma20 < ma50 < ma200
 	26th Sep       : ma10 < ma20 > ma50 < ma200
-Index 810(26th Sep): Strong Bearish momentum
+Index 1062(26th Sep): Strong Bearish momentum
 	25th Sep       : ma10 < ma20 > ma50 < ma200
 	24th Sep       : ma10 < ma20 > ma50 < ma200
 	23rd Sep       : ma10 < ma20 > ma50 < ma200
@@ -847,7 +1107,7 @@ Index 810(26th Sep): Strong Bearish momentum
 	12th Sep       : ma10 < ma20 > ma50 > ma200
 	11th Sep       : ma10 < ma20 > ma50 > ma200
 	10th Sep       : ma10 > ma20 < ma50 > ma200
-Index 822(10th Sep): Strong Bullish momentum
+Index 1074(10th Sep): Strong Bullish momentum
 	9th Sep        : ma10 > ma20 < ma50 > ma200
 	6th Sep        : ma10 > ma20 < ma50 > ma200
 	5th Sep        : ma10 > ma20 < ma50 > ma200
@@ -874,7 +1134,7 @@ Index 822(10th Sep): Strong Bullish momentum
 	6th Aug        : ma10 < ma20 < ma50 > ma200
 	5th Aug        : ma10 < ma20 < ma50 > ma200
 	2nd Aug        : ma10 < ma20 > ma50 > ma200
-Index 848(2nd Aug): Short-term Bearish momentum
+Index 1100(2nd Aug): Short-term Bearish momentum
 	1st Aug        : ma10 < ma20 > ma50 > ma200
 	31st Jul       : ma10 < ma20 > ma50 > ma200
 	30th Jul       : ma10 < ma20 > ma50 > ma200
@@ -905,7 +1165,7 @@ Index 848(2nd Aug): Short-term Bearish momentum
 	24th Jun       : ma10 > ma20 > ma50 > ma200
 	21st Jun       : ma10 > ma20 > ma50 > ma200
 	20th Jun       : ma10 > ma20 < ma50 > ma200
-Index 878(20th Jun): Strong Bullish momentum
+Index 1130(20th Jun): Strong Bullish momentum
 	19th Jun       : ma10 > ma20 < ma50 > ma200
 	18th Jun       : ma10 > ma20 < ma50 > ma200
 	14th Jun       : ma10 > ma20 < ma50 > ma200
@@ -923,7 +1183,7 @@ Index 878(20th Jun): Strong Bullish momentum
 	29th May       : ma10 > ma20 < ma50 < ma200
 	28th May       : ma10 > ma20 < ma50 < ma200
 	27th May       : ma10 > ma20 > ma50 < ma200
-Index 895(27th May): Strong Bearish momentum
+Index 1147(27th May): Strong Bearish momentum
 	24th May       : ma10 < ma20 > ma50 < ma200
 	23rd May       : ma10 < ma20 > ma50 < ma200
 	22nd May       : ma10 < ma20 > ma50 < ma200
@@ -953,10 +1213,10 @@ Index 895(27th May): Strong Bearish momentum
 	16th Apr       : ma10 > ma20 > ma50 < ma200
 	15th Apr       : ma10 > ma20 > ma50 < ma200
 	12th Apr       : ma10 > ma20 < ma50 < ma200
-Index 924(12th Apr): Weak Bullish momentum
+Index 1176(12th Apr): Weak Bullish momentum
 	10th Apr       : ma10 > ma20 < ma50 < ma200
 	9th Apr        : ma10 > ma20 < ma50 > ma200
-Index 926(9th Apr): Start of Long-term Bearish market
+Index 1178(9th Apr): Start of Long-term Bearish market
 	8th Apr        : ma10 > ma20 < ma50 > ma200
 	5th Apr        : ma10 > ma20 < ma50 > ma200
 	4th Apr        : ma10 > ma20 < ma50 > ma200
@@ -1007,7 +1267,7 @@ Index 926(9th Apr): Start of Long-term Bearish market
 	30th Jan       : ma10 < ma20 < ma50 > ma200
 	29th Jan       : ma10 < ma20 < ma50 > ma200
 	25th Jan       : ma10 < ma20 > ma50 > ma200
-Index 976(25th Jan): Short-term Bearish momentum
+Index 1228(25th Jan): Short-term Bearish momentum
 	24th Jan       : ma10 < ma20 > ma50 > ma200
 	23rd Jan       : ma10 < ma20 > ma50 > ma200
 	20th Jan       : ma10 < ma20 > ma50 > ma200
@@ -1053,7 +1313,7 @@ Index 976(25th Jan): Short-term Bearish momentum
 	23rd Nov       : ma10 > ma20 > ma50 > ma200
 	22nd Nov       : ma10 > ma20 > ma50 > ma200
 	21st Nov       : ma10 > ma20 < ma50 > ma200
-Index 1021(21st Nov): Strong Bullish momentum
+Index 1273(21st Nov): Strong Bullish momentum
 	20th Nov       : ma10 > ma20 < ma50 > ma200
 	17th Nov       : ma10 > ma20 < ma50 > ma200
 	16th Nov       : ma10 > ma20 < ma50 > ma200
@@ -1090,7 +1350,7 @@ Index 1021(21st Nov): Strong Bullish momentum
 	3rd Oct        : ma10 < ma20 < ma50 > ma200
 	29th Sep       : ma10 < ma20 < ma50 > ma200
 	28th Sep       : ma10 < ma20 > ma50 > ma200
-Index 1057(28th Sep): Short-term Bearish momentum
+Index 1309(28th Sep): Short-term Bearish momentum
 	27th Sep       : ma10 < ma20 > ma50 > ma200
 	26th Sep       : ma10 < ma20 > ma50 > ma200
 	25th Sep       : ma10 < ma20 > ma50 > ma200
@@ -1104,14 +1364,14 @@ Index 1057(28th Sep): Short-term Bearish momentum
 	12th Sep       : ma10 > ma20 > ma50 > ma200
 	11th Sep       : ma10 > ma20 > ma50 > ma200
 	8th Sep        : ma10 > ma20 < ma50 > ma200
-Index 1070(8th Sep): Strong Bullish momentum
+Index 1322(8th Sep): Strong Bullish momentum
 	7th Sep        : ma10 > ma20 < ma50 > ma200
 	6th Sep        : ma10 > ma20 < ma50 > ma200
 	5th Sep        : ma10 > ma20 < ma50 > ma200
 	4th Sep        : ma10 > ma20 < ma50 > ma200
 	1st Sep        : ma10 > ma20 < ma50 > ma200
 	31st Aug       : ma10 > ma20 > ma50 < ma200
-Index 1076(31st Aug): Short-term Bearish momentum
+Index 1328(31st Aug): Short-term Bearish momentum
 	30th Aug       : ma10 < ma20 > ma50 < ma200
 	29th Aug       : ma10 < ma20 > ma50 < ma200
 	28th Aug       : ma10 < ma20 > ma50 < ma200

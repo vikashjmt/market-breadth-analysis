@@ -24,22 +24,3 @@ DAY1 | 26th Dec:
      #stocks > 20 ema (Last 5 days):
 	697, 999, 1123, 1065, 927
      Market Status:  Green-Yellow (non-trending phase)
-
-Number of stocks screened from screener: https://chartink.com/screener/trending-10-21-50-200
-
-Last 15 3-hour stock counts:
-[29, 31, 30, 29, 26, 29, 33, 38, 39, 48, 47, 52, 51, 63, 65]
-
-Avg of last 10 days: 36.05
-Avg of last 25 days: 34.28
-Avg of last 50 days: 55.18
-*************************
-Status: Trend changing from Bearish to Bullish!
-*************************
-
-
-Analysis on the weekly macd xOver screener: https://chartink.com/screener/after-weekly-macd-crossover-emas-crossed
-    Current market status: Very Bullish
-
-Analysis on the weekly macd xDown screener: https://chartink.com/screener/after-weekly-macd-crossdown
-    Current market status: Neutral with Bullish bias

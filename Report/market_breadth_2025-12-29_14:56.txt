@@ -24,15 +24,3 @@ DAY1 | 29th Dec:
      #stocks > 20 ema (Last 5 days):
 	991, 1115, 1057, 904, 730
      Market Status:  Dark Red
-
-Number of stocks screened from screener: https://chartink.com/screener/trending-10-21-50-200
-
-Last 15 3-hour stock counts:
-[30, 29, 26, 29, 33, 37, 38, 47, 46, 52, 51, 63, 66, 65, 50]
-
-Avg of last 10 days: 40.25
-Avg of last 25 days: 33.86
-Avg of last 50 days: 55.15
-*************************
-Status: Non-trending with Bearish bias.
-*************************

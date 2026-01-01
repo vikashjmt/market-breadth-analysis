@@ -24,15 +24,3 @@ DAY1 | 1st Jan:
      #stocks > 20 ema (Last 5 days):
 	913, 735, 761, 1028, 1044
      Market Status:  Red to Yellow
-
-Number of stocks screened from screener: https://chartink.com/screener/trending-10-21-50-200
-
-Last 15 3-hour stock counts:
-[39, 48, 47, 52, 51, 63, 66, 65, 53, 47, 45, 49, 51, 56, 57]
-
-Avg of last 10 days: 47.2
-Avg of last 25 days: 36.64
-Avg of last 50 days: 53.96
-*************************
-Status: Trend changing from Bearish to Bullish!
-*************************

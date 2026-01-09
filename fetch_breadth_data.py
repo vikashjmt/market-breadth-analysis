@@ -472,12 +472,12 @@ def update_breadth_csv(old_path: str, new_path: str, out_path: str = None) -> No
     for row in new_rows:
         row_date = f"{row[0]} {datetime.now().year}"
 
-
         if row_date == top_prev_date:
             found_top_prev = True
             break
         else:
             # Temporarily record this row
+            row[0] = f"{row[0]} {datetime.now().year}"
             temp_rows.append(row)
 
     # If never found, you have two choices:
@@ -689,14 +689,20 @@ if __name__ == "__main__":
         if 'dashboard' in screener_url:
             # Check if file already exists
             # if not Path(destination_file).exists():
-            print(f'Processing url : {screener_url}')
-            download_screener(screener_url, dashboard=True)
-            latest_file = get_latest_download()
-            fetched_file = move(latest_file, destination_file)
+            try:
+                print(f'Processing url : {screener_url}')
+                download_screener(screener_url, dashboard=True)
+                latest_file = get_latest_download()
+                fetched_file = move(latest_file, destination_file)
+            except Exception as err:
+                print(f'Could not process dashboard due to {err}')
         else:
-            download_screener(screener_url)
-            latest_file = get_latest_download()
-            fetched_file = move(latest_file, destination_file)
+            try:
+                download_screener(screener_url)
+                latest_file = get_latest_download()
+                fetched_file = move(latest_file, destination_file)
+            except Exception as err:
+                print(f'Could not process {screener_url} due to {err}')
 
         if 'dashboard' in screener_url:
             # Update the consolidated csv

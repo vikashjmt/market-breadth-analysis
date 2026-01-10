@@ -193,10 +193,10 @@ def decide_market_status(last_5_values):
                               'term. Beware of 3 phases of bear market '
                               'downfall')
         else:
-            console.print('[red] Light Red')
+            console.print('[red] Red')
 
 
-def convert_to_json(csv_file):
+def convert_to_json_old(csv_file):
     # Read the CSV and assign column names
     df = pd.read_csv(csv_file, header=None)
     df.columns = ['Datetime', 'Stock', 'Cap', 'Sector']
@@ -207,12 +207,16 @@ def convert_to_json(csv_file):
 
     # Get json file name
     json_file = f"Report/{csv_file.rsplit('/')[-2]}.json"
+    # Disabling updating existing data due to bug issue
+    """
     # Load existing data if the file exists
     if os.path.exists(json_file):
         with open(json_file, 'r') as f:
             existing_data = json.load(f)
     else:
         existing_data = {}
+    """
+    existing_data = {}
 
     # Merge counts_dict into existing_data (update only changed/new keys)
     updated = False
@@ -228,6 +232,53 @@ def convert_to_json(csv_file):
     else:
         # print(f"No update needed for {json_file}")
         pass
+    return json_file
+
+
+def convert_to_json(csv_file):
+    # 1. Read CSV - Use header=0 to skip the "date, stock..." row
+    # This fixes the "date": 1 issue
+    df = pd.read_csv(csv_file, header=0)
+    df.columns = ['Datetime', 'Stock', 'Cap', 'Sector']
+
+    # Get counts from the fresh, correct CSV
+    counts = df.groupby('Datetime', sort=False).size()
+    counts_dict = counts.to_dict()
+
+    json_file = f"Report/{csv_file.rsplit('/')[-2]}.json"
+
+    # Load existing data
+    if os.path.exists(json_file):
+        with open(json_file, 'r') as f:
+            data = json.load(f)
+    else:
+        data = {}
+
+    # 2. FIX: The Contamination Issue
+    # Instead of just adding, we check if the keys in 'data' are valid.
+    # If your CSV is always a 'full' history, it's safer to overwrite.
+    # If you must merge, let's filter out the daily noise:
+
+    for k, v in counts_dict.items():
+        # Remove the "date" key if it exists from previous errors
+        if k.lower() == "date":
+            continue
+        # Update or add the correct weekly data
+        data[k] = v
+
+    # 3. CLEANUP: Optional but recommended
+    # If "date" is still in there from a previous run, delete it
+    data.pop("date", None)
+
+    # 4. SORTING: Crucial to keep the JSON chronological
+    # This prevents the weekly data from being mixed up with old records
+    sorted_data = dict(sorted(data.items(),
+                       key=lambda x: pd.to_datetime(x[0], dayfirst=True)))
+
+    # 5. Write to JSON
+    with open(json_file, 'w') as f:
+        json.dump(sorted_data, f, indent=2)
+
     return json_file
 
 
@@ -313,6 +364,8 @@ def analyze_weekly_macd_xover_data(json_file, screener_url):
         # fd.write(f'\n{date}: {stock_count}')
         # Write a function here to get market status of past
         status = get_market_status_by_macdxover(count_list)
+        # print(f'Status: {status}')
+        # continue
         weekly_date_status[date] = status
     fd.write(f'\n    Current market status: {status}')
     fd_other.write(f'\n    Current market status: {status}')
@@ -468,17 +521,37 @@ def update_breadth_csv(old_path: str, new_path: str, out_path: str = None) -> No
     # 4. Traverse new_rows and collect rows until top_prev_date is found
     temp_rows = []  # rows to prepend
     found_top_prev = False
+    previous_month = None
+    current_year = datetime.now().year
 
     for row in new_rows:
-        row_date = f"{row[0]} {datetime.now().year}"
+        row_date = f"{row[0]} {current_year}"
 
         if row_date == top_prev_date:
             found_top_prev = True
+            # print(f'row date {row_date} is equal to top prev date {
+            #      top_prev_date}')
             break
         else:
+            # print(f'row date {row_date} is not equal to top prev date {
+            #      top_prev_date}')
             # Temporarily record this row
-            row[0] = f"{row[0]} {datetime.now().year}"
+            date_str = row[0]
+            day_part = "".join(filter(str.isdigit, date_str.split()[0]))
+            month_part = date_str.split()[1]
+            # Convert month name to number (Dec -> 12)
+            current_date_obj = datetime.strptime(month_part, "%b")
+            current_month = current_date_obj.month
+
+            # Check for year rollover:
+            # If current row is Dec and previous was Jan, we've gone back a year
+            if previous_month == 1 and current_month == 12:
+                current_year -= 1
+
+            # Create new date string (e.g., "19th Dec 2025")
+            row[0] = f"{date_str} {current_year}"
             temp_rows.append(row)
+            previous_month = current_month
 
     # If never found, you have two choices:
     # (a) treat all rows as new, or
@@ -717,8 +790,8 @@ if __name__ == "__main__":
         else:
             json_file = convert_to_json(fetched_file)
             if 'macd-crossover' in screener_url:
-                if (datetime.today().weekday() == 2 or datetime.today().weekday() == 5 or
-                        datetime.today().weekday() == 4):
+                if (datetime.today().weekday() == 2 or datetime.today().weekday() == 4 or
+                        datetime.today().weekday() == 6):
                     analyze_weekly_macd_xover_data(json_file,
                                                    screener_url)
             elif 'macd-crossdown' in screener_url:

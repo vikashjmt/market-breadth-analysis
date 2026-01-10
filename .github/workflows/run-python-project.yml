@@ -1,7 +1,6 @@
 name: Run Market Breadth Project
 
 on:
-  push:
   pull_request:
   workflow_dispatch:
   schedule:
@@ -44,11 +43,11 @@ jobs:
           report_file="Report/market_breadth_`date +'%Y-%m-%d_%H:%M'`.txt"
           python fetch_breadth_data.py --history-days 8 >$report_file
           # Send Telegram message
-          # python3 send_telegram.py continuity_screener_multi_interval_* || echo "Telegram Notification Failed, Continuing..."
-          # python3 send_telegram.py $report_file || echo "Telegram Notification Failed, Continuing..."
-          # python3 send_telegram.py continuity_screener_hourly_* || echo "Telegram Notification Failed, Continuing..."
+          python3 send_telegram.py continuity_screener_multi_interval_* || echo "Telegram Notification Failed, Continuing..."
+          python3 send_telegram.py $report_file || echo "Telegram Notification Failed, Continuing..."
+          python3 send_telegram.py continuity_screener_hourly_* || echo "Telegram Notification Failed, Continuing..."
           if test -f continuity_macd_data_*; then
-            python3 send_telegram.py continuity_macd_data_* --file-mode || echo "Telegram Notification Failed, Continuing..."
+              python3 send_telegram.py continuity_macd_data_* --file-mode || echo "Telegram Notification Failed, Continuing..."
           fi
           cp $report_file Report/latest
           cat continuity_screener_hourly_* >> Report/latest

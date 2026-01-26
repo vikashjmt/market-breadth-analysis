@@ -24,15 +24,3 @@ DAY1 | 23rd Jan 2026:
      #stocks > 20 ema (Last 5 days):
 	458, 281, 220, 346, 262
      Market Status:  Red
-
-Number of stocks screened from screener: https://chartink.com/screener/trending-10-21-50-200
-
-Last 15 3-hour stock counts:
-[10, 8, 9, 9, 17, 23, 22, 9, 9, 9, 11, 10, 10, 10]
-
-Avg of last 10 days: 13.65
-Avg of last 25 days: 41.62
-Avg of last 50 days: 42.06
-*************************
-Status: Very Bearish.
-*************************

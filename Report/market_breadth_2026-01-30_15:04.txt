@@ -26,22 +26,3 @@ DAY1 | 30th Jan 2026:
      Market Status:  Red to Yellow
 Market might have bottomed for short/long term. Beware of 3 phases of bear 
 market downfall
-
-Number of stocks screened from screener: https://chartink.com/screener/trending-10-21-50-200
-
-Last 15 3-hour stock counts:
-[9, 9, 9, 11, 10, 10, 10, 8, 7, 8, 8, 18, 21, 21, 19]
-
-Avg of last 10 days: 12.9
-Avg of last 25 days: 37.7
-Avg of last 50 days: 36.95
-*************************
-Status: Non-trending with Bearish bias.
-*************************
-
-
-Analysis on the weekly macd xOver screener: https://chartink.com/screener/after-weekly-macd-crossover-emas-crossed
-    Current market status: Neutral with Bullish bias
-
-Analysis on the weekly macd xDown screener: https://chartink.com/screener/after-weekly-macd-crossdown
-    Current market status: Very Bearish

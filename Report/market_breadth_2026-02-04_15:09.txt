@@ -24,22 +24,3 @@ DAY1 | 4th Feb 2026:
      #stocks > 20 ema (Last 5 days):
 	643, 426, 429, 1135, 1348
      Market Status:  Green-Yellow (non-trending phase)
-
-Number of stocks screened from screener: https://chartink.com/screener/trending-10-21-50-200
-
-Last 15 3-hour stock counts:
-[7, 8, 8, 18, 21, 21, 18, 20, 12, 8, 9, 11, 13, 16, 17]
-
-Avg of last 10 days: 12.8
-Avg of last 25 days: 30.9
-Avg of last 50 days: 32.78
-*************************
-Status: Trend changing from Bearish to Bullish!
-*************************
-
-
-Analysis on the weekly macd xOver screener: https://chartink.com/screener/after-weekly-macd-crossover-emas-crossed
-    Current market status: Very Bullish
-
-Analysis on the weekly macd xDown screener: https://chartink.com/screener/after-weekly-macd-crossdown
-    Current market status: Neutral with Bullish bias

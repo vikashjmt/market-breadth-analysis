@@ -25,22 +25,3 @@ DAY1 | 11th Feb 2026:
 	1175, 1094, 1499, 1581, 1487
      Market Status: MB topped out today
  Green-Yellow (non-trending phase)
-
-Number of stocks screened from screener: https://chartink.com/screener/trending-10-21-50-200
-
-Last 15 3-hour stock counts:
-[10, 12, 14, 17, 18, 18, 20, 25, 37, 68, 81, 94, 96, 104, 107]
-
-Avg of last 10 days: 40.1
-Avg of last 25 days: 29.82
-Avg of last 50 days: 36.64
-*************************
-Status: Trend changing from Bearish to Bullish!
-*************************
-
-
-Analysis on the weekly macd xOver screener: https://chartink.com/screener/after-weekly-macd-crossover-emas-crossed
-    Current market status: Very Bullish
-
-Analysis on the weekly macd xDown screener: https://chartink.com/screener/after-weekly-macd-crossdown
-    Current market status: Very Bullish

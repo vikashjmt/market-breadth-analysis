@@ -25,15 +25,3 @@ DAY1 | 16th Feb 2026:
      #stocks > 20 ema (Last 5 days):
 	1581, 1487, 1321, 992, 940
      Market Status:  Light Red. Could be right time to panic and tighten the stop loss
-
-Number of stocks screened from screener: https://chartink.com/screener/trending-10-21-50-200
-
-Last 15 3-hour stock counts:
-[20, 25, 37, 68, 81, 94, 96, 104, 108, 102, 111, 101, 100, 83, 76]
-
-Avg of last 10 days: 64.25
-Avg of last 25 days: 33.38
-Avg of last 50 days: 39.33
-*************************
-Status: Very Bearish.
-*************************

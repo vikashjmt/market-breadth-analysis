@@ -24,15 +24,3 @@ DAY1 | 17th Feb 2026:
      #stocks > 20 ema (Last 5 days):
 	1487, 1321, 992, 940, 1042
      Market Status:  Green-Yellow (non-trending phase)
-
-Number of stocks screened from screener: https://chartink.com/screener/trending-10-21-50-200
-
-Last 15 3-hour stock counts:
-[37, 68, 81, 94, 96, 104, 108, 102, 111, 102, 101, 84, 77, 78, 76]
-
-Avg of last 10 days: 70.85
-Avg of last 25 days: 35.96
-Avg of last 50 days: 40.09
-*************************
-Status: Bearish.
-*************************

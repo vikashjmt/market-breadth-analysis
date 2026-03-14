@@ -536,7 +536,7 @@ def update_breadth_csv(old_path: str, new_path: str, out_path: str = None) -> No
             # print(f'row date {row_date} is not equal to top prev date {
             #      top_prev_date}')
             # Temporarily record this row
-            date_str = row[0]
+            date_str = row[0].replace("'"," ")
             day_part = "".join(filter(str.isdigit, date_str.split()[0]))
             month_part = date_str.split()[1]
             # Convert month name to number (Dec -> 12)
@@ -766,6 +766,7 @@ if __name__ == "__main__":
                 print(f'Processing url : {screener_url}')
                 download_screener(screener_url, dashboard=True)
                 latest_file = get_latest_download()
+                # print(f'Got the latest downloaded file {latest_file}')
                 fetched_file = move(latest_file, destination_file)
             except Exception as err:
                 print(f'Could not process dashboard due to {err}')

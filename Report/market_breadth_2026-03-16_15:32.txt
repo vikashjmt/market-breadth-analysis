@@ -26,15 +26,3 @@ DAY1 | 16th Mar 26 2026:
 	446, 439, 434, 213, 188
      Market Status: Extreme panic. Might see short/long term bottom soon
  Dark Red
-
-Number of stocks screened from screener: https://chartink.com/screener/trending-10-21-50-200
-
-Last 15 3-hour stock counts:
-[21, 21, 16, 10, 11, 14, 16, 18, 18, 18, 14, 8, 4, 5]
-
-Avg of last 10 days: 17.35
-Avg of last 25 days: 53.94
-Avg of last 50 days: 41.39
-*************************
-Status: Very Bearish.
-*************************

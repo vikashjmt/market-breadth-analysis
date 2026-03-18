@@ -26,22 +26,3 @@ DAY1 | 18th Mar 26 2026:
      #stocks > 20 ema (Last 5 days):
 	434, 213, 190, 259, 495
      Market Status:  Red
-
-Number of stocks screened from screener: https://chartink.com/screener/trending-10-21-50-200
-
-Last 15 3-hour stock counts:
-[10, 11, 14, 16, 17, 17, 17, 13, 7, 4, 5, 6, 7, 9, 9]
-
-Avg of last 10 days: 12.8
-Avg of last 25 days: 47.7
-Avg of last 50 days: 38.67
-*************************
-Status: Very Bearish.
-*************************
-
-
-Analysis on the weekly macd xOver screener: https://chartink.com/screener/after-weekly-macd-crossover-emas-crossed
-    Current market status: Very Bearish
-
-Analysis on the weekly macd xDown screener: https://chartink.com/screener/after-weekly-macd-crossdown
-    Current market status: Neutral with Bearish bias

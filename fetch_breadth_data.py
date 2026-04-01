@@ -62,12 +62,27 @@ def download_screener(url, dashboard=False):
     # Normal Screener Page (Non-dashboard)
     else:
         # Wait for screener’s download button
-        dom = wait.until(
-            EC.element_to_be_clickable(
-                (By.XPATH, "//div[contains(text(), 'Download csv')]"))
+        # Click "Download" button
+        # Get all Download buttons
+        download_buttons = wait.until(
+            EC.presence_of_all_elements_located(
+                (By.XPATH, "//button[contains(., 'Download')]")
+            )
         )
-        dom.click()
-        # print("Downloading CSV...")
+
+        download_btn = sorted(
+            [btn for btn in download_buttons if btn.is_displayed()],
+            key=lambda x: x.location['y']
+        )[-1]
+
+        driver.execute_script("arguments[0].click();", download_btn)
+
+        csv_option = wait.until(
+            EC.element_to_be_clickable(
+                (By.XPATH, "//*[contains(text(),' CSV')]")
+            )
+        )
+        csv_option.click()
 
     # Give 10s time for download (safest across systems)
     sleep(10)
@@ -238,11 +253,14 @@ def convert_to_json_old(csv_file):
 def convert_to_json(csv_file):
     # 1. Read CSV - Use header=0 to skip the "date, stock..." row
     # This fixes the "date": 1 issue
+    # print(f'The csv file is {csv_file}')
     df = pd.read_csv(csv_file, header=0)
-    df.columns = ['Datetime', 'Stock', 'Cap', 'Sector']
+    # print(df.columns.tolist())
+    # print(df.head())
+    df.columns = ['date', 'symbol', 'marketcapname', 'sector']
 
     # Get counts from the fresh, correct CSV
-    counts = df.groupby('Datetime', sort=False).size()
+    counts = df.groupby('date', sort=False).size()
     counts_dict = counts.to_dict()
 
     json_file = f"Report/{csv_file.rsplit('/')[-2]}.json"
@@ -536,7 +554,7 @@ def update_breadth_csv(old_path: str, new_path: str, out_path: str = None) -> No
             # print(f'row date {row_date} is not equal to top prev date {
             #      top_prev_date}')
             # Temporarily record this row
-            date_str = row[0].replace("'"," ")
+            date_str = row[0].replace("'", " ")
             day_part = "".join(filter(str.isdigit, date_str.split()[0]))
             month_part = date_str.split()[1]
             # Convert month name to number (Dec -> 12)
@@ -709,12 +727,13 @@ def detect_crossovers(ma_list, Date):
         if prev["ma50"] < prev["ma200"] and curr["ma50"] > curr["ma200"]:
             if curr["ma20"] > curr["ma50"]:
                 # print(f"Index {i}: Start of Long-term Bullish market", file=analysis_file)
-                line += f"\nIndex {i}({Date[i]}): Start of Long-term Bullish market"
+                line += (f"\nIndex {i}({Date[i]}): Start of Long-term Bullish market")
         # Long-term bearish
         if prev["ma50"] > prev["ma200"] and curr["ma50"] < curr["ma200"]:
             if curr["ma20"] < curr["ma50"]:
                 # print(f"Index {i}: Start of Long-term Bearish market", file=analysis_file)
-                line += f"\nIndex {i}({Date[i]}): Start of Long-term Bearish market"
+                line += (f"\nIndex {i}({Date[i]}):"
+                         "Start of Long-term Bearish market")
         # Update to list
         list_line.append(line)
         # Update to file in reverse order

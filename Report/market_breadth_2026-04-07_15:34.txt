@@ -24,15 +24,3 @@ DAY1 | 7th Apr 26 2026:
      #stocks > 20 ema (Last 5 days):
 	195, 481, 637, 931, 1093
      Market Status: Light Green
-
-Number of stocks screened from screener: https://chartink.com/screener/trending-10-21-50-200
-
-Last 15 3-hour stock counts:
-[8, 9, 11, 10, 8, 5, 11, 16, 23, 24, 27, 25, 28, 30]
-
-Avg of last 10 days: 14.2
-Avg of last 25 days: 19.44
-Avg of last 50 days: 33.87
-*************************
-Status: Non-trending with Bearish bias.
-*************************

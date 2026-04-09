@@ -25,15 +25,3 @@ DAY1 | 9th Apr 26 2026:
 	642, 937, 1097, 1903, 1820
      Market Status: MB topped out today
  Green-Yellow (non-trending phase)
-
-Number of stocks screened from screener: https://chartink.com/screener/trending-10-21-50-200
-
-Last 15 3-hour stock counts:
-[8, 5, 11, 16, 23, 24, 27, 25, 28, 30, 46, 51, 54, 71]
-
-Avg of last 10 days: 23.65
-Avg of last 25 days: 17.98
-Avg of last 50 days: 35.64
-*************************
-Status: Trend changing from Bearish to Bullish!
-*************************

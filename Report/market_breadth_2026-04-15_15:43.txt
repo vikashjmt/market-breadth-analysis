@@ -26,22 +26,3 @@ DAY1 | 15th Apr 26 2026:
      #stocks > 20 ema (Last 5 days):
 	1909, 1827, 1954, 1889, 2040
      Market Status: Light Green
-
-Number of stocks screened from screener: https://chartink.com/screener/trending-10-21-50-200
-
-Last 15 3-hour stock counts:
-[27, 25, 28, 30, 46, 51, 54, 71, 93, 103, 120, 138, 170, 187]
-
-Avg of last 10 days: 61.5
-Avg of last 25 days: 31.18
-Avg of last 50 days: 43.07
-*************************
-Status: Very Bullish. Consider adding fresh entry.
-*************************
-
-
-Analysis on the weekly macd xOver screener: https://chartink.com/screener/after-weekly-macd-crossover-emas-crossed
-    Current market status: Very Bullish
-
-Analysis on the weekly macd xDown screener: https://chartink.com/screener/after-weekly-macd-crossdown
-    Current market status: Very Bullish

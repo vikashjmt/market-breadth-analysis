@@ -26,15 +26,3 @@ DAY1 | 16th Apr 26 2026:
 	1830, 1957, 1893, 2054, 2052
      Market Status: MB topped out today
 Light Green
-
-Number of stocks screened from screener: https://chartink.com/screener/trending-10-21-50-200
-
-Last 15 3-hour stock counts:
-[28, 30, 46, 51, 54, 71, 93, 103, 120, 138, 170, 188, 208, 219]
-
-Avg of last 10 days: 82.25
-Avg of last 25 days: 38.74
-Avg of last 50 days: 46.88
-*************************
-Status: Very Bullish. Consider adding fresh entry.
-*************************

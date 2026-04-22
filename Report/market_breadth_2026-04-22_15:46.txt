@@ -27,22 +27,3 @@ DAY1 | 22nd Apr 26 2026:
 	2064, 2102, 2063, 2052, 2029
      Market Status: MB topped out today
  Bright to Light Green, market losing momentum
-
-Number of stocks screened from screener: https://chartink.com/screener/trending-10-21-50-200
-
-Last 15 3-hour stock counts:
-[121, 139, 173, 191, 211, 223, 232, 248, 268, 285, 301, 310, 324, 335]
-
-Avg of last 10 days: 188.95
-Avg of last 25 days: 82.8
-Avg of last 50 days: 69.0
-*************************
-Status: Very Bullish. Consider adding fresh entry.
-*************************
-
-
-Analysis on the weekly macd xOver screener: https://chartink.com/screener/after-weekly-macd-crossover-emas-crossed
-    Current market status: Very Bullish
-
-Analysis on the weekly macd xDown screener: https://chartink.com/screener/after-weekly-macd-crossdown
-    Current market status: Very Bullish

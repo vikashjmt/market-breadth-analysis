@@ -1,3 +1,4 @@
+	27th Apr 26 2026: ma10 > ma20 > ma50 > ma200
 	24th Apr 26 2026: ma10 > ma20 > ma50 > ma200
 	23rd Apr 26 2026: ma10 > ma20 > ma50 > ma200
 	22nd Apr 26 2026: ma10 > ma20 > ma50 > ma200
@@ -5,9 +6,9 @@
 	20th Apr 26 2026: ma10 > ma20 > ma50 > ma200
 	17th Apr 26 2026: ma10 > ma20 > ma50 > ma200
 	16th Apr 26 2026: ma10 > ma20 > ma50 < ma200
-Index 6(16th Apr 26 2026): Start of Long-term Bullish market
+Index 7(16th Apr 26 2026): Start of Long-term Bullish market
 	15th Apr 26 2026: ma10 > ma20 < ma50 < ma200
-Index 7(15th Apr 26 2026): Weak Bullish momentum
+Index 8(15th Apr 26 2026): Weak Bullish momentum
 	13th Apr 26 2026: ma10 > ma20 < ma50 < ma200
 	10th Apr 26 2026: ma10 > ma20 < ma50 < ma200
 	9th Apr 26 2026: ma10 > ma20 < ma50 < ma200
@@ -30,7 +31,7 @@ Index 7(15th Apr 26 2026): Weak Bullish momentum
 	12th Mar 26 2026: ma10 < ma20 < ma50 < ma200
 	11th Mar 26 2026: ma10 < ma20 < ma50 < ma200
 	10th Mar 26 2026: ma10 < ma20 > ma50 < ma200
-Index 29(10th Mar 26 2026): Strong Bearish momentum
+Index 30(10th Mar 26 2026): Strong Bearish momentum
 	9th Mar 26 2026: ma10 < ma20 > ma50 < ma200
 	6th Mar 26 2026: ma10 < ma20 > ma50 < ma200
 	5th Mar 26 2026: ma10 < ma20 > ma50 < ma200
@@ -50,7 +51,7 @@ Index 29(10th Mar 26 2026): Strong Bearish momentum
 	12th Feb 26 2026: ma10 > ma20 > ma50 < ma200
 	11th Feb 26 2026: ma10 > ma20 > ma50 < ma200
 	10th Feb 26 2026: ma10 > ma20 < ma50 < ma200
-Index 48(10th Feb 26 2026): Weak Bullish momentum
+Index 49(10th Feb 26 2026): Weak Bullish momentum
 	9th Feb 26 2026: ma10 > ma20 < ma50 < ma200
 	6th Feb 26 2026: ma10 > ma20 < ma50 < ma200
 	5th Feb 26 2026: ma10 > ma20 < ma50 < ma200
@@ -64,7 +65,7 @@ Index 48(10th Feb 26 2026): Weak Bullish momentum
 	27th Jan 26 2026: ma10 < ma20 < ma50 < ma200
 	23rd Jan 26 2026: ma10 < ma20 < ma50 < ma200
 	22nd Jan 26 2026: ma10 < ma20 > ma50 < ma200
-Index 61(22nd Jan 26 2026): Strong Bearish momentum
+Index 62(22nd Jan 26 2026): Strong Bearish momentum
 	21st Jan 26 2026: ma10 < ma20 > ma50 < ma200
 	20th Jan 26 2026: ma10 < ma20 > ma50 < ma200
 	19th Jan 26 2026: ma10 < ma20 > ma50 < ma200
@@ -77,7 +78,7 @@ Index 61(22nd Jan 26 2026): Strong Bearish momentum
 	7th Jan 26 2026: ma10 > ma20 > ma50 < ma200
 	6th Jan 26 2026: ma10 > ma20 > ma50 < ma200
 	5th Jan 26 2026: ma10 > ma20 < ma50 < ma200
-Index 73(5th Jan 26 2026): Weak Bullish momentum
+Index 74(5th Jan 26 2026): Weak Bullish momentum
 	2nd Jan 26 2026: ma10 > ma20 < ma50 < ma200
 	1st Jan 26 2026: ma10 > ma20 < ma50 < ma200
 	31st Dec 25 2025: ma10 > ma20 < ma50 < ma200
@@ -120,10 +121,10 @@ Index 73(5th Jan 26 2026): Weak Bullish momentum
 	7th Nov 25 2025: ma10 > ma20 < ma50 < ma200
 	6th Nov 25 2025: ma10 > ma20 < ma50 < ma200
 	4th Nov 25 2025: ma10 > ma20 > ma50 < ma200
-Index 115(4th Nov 25 2025): Strong Bearish momentum
+Index 116(4th Nov 25 2025): Strong Bearish momentum
 	3rd Nov 25 2025: ma10 > ma20 > ma50 < ma200
 	31st Oct 25 2025: ma10 > ma20 < ma50 < ma200
-Index 117(31st Oct 25 2025): Weak Bullish momentum
+Index 118(31st Oct 25 2025): Weak Bullish momentum
 	30th Oct 25 2025: ma10 > ma20 < ma50 < ma200
 	29th Oct 25 2025: ma10 > ma20 < ma50 < ma200
 	28th Oct 25 2025: ma10 > ma20 < ma50 < ma200
@@ -134,7 +135,7 @@ Index 117(31st Oct 25 2025): Weak Bullish momentum
 	20th Oct 25 2025: ma10 > ma20 < ma50 < ma200
 	17th Oct 25 2025: ma10 > ma20 < ma50 < ma200
 	16th Oct 25 2025: ma10 < ma20 > ma50 < ma200
-Index 127(16th Oct 25 2025): Strong Bearish momentum
+Index 128(16th Oct 25 2025): Strong Bearish momentum
 	15th Oct 25 2025: ma10 < ma20 > ma50 < ma200
 	14th Oct 25 2025: ma10 < ma20 > ma50 < ma200
 	13th Oct 25 2025: ma10 < ma20 > ma50 < ma200
@@ -159,7 +160,7 @@ Index 127(16th Oct 25 2025): Strong Bearish momentum
 	15th Sep 25 2025: ma10 > ma20 > ma50 < ma200
 	12th Sep 25 2025: ma10 > ma20 > ma50 < ma200
 	11th Sep 25 2025: ma10 > ma20 < ma50 < ma200
-Index 151(11th Sep 25 2025): Weak Bullish momentum
+Index 152(11th Sep 25 2025): Weak Bullish momentum
 	10th Sep 25 2025: ma10 > ma20 < ma50 < ma200
 	9th Sep 25 2025: ma10 > ma20 < ma50 < ma200
 	8th Sep 25 2025: ma10 > ma20 < ma50 < ma200
@@ -174,7 +175,7 @@ Index 151(11th Sep 25 2025): Weak Bullish momentum
 	25th Aug 25 2025: ma10 > ma20 < ma50 < ma200
 	22nd Aug 25 2025: ma10 > ma20 < ma50 < ma200
 	21st Aug 25 2025: ma10 > ma20 < ma50 > ma200
-Index 165(21st Aug 25 2025):Start of Long-term Bearish market
+Index 166(21st Aug 25 2025):Start of Long-term Bearish market
 	20th Aug 25 2025: ma10 < ma20 < ma50 > ma200
 	19th Aug 25 2025: ma10 < ma20 < ma50 > ma200
 	18th Aug 25 2025: ma10 < ma20 < ma50 > ma200
@@ -224,7 +225,270 @@ Index 165(21st Aug 25 2025):Start of Long-term Bearish market
 	16th Jun 25 2025: ma10 < ma20 < ma50 > ma200
 	13th Jun 25 2025: ma10 < ma20 < ma50 > ma200
 	12th Jun 25 2025: ma10 < ma20 > ma50 > ma200
-Index 214(12th Jun 25 2025): Short-term Bearish momentum
+Index 215(12th Jun 25 2025): Short-term Bearish momentum
+	11th Jun 25 2025: ma10 < ma20 > ma50 > ma200
+	10th Jun 25 2025: ma10 < ma20 > ma50 > ma200
+	9th Jun 25 2025: ma10 < ma20 > ma50 > ma200
+	6th Jun 25 2025: ma10 < ma20 > ma50 > ma200
+	5th Jun 25 2025: ma10 < ma20 > ma50 > ma200
+	4th Jun 25 2025: ma10 > ma20 > ma50 > ma200
+	3rd Jun 25 2025: ma10 > ma20 > ma50 > ma200
+	2nd Jun 25 2025: ma10 > ma20 > ma50 > ma200
+	30th May 25 2025: ma10 > ma20 > ma50 > ma200
+	29th May 25 2025: ma10 > ma20 > ma50 > ma200
+	28th May 25 2025: ma10 > ma20 > ma50 > ma200
+	27th May 25 2025: ma10 > ma20 > ma50 > ma200
+	26th May 25 2025: ma10 > ma20 > ma50 > ma200
+	23rd May 25 2025: ma10 > ma20 > ma50 > ma200
+	22nd May 25 2025: ma10 > ma20 > ma50 > ma200
+	21st May 25 2025: ma10 > ma20 > ma50 > ma200
+	20th May 25 2025: ma10 > ma20 > ma50 > ma200
+	19th May 25 2025: ma10 < ma20 > ma50 > ma200
+	16th May 25 2025: ma10 < ma20 > ma50 > ma200
+	15th May 25 2025: ma10 < ma20 > ma50 > ma200
+	14th May 25 2025: ma10 < ma20 > ma50 > ma200
+	13th May 25 2025: ma10 < ma20 > ma50 > ma200
+	12th May 25 2025: ma10 < ma20 > ma50 > ma200
+	9th May 25 2025: ma10 < ma20 > ma50 > ma200
+	8th May 25 2025: ma10 < ma20 > ma50 > ma200
+	7th May 25 2025: ma10 < ma20 > ma50 > ma200
+	6th May 25 2025: ma10 < ma20 > ma50 > ma200
+	5th May 25 2025: ma10 < ma20 > ma50 > ma200
+	2nd May 25 2025: ma10 < ma20 > ma50 > ma200
+	30th Apr 25 2025: ma10 < ma20 > ma50 > ma200
+	29th Apr 25 2025: ma10 < ma20 > ma50 > ma200
+	28th Apr 25 2025: ma10 > ma20 > ma50 > ma200
+	25th Apr 25 2025: ma10 > ma20 > ma50 > ma200
+	24th Apr 25 2025: ma10 > ma20 > ma50 > ma200
+	23rd Apr 25 2025: ma10 > ma20 > ma50 > ma200
+	22nd Apr 25 2025: ma10 > ma20 > ma50 > ma200
+	24th Apr 26 2026: ma10 > ma20 > ma50 > ma200
+	23rd Apr 26 2026: ma10 > ma20 > ma50 > ma200
+	22nd Apr 26 2026: ma10 > ma20 > ma50 > ma200
+	21st Apr 26 2026: ma10 > ma20 > ma50 > ma200
+	20th Apr 26 2026: ma10 > ma20 > ma50 > ma200
+	17th Apr 26 2026: ma10 > ma20 > ma50 > ma200
+	16th Apr 26 2026: ma10 > ma20 > ma50 < ma200
+Index 258(16th Apr 26 2026): Start of Long-term Bullish market
+	15th Apr 26 2026: ma10 > ma20 < ma50 < ma200
+Index 259(15th Apr 26 2026): Weak Bullish momentum
+	13th Apr 26 2026: ma10 > ma20 < ma50 < ma200
+	10th Apr 26 2026: ma10 > ma20 < ma50 < ma200
+	9th Apr 26 2026: ma10 > ma20 < ma50 < ma200
+	8th Apr 26 2026: ma10 > ma20 < ma50 < ma200
+	7th Apr 26 2026: ma10 > ma20 < ma50 < ma200
+	6th Apr 26 2026: ma10 > ma20 < ma50 < ma200
+	2nd Apr 26 2026: ma10 > ma20 < ma50 < ma200
+	1st Apr 26 2026: ma10 < ma20 < ma50 < ma200
+	30th Mar 26 2026: ma10 < ma20 < ma50 < ma200
+	27th Mar 26 2026: ma10 < ma20 < ma50 < ma200
+	25th Mar 26 2026: ma10 < ma20 < ma50 < ma200
+	24th Mar 26 2026: ma10 < ma20 < ma50 < ma200
+	23rd Mar 26 2026: ma10 < ma20 < ma50 < ma200
+	20th Mar 26 2026: ma10 < ma20 < ma50 < ma200
+	19th Mar 26 2026: ma10 < ma20 < ma50 < ma200
+	18th Mar 26 2026: ma10 < ma20 < ma50 < ma200
+	17th Mar 26 2026: ma10 < ma20 < ma50 < ma200
+	16th Mar 26 2026: ma10 < ma20 < ma50 < ma200
+	13th Mar 26 2026: ma10 < ma20 < ma50 < ma200
+	12th Mar 26 2026: ma10 < ma20 < ma50 < ma200
+	11th Mar 26 2026: ma10 < ma20 < ma50 < ma200
+	10th Mar 26 2026: ma10 < ma20 > ma50 < ma200
+Index 281(10th Mar 26 2026): Strong Bearish momentum
+	9th Mar 26 2026: ma10 < ma20 > ma50 < ma200
+	6th Mar 26 2026: ma10 < ma20 > ma50 < ma200
+	5th Mar 26 2026: ma10 < ma20 > ma50 < ma200
+	4th Mar 26 2026: ma10 < ma20 > ma50 < ma200
+	2nd Mar 26 2026: ma10 < ma20 > ma50 < ma200
+	27th Feb 26 2026: ma10 < ma20 > ma50 < ma200
+	26th Feb 26 2026: ma10 < ma20 > ma50 < ma200
+	25th Feb 26 2026: ma10 < ma20 > ma50 < ma200
+	24th Feb 26 2026: ma10 > ma20 > ma50 < ma200
+	23rd Feb 26 2026: ma10 > ma20 > ma50 < ma200
+	20th Feb 26 2026: ma10 > ma20 > ma50 < ma200
+	19th Feb 26 2026: ma10 > ma20 > ma50 < ma200
+	18th Feb 26 2026: ma10 > ma20 > ma50 < ma200
+	17th Feb 26 2026: ma10 > ma20 > ma50 < ma200
+	16th Feb 26 2026: ma10 > ma20 > ma50 < ma200
+	13th Feb 26 2026: ma10 > ma20 > ma50 < ma200
+	12th Feb 26 2026: ma10 > ma20 > ma50 < ma200
+	11th Feb 26 2026: ma10 > ma20 > ma50 < ma200
+	10th Feb 26 2026: ma10 > ma20 < ma50 < ma200
+Index 300(10th Feb 26 2026): Weak Bullish momentum
+	9th Feb 26 2026: ma10 > ma20 < ma50 < ma200
+	6th Feb 26 2026: ma10 > ma20 < ma50 < ma200
+	5th Feb 26 2026: ma10 > ma20 < ma50 < ma200
+	4th Feb 26 2026: ma10 > ma20 < ma50 < ma200
+	3rd Feb 26 2026: ma10 < ma20 < ma50 < ma200
+	2nd Feb 26 2026: ma10 < ma20 < ma50 < ma200
+	1st Feb 26 2026: ma10 < ma20 < ma50 < ma200
+	30th Jan 26 2026: ma10 < ma20 < ma50 < ma200
+	29th Jan 26 2026: ma10 < ma20 < ma50 < ma200
+	28th Jan 26 2026: ma10 < ma20 < ma50 < ma200
+	27th Jan 26 2026: ma10 < ma20 < ma50 < ma200
+	23rd Jan 26 2026: ma10 < ma20 < ma50 < ma200
+	22nd Jan 26 2026: ma10 < ma20 > ma50 < ma200
+Index 313(22nd Jan 26 2026): Strong Bearish momentum
+	21st Jan 26 2026: ma10 < ma20 > ma50 < ma200
+	20th Jan 26 2026: ma10 < ma20 > ma50 < ma200
+	19th Jan 26 2026: ma10 < ma20 > ma50 < ma200
+	16th Jan 26 2026: ma10 < ma20 > ma50 < ma200
+	14th Jan 26 2026: ma10 < ma20 > ma50 < ma200
+	13th Jan 26 2026: ma10 > ma20 > ma50 < ma200
+	12th Jan 26 2026: ma10 > ma20 > ma50 < ma200
+	9th Jan 26 2026: ma10 > ma20 > ma50 < ma200
+	8th Jan 26 2026: ma10 > ma20 > ma50 < ma200
+	7th Jan 26 2026: ma10 > ma20 > ma50 < ma200
+	6th Jan 26 2026: ma10 > ma20 > ma50 < ma200
+	5th Jan 26 2026: ma10 > ma20 < ma50 < ma200
+Index 325(5th Jan 26 2026): Weak Bullish momentum
+	2nd Jan 26 2026: ma10 > ma20 < ma50 < ma200
+	1st Jan 26 2026: ma10 > ma20 < ma50 < ma200
+	31st Dec 25 2025: ma10 > ma20 < ma50 < ma200
+	30th Dec 25 2025: ma10 > ma20 < ma50 < ma200
+	29th Dec 25 2025: ma10 > ma20 < ma50 < ma200
+	26th Dec 25 2025: ma10 > ma20 < ma50 < ma200
+	24th Dec 25 2025: ma10 > ma20 < ma50 < ma200
+	23rd Dec 25 2025: ma10 > ma20 < ma50 < ma200
+	22nd Dec 25 2025: ma10 < ma20 < ma50 < ma200
+	19th Dec 25 2025: ma10 < ma20 < ma50 < ma200
+	18th Dec 25 2025: ma10 < ma20 < ma50 < ma200
+	17th Dec 25 2025: ma10 < ma20 < ma50 < ma200
+	16th Dec 25 2025: ma10 < ma20 < ma50 < ma200
+	15th Dec 25 2025: ma10 < ma20 < ma50 < ma200
+	12th Dec 25 2025: ma10 < ma20 < ma50 < ma200
+	11th Dec 25 2025: ma10 < ma20 < ma50 < ma200
+	10th Dec 25 2025: ma10 < ma20 < ma50 < ma200
+	9th Dec 25 2025: ma10 < ma20 < ma50 < ma200
+	8th Dec 25 2025: ma10 < ma20 < ma50 < ma200
+	5th Dec 25 2025: ma10 < ma20 < ma50 < ma200
+	4th Dec 25 2025: ma10 < ma20 < ma50 < ma200
+	3rd Dec 25 2025: ma10 < ma20 < ma50 < ma200
+	2nd Dec 25 2025: ma10 < ma20 < ma50 < ma200
+	1st Dec 25 2025: ma10 < ma20 < ma50 < ma200
+	28th Nov 25 2025: ma10 < ma20 < ma50 < ma200
+	27th Nov 25 2025: ma10 < ma20 < ma50 < ma200
+	26th Nov 25 2025: ma10 < ma20 < ma50 < ma200
+	25th Nov 25 2025: ma10 < ma20 < ma50 < ma200
+	24th Nov 25 2025: ma10 < ma20 < ma50 < ma200
+	21st Nov 25 2025: ma10 < ma20 < ma50 < ma200
+	20th Nov 25 2025: ma10 < ma20 < ma50 < ma200
+	19th Nov 25 2025: ma10 < ma20 < ma50 < ma200
+	18th Nov 25 2025: ma10 < ma20 < ma50 < ma200
+	17th Nov 25 2025: ma10 < ma20 < ma50 < ma200
+	14th Nov 25 2025: ma10 < ma20 < ma50 < ma200
+	13th Nov 25 2025: ma10 < ma20 < ma50 < ma200
+	12th Nov 25 2025: ma10 < ma20 < ma50 < ma200
+	11th Nov 25 2025: ma10 < ma20 < ma50 < ma200
+	10th Nov 25 2025: ma10 < ma20 < ma50 < ma200
+	7th Nov 25 2025: ma10 > ma20 < ma50 < ma200
+	6th Nov 25 2025: ma10 > ma20 < ma50 < ma200
+	4th Nov 25 2025: ma10 > ma20 > ma50 < ma200
+Index 367(4th Nov 25 2025): Strong Bearish momentum
+	3rd Nov 25 2025: ma10 > ma20 > ma50 < ma200
+	31st Oct 25 2025: ma10 > ma20 < ma50 < ma200
+Index 369(31st Oct 25 2025): Weak Bullish momentum
+	30th Oct 25 2025: ma10 > ma20 < ma50 < ma200
+	29th Oct 25 2025: ma10 > ma20 < ma50 < ma200
+	28th Oct 25 2025: ma10 > ma20 < ma50 < ma200
+	27th Oct 25 2025: ma10 > ma20 < ma50 < ma200
+	24th Oct 25 2025: ma10 > ma20 < ma50 < ma200
+	23rd Oct 25 2025: ma10 > ma20 < ma50 < ma200
+	21st Oct 25 2025: ma10 > ma20 < ma50 < ma200
+	20th Oct 25 2025: ma10 > ma20 < ma50 < ma200
+	17th Oct 25 2025: ma10 > ma20 < ma50 < ma200
+	16th Oct 25 2025: ma10 < ma20 > ma50 < ma200
+Index 379(16th Oct 25 2025): Strong Bearish momentum
+	15th Oct 25 2025: ma10 < ma20 > ma50 < ma200
+	14th Oct 25 2025: ma10 < ma20 > ma50 < ma200
+	13th Oct 25 2025: ma10 < ma20 > ma50 < ma200
+	10th Oct 25 2025: ma10 < ma20 > ma50 < ma200
+	9th Oct 25 2025: ma10 < ma20 > ma50 < ma200
+	8th Oct 25 2025: ma10 < ma20 > ma50 < ma200
+	7th Oct 25 2025: ma10 < ma20 > ma50 < ma200
+	6th Oct 25 2025: ma10 < ma20 > ma50 < ma200
+	3rd Oct 25 2025: ma10 < ma20 > ma50 < ma200
+	1st Oct 25 2025: ma10 < ma20 > ma50 < ma200
+	30th Sep 25 2025: ma10 < ma20 > ma50 < ma200
+	29th Sep 25 2025: ma10 < ma20 > ma50 < ma200
+	26th Sep 25 2025: ma10 > ma20 > ma50 < ma200
+	25th Sep 25 2025: ma10 > ma20 > ma50 < ma200
+	24th Sep 25 2025: ma10 > ma20 > ma50 < ma200
+	23rd Sep 25 2025: ma10 > ma20 > ma50 < ma200
+	22nd Sep 25 2025: ma10 > ma20 > ma50 < ma200
+	19th Sep 25 2025: ma10 > ma20 > ma50 < ma200
+	18th Sep 25 2025: ma10 > ma20 > ma50 < ma200
+	17th Sep 25 2025: ma10 > ma20 > ma50 < ma200
+	16th Sep 25 2025: ma10 > ma20 > ma50 < ma200
+	15th Sep 25 2025: ma10 > ma20 > ma50 < ma200
+	12th Sep 25 2025: ma10 > ma20 > ma50 < ma200
+	11th Sep 25 2025: ma10 > ma20 < ma50 < ma200
+Index 403(11th Sep 25 2025): Weak Bullish momentum
+	10th Sep 25 2025: ma10 > ma20 < ma50 < ma200
+	9th Sep 25 2025: ma10 > ma20 < ma50 < ma200
+	8th Sep 25 2025: ma10 > ma20 < ma50 < ma200
+	5th Sep 25 2025: ma10 > ma20 < ma50 < ma200
+	4th Sep 25 2025: ma10 > ma20 < ma50 < ma200
+	3rd Sep 25 2025: ma10 > ma20 < ma50 < ma200
+	2nd Sep 25 2025: ma10 > ma20 < ma50 < ma200
+	1st Sep 25 2025: ma10 > ma20 < ma50 < ma200
+	29th Aug 25 2025: ma10 > ma20 < ma50 < ma200
+	28th Aug 25 2025: ma10 > ma20 < ma50 < ma200
+	26th Aug 25 2025: ma10 > ma20 < ma50 < ma200
+	25th Aug 25 2025: ma10 > ma20 < ma50 < ma200
+	22nd Aug 25 2025: ma10 > ma20 < ma50 < ma200
+	21st Aug 25 2025: ma10 > ma20 < ma50 > ma200
+Index 417(21st Aug 25 2025):Start of Long-term Bearish market
+	20th Aug 25 2025: ma10 < ma20 < ma50 > ma200
+	19th Aug 25 2025: ma10 < ma20 < ma50 > ma200
+	18th Aug 25 2025: ma10 < ma20 < ma50 > ma200
+	14th Aug 25 2025: ma10 < ma20 < ma50 > ma200
+	13th Aug 25 2025: ma10 < ma20 < ma50 > ma200
+	12th Aug 25 2025: ma10 < ma20 < ma50 > ma200
+	11th Aug 25 2025: ma10 < ma20 < ma50 > ma200
+	8th Aug 25 2025: ma10 < ma20 < ma50 > ma200
+	7th Aug 25 2025: ma10 < ma20 < ma50 > ma200
+	6th Aug 25 2025: ma10 < ma20 < ma50 > ma200
+	5th Aug 25 2025: ma10 < ma20 < ma50 > ma200
+	4th Aug 25 2025: ma10 < ma20 < ma50 > ma200
+	1st Aug 25 2025: ma10 < ma20 < ma50 > ma200
+	31st Jul 25 2025: ma10 < ma20 < ma50 > ma200
+	30th Jul 25 2025: ma10 < ma20 < ma50 > ma200
+	29th Jul 25 2025: ma10 < ma20 < ma50 > ma200
+	28th Jul 25 2025: ma10 < ma20 < ma50 > ma200
+	25th Jul 25 2025: ma10 < ma20 < ma50 > ma200
+	24th Jul 25 2025: ma10 < ma20 < ma50 > ma200
+	23rd Jul 25 2025: ma10 < ma20 < ma50 > ma200
+	22nd Jul 25 2025: ma10 < ma20 < ma50 > ma200
+	21st Jul 25 2025: ma10 < ma20 < ma50 > ma200
+	18th Jul 25 2025: ma10 < ma20 < ma50 > ma200
+	17th Jul 25 2025: ma10 < ma20 < ma50 > ma200
+	16th Jul 25 2025: ma10 > ma20 < ma50 > ma200
+	15th Jul 25 2025: ma10 > ma20 < ma50 > ma200
+	14th Jul 25 2025: ma10 > ma20 < ma50 > ma200
+	11th Jul 25 2025: ma10 > ma20 < ma50 > ma200
+	10th Jul 25 2025: ma10 > ma20 < ma50 > ma200
+	9th Jul 25 2025: ma10 > ma20 < ma50 > ma200
+	8th Jul 25 2025: ma10 > ma20 < ma50 > ma200
+	7th Jul 25 2025: ma10 > ma20 < ma50 > ma200
+	4th Jul 25 2025: ma10 > ma20 < ma50 > ma200
+	3rd Jul 25 2025: ma10 < ma20 < ma50 > ma200
+	2nd Jul 25 2025: ma10 < ma20 < ma50 > ma200
+	1st Jul 25 2025: ma10 < ma20 < ma50 > ma200
+	30th Jun 25 2025: ma10 < ma20 < ma50 > ma200
+	27th Jun 25 2025: ma10 < ma20 < ma50 > ma200
+	26th Jun 25 2025: ma10 < ma20 < ma50 > ma200
+	25th Jun 25 2025: ma10 < ma20 < ma50 > ma200
+	24th Jun 25 2025: ma10 < ma20 < ma50 > ma200
+	23rd Jun 25 2025: ma10 < ma20 < ma50 > ma200
+	20th Jun 25 2025: ma10 < ma20 < ma50 > ma200
+	19th Jun 25 2025: ma10 < ma20 < ma50 > ma200
+	18th Jun 25 2025: ma10 < ma20 < ma50 > ma200
+	17th Jun 25 2025: ma10 < ma20 < ma50 > ma200
+	16th Jun 25 2025: ma10 < ma20 < ma50 > ma200
+	13th Jun 25 2025: ma10 < ma20 < ma50 > ma200
+	12th Jun 25 2025: ma10 < ma20 > ma50 > ma200
+Index 466(12th Jun 25 2025): Short-term Bearish momentum
 	11th Jun 25 2025: ma10 < ma20 > ma50 > ma200
 	10th Jun 25 2025: ma10 < ma20 > ma50 > ma200
 	9th Jun 25 2025: ma10 < ma20 > ma50 > ma200
@@ -268,9 +532,9 @@ Index 214(12th Jun 25 2025): Short-term Bearish momentum
 	20th Apr 26 2026: ma10 > ma20 > ma50 > ma200
 	17th Apr 26 2026: ma10 > ma20 > ma50 > ma200
 	16th Apr 26 2026: ma10 > ma20 > ma50 < ma200
-Index 257(16th Apr 26 2026): Start of Long-term Bullish market
+Index 509(16th Apr 26 2026): Start of Long-term Bullish market
 	15th Apr 26 2026: ma10 > ma20 < ma50 < ma200
-Index 258(15th Apr 26 2026): Weak Bullish momentum
+Index 510(15th Apr 26 2026): Weak Bullish momentum
 	13th Apr 26 2026: ma10 > ma20 < ma50 < ma200
 	10th Apr 26 2026: ma10 > ma20 < ma50 < ma200
 	9th Apr 26 2026: ma10 > ma20 < ma50 < ma200
@@ -293,7 +557,7 @@ Index 258(15th Apr 26 2026): Weak Bullish momentum
 	12th Mar 26 2026: ma10 < ma20 < ma50 < ma200
 	11th Mar 26 2026: ma10 < ma20 < ma50 < ma200
 	10th Mar 26 2026: ma10 < ma20 > ma50 < ma200
-Index 280(10th Mar 26 2026): Strong Bearish momentum
+Index 532(10th Mar 26 2026): Strong Bearish momentum
 	9th Mar 26 2026: ma10 < ma20 > ma50 < ma200
 	6th Mar 26 2026: ma10 < ma20 > ma50 < ma200
 	5th Mar 26 2026: ma10 < ma20 > ma50 < ma200
@@ -313,7 +577,7 @@ Index 280(10th Mar 26 2026): Strong Bearish momentum
 	12th Feb 26 2026: ma10 > ma20 > ma50 < ma200
 	11th Feb 26 2026: ma10 > ma20 > ma50 < ma200
 	10th Feb 26 2026: ma10 > ma20 < ma50 < ma200
-Index 299(10th Feb 26 2026): Weak Bullish momentum
+Index 551(10th Feb 26 2026): Weak Bullish momentum
 	9th Feb 26 2026: ma10 > ma20 < ma50 < ma200
 	6th Feb 26 2026: ma10 > ma20 < ma50 < ma200
 	5th Feb 26 2026: ma10 > ma20 < ma50 < ma200
@@ -326,7 +590,7 @@ Index 299(10th Feb 26 2026): Weak Bullish momentum
 	28th Jan 26 2026: ma10 < ma20 < ma50 < ma200
 	27th Jan 26 2026: ma10 < ma20 < ma50 < ma200
 	23rd Jan 26 2026: ma10 < ma20 > ma50 < ma200
-Index 311(23rd Jan 26 2026): Strong Bearish momentum
+Index 563(23rd Jan 26 2026): Strong Bearish momentum
 	22nd Jan 26 2026: ma10 < ma20 > ma50 < ma200
 	21st Jan 26 2026: ma10 < ma20 > ma50 < ma200
 	20th Jan 26 2026: ma10 < ma20 > ma50 < ma200
@@ -340,7 +604,7 @@ Index 311(23rd Jan 26 2026): Strong Bearish momentum
 	7th Jan 26 2026: ma10 > ma20 > ma50 < ma200
 	6th Jan 26 2026: ma10 > ma20 > ma50 < ma200
 	5th Jan 26 2026: ma10 > ma20 < ma50 < ma200
-Index 324(5th Jan 26 2026): Weak Bullish momentum
+Index 576(5th Jan 26 2026): Weak Bullish momentum
 	2nd Jan 26 2026: ma10 > ma20 < ma50 < ma200
 	1st Jan 26 2026: ma10 > ma20 < ma50 < ma200
 	31st Dec 25 2025: ma10 > ma20 < ma50 < ma200
@@ -383,10 +647,10 @@ Index 324(5th Jan 26 2026): Weak Bullish momentum
 	7th Nov 25 2025: ma10 > ma20 < ma50 < ma200
 	6th Nov 25 2025: ma10 > ma20 < ma50 < ma200
 	4th Nov 25 2025: ma10 > ma20 > ma50 < ma200
-Index 366(4th Nov 25 2025): Strong Bearish momentum
+Index 618(4th Nov 25 2025): Strong Bearish momentum
 	3rd Nov 25 2025: ma10 > ma20 > ma50 < ma200
 	31st Oct 25 2025: ma10 > ma20 < ma50 < ma200
-Index 368(31st Oct 25 2025): Weak Bullish momentum
+Index 620(31st Oct 25 2025): Weak Bullish momentum
 	30th Oct 25 2025: ma10 > ma20 < ma50 < ma200
 	29th Oct 25 2025: ma10 > ma20 < ma50 < ma200
 	28th Oct 25 2025: ma10 > ma20 < ma50 < ma200
@@ -397,7 +661,7 @@ Index 368(31st Oct 25 2025): Weak Bullish momentum
 	20th Oct 25 2025: ma10 > ma20 < ma50 < ma200
 	17th Oct 25 2025: ma10 > ma20 < ma50 < ma200
 	16th Oct 25 2025: ma10 < ma20 > ma50 < ma200
-Index 378(16th Oct 25 2025): Strong Bearish momentum
+Index 630(16th Oct 25 2025): Strong Bearish momentum
 	15th Oct 25 2025: ma10 < ma20 > ma50 < ma200
 	14th Oct 25 2025: ma10 < ma20 > ma50 < ma200
 	13th Oct 25 2025: ma10 < ma20 > ma50 < ma200
@@ -422,7 +686,7 @@ Index 378(16th Oct 25 2025): Strong Bearish momentum
 	15th Sep 25 2025: ma10 > ma20 > ma50 < ma200
 	12th Sep 25 2025: ma10 > ma20 > ma50 < ma200
 	11th Sep 25 2025: ma10 > ma20 < ma50 < ma200
-Index 402(11th Sep 25 2025): Weak Bullish momentum
+Index 654(11th Sep 25 2025): Weak Bullish momentum
 	10th Sep 25 2025: ma10 > ma20 < ma50 < ma200
 	9th Sep 25 2025: ma10 > ma20 < ma50 < ma200
 	8th Sep 25 2025: ma10 > ma20 < ma50 < ma200
@@ -437,7 +701,7 @@ Index 402(11th Sep 25 2025): Weak Bullish momentum
 	25th Aug 25 2025: ma10 > ma20 < ma50 < ma200
 	22nd Aug 25 2025: ma10 > ma20 < ma50 < ma200
 	21st Aug 25 2025: ma10 > ma20 < ma50 > ma200
-Index 416(21st Aug 25 2025):Start of Long-term Bearish market
+Index 668(21st Aug 25 2025):Start of Long-term Bearish market
 	20th Aug 25 2025: ma10 < ma20 < ma50 > ma200
 	19th Aug 25 2025: ma10 < ma20 < ma50 > ma200
 	18th Aug 25 2025: ma10 < ma20 < ma50 > ma200
@@ -486,7 +750,7 @@ Index 416(21st Aug 25 2025):Start of Long-term Bearish market
 	17th Jun 25 2025: ma10 < ma20 < ma50 > ma200
 	16th Jun 25 2025: ma10 < ma20 < ma50 > ma200
 	13th Jun 25 2025: ma10 < ma20 > ma50 > ma200
-Index 464(13th Jun 25 2025): Short-term Bearish momentum
+Index 716(13th Jun 25 2025): Short-term Bearish momentum
 	12th Jun 25 2025: ma10 < ma20 > ma50 > ma200
 	11th Jun 25 2025: ma10 < ma20 > ma50 > ma200
 	10th Jun 25 2025: ma10 < ma20 > ma50 > ma200
@@ -531,9 +795,9 @@ Index 464(13th Jun 25 2025): Short-term Bearish momentum
 	20th Apr 26 2026: ma10 > ma20 > ma50 > ma200
 	17th Apr 26 2026: ma10 > ma20 > ma50 > ma200
 	16th Apr 26 2026: ma10 > ma20 > ma50 < ma200
-Index 508(16th Apr 26 2026): Start of Long-term Bullish market
+Index 760(16th Apr 26 2026): Start of Long-term Bullish market
 	15th Apr 26 2026: ma10 > ma20 < ma50 < ma200
-Index 509(15th Apr 26 2026): Weak Bullish momentum
+Index 761(15th Apr 26 2026): Weak Bullish momentum
 	13th Apr 26 2026: ma10 > ma20 < ma50 < ma200
 	10th Apr 26 2026: ma10 > ma20 < ma50 < ma200
 	9th Apr 26 2026: ma10 > ma20 < ma50 < ma200
@@ -556,7 +820,7 @@ Index 509(15th Apr 26 2026): Weak Bullish momentum
 	12th Mar 26 2026: ma10 < ma20 < ma50 < ma200
 	11th Mar 26 2026: ma10 < ma20 < ma50 < ma200
 	10th Mar 26 2026: ma10 < ma20 > ma50 < ma200
-Index 531(10th Mar 26 2026): Strong Bearish momentum
+Index 783(10th Mar 26 2026): Strong Bearish momentum
 	9th Mar 26 2026: ma10 < ma20 > ma50 < ma200
 	6th Mar 26 2026: ma10 < ma20 > ma50 < ma200
 	5th Mar 26 2026: ma10 < ma20 > ma50 < ma200
@@ -576,7 +840,7 @@ Index 531(10th Mar 26 2026): Strong Bearish momentum
 	12th Feb 26 2026: ma10 > ma20 > ma50 < ma200
 	11th Feb 26 2026: ma10 > ma20 > ma50 < ma200
 	10th Feb 26 2026: ma10 > ma20 < ma50 < ma200
-Index 550(10th Feb 26 2026): Weak Bullish momentum
+Index 802(10th Feb 26 2026): Weak Bullish momentum
 	9th Feb 26 2026: ma10 > ma20 < ma50 < ma200
 	6th Feb 26 2026: ma10 > ma20 < ma50 < ma200
 	5th Feb 26 2026: ma10 > ma20 < ma50 < ma200
@@ -589,7 +853,7 @@ Index 550(10th Feb 26 2026): Weak Bullish momentum
 	28th Jan 26 2026: ma10 < ma20 < ma50 < ma200
 	27th Jan 26 2026: ma10 < ma20 < ma50 < ma200
 	23rd Jan 26 2026: ma10 < ma20 > ma50 < ma200
-Index 562(23rd Jan 26 2026): Strong Bearish momentum
+Index 814(23rd Jan 26 2026): Strong Bearish momentum
 	22nd Jan 26 2026: ma10 < ma20 > ma50 < ma200
 	21st Jan 26 2026: ma10 < ma20 > ma50 < ma200
 	20th Jan 26 2026: ma10 < ma20 > ma50 < ma200
@@ -603,7 +867,7 @@ Index 562(23rd Jan 26 2026): Strong Bearish momentum
 	7th Jan 26 2026: ma10 > ma20 > ma50 < ma200
 	6th Jan 26 2026: ma10 > ma20 > ma50 < ma200
 	5th Jan 26 2026: ma10 > ma20 < ma50 < ma200
-Index 575(5th Jan 26 2026): Weak Bullish momentum
+Index 827(5th Jan 26 2026): Weak Bullish momentum
 	2nd Jan 26 2026: ma10 > ma20 < ma50 < ma200
 	1st Jan 26 2026: ma10 > ma20 < ma50 < ma200
 	31st Dec 25 2025: ma10 > ma20 < ma50 < ma200
@@ -646,10 +910,10 @@ Index 575(5th Jan 26 2026): Weak Bullish momentum
 	7th Nov 25 2025: ma10 > ma20 < ma50 < ma200
 	6th Nov 25 2025: ma10 > ma20 < ma50 < ma200
 	4th Nov 25 2025: ma10 > ma20 > ma50 < ma200
-Index 617(4th Nov 25 2025): Strong Bearish momentum
+Index 869(4th Nov 25 2025): Strong Bearish momentum
 	3rd Nov 25 2025: ma10 > ma20 > ma50 < ma200
 	31st Oct 25 2025: ma10 > ma20 < ma50 < ma200
-Index 619(31st Oct 25 2025): Weak Bullish momentum
+Index 871(31st Oct 25 2025): Weak Bullish momentum
 	30th Oct 25 2025: ma10 > ma20 < ma50 < ma200
 	29th Oct 25 2025: ma10 > ma20 < ma50 < ma200
 	28th Oct 25 2025: ma10 > ma20 < ma50 < ma200
@@ -660,7 +924,7 @@ Index 619(31st Oct 25 2025): Weak Bullish momentum
 	20th Oct 25 2025: ma10 > ma20 < ma50 < ma200
 	17th Oct 25 2025: ma10 > ma20 < ma50 < ma200
 	16th Oct 25 2025: ma10 < ma20 > ma50 < ma200
-Index 629(16th Oct 25 2025): Strong Bearish momentum
+Index 881(16th Oct 25 2025): Strong Bearish momentum
 	15th Oct 25 2025: ma10 < ma20 > ma50 < ma200
 	14th Oct 25 2025: ma10 < ma20 > ma50 < ma200
 	13th Oct 25 2025: ma10 < ma20 > ma50 < ma200
@@ -685,7 +949,7 @@ Index 629(16th Oct 25 2025): Strong Bearish momentum
 	15th Sep 25 2025: ma10 > ma20 > ma50 < ma200
 	12th Sep 25 2025: ma10 > ma20 > ma50 < ma200
 	11th Sep 25 2025: ma10 > ma20 < ma50 < ma200
-Index 653(11th Sep 25 2025): Weak Bullish momentum
+Index 905(11th Sep 25 2025): Weak Bullish momentum
 	10th Sep 25 2025: ma10 > ma20 < ma50 < ma200
 	9th Sep 25 2025: ma10 > ma20 < ma50 < ma200
 	8th Sep 25 2025: ma10 > ma20 < ma50 < ma200
@@ -700,7 +964,7 @@ Index 653(11th Sep 25 2025): Weak Bullish momentum
 	25th Aug 25 2025: ma10 > ma20 < ma50 < ma200
 	22nd Aug 25 2025: ma10 > ma20 < ma50 < ma200
 	21st Aug 25 2025: ma10 > ma20 < ma50 > ma200
-Index 667(21st Aug 25 2025):Start of Long-term Bearish market
+Index 919(21st Aug 25 2025):Start of Long-term Bearish market
 	20th Aug 25 2025: ma10 < ma20 < ma50 > ma200
 	19th Aug 25 2025: ma10 < ma20 < ma50 > ma200
 	18th Aug 25 2025: ma10 < ma20 < ma50 > ma200
@@ -749,7 +1013,7 @@ Index 667(21st Aug 25 2025):Start of Long-term Bearish market
 	17th Jun 25 2025: ma10 < ma20 < ma50 > ma200
 	16th Jun 25 2025: ma10 < ma20 < ma50 > ma200
 	13th Jun 25 2025: ma10 < ma20 > ma50 > ma200
-Index 715(13th Jun 25 2025): Short-term Bearish momentum
+Index 967(13th Jun 25 2025): Short-term Bearish momentum
 	12th Jun 25 2025: ma10 < ma20 > ma50 > ma200
 	11th Jun 25 2025: ma10 < ma20 > ma50 > ma200
 	10th Jun 25 2025: ma10 < ma20 > ma50 > ma200
@@ -794,9 +1058,9 @@ Index 715(13th Jun 25 2025): Short-term Bearish momentum
 	20th Apr 26 2026: ma10 > ma20 > ma50 > ma200
 	17th Apr 26 2026: ma10 > ma20 > ma50 > ma200
 	16th Apr 26 2026: ma10 > ma20 > ma50 < ma200
-Index 759(16th Apr 26 2026): Start of Long-term Bullish market
+Index 1011(16th Apr 26 2026): Start of Long-term Bullish market
 	15th Apr 26 2026: ma10 > ma20 < ma50 < ma200
-Index 760(15th Apr 26 2026): Weak Bullish momentum
+Index 1012(15th Apr 26 2026): Weak Bullish momentum
 	13th Apr 26 2026: ma10 > ma20 < ma50 < ma200
 	10th Apr 26 2026: ma10 > ma20 < ma50 < ma200
 	9th Apr 26 2026: ma10 > ma20 < ma50 < ma200
@@ -819,7 +1083,7 @@ Index 760(15th Apr 26 2026): Weak Bullish momentum
 	12th Mar 26 2026: ma10 < ma20 < ma50 < ma200
 	11th Mar 26 2026: ma10 < ma20 < ma50 < ma200
 	10th Mar 26 2026: ma10 < ma20 > ma50 < ma200
-Index 782(10th Mar 26 2026): Strong Bearish momentum
+Index 1034(10th Mar 26 2026): Strong Bearish momentum
 	9th Mar 26 2026: ma10 < ma20 > ma50 < ma200
 	6th Mar 26 2026: ma10 < ma20 > ma50 < ma200
 	5th Mar 26 2026: ma10 < ma20 > ma50 < ma200
@@ -839,7 +1103,7 @@ Index 782(10th Mar 26 2026): Strong Bearish momentum
 	12th Feb 26 2026: ma10 > ma20 > ma50 < ma200
 	11th Feb 26 2026: ma10 > ma20 > ma50 < ma200
 	10th Feb 26 2026: ma10 > ma20 < ma50 < ma200
-Index 801(10th Feb 26 2026): Weak Bullish momentum
+Index 1053(10th Feb 26 2026): Weak Bullish momentum
 	9th Feb 26 2026: ma10 > ma20 < ma50 < ma200
 	6th Feb 26 2026: ma10 > ma20 < ma50 < ma200
 	5th Feb 26 2026: ma10 > ma20 < ma50 < ma200
@@ -852,7 +1116,7 @@ Index 801(10th Feb 26 2026): Weak Bullish momentum
 	28th Jan 26 2026: ma10 < ma20 < ma50 < ma200
 	27th Jan 26 2026: ma10 < ma20 < ma50 < ma200
 	23rd Jan 26 2026: ma10 < ma20 > ma50 < ma200
-Index 813(23rd Jan 26 2026): Strong Bearish momentum
+Index 1065(23rd Jan 26 2026): Strong Bearish momentum
 	22nd Jan 26 2026: ma10 < ma20 > ma50 < ma200
 	21st Jan 26 2026: ma10 < ma20 > ma50 < ma200
 	20th Jan 26 2026: ma10 < ma20 > ma50 < ma200
@@ -866,7 +1130,7 @@ Index 813(23rd Jan 26 2026): Strong Bearish momentum
 	7th Jan 26 2026: ma10 > ma20 > ma50 < ma200
 	6th Jan 26 2026: ma10 > ma20 > ma50 < ma200
 	5th Jan 26 2026: ma10 > ma20 < ma50 < ma200
-Index 826(5th Jan 26 2026): Weak Bullish momentum
+Index 1078(5th Jan 26 2026): Weak Bullish momentum
 	2nd Jan 26 2026: ma10 > ma20 < ma50 < ma200
 	1st Jan 26 2026: ma10 > ma20 < ma50 < ma200
 	31st Dec 25 2025: ma10 > ma20 < ma50 < ma200
@@ -909,10 +1173,10 @@ Index 826(5th Jan 26 2026): Weak Bullish momentum
 	7th Nov 25 2025: ma10 > ma20 < ma50 < ma200
 	6th Nov 25 2025: ma10 > ma20 < ma50 < ma200
 	4th Nov 25 2025: ma10 > ma20 > ma50 < ma200
-Index 868(4th Nov 25 2025): Strong Bearish momentum
+Index 1120(4th Nov 25 2025): Strong Bearish momentum
 	3rd Nov 25 2025: ma10 > ma20 > ma50 < ma200
 	31st Oct 25 2025: ma10 > ma20 < ma50 < ma200
-Index 870(31st Oct 25 2025): Weak Bullish momentum
+Index 1122(31st Oct 25 2025): Weak Bullish momentum
 	30th Oct 25 2025: ma10 > ma20 < ma50 < ma200
 	29th Oct 25 2025: ma10 > ma20 < ma50 < ma200
 	28th Oct 25 2025: ma10 > ma20 < ma50 < ma200
@@ -923,7 +1187,7 @@ Index 870(31st Oct 25 2025): Weak Bullish momentum
 	20th Oct 25 2025: ma10 > ma20 < ma50 < ma200
 	17th Oct 25 2025: ma10 > ma20 < ma50 < ma200
 	16th Oct 25 2025: ma10 < ma20 > ma50 < ma200
-Index 880(16th Oct 25 2025): Strong Bearish momentum
+Index 1132(16th Oct 25 2025): Strong Bearish momentum
 	15th Oct 25 2025: ma10 < ma20 > ma50 < ma200
 	14th Oct 25 2025: ma10 < ma20 > ma50 < ma200
 	13th Oct 25 2025: ma10 < ma20 > ma50 < ma200
@@ -948,7 +1212,7 @@ Index 880(16th Oct 25 2025): Strong Bearish momentum
 	15th Sep 25 2025: ma10 > ma20 > ma50 < ma200
 	12th Sep 25 2025: ma10 > ma20 > ma50 < ma200
 	11th Sep 25 2025: ma10 > ma20 < ma50 < ma200
-Index 904(11th Sep 25 2025): Weak Bullish momentum
+Index 1156(11th Sep 25 2025): Weak Bullish momentum
 	10th Sep 25 2025: ma10 > ma20 < ma50 < ma200
 	9th Sep 25 2025: ma10 > ma20 < ma50 < ma200
 	8th Sep 25 2025: ma10 > ma20 < ma50 < ma200
@@ -963,7 +1227,7 @@ Index 904(11th Sep 25 2025): Weak Bullish momentum
 	25th Aug 25 2025: ma10 > ma20 < ma50 < ma200
 	22nd Aug 25 2025: ma10 > ma20 < ma50 < ma200
 	21st Aug 25 2025: ma10 > ma20 < ma50 > ma200
-Index 918(21st Aug 25 2025):Start of Long-term Bearish market
+Index 1170(21st Aug 25 2025):Start of Long-term Bearish market
 	20th Aug 25 2025: ma10 < ma20 < ma50 > ma200
 	19th Aug 25 2025: ma10 < ma20 < ma50 > ma200
 	18th Aug 25 2025: ma10 < ma20 < ma50 > ma200
@@ -1011,7 +1275,7 @@ Index 918(21st Aug 25 2025):Start of Long-term Bearish market
 	18th Jun 25 2025: ma10 < ma20 < ma50 > ma200
 	17th Jun 25 2025: ma10 < ma20 < ma50 > ma200
 	16th Jun 25 2025: ma10 < ma20 > ma50 > ma200
-Index 965(16th Jun 25 2025): Short-term Bearish momentum
+Index 1217(16th Jun 25 2025): Short-term Bearish momentum
 	13th Jun 25 2025: ma10 < ma20 > ma50 > ma200
 	12th Jun 25 2025: ma10 < ma20 > ma50 > ma200
 	11th Jun 25 2025: ma10 < ma20 > ma50 > ma200
@@ -1057,9 +1321,9 @@ Index 965(16th Jun 25 2025): Short-term Bearish momentum
 	20th Apr 26 2026: ma10 > ma20 > ma50 > ma200
 	17th Apr 26 2026: ma10 > ma20 > ma50 > ma200
 	16th Apr 26 2026: ma10 > ma20 > ma50 < ma200
-Index 1010(16th Apr 26 2026): Start of Long-term Bullish market
+Index 1262(16th Apr 26 2026): Start of Long-term Bullish market
 	15th Apr 26 2026: ma10 > ma20 < ma50 < ma200
-Index 1011(15th Apr 26 2026): Weak Bullish momentum
+Index 1263(15th Apr 26 2026): Weak Bullish momentum
 	13th Apr 26 2026: ma10 > ma20 < ma50 < ma200
 	10th Apr 26 2026: ma10 > ma20 < ma50 < ma200
 	9th Apr 26 2026: ma10 > ma20 < ma50 < ma200
@@ -1082,7 +1346,7 @@ Index 1011(15th Apr 26 2026): Weak Bullish momentum
 	12th Mar 26 2026: ma10 < ma20 < ma50 < ma200
 	11th Mar 26 2026: ma10 < ma20 < ma50 < ma200
 	10th Mar 26 2026: ma10 < ma20 > ma50 < ma200
-Index 1033(10th Mar 26 2026): Strong Bearish momentum
+Index 1285(10th Mar 26 2026): Strong Bearish momentum
 	9th Mar 26 2026: ma10 < ma20 > ma50 < ma200
 	6th Mar 26 2026: ma10 < ma20 > ma50 < ma200
 	5th Mar 26 2026: ma10 < ma20 > ma50 < ma200
@@ -1102,7 +1366,7 @@ Index 1033(10th Mar 26 2026): Strong Bearish momentum
 	12th Feb 26 2026: ma10 > ma20 > ma50 < ma200
 	11th Feb 26 2026: ma10 > ma20 > ma50 < ma200
 	10th Feb 26 2026: ma10 > ma20 < ma50 < ma200
-Index 1052(10th Feb 26 2026): Weak Bullish momentum
+Index 1304(10th Feb 26 2026): Weak Bullish momentum
 	9th Feb 26 2026: ma10 > ma20 < ma50 < ma200
 	6th Feb 26 2026: ma10 > ma20 < ma50 < ma200
 	5th Feb 26 2026: ma10 > ma20 < ma50 < ma200
@@ -1115,7 +1379,7 @@ Index 1052(10th Feb 26 2026): Weak Bullish momentum
 	28th Jan 26 2026: ma10 < ma20 < ma50 < ma200
 	27th Jan 26 2026: ma10 < ma20 < ma50 < ma200
 	23rd Jan 26 2026: ma10 < ma20 > ma50 < ma200
-Index 1064(23rd Jan 26 2026): Strong Bearish momentum
+Index 1316(23rd Jan 26 2026): Strong Bearish momentum
 	22nd Jan 26 2026: ma10 < ma20 > ma50 < ma200
 	21st Jan 26 2026: ma10 < ma20 > ma50 < ma200
 	20th Jan 26 2026: ma10 < ma20 > ma50 < ma200
@@ -1129,7 +1393,7 @@ Index 1064(23rd Jan 26 2026): Strong Bearish momentum
 	7th Jan 26 2026: ma10 > ma20 > ma50 < ma200
 	6th Jan 26 2026: ma10 > ma20 > ma50 < ma200
 	5th Jan 26 2026: ma10 > ma20 < ma50 < ma200
-Index 1077(5th Jan 26 2026): Weak Bullish momentum
+Index 1329(5th Jan 26 2026): Weak Bullish momentum
 	2nd Jan 26 2026: ma10 > ma20 < ma50 < ma200
 	1st Jan 26 2026: ma10 > ma20 < ma50 < ma200
 	31st Dec 25 2025: ma10 > ma20 < ma50 < ma200
@@ -1172,10 +1436,10 @@ Index 1077(5th Jan 26 2026): Weak Bullish momentum
 	7th Nov 25 2025: ma10 > ma20 < ma50 < ma200
 	6th Nov 25 2025: ma10 > ma20 < ma50 < ma200
 	4th Nov 25 2025: ma10 > ma20 > ma50 < ma200
-Index 1119(4th Nov 25 2025): Strong Bearish momentum
+Index 1371(4th Nov 25 2025): Strong Bearish momentum
 	3rd Nov 25 2025: ma10 > ma20 > ma50 < ma200
 	31st Oct 25 2025: ma10 > ma20 < ma50 < ma200
-Index 1121(31st Oct 25 2025): Weak Bullish momentum
+Index 1373(31st Oct 25 2025): Weak Bullish momentum
 	30th Oct 25 2025: ma10 > ma20 < ma50 < ma200
 	29th Oct 25 2025: ma10 > ma20 < ma50 < ma200
 	28th Oct 25 2025: ma10 > ma20 < ma50 < ma200
@@ -1186,7 +1450,7 @@ Index 1121(31st Oct 25 2025): Weak Bullish momentum
 	20th Oct 25 2025: ma10 > ma20 < ma50 < ma200
 	17th Oct 25 2025: ma10 > ma20 < ma50 < ma200
 	16th Oct 25 2025: ma10 < ma20 > ma50 < ma200
-Index 1131(16th Oct 25 2025): Strong Bearish momentum
+Index 1383(16th Oct 25 2025): Strong Bearish momentum
 	15th Oct 25 2025: ma10 < ma20 > ma50 < ma200
 	14th Oct 25 2025: ma10 < ma20 > ma50 < ma200
 	13th Oct 25 2025: ma10 < ma20 > ma50 < ma200
@@ -1211,7 +1475,7 @@ Index 1131(16th Oct 25 2025): Strong Bearish momentum
 	15th Sep 25 2025: ma10 > ma20 > ma50 < ma200
 	12th Sep 25 2025: ma10 > ma20 > ma50 < ma200
 	11th Sep 25 2025: ma10 > ma20 < ma50 < ma200
-Index 1155(11th Sep 25 2025): Weak Bullish momentum
+Index 1407(11th Sep 25 2025): Weak Bullish momentum
 	10th Sep 25 2025: ma10 > ma20 < ma50 < ma200
 	9th Sep 25 2025: ma10 > ma20 < ma50 < ma200
 	8th Sep 25 2025: ma10 > ma20 < ma50 < ma200
@@ -1225,7 +1489,7 @@ Index 1155(11th Sep 25 2025): Weak Bullish momentum
 	26th Aug 25 2025: ma10 > ma20 < ma50 < ma200
 	25th Aug 25 2025: ma10 > ma20 < ma50 < ma200
 	22nd Aug 25 2025: ma10 > ma20 < ma50 > ma200
-Index 1168(22nd Aug 25 2025):Start of Long-term Bearish market
+Index 1420(22nd Aug 25 2025):Start of Long-term Bearish market
 	21st Aug 25 2025: ma10 > ma20 < ma50 > ma200
 	20th Aug 25 2025: ma10 < ma20 < ma50 > ma200
 	19th Aug 25 2025: ma10 < ma20 < ma50 > ma200
@@ -1273,7 +1537,7 @@ Index 1168(22nd Aug 25 2025):Start of Long-term Bearish market
 	19th Jun 25 2025: ma10 < ma20 < ma50 > ma200
 	18th Jun 25 2025: ma10 < ma20 < ma50 > ma200
 	17th Jun 25 2025: ma10 < ma20 > ma50 > ma200
-Index 1215(17th Jun 25 2025): Short-term Bearish momentum
+Index 1467(17th Jun 25 2025): Short-term Bearish momentum
 	16th Jun 25 2025: ma10 < ma20 > ma50 > ma200
 	13th Jun 25 2025: ma10 < ma20 > ma50 > ma200
 	12th Jun 25 2025: ma10 < ma20 > ma50 > ma200
@@ -1320,9 +1584,9 @@ Index 1215(17th Jun 25 2025): Short-term Bearish momentum
 	11th Apr 25 2025: ma10 > ma20 > ma50 > ma200
 	17th Apr 26 2026: ma10 > ma20 > ma50 > ma200
 	16th Apr 26 2026: ma10 > ma20 > ma50 < ma200
-Index 1261(16th Apr 26 2026): Start of Long-term Bullish market
+Index 1513(16th Apr 26 2026): Start of Long-term Bullish market
 	15th Apr 26 2026: ma10 > ma20 < ma50 < ma200
-Index 1262(15th Apr 26 2026): Weak Bullish momentum
+Index 1514(15th Apr 26 2026): Weak Bullish momentum
 	13th Apr 26 2026: ma10 > ma20 < ma50 < ma200
 	10th Apr 26 2026: ma10 > ma20 < ma50 < ma200
 	9th Apr 26 2026: ma10 > ma20 < ma50 < ma200
@@ -1345,7 +1609,7 @@ Index 1262(15th Apr 26 2026): Weak Bullish momentum
 	12th Mar 26 2026: ma10 < ma20 < ma50 < ma200
 	11th Mar 26 2026: ma10 < ma20 < ma50 < ma200
 	10th Mar 26 2026: ma10 < ma20 > ma50 < ma200
-Index 1284(10th Mar 26 2026): Strong Bearish momentum
+Index 1536(10th Mar 26 2026): Strong Bearish momentum
 	9th Mar 26 2026: ma10 < ma20 > ma50 < ma200
 	6th Mar 26 2026: ma10 < ma20 > ma50 < ma200
 	5th Mar 26 2026: ma10 < ma20 > ma50 < ma200
@@ -1365,7 +1629,7 @@ Index 1284(10th Mar 26 2026): Strong Bearish momentum
 	12th Feb 26 2026: ma10 > ma20 > ma50 < ma200
 	11th Feb 26 2026: ma10 > ma20 > ma50 < ma200
 	10th Feb 26 2026: ma10 > ma20 < ma50 < ma200
-Index 1303(10th Feb 26 2026): Weak Bullish momentum
+Index 1555(10th Feb 26 2026): Weak Bullish momentum
 	9th Feb 26 2026: ma10 > ma20 < ma50 < ma200
 	6th Feb 26 2026: ma10 > ma20 < ma50 < ma200
 	5th Feb 26 2026: ma10 > ma20 < ma50 < ma200
@@ -1378,7 +1642,7 @@ Index 1303(10th Feb 26 2026): Weak Bullish momentum
 	28th Jan 26 2026: ma10 < ma20 < ma50 < ma200
 	27th Jan 26 2026: ma10 < ma20 < ma50 < ma200
 	23rd Jan 26 2026: ma10 < ma20 > ma50 < ma200
-Index 1315(23rd Jan 26 2026): Strong Bearish momentum
+Index 1567(23rd Jan 26 2026): Strong Bearish momentum
 	22nd Jan 26 2026: ma10 < ma20 > ma50 < ma200
 	21st Jan 26 2026: ma10 < ma20 > ma50 < ma200
 	20th Jan 26 2026: ma10 < ma20 > ma50 < ma200
@@ -1392,7 +1656,7 @@ Index 1315(23rd Jan 26 2026): Strong Bearish momentum
 	7th Jan 26 2026: ma10 > ma20 > ma50 < ma200
 	6th Jan 26 2026: ma10 > ma20 > ma50 < ma200
 	5th Jan 26 2026: ma10 > ma20 < ma50 < ma200
-Index 1328(5th Jan 26 2026): Weak Bullish momentum
+Index 1580(5th Jan 26 2026): Weak Bullish momentum
 	2nd Jan 26 2026: ma10 > ma20 < ma50 < ma200
 	1st Jan 26 2026: ma10 > ma20 < ma50 < ma200
 	31st Dec 25 2025: ma10 > ma20 < ma50 < ma200
@@ -1435,10 +1699,10 @@ Index 1328(5th Jan 26 2026): Weak Bullish momentum
 	7th Nov 25 2025: ma10 > ma20 < ma50 < ma200
 	6th Nov 25 2025: ma10 > ma20 < ma50 < ma200
 	4th Nov 25 2025: ma10 > ma20 > ma50 < ma200
-Index 1370(4th Nov 25 2025): Strong Bearish momentum
+Index 1622(4th Nov 25 2025): Strong Bearish momentum
 	3rd Nov 25 2025: ma10 > ma20 > ma50 < ma200
 	31st Oct 25 2025: ma10 > ma20 < ma50 < ma200
-Index 1372(31st Oct 25 2025): Weak Bullish momentum
+Index 1624(31st Oct 25 2025): Weak Bullish momentum
 	30th Oct 25 2025: ma10 > ma20 < ma50 < ma200
 	29th Oct 25 2025: ma10 > ma20 < ma50 < ma200
 	28th Oct 25 2025: ma10 > ma20 < ma50 < ma200
@@ -1449,7 +1713,7 @@ Index 1372(31st Oct 25 2025): Weak Bullish momentum
 	20th Oct 25 2025: ma10 > ma20 < ma50 < ma200
 	17th Oct 25 2025: ma10 > ma20 < ma50 < ma200
 	16th Oct 25 2025: ma10 < ma20 > ma50 < ma200
-Index 1382(16th Oct 25 2025): Strong Bearish momentum
+Index 1634(16th Oct 25 2025): Strong Bearish momentum
 	15th Oct 25 2025: ma10 < ma20 > ma50 < ma200
 	14th Oct 25 2025: ma10 < ma20 > ma50 < ma200
 	13th Oct 25 2025: ma10 < ma20 > ma50 < ma200
@@ -1474,7 +1738,7 @@ Index 1382(16th Oct 25 2025): Strong Bearish momentum
 	15th Sep 25 2025: ma10 > ma20 > ma50 < ma200
 	12th Sep 25 2025: ma10 > ma20 > ma50 < ma200
 	11th Sep 25 2025: ma10 > ma20 < ma50 < ma200
-Index 1406(11th Sep 25 2025): Weak Bullish momentum
+Index 1658(11th Sep 25 2025): Weak Bullish momentum
 	10th Sep 25 2025: ma10 > ma20 < ma50 < ma200
 	9th Sep 25 2025: ma10 > ma20 < ma50 < ma200
 	8th Sep 25 2025: ma10 > ma20 < ma50 < ma200
@@ -1487,7 +1751,7 @@ Index 1406(11th Sep 25 2025): Weak Bullish momentum
 	28th Aug 25 2025: ma10 > ma20 < ma50 < ma200
 	26th Aug 25 2025: ma10 > ma20 < ma50 < ma200
 	25th Aug 25 2025: ma10 > ma20 < ma50 > ma200
-Index 1418(25th Aug 25 2025):Start of Long-term Bearish market
+Index 1670(25th Aug 25 2025):Start of Long-term Bearish market
 	22nd Aug 25 2025: ma10 > ma20 < ma50 > ma200
 	21st Aug 25 2025: ma10 > ma20 < ma50 > ma200
 	20th Aug 25 2025: ma10 < ma20 < ma50 > ma200
@@ -1534,7 +1798,7 @@ Index 1418(25th Aug 25 2025):Start of Long-term Bearish market
 	23rd Jun 25 2025: ma10 < ma20 < ma50 > ma200
 	20th Jun 25 2025: ma10 < ma20 < ma50 > ma200
 	19th Jun 25 2025: ma10 < ma20 > ma50 > ma200
-Index 1464(19th Jun 25 2025): Short-term Bearish momentum
+Index 1716(19th Jun 25 2025): Short-term Bearish momentum
 	18th Jun 25 2025: ma10 < ma20 > ma50 > ma200
 	17th Jun 25 2025: ma10 < ma20 > ma50 > ma200
 	16th Jun 25 2025: ma10 < ma20 > ma50 > ma200
@@ -1583,9 +1847,9 @@ Index 1464(19th Jun 25 2025): Short-term Bearish momentum
 	11th Apr 25 2025: ma10 > ma20 > ma50 > ma200
 	9th Apr 25 2025: ma10 > ma20 > ma50 > ma200
 	16th Apr 26 2026: ma10 > ma20 > ma50 < ma200
-Index 1512(16th Apr 26 2026): Start of Long-term Bullish market
+Index 1764(16th Apr 26 2026): Start of Long-term Bullish market
 	15th Apr 26 2026: ma10 > ma20 < ma50 < ma200
-Index 1513(15th Apr 26 2026): Weak Bullish momentum
+Index 1765(15th Apr 26 2026): Weak Bullish momentum
 	13th Apr 26 2026: ma10 > ma20 < ma50 < ma200
 	10th Apr 26 2026: ma10 > ma20 < ma50 < ma200
 	9th Apr 26 2026: ma10 > ma20 < ma50 < ma200
@@ -1608,7 +1872,7 @@ Index 1513(15th Apr 26 2026): Weak Bullish momentum
 	12th Mar 26 2026: ma10 < ma20 < ma50 < ma200
 	11th Mar 26 2026: ma10 < ma20 < ma50 < ma200
 	10th Mar 26 2026: ma10 < ma20 > ma50 < ma200
-Index 1535(10th Mar 26 2026): Strong Bearish momentum
+Index 1787(10th Mar 26 2026): Strong Bearish momentum
 	9th Mar 26 2026: ma10 < ma20 > ma50 < ma200
 	6th Mar 26 2026: ma10 < ma20 > ma50 < ma200
 	5th Mar 26 2026: ma10 < ma20 > ma50 < ma200
@@ -1628,7 +1892,7 @@ Index 1535(10th Mar 26 2026): Strong Bearish momentum
 	12th Feb 26 2026: ma10 > ma20 > ma50 < ma200
 	11th Feb 26 2026: ma10 > ma20 > ma50 < ma200
 	10th Feb 26 2026: ma10 > ma20 < ma50 < ma200
-Index 1554(10th Feb 26 2026): Weak Bullish momentum
+Index 1806(10th Feb 26 2026): Weak Bullish momentum
 	9th Feb 26 2026: ma10 > ma20 < ma50 < ma200
 	6th Feb 26 2026: ma10 > ma20 < ma50 < ma200
 	5th Feb 26 2026: ma10 > ma20 < ma50 < ma200
@@ -1641,7 +1905,7 @@ Index 1554(10th Feb 26 2026): Weak Bullish momentum
 	28th Jan 26 2026: ma10 < ma20 < ma50 < ma200
 	27th Jan 26 2026: ma10 < ma20 < ma50 < ma200
 	23rd Jan 26 2026: ma10 < ma20 > ma50 < ma200
-Index 1566(23rd Jan 26 2026): Strong Bearish momentum
+Index 1818(23rd Jan 26 2026): Strong Bearish momentum
 	22nd Jan 26 2026: ma10 < ma20 > ma50 < ma200
 	21st Jan 26 2026: ma10 < ma20 > ma50 < ma200
 	20th Jan 26 2026: ma10 < ma20 > ma50 < ma200
@@ -1655,7 +1919,7 @@ Index 1566(23rd Jan 26 2026): Strong Bearish momentum
 	7th Jan 26 2026: ma10 > ma20 > ma50 < ma200
 	6th Jan 26 2026: ma10 > ma20 > ma50 < ma200
 	5th Jan 26 2026: ma10 > ma20 < ma50 < ma200
-Index 1579(5th Jan 26 2026): Weak Bullish momentum
+Index 1831(5th Jan 26 2026): Weak Bullish momentum
 	2nd Jan 26 2026: ma10 > ma20 < ma50 < ma200
 	1st Jan 26 2026: ma10 > ma20 < ma50 < ma200
 	31st Dec 25 2025: ma10 > ma20 < ma50 < ma200
@@ -1698,10 +1962,10 @@ Index 1579(5th Jan 26 2026): Weak Bullish momentum
 	7th Nov 25 2025: ma10 > ma20 < ma50 < ma200
 	6th Nov 25 2025: ma10 > ma20 < ma50 < ma200
 	4th Nov 25 2025: ma10 > ma20 > ma50 < ma200
-Index 1621(4th Nov 25 2025): Strong Bearish momentum
+Index 1873(4th Nov 25 2025): Strong Bearish momentum
 	3rd Nov 25 2025: ma10 > ma20 > ma50 < ma200
 	31st Oct 25 2025: ma10 > ma20 < ma50 < ma200
-Index 1623(31st Oct 25 2025): Weak Bullish momentum
+Index 1875(31st Oct 25 2025): Weak Bullish momentum
 	30th Oct 25 2025: ma10 > ma20 < ma50 < ma200
 	29th Oct 25 2025: ma10 > ma20 < ma50 < ma200
 	28th Oct 25 2025: ma10 > ma20 < ma50 < ma200
@@ -1712,7 +1976,7 @@ Index 1623(31st Oct 25 2025): Weak Bullish momentum
 	20th Oct 25 2025: ma10 > ma20 < ma50 < ma200
 	17th Oct 25 2025: ma10 > ma20 < ma50 < ma200
 	16th Oct 25 2025: ma10 < ma20 > ma50 < ma200
-Index 1633(16th Oct 25 2025): Strong Bearish momentum
+Index 1885(16th Oct 25 2025): Strong Bearish momentum
 	15th Oct 25 2025: ma10 < ma20 > ma50 < ma200
 	14th Oct 25 2025: ma10 < ma20 > ma50 < ma200
 	13th Oct 25 2025: ma10 < ma20 > ma50 < ma200
@@ -1737,7 +2001,7 @@ Index 1633(16th Oct 25 2025): Strong Bearish momentum
 	15th Sep 25 2025: ma10 > ma20 > ma50 < ma200
 	12th Sep 25 2025: ma10 > ma20 > ma50 < ma200
 	11th Sep 25 2025: ma10 > ma20 < ma50 < ma200
-Index 1657(11th Sep 25 2025): Weak Bullish momentum
+Index 1909(11th Sep 25 2025): Weak Bullish momentum
 	10th Sep 25 2025: ma10 > ma20 < ma50 < ma200
 	9th Sep 25 2025: ma10 > ma20 < ma50 < ma200
 	8th Sep 25 2025: ma10 > ma20 < ma50 < ma200
@@ -1749,7 +2013,7 @@ Index 1657(11th Sep 25 2025): Weak Bullish momentum
 	29th Aug 25 2025: ma10 > ma20 < ma50 < ma200
 	28th Aug 25 2025: ma10 > ma20 < ma50 < ma200
 	26th Aug 25 2025: ma10 > ma20 < ma50 > ma200
-Index 1668(26th Aug 25 2025):Start of Long-term Bearish market
+Index 1920(26th Aug 25 2025):Start of Long-term Bearish market
 	25th Aug 25 2025: ma10 > ma20 < ma50 > ma200
 	22nd Aug 25 2025: ma10 > ma20 < ma50 > ma200
 	21st Aug 25 2025: ma10 > ma20 < ma50 > ma200
@@ -1796,7 +2060,7 @@ Index 1668(26th Aug 25 2025):Start of Long-term Bearish market
 	24th Jun 25 2025: ma10 < ma20 < ma50 > ma200
 	23rd Jun 25 2025: ma10 < ma20 < ma50 > ma200
 	20th Jun 25 2025: ma10 < ma20 > ma50 > ma200
-Index 1714(20th Jun 25 2025): Short-term Bearish momentum
+Index 1966(20th Jun 25 2025): Short-term Bearish momentum
 	19th Jun 25 2025: ma10 < ma20 > ma50 > ma200
 	18th Jun 25 2025: ma10 < ma20 > ma50 > ma200
 	17th Jun 25 2025: ma10 < ma20 > ma50 > ma200
@@ -1843,12 +2107,12 @@ Index 1714(20th Jun 25 2025): Short-term Bearish momentum
 	17th Apr 25 2025: ma10 > ma20 > ma50 > ma200
 	16th Apr 25 2025: ma10 > ma20 > ma50 > ma200
 	15th Apr 25 2025: ma10 > ma20 > ma50 < ma200
-Index 1760(15th Apr 25 2025): Start of Long-term Bullish market
+Index 2012(15th Apr 25 2025): Start of Long-term Bullish market
 	11th Apr 25 2025: ma10 > ma20 > ma50 < ma200
 	9th Apr 25 2025: ma10 > ma20 > ma50 < ma200
 	8th Apr 25 2025: ma10 > ma20 > ma50 < ma200
 	15th Apr 26 2026: ma10 > ma20 < ma50 < ma200
-Index 1764(15th Apr 26 2026): Weak Bullish momentum
+Index 2016(15th Apr 26 2026): Weak Bullish momentum
 	13th Apr 26 2026: ma10 > ma20 < ma50 < ma200
 	10th Apr 26 2026: ma10 > ma20 < ma50 < ma200
 	9th Apr 26 2026: ma10 > ma20 < ma50 < ma200
@@ -1871,7 +2135,7 @@ Index 1764(15th Apr 26 2026): Weak Bullish momentum
 	12th Mar 26 2026: ma10 < ma20 < ma50 < ma200
 	11th Mar 26 2026: ma10 < ma20 < ma50 < ma200
 	10th Mar 26 2026: ma10 < ma20 > ma50 < ma200
-Index 1786(10th Mar 26 2026): Strong Bearish momentum
+Index 2038(10th Mar 26 2026): Strong Bearish momentum
 	9th Mar 26 2026: ma10 < ma20 > ma50 < ma200
 	6th Mar 26 2026: ma10 < ma20 > ma50 < ma200
 	5th Mar 26 2026: ma10 < ma20 > ma50 < ma200
@@ -1891,7 +2155,7 @@ Index 1786(10th Mar 26 2026): Strong Bearish momentum
 	12th Feb 26 2026: ma10 > ma20 > ma50 < ma200
 	11th Feb 26 2026: ma10 > ma20 > ma50 < ma200
 	10th Feb 26 2026: ma10 > ma20 < ma50 < ma200
-Index 1805(10th Feb 26 2026): Weak Bullish momentum
+Index 2057(10th Feb 26 2026): Weak Bullish momentum
 	9th Feb 26 2026: ma10 > ma20 < ma50 < ma200
 	6th Feb 26 2026: ma10 > ma20 < ma50 < ma200
 	5th Feb 26 2026: ma10 > ma20 < ma50 < ma200
@@ -1904,7 +2168,7 @@ Index 1805(10th Feb 26 2026): Weak Bullish momentum
 	28th Jan 26 2026: ma10 < ma20 < ma50 < ma200
 	27th Jan 26 2026: ma10 < ma20 < ma50 < ma200
 	23rd Jan 26 2026: ma10 < ma20 > ma50 < ma200
-Index 1817(23rd Jan 26 2026): Strong Bearish momentum
+Index 2069(23rd Jan 26 2026): Strong Bearish momentum
 	22nd Jan 26 2026: ma10 < ma20 > ma50 < ma200
 	21st Jan 26 2026: ma10 < ma20 > ma50 < ma200
 	20th Jan 26 2026: ma10 < ma20 > ma50 < ma200
@@ -1918,7 +2182,7 @@ Index 1817(23rd Jan 26 2026): Strong Bearish momentum
 	7th Jan 26 2026: ma10 > ma20 > ma50 < ma200
 	6th Jan 26 2026: ma10 > ma20 > ma50 < ma200
 	5th Jan 26 2026: ma10 > ma20 < ma50 < ma200
-Index 1830(5th Jan 26 2026): Weak Bullish momentum
+Index 2082(5th Jan 26 2026): Weak Bullish momentum
 	2nd Jan 26 2026: ma10 > ma20 < ma50 < ma200
 	1st Jan 26 2026: ma10 > ma20 < ma50 < ma200
 	31st Dec 25 2025: ma10 > ma20 < ma50 < ma200
@@ -1961,10 +2225,10 @@ Index 1830(5th Jan 26 2026): Weak Bullish momentum
 	7th Nov 25 2025: ma10 > ma20 < ma50 < ma200
 	6th Nov 25 2025: ma10 > ma20 < ma50 < ma200
 	4th Nov 25 2025: ma10 > ma20 > ma50 < ma200
-Index 1872(4th Nov 25 2025): Strong Bearish momentum
+Index 2124(4th Nov 25 2025): Strong Bearish momentum
 	3rd Nov 25 2025: ma10 > ma20 > ma50 < ma200
 	31st Oct 25 2025: ma10 > ma20 < ma50 < ma200
-Index 1874(31st Oct 25 2025): Weak Bullish momentum
+Index 2126(31st Oct 25 2025): Weak Bullish momentum
 	30th Oct 25 2025: ma10 > ma20 < ma50 < ma200
 	29th Oct 25 2025: ma10 > ma20 < ma50 < ma200
 	28th Oct 25 2025: ma10 > ma20 < ma50 < ma200
@@ -1975,7 +2239,7 @@ Index 1874(31st Oct 25 2025): Weak Bullish momentum
 	20th Oct 25 2025: ma10 > ma20 < ma50 < ma200
 	17th Oct 25 2025: ma10 > ma20 < ma50 < ma200
 	16th Oct 25 2025: ma10 < ma20 > ma50 < ma200
-Index 1884(16th Oct 25 2025): Strong Bearish momentum
+Index 2136(16th Oct 25 2025): Strong Bearish momentum
 	15th Oct 25 2025: ma10 < ma20 > ma50 < ma200
 	14th Oct 25 2025: ma10 < ma20 > ma50 < ma200
 	13th Oct 25 2025: ma10 < ma20 > ma50 < ma200
@@ -2000,19 +2264,19 @@ Index 1884(16th Oct 25 2025): Strong Bearish momentum
 	15th Sep 25 2025: ma10 > ma20 > ma50 < ma200
 	12th Sep 25 2025: ma10 > ma20 > ma50 < ma200
 	11th Sep 25 2025: ma10 > ma20 < ma50 < ma200
-Index 1908(11th Sep 25 2025): Weak Bullish momentum
+Index 2160(11th Sep 25 2025): Weak Bullish momentum
 	10th Sep 25 2025: ma10 > ma20 < ma50 < ma200
 	9th Sep 25 2025: ma10 > ma20 < ma50 < ma200
 	8th Sep 25 2025: ma10 > ma20 < ma50 < ma200
 	5th Sep 25 2025: ma10 > ma20 < ma50 < ma200
 	4th Sep 25 2025: ma10 > ma20 < ma50 > ma200
-Index 1913(4th Sep 25 2025):Start of Long-term Bearish market
+Index 2165(4th Sep 25 2025):Start of Long-term Bearish market
 	3rd Sep 25 2025: ma10 > ma20 < ma50 > ma200
 	2nd Sep 25 2025: ma10 > ma20 < ma50 > ma200
 	1st Sep 25 2025: ma10 > ma20 < ma50 < ma200
 	29th Aug 25 2025: ma10 > ma20 < ma50 < ma200
 	28th Aug 25 2025: ma10 > ma20 < ma50 > ma200
-Index 1918(28th Aug 25 2025):Start of Long-term Bearish market
+Index 2170(28th Aug 25 2025):Start of Long-term Bearish market
 	26th Aug 25 2025: ma10 > ma20 < ma50 > ma200
 	25th Aug 25 2025: ma10 > ma20 < ma50 > ma200
 	22nd Aug 25 2025: ma10 > ma20 < ma50 > ma200
@@ -2060,7 +2324,7 @@ Index 1918(28th Aug 25 2025):Start of Long-term Bearish market
 	24th Jun 25 2025: ma10 < ma20 < ma50 > ma200
 	23rd Jun 25 2025: ma10 < ma20 < ma50 > ma200
 	20th Jun 25 2025: ma10 < ma20 > ma50 > ma200
-Index 1965(20th Jun 25 2025): Short-term Bearish momentum
+Index 2217(20th Jun 25 2025): Short-term Bearish momentum
 	19th Jun 25 2025: ma10 < ma20 > ma50 > ma200
 	18th Jun 25 2025: ma10 < ma20 > ma50 > ma200
 	17th Jun 25 2025: ma10 < ma20 > ma50 > ma200
@@ -2104,280 +2368,15 @@ Index 1965(20th Jun 25 2025): Short-term Bearish momentum
 	23rd Apr 25 2025: ma10 > ma20 > ma50 > ma200
 	22nd Apr 25 2025: ma10 > ma20 > ma50 > ma200
 	21st Apr 25 2025: ma10 > ma20 > ma50 < ma200
-Index 2008(21st Apr 25 2025): Start of Long-term Bullish market
+Index 2260(21st Apr 25 2025): Start of Long-term Bullish market
 	17th Apr 25 2025: ma10 > ma20 > ma50 < ma200
 	16th Apr 25 2025: ma10 > ma20 > ma50 < ma200
 	15th Apr 25 2025: ma10 > ma20 > ma50 < ma200
 	11th Apr 25 2025: ma10 > ma20 < ma50 < ma200
-Index 2012(11th Apr 25 2025): Weak Bullish momentum
+Index 2264(11th Apr 25 2025): Weak Bullish momentum
 	9th Apr 25 2025: ma10 > ma20 < ma50 < ma200
 	8th Apr 25 2025: ma10 > ma20 < ma50 < ma200
 	7th Apr 25 2025: ma10 > ma20 < ma50 < ma200
-	13th Apr 26 2026: ma10 > ma20 < ma50 < ma200
-	10th Apr 26 2026: ma10 > ma20 < ma50 < ma200
-	9th Apr 26 2026: ma10 > ma20 < ma50 < ma200
-	8th Apr 26 2026: ma10 > ma20 < ma50 < ma200
-	7th Apr 26 2026: ma10 > ma20 < ma50 < ma200
-	6th Apr 26 2026: ma10 > ma20 < ma50 < ma200
-	2nd Apr 26 2026: ma10 > ma20 < ma50 < ma200
-	1st Apr 26 2026: ma10 < ma20 < ma50 < ma200
-	30th Mar 26 2026: ma10 < ma20 < ma50 < ma200
-	27th Mar 26 2026: ma10 < ma20 < ma50 < ma200
-	25th Mar 26 2026: ma10 < ma20 < ma50 < ma200
-	24th Mar 26 2026: ma10 < ma20 < ma50 < ma200
-	23rd Mar 26 2026: ma10 < ma20 < ma50 < ma200
-	20th Mar 26 2026: ma10 < ma20 < ma50 < ma200
-	19th Mar 26 2026: ma10 < ma20 < ma50 < ma200
-	18th Mar 26 2026: ma10 < ma20 < ma50 < ma200
-	17th Mar 26 2026: ma10 < ma20 < ma50 < ma200
-	16th Mar 26 2026: ma10 < ma20 < ma50 < ma200
-	13th Mar 26 2026: ma10 < ma20 < ma50 < ma200
-	12th Mar 26 2026: ma10 < ma20 < ma50 < ma200
-	11th Mar 26 2026: ma10 < ma20 < ma50 < ma200
-	10th Mar 26 2026: ma10 < ma20 > ma50 < ma200
-Index 2037(10th Mar 26 2026): Strong Bearish momentum
-	9th Mar 26 2026: ma10 < ma20 > ma50 < ma200
-	6th Mar 26 2026: ma10 < ma20 > ma50 < ma200
-	5th Mar 26 2026: ma10 < ma20 > ma50 < ma200
-	4th Mar 26 2026: ma10 < ma20 > ma50 < ma200
-	2nd Mar 26 2026: ma10 < ma20 > ma50 < ma200
-	27th Feb 26 2026: ma10 < ma20 > ma50 < ma200
-	26th Feb 26 2026: ma10 < ma20 > ma50 < ma200
-	25th Feb 26 2026: ma10 < ma20 > ma50 < ma200
-	24th Feb 26 2026: ma10 > ma20 > ma50 < ma200
-	23rd Feb 26 2026: ma10 > ma20 > ma50 < ma200
-	20th Feb 26 2026: ma10 > ma20 > ma50 < ma200
-	19th Feb 26 2026: ma10 > ma20 > ma50 < ma200
-	18th Feb 26 2026: ma10 > ma20 > ma50 < ma200
-	17th Feb 26 2026: ma10 > ma20 > ma50 < ma200
-	16th Feb 26 2026: ma10 > ma20 > ma50 < ma200
-	13th Feb 26 2026: ma10 > ma20 > ma50 < ma200
-	12th Feb 26 2026: ma10 > ma20 > ma50 < ma200
-	11th Feb 26 2026: ma10 > ma20 > ma50 < ma200
-	10th Feb 26 2026: ma10 > ma20 < ma50 < ma200
-Index 2056(10th Feb 26 2026): Weak Bullish momentum
-	9th Feb 26 2026: ma10 > ma20 < ma50 < ma200
-	6th Feb 26 2026: ma10 > ma20 < ma50 < ma200
-	5th Feb 26 2026: ma10 > ma20 < ma50 < ma200
-	4th Feb 26 2026: ma10 > ma20 < ma50 < ma200
-	3rd Feb 26 2026: ma10 < ma20 < ma50 < ma200
-	2nd Feb 26 2026: ma10 < ma20 < ma50 < ma200
-	1st Feb 26 2026: ma10 < ma20 < ma50 < ma200
-	30th Jan 26 2026: ma10 < ma20 < ma50 < ma200
-	29th Jan 26 2026: ma10 < ma20 < ma50 < ma200
-	28th Jan 26 2026: ma10 < ma20 < ma50 < ma200
-	27th Jan 26 2026: ma10 < ma20 < ma50 < ma200
-	23rd Jan 26 2026: ma10 < ma20 > ma50 < ma200
-Index 2068(23rd Jan 26 2026): Strong Bearish momentum
-	22nd Jan 26 2026: ma10 < ma20 > ma50 < ma200
-	21st Jan 26 2026: ma10 < ma20 > ma50 < ma200
-	20th Jan 26 2026: ma10 < ma20 > ma50 < ma200
-	19th Jan 26 2026: ma10 < ma20 > ma50 < ma200
-	16th Jan 26 2026: ma10 < ma20 > ma50 < ma200
-	14th Jan 26 2026: ma10 < ma20 > ma50 < ma200
-	13th Jan 26 2026: ma10 > ma20 > ma50 < ma200
-	12th Jan 26 2026: ma10 > ma20 > ma50 < ma200
-	9th Jan 26 2026: ma10 > ma20 > ma50 < ma200
-	8th Jan 26 2026: ma10 > ma20 > ma50 < ma200
-	7th Jan 26 2026: ma10 > ma20 > ma50 < ma200
-	6th Jan 26 2026: ma10 > ma20 > ma50 < ma200
-	5th Jan 26 2026: ma10 > ma20 < ma50 < ma200
-Index 2081(5th Jan 26 2026): Weak Bullish momentum
-	2nd Jan 26 2026: ma10 > ma20 < ma50 < ma200
-	1st Jan 26 2026: ma10 > ma20 < ma50 < ma200
-	31st Dec 25 2025: ma10 > ma20 < ma50 < ma200
-	30th Dec 25 2025: ma10 > ma20 < ma50 < ma200
-	29th Dec 25 2025: ma10 > ma20 < ma50 < ma200
-	26th Dec 25 2025: ma10 > ma20 < ma50 < ma200
-	24th Dec 25 2025: ma10 > ma20 < ma50 < ma200
-	23rd Dec 25 2025: ma10 > ma20 < ma50 < ma200
-	22nd Dec 25 2025: ma10 < ma20 < ma50 < ma200
-	19th Dec 25 2025: ma10 < ma20 < ma50 < ma200
-	18th Dec 25 2025: ma10 < ma20 < ma50 < ma200
-	17th Dec 25 2025: ma10 < ma20 < ma50 < ma200
-	16th Dec 25 2025: ma10 < ma20 < ma50 < ma200
-	15th Dec 25 2025: ma10 < ma20 < ma50 < ma200
-	12th Dec 25 2025: ma10 < ma20 < ma50 < ma200
-	11th Dec 25 2025: ma10 < ma20 < ma50 < ma200
-	10th Dec 25 2025: ma10 < ma20 < ma50 < ma200
-	9th Dec 25 2025: ma10 < ma20 < ma50 < ma200
-	8th Dec 25 2025: ma10 < ma20 < ma50 < ma200
-	5th Dec 25 2025: ma10 < ma20 < ma50 < ma200
-	4th Dec 25 2025: ma10 < ma20 < ma50 < ma200
-	3rd Dec 25 2025: ma10 < ma20 < ma50 < ma200
-	2nd Dec 25 2025: ma10 < ma20 < ma50 < ma200
-	1st Dec 25 2025: ma10 < ma20 < ma50 < ma200
-	28th Nov 25 2025: ma10 < ma20 < ma50 < ma200
-	27th Nov 25 2025: ma10 < ma20 < ma50 < ma200
-	26th Nov 25 2025: ma10 < ma20 < ma50 < ma200
-	25th Nov 25 2025: ma10 < ma20 < ma50 < ma200
-	24th Nov 25 2025: ma10 < ma20 < ma50 < ma200
-	21st Nov 25 2025: ma10 < ma20 < ma50 < ma200
-	20th Nov 25 2025: ma10 < ma20 < ma50 < ma200
-	19th Nov 25 2025: ma10 < ma20 < ma50 < ma200
-	18th Nov 25 2025: ma10 < ma20 < ma50 < ma200
-	17th Nov 25 2025: ma10 < ma20 < ma50 < ma200
-	14th Nov 25 2025: ma10 < ma20 < ma50 < ma200
-	13th Nov 25 2025: ma10 < ma20 < ma50 < ma200
-	12th Nov 25 2025: ma10 < ma20 < ma50 < ma200
-	11th Nov 25 2025: ma10 < ma20 < ma50 < ma200
-	10th Nov 25 2025: ma10 < ma20 < ma50 < ma200
-	7th Nov 25 2025: ma10 > ma20 < ma50 < ma200
-	6th Nov 25 2025: ma10 > ma20 < ma50 < ma200
-	4th Nov 25 2025: ma10 > ma20 > ma50 < ma200
-Index 2123(4th Nov 25 2025): Strong Bearish momentum
-	3rd Nov 25 2025: ma10 > ma20 > ma50 < ma200
-	31st Oct 25 2025: ma10 > ma20 < ma50 < ma200
-Index 2125(31st Oct 25 2025): Weak Bullish momentum
-	30th Oct 25 2025: ma10 > ma20 < ma50 < ma200
-	29th Oct 25 2025: ma10 > ma20 < ma50 < ma200
-	28th Oct 25 2025: ma10 > ma20 < ma50 < ma200
-	27th Oct 25 2025: ma10 > ma20 < ma50 < ma200
-	24th Oct 25 2025: ma10 > ma20 < ma50 < ma200
-	23rd Oct 25 2025: ma10 > ma20 < ma50 < ma200
-	21st Oct 25 2025: ma10 > ma20 < ma50 < ma200
-	20th Oct 25 2025: ma10 > ma20 < ma50 < ma200
-	17th Oct 25 2025: ma10 > ma20 < ma50 < ma200
-	16th Oct 25 2025: ma10 < ma20 > ma50 < ma200
-Index 2135(16th Oct 25 2025): Strong Bearish momentum
-	15th Oct 25 2025: ma10 < ma20 > ma50 < ma200
-	14th Oct 25 2025: ma10 < ma20 > ma50 < ma200
-	13th Oct 25 2025: ma10 < ma20 > ma50 < ma200
-	10th Oct 25 2025: ma10 < ma20 > ma50 < ma200
-	9th Oct 25 2025: ma10 < ma20 > ma50 < ma200
-	8th Oct 25 2025: ma10 < ma20 > ma50 < ma200
-	7th Oct 25 2025: ma10 < ma20 > ma50 < ma200
-	6th Oct 25 2025: ma10 < ma20 > ma50 < ma200
-	3rd Oct 25 2025: ma10 < ma20 > ma50 < ma200
-	1st Oct 25 2025: ma10 < ma20 > ma50 < ma200
-	30th Sep 25 2025: ma10 < ma20 > ma50 < ma200
-	29th Sep 25 2025: ma10 < ma20 > ma50 < ma200
-	26th Sep 25 2025: ma10 > ma20 > ma50 < ma200
-	25th Sep 25 2025: ma10 > ma20 > ma50 < ma200
-	24th Sep 25 2025: ma10 > ma20 > ma50 < ma200
-	23rd Sep 25 2025: ma10 > ma20 > ma50 < ma200
-	22nd Sep 25 2025: ma10 > ma20 > ma50 < ma200
-	19th Sep 25 2025: ma10 > ma20 > ma50 < ma200
-	18th Sep 25 2025: ma10 > ma20 > ma50 < ma200
-	17th Sep 25 2025: ma10 > ma20 > ma50 < ma200
-	16th Sep 25 2025: ma10 > ma20 > ma50 < ma200
-	15th Sep 25 2025: ma10 > ma20 > ma50 < ma200
-	12th Sep 25 2025: ma10 > ma20 > ma50 < ma200
-	11th Sep 25 2025: ma10 > ma20 < ma50 < ma200
-Index 2159(11th Sep 25 2025): Weak Bullish momentum
-	10th Sep 25 2025: ma10 > ma20 < ma50 < ma200
-	9th Sep 25 2025: ma10 > ma20 < ma50 < ma200
-	8th Sep 25 2025: ma10 > ma20 < ma50 < ma200
-	5th Sep 25 2025: ma10 > ma20 < ma50 < ma200
-	4th Sep 25 2025: ma10 > ma20 < ma50 < ma200
-	3rd Sep 25 2025: ma10 > ma20 < ma50 > ma200
-Index 2165(3rd Sep 25 2025):Start of Long-term Bearish market
-	2nd Sep 25 2025: ma10 > ma20 < ma50 < ma200
-	1st Sep 25 2025: ma10 > ma20 < ma50 < ma200
-	29th Aug 25 2025: ma10 > ma20 < ma50 < ma200
-	28th Aug 25 2025: ma10 > ma20 < ma50 > ma200
-Index 2169(28th Aug 25 2025):Start of Long-term Bearish market
-	26th Aug 25 2025: ma10 > ma20 < ma50 > ma200
-	25th Aug 25 2025: ma10 > ma20 < ma50 > ma200
-	22nd Aug 25 2025: ma10 > ma20 < ma50 > ma200
-	21st Aug 25 2025: ma10 > ma20 < ma50 > ma200
-	20th Aug 25 2025: ma10 < ma20 < ma50 > ma200
-	19th Aug 25 2025: ma10 < ma20 < ma50 > ma200
-	18th Aug 25 2025: ma10 < ma20 < ma50 > ma200
-	14th Aug 25 2025: ma10 < ma20 < ma50 > ma200
-	13th Aug 25 2025: ma10 < ma20 < ma50 > ma200
-	12th Aug 25 2025: ma10 < ma20 < ma50 > ma200
-	11th Aug 25 2025: ma10 < ma20 < ma50 > ma200
-	8th Aug 25 2025: ma10 < ma20 < ma50 > ma200
-	7th Aug 25 2025: ma10 < ma20 < ma50 > ma200
-	6th Aug 25 2025: ma10 < ma20 < ma50 > ma200
-	5th Aug 25 2025: ma10 < ma20 < ma50 > ma200
-	4th Aug 25 2025: ma10 < ma20 < ma50 > ma200
-	1st Aug 25 2025: ma10 < ma20 < ma50 > ma200
-	31st Jul 25 2025: ma10 < ma20 < ma50 > ma200
-	30th Jul 25 2025: ma10 < ma20 < ma50 > ma200
-	29th Jul 25 2025: ma10 < ma20 < ma50 > ma200
-	28th Jul 25 2025: ma10 < ma20 < ma50 > ma200
-	25th Jul 25 2025: ma10 < ma20 < ma50 > ma200
-	24th Jul 25 2025: ma10 < ma20 < ma50 > ma200
-	23rd Jul 25 2025: ma10 < ma20 < ma50 > ma200
-	22nd Jul 25 2025: ma10 < ma20 < ma50 > ma200
-	21st Jul 25 2025: ma10 < ma20 < ma50 > ma200
-	18th Jul 25 2025: ma10 < ma20 < ma50 > ma200
-	17th Jul 25 2025: ma10 < ma20 < ma50 > ma200
-	16th Jul 25 2025: ma10 > ma20 < ma50 > ma200
-	15th Jul 25 2025: ma10 > ma20 < ma50 > ma200
-	14th Jul 25 2025: ma10 > ma20 < ma50 > ma200
-	11th Jul 25 2025: ma10 > ma20 < ma50 > ma200
-	10th Jul 25 2025: ma10 > ma20 < ma50 > ma200
-	9th Jul 25 2025: ma10 > ma20 < ma50 > ma200
-	8th Jul 25 2025: ma10 > ma20 < ma50 > ma200
-	7th Jul 25 2025: ma10 > ma20 < ma50 > ma200
-	4th Jul 25 2025: ma10 > ma20 < ma50 > ma200
-	3rd Jul 25 2025: ma10 < ma20 < ma50 > ma200
-	2nd Jul 25 2025: ma10 < ma20 < ma50 > ma200
-	1st Jul 25 2025: ma10 < ma20 < ma50 > ma200
-	30th Jun 25 2025: ma10 < ma20 < ma50 > ma200
-	27th Jun 25 2025: ma10 < ma20 < ma50 > ma200
-	26th Jun 25 2025: ma10 < ma20 < ma50 > ma200
-	25th Jun 25 2025: ma10 < ma20 < ma50 > ma200
-	24th Jun 25 2025: ma10 < ma20 < ma50 > ma200
-	23rd Jun 25 2025: ma10 < ma20 < ma50 > ma200
-	20th Jun 25 2025: ma10 < ma20 > ma50 > ma200
-Index 2216(20th Jun 25 2025): Short-term Bearish momentum
-	19th Jun 25 2025: ma10 < ma20 > ma50 > ma200
-	18th Jun 25 2025: ma10 < ma20 > ma50 > ma200
-	17th Jun 25 2025: ma10 < ma20 > ma50 > ma200
-	16th Jun 25 2025: ma10 < ma20 > ma50 > ma200
-	13th Jun 25 2025: ma10 < ma20 > ma50 > ma200
-	12th Jun 25 2025: ma10 < ma20 > ma50 > ma200
-	11th Jun 25 2025: ma10 < ma20 > ma50 > ma200
-	10th Jun 25 2025: ma10 < ma20 > ma50 > ma200
-	9th Jun 25 2025: ma10 < ma20 > ma50 > ma200
-	6th Jun 25 2025: ma10 < ma20 > ma50 > ma200
-	5th Jun 25 2025: ma10 < ma20 > ma50 > ma200
-	4th Jun 25 2025: ma10 > ma20 > ma50 > ma200
-	3rd Jun 25 2025: ma10 > ma20 > ma50 > ma200
-	2nd Jun 25 2025: ma10 > ma20 > ma50 > ma200
-	30th May 25 2025: ma10 > ma20 > ma50 > ma200
-	29th May 25 2025: ma10 > ma20 > ma50 > ma200
-	28th May 25 2025: ma10 > ma20 > ma50 > ma200
-	27th May 25 2025: ma10 > ma20 > ma50 > ma200
-	26th May 25 2025: ma10 > ma20 > ma50 > ma200
-	23rd May 25 2025: ma10 > ma20 > ma50 > ma200
-	22nd May 25 2025: ma10 > ma20 > ma50 > ma200
-	21st May 25 2025: ma10 > ma20 > ma50 > ma200
-	20th May 25 2025: ma10 > ma20 > ma50 > ma200
-	19th May 25 2025: ma10 < ma20 > ma50 > ma200
-	16th May 25 2025: ma10 < ma20 > ma50 > ma200
-	15th May 25 2025: ma10 < ma20 > ma50 > ma200
-	14th May 25 2025: ma10 < ma20 > ma50 > ma200
-	13th May 25 2025: ma10 < ma20 > ma50 > ma200
-	12th May 25 2025: ma10 < ma20 > ma50 > ma200
-	9th May 25 2025: ma10 < ma20 > ma50 > ma200
-	8th May 25 2025: ma10 < ma20 > ma50 > ma200
-	7th May 25 2025: ma10 > ma20 > ma50 > ma200
-	6th May 25 2025: ma10 > ma20 > ma50 > ma200
-	5th May 25 2025: ma10 > ma20 > ma50 > ma200
-	2nd May 25 2025: ma10 > ma20 > ma50 > ma200
-	30th Apr 25 2025: ma10 > ma20 > ma50 > ma200
-	29th Apr 25 2025: ma10 > ma20 > ma50 > ma200
-	28th Apr 25 2025: ma10 > ma20 > ma50 > ma200
-	25th Apr 25 2025: ma10 > ma20 > ma50 > ma200
-	24th Apr 25 2025: ma10 > ma20 > ma50 < ma200
-Index 2256(24th Apr 25 2025): Start of Long-term Bullish market
-	23rd Apr 25 2025: ma10 > ma20 > ma50 < ma200
-	22nd Apr 25 2025: ma10 > ma20 > ma50 < ma200
-	21st Apr 25 2025: ma10 > ma20 > ma50 < ma200
-	17th Apr 25 2025: ma10 > ma20 > ma50 < ma200
-	16th Apr 25 2025: ma10 > ma20 > ma50 < ma200
-	15th Apr 25 2025: ma10 > ma20 > ma50 < ma200
-	11th Apr 25 2025: ma10 > ma20 > ma50 < ma200
-	9th Apr 25 2025: ma10 > ma20 < ma50 < ma200
-Index 2264(9th Apr 25 2025): Weak Bullish momentum
-	8th Apr 25 2025: ma10 > ma20 < ma50 < ma200
-	7th Apr 25 2025: ma10 > ma20 < ma50 < ma200
-	4th Apr 25 2025: ma10 > ma20 < ma50 < ma200
 	13th Apr 26 2026: ma10 > ma20 < ma50 < ma200
 	10th Apr 26 2026: ma10 > ma20 < ma50 < ma200
 	9th Apr 26 2026: ma10 > ma20 < ma50 < ma200
@@ -2534,11 +2533,11 @@ Index 2411(11th Sep 25 2025): Weak Bullish momentum
 	9th Sep 25 2025: ma10 > ma20 < ma50 < ma200
 	8th Sep 25 2025: ma10 > ma20 < ma50 < ma200
 	5th Sep 25 2025: ma10 > ma20 < ma50 < ma200
-	4th Sep 25 2025: ma10 > ma20 < ma50 > ma200
-Index 2416(4th Sep 25 2025):Start of Long-term Bearish market
+	4th Sep 25 2025: ma10 > ma20 < ma50 < ma200
 	3rd Sep 25 2025: ma10 > ma20 < ma50 > ma200
-	2nd Sep 25 2025: ma10 > ma20 < ma50 > ma200
-	1st Sep 25 2025: ma10 > ma20 < ma50 > ma200
+Index 2417(3rd Sep 25 2025):Start of Long-term Bearish market
+	2nd Sep 25 2025: ma10 > ma20 < ma50 < ma200
+	1st Sep 25 2025: ma10 > ma20 < ma50 < ma200
 	29th Aug 25 2025: ma10 > ma20 < ma50 < ma200
 	28th Aug 25 2025: ma10 > ma20 < ma50 > ma200
 Index 2421(28th Aug 25 2025):Start of Long-term Bearish market
@@ -2619,30 +2618,31 @@ Index 2468(20th Jun 25 2025): Short-term Bearish momentum
 	14th May 25 2025: ma10 < ma20 > ma50 > ma200
 	13th May 25 2025: ma10 < ma20 > ma50 > ma200
 	12th May 25 2025: ma10 < ma20 > ma50 > ma200
-	9th May 25 2025: ma10 < ma20 > ma50 < ma200
-Index 2498(9th May 25 2025): Start of Long-term Bullish market
-	8th May 25 2025: ma10 < ma20 > ma50 < ma200
-	7th May 25 2025: ma10 > ma20 > ma50 < ma200
-	6th May 25 2025: ma10 > ma20 > ma50 < ma200
-	5th May 25 2025: ma10 > ma20 > ma50 < ma200
-	2nd May 25 2025: ma10 > ma20 > ma50 < ma200
-	30th Apr 25 2025: ma10 > ma20 > ma50 < ma200
-	29th Apr 25 2025: ma10 > ma20 > ma50 < ma200
-	28th Apr 25 2025: ma10 > ma20 > ma50 < ma200
-	25th Apr 25 2025: ma10 > ma20 > ma50 < ma200
+	9th May 25 2025: ma10 < ma20 > ma50 > ma200
+	8th May 25 2025: ma10 < ma20 > ma50 > ma200
+	7th May 25 2025: ma10 > ma20 > ma50 > ma200
+	6th May 25 2025: ma10 > ma20 > ma50 > ma200
+	5th May 25 2025: ma10 > ma20 > ma50 > ma200
+	2nd May 25 2025: ma10 > ma20 > ma50 > ma200
+	30th Apr 25 2025: ma10 > ma20 > ma50 > ma200
+	29th Apr 25 2025: ma10 > ma20 > ma50 > ma200
+	28th Apr 25 2025: ma10 > ma20 > ma50 > ma200
+	25th Apr 25 2025: ma10 > ma20 > ma50 > ma200
 	24th Apr 25 2025: ma10 > ma20 > ma50 < ma200
+Index 2508(24th Apr 25 2025): Start of Long-term Bullish market
 	23rd Apr 25 2025: ma10 > ma20 > ma50 < ma200
 	22nd Apr 25 2025: ma10 > ma20 > ma50 < ma200
 	21st Apr 25 2025: ma10 > ma20 > ma50 < ma200
 	17th Apr 25 2025: ma10 > ma20 > ma50 < ma200
 	16th Apr 25 2025: ma10 > ma20 > ma50 < ma200
-	15th Apr 25 2025: ma10 > ma20 < ma50 < ma200
-Index 2514(15th Apr 25 2025): Weak Bullish momentum
-	11th Apr 25 2025: ma10 > ma20 < ma50 < ma200
+	15th Apr 25 2025: ma10 > ma20 > ma50 < ma200
+	11th Apr 25 2025: ma10 > ma20 > ma50 < ma200
 	9th Apr 25 2025: ma10 > ma20 < ma50 < ma200
+Index 2516(9th Apr 25 2025): Weak Bullish momentum
 	8th Apr 25 2025: ma10 > ma20 < ma50 < ma200
 	7th Apr 25 2025: ma10 > ma20 < ma50 < ma200
 	4th Apr 25 2025: ma10 > ma20 < ma50 < ma200
+	13th Apr 26 2026: ma10 > ma20 < ma50 < ma200
 	10th Apr 26 2026: ma10 > ma20 < ma50 < ma200
 	9th Apr 26 2026: ma10 > ma20 < ma50 < ma200
 	8th Apr 26 2026: ma10 > ma20 < ma50 < ma200
@@ -2664,7 +2664,7 @@ Index 2514(15th Apr 25 2025): Weak Bullish momentum
 	12th Mar 26 2026: ma10 < ma20 < ma50 < ma200
 	11th Mar 26 2026: ma10 < ma20 < ma50 < ma200
 	10th Mar 26 2026: ma10 < ma20 > ma50 < ma200
-Index 2540(10th Mar 26 2026): Strong Bearish momentum
+Index 2541(10th Mar 26 2026): Strong Bearish momentum
 	9th Mar 26 2026: ma10 < ma20 > ma50 < ma200
 	6th Mar 26 2026: ma10 < ma20 > ma50 < ma200
 	5th Mar 26 2026: ma10 < ma20 > ma50 < ma200
@@ -2684,7 +2684,7 @@ Index 2540(10th Mar 26 2026): Strong Bearish momentum
 	12th Feb 26 2026: ma10 > ma20 > ma50 < ma200
 	11th Feb 26 2026: ma10 > ma20 > ma50 < ma200
 	10th Feb 26 2026: ma10 > ma20 < ma50 < ma200
-Index 2559(10th Feb 26 2026): Weak Bullish momentum
+Index 2560(10th Feb 26 2026): Weak Bullish momentum
 	9th Feb 26 2026: ma10 > ma20 < ma50 < ma200
 	6th Feb 26 2026: ma10 > ma20 < ma50 < ma200
 	5th Feb 26 2026: ma10 > ma20 < ma50 < ma200
@@ -2697,7 +2697,7 @@ Index 2559(10th Feb 26 2026): Weak Bullish momentum
 	28th Jan 26 2026: ma10 < ma20 < ma50 < ma200
 	27th Jan 26 2026: ma10 < ma20 < ma50 < ma200
 	23rd Jan 26 2026: ma10 < ma20 > ma50 < ma200
-Index 2571(23rd Jan 26 2026): Strong Bearish momentum
+Index 2572(23rd Jan 26 2026): Strong Bearish momentum
 	22nd Jan 26 2026: ma10 < ma20 > ma50 < ma200
 	21st Jan 26 2026: ma10 < ma20 > ma50 < ma200
 	20th Jan 26 2026: ma10 < ma20 > ma50 < ma200
@@ -2711,7 +2711,7 @@ Index 2571(23rd Jan 26 2026): Strong Bearish momentum
 	7th Jan 26 2026: ma10 > ma20 > ma50 < ma200
 	6th Jan 26 2026: ma10 > ma20 > ma50 < ma200
 	5th Jan 26 2026: ma10 > ma20 < ma50 < ma200
-Index 2584(5th Jan 26 2026): Weak Bullish momentum
+Index 2585(5th Jan 26 2026): Weak Bullish momentum
 	2nd Jan 26 2026: ma10 > ma20 < ma50 < ma200
 	1st Jan 26 2026: ma10 > ma20 < ma50 < ma200
 	31st Dec 25 2025: ma10 > ma20 < ma50 < ma200
@@ -2754,10 +2754,10 @@ Index 2584(5th Jan 26 2026): Weak Bullish momentum
 	7th Nov 25 2025: ma10 > ma20 < ma50 < ma200
 	6th Nov 25 2025: ma10 > ma20 < ma50 < ma200
 	4th Nov 25 2025: ma10 > ma20 > ma50 < ma200
-Index 2626(4th Nov 25 2025): Strong Bearish momentum
+Index 2627(4th Nov 25 2025): Strong Bearish momentum
 	3rd Nov 25 2025: ma10 > ma20 > ma50 < ma200
 	31st Oct 25 2025: ma10 > ma20 < ma50 < ma200
-Index 2628(31st Oct 25 2025): Weak Bullish momentum
+Index 2629(31st Oct 25 2025): Weak Bullish momentum
 	30th Oct 25 2025: ma10 > ma20 < ma50 < ma200
 	29th Oct 25 2025: ma10 > ma20 < ma50 < ma200
 	28th Oct 25 2025: ma10 > ma20 < ma50 < ma200
@@ -2768,7 +2768,7 @@ Index 2628(31st Oct 25 2025): Weak Bullish momentum
 	20th Oct 25 2025: ma10 > ma20 < ma50 < ma200
 	17th Oct 25 2025: ma10 > ma20 < ma50 < ma200
 	16th Oct 25 2025: ma10 < ma20 > ma50 < ma200
-Index 2638(16th Oct 25 2025): Strong Bearish momentum
+Index 2639(16th Oct 25 2025): Strong Bearish momentum
 	15th Oct 25 2025: ma10 < ma20 > ma50 < ma200
 	14th Oct 25 2025: ma10 < ma20 > ma50 < ma200
 	13th Oct 25 2025: ma10 < ma20 > ma50 < ma200
@@ -2793,18 +2793,19 @@ Index 2638(16th Oct 25 2025): Strong Bearish momentum
 	15th Sep 25 2025: ma10 > ma20 > ma50 < ma200
 	12th Sep 25 2025: ma10 > ma20 > ma50 < ma200
 	11th Sep 25 2025: ma10 > ma20 < ma50 < ma200
-Index 2662(11th Sep 25 2025): Weak Bullish momentum
+Index 2663(11th Sep 25 2025): Weak Bullish momentum
 	10th Sep 25 2025: ma10 > ma20 < ma50 < ma200
 	9th Sep 25 2025: ma10 > ma20 < ma50 < ma200
 	8th Sep 25 2025: ma10 > ma20 < ma50 < ma200
 	5th Sep 25 2025: ma10 > ma20 < ma50 < ma200
 	4th Sep 25 2025: ma10 > ma20 < ma50 > ma200
-Index 2667(4th Sep 25 2025):Start of Long-term Bearish market
+Index 2668(4th Sep 25 2025):Start of Long-term Bearish market
 	3rd Sep 25 2025: ma10 > ma20 < ma50 > ma200
 	2nd Sep 25 2025: ma10 > ma20 < ma50 > ma200
 	1st Sep 25 2025: ma10 > ma20 < ma50 > ma200
-	29th Aug 25 2025: ma10 > ma20 < ma50 > ma200
+	29th Aug 25 2025: ma10 > ma20 < ma50 < ma200
 	28th Aug 25 2025: ma10 > ma20 < ma50 > ma200
+Index 2673(28th Aug 25 2025):Start of Long-term Bearish market
 	26th Aug 25 2025: ma10 > ma20 < ma50 > ma200
 	25th Aug 25 2025: ma10 > ma20 < ma50 > ma200
 	22nd Aug 25 2025: ma10 > ma20 < ma50 > ma200
@@ -2852,7 +2853,7 @@ Index 2667(4th Sep 25 2025):Start of Long-term Bearish market
 	24th Jun 25 2025: ma10 < ma20 < ma50 > ma200
 	23rd Jun 25 2025: ma10 < ma20 < ma50 > ma200
 	20th Jun 25 2025: ma10 < ma20 > ma50 > ma200
-Index 2719(20th Jun 25 2025): Short-term Bearish momentum
+Index 2720(20th Jun 25 2025): Short-term Bearish momentum
 	19th Jun 25 2025: ma10 < ma20 > ma50 > ma200
 	18th Jun 25 2025: ma10 < ma20 > ma50 > ma200
 	17th Jun 25 2025: ma10 < ma20 > ma50 > ma200
@@ -2883,7 +2884,7 @@ Index 2719(20th Jun 25 2025): Short-term Bearish momentum
 	13th May 25 2025: ma10 < ma20 > ma50 > ma200
 	12th May 25 2025: ma10 < ma20 > ma50 > ma200
 	9th May 25 2025: ma10 < ma20 > ma50 < ma200
-Index 2749(9th May 25 2025): Start of Long-term Bullish market
+Index 2750(9th May 25 2025): Start of Long-term Bullish market
 	8th May 25 2025: ma10 < ma20 > ma50 < ma200
 	7th May 25 2025: ma10 > ma20 > ma50 < ma200
 	6th May 25 2025: ma10 > ma20 > ma50 < ma200
@@ -2900,7 +2901,270 @@ Index 2749(9th May 25 2025): Start of Long-term Bullish market
 	17th Apr 25 2025: ma10 > ma20 > ma50 < ma200
 	16th Apr 25 2025: ma10 > ma20 > ma50 < ma200
 	15th Apr 25 2025: ma10 > ma20 < ma50 < ma200
-Index 2765(15th Apr 25 2025): Weak Bullish momentum
+Index 2766(15th Apr 25 2025): Weak Bullish momentum
+	11th Apr 25 2025: ma10 > ma20 < ma50 < ma200
+	9th Apr 25 2025: ma10 > ma20 < ma50 < ma200
+	8th Apr 25 2025: ma10 > ma20 < ma50 < ma200
+	7th Apr 25 2025: ma10 > ma20 < ma50 < ma200
+	4th Apr 25 2025: ma10 > ma20 < ma50 < ma200
+	10th Apr 26 2026: ma10 > ma20 < ma50 < ma200
+	9th Apr 26 2026: ma10 > ma20 < ma50 < ma200
+	8th Apr 26 2026: ma10 > ma20 < ma50 < ma200
+	7th Apr 26 2026: ma10 > ma20 < ma50 < ma200
+	6th Apr 26 2026: ma10 > ma20 < ma50 < ma200
+	2nd Apr 26 2026: ma10 > ma20 < ma50 < ma200
+	1st Apr 26 2026: ma10 < ma20 < ma50 < ma200
+	30th Mar 26 2026: ma10 < ma20 < ma50 < ma200
+	27th Mar 26 2026: ma10 < ma20 < ma50 < ma200
+	25th Mar 26 2026: ma10 < ma20 < ma50 < ma200
+	24th Mar 26 2026: ma10 < ma20 < ma50 < ma200
+	23rd Mar 26 2026: ma10 < ma20 < ma50 < ma200
+	20th Mar 26 2026: ma10 < ma20 < ma50 < ma200
+	19th Mar 26 2026: ma10 < ma20 < ma50 < ma200
+	18th Mar 26 2026: ma10 < ma20 < ma50 < ma200
+	17th Mar 26 2026: ma10 < ma20 < ma50 < ma200
+	16th Mar 26 2026: ma10 < ma20 < ma50 < ma200
+	13th Mar 26 2026: ma10 < ma20 < ma50 < ma200
+	12th Mar 26 2026: ma10 < ma20 < ma50 < ma200
+	11th Mar 26 2026: ma10 < ma20 < ma50 < ma200
+	10th Mar 26 2026: ma10 < ma20 > ma50 < ma200
+Index 2792(10th Mar 26 2026): Strong Bearish momentum
+	9th Mar 26 2026: ma10 < ma20 > ma50 < ma200
+	6th Mar 26 2026: ma10 < ma20 > ma50 < ma200
+	5th Mar 26 2026: ma10 < ma20 > ma50 < ma200
+	4th Mar 26 2026: ma10 < ma20 > ma50 < ma200
+	2nd Mar 26 2026: ma10 < ma20 > ma50 < ma200
+	27th Feb 26 2026: ma10 < ma20 > ma50 < ma200
+	26th Feb 26 2026: ma10 < ma20 > ma50 < ma200
+	25th Feb 26 2026: ma10 < ma20 > ma50 < ma200
+	24th Feb 26 2026: ma10 > ma20 > ma50 < ma200
+	23rd Feb 26 2026: ma10 > ma20 > ma50 < ma200
+	20th Feb 26 2026: ma10 > ma20 > ma50 < ma200
+	19th Feb 26 2026: ma10 > ma20 > ma50 < ma200
+	18th Feb 26 2026: ma10 > ma20 > ma50 < ma200
+	17th Feb 26 2026: ma10 > ma20 > ma50 < ma200
+	16th Feb 26 2026: ma10 > ma20 > ma50 < ma200
+	13th Feb 26 2026: ma10 > ma20 > ma50 < ma200
+	12th Feb 26 2026: ma10 > ma20 > ma50 < ma200
+	11th Feb 26 2026: ma10 > ma20 > ma50 < ma200
+	10th Feb 26 2026: ma10 > ma20 < ma50 < ma200
+Index 2811(10th Feb 26 2026): Weak Bullish momentum
+	9th Feb 26 2026: ma10 > ma20 < ma50 < ma200
+	6th Feb 26 2026: ma10 > ma20 < ma50 < ma200
+	5th Feb 26 2026: ma10 > ma20 < ma50 < ma200
+	4th Feb 26 2026: ma10 > ma20 < ma50 < ma200
+	3rd Feb 26 2026: ma10 < ma20 < ma50 < ma200
+	2nd Feb 26 2026: ma10 < ma20 < ma50 < ma200
+	1st Feb 26 2026: ma10 < ma20 < ma50 < ma200
+	30th Jan 26 2026: ma10 < ma20 < ma50 < ma200
+	29th Jan 26 2026: ma10 < ma20 < ma50 < ma200
+	28th Jan 26 2026: ma10 < ma20 < ma50 < ma200
+	27th Jan 26 2026: ma10 < ma20 < ma50 < ma200
+	23rd Jan 26 2026: ma10 < ma20 > ma50 < ma200
+Index 2823(23rd Jan 26 2026): Strong Bearish momentum
+	22nd Jan 26 2026: ma10 < ma20 > ma50 < ma200
+	21st Jan 26 2026: ma10 < ma20 > ma50 < ma200
+	20th Jan 26 2026: ma10 < ma20 > ma50 < ma200
+	19th Jan 26 2026: ma10 < ma20 > ma50 < ma200
+	16th Jan 26 2026: ma10 < ma20 > ma50 < ma200
+	14th Jan 26 2026: ma10 < ma20 > ma50 < ma200
+	13th Jan 26 2026: ma10 > ma20 > ma50 < ma200
+	12th Jan 26 2026: ma10 > ma20 > ma50 < ma200
+	9th Jan 26 2026: ma10 > ma20 > ma50 < ma200
+	8th Jan 26 2026: ma10 > ma20 > ma50 < ma200
+	7th Jan 26 2026: ma10 > ma20 > ma50 < ma200
+	6th Jan 26 2026: ma10 > ma20 > ma50 < ma200
+	5th Jan 26 2026: ma10 > ma20 < ma50 < ma200
+Index 2836(5th Jan 26 2026): Weak Bullish momentum
+	2nd Jan 26 2026: ma10 > ma20 < ma50 < ma200
+	1st Jan 26 2026: ma10 > ma20 < ma50 < ma200
+	31st Dec 25 2025: ma10 > ma20 < ma50 < ma200
+	30th Dec 25 2025: ma10 > ma20 < ma50 < ma200
+	29th Dec 25 2025: ma10 > ma20 < ma50 < ma200
+	26th Dec 25 2025: ma10 > ma20 < ma50 < ma200
+	24th Dec 25 2025: ma10 > ma20 < ma50 < ma200
+	23rd Dec 25 2025: ma10 > ma20 < ma50 < ma200
+	22nd Dec 25 2025: ma10 < ma20 < ma50 < ma200
+	19th Dec 25 2025: ma10 < ma20 < ma50 < ma200
+	18th Dec 25 2025: ma10 < ma20 < ma50 < ma200
+	17th Dec 25 2025: ma10 < ma20 < ma50 < ma200
+	16th Dec 25 2025: ma10 < ma20 < ma50 < ma200
+	15th Dec 25 2025: ma10 < ma20 < ma50 < ma200
+	12th Dec 25 2025: ma10 < ma20 < ma50 < ma200
+	11th Dec 25 2025: ma10 < ma20 < ma50 < ma200
+	10th Dec 25 2025: ma10 < ma20 < ma50 < ma200
+	9th Dec 25 2025: ma10 < ma20 < ma50 < ma200
+	8th Dec 25 2025: ma10 < ma20 < ma50 < ma200
+	5th Dec 25 2025: ma10 < ma20 < ma50 < ma200
+	4th Dec 25 2025: ma10 < ma20 < ma50 < ma200
+	3rd Dec 25 2025: ma10 < ma20 < ma50 < ma200
+	2nd Dec 25 2025: ma10 < ma20 < ma50 < ma200
+	1st Dec 25 2025: ma10 < ma20 < ma50 < ma200
+	28th Nov 25 2025: ma10 < ma20 < ma50 < ma200
+	27th Nov 25 2025: ma10 < ma20 < ma50 < ma200
+	26th Nov 25 2025: ma10 < ma20 < ma50 < ma200
+	25th Nov 25 2025: ma10 < ma20 < ma50 < ma200
+	24th Nov 25 2025: ma10 < ma20 < ma50 < ma200
+	21st Nov 25 2025: ma10 < ma20 < ma50 < ma200
+	20th Nov 25 2025: ma10 < ma20 < ma50 < ma200
+	19th Nov 25 2025: ma10 < ma20 < ma50 < ma200
+	18th Nov 25 2025: ma10 < ma20 < ma50 < ma200
+	17th Nov 25 2025: ma10 < ma20 < ma50 < ma200
+	14th Nov 25 2025: ma10 < ma20 < ma50 < ma200
+	13th Nov 25 2025: ma10 < ma20 < ma50 < ma200
+	12th Nov 25 2025: ma10 < ma20 < ma50 < ma200
+	11th Nov 25 2025: ma10 < ma20 < ma50 < ma200
+	10th Nov 25 2025: ma10 < ma20 < ma50 < ma200
+	7th Nov 25 2025: ma10 > ma20 < ma50 < ma200
+	6th Nov 25 2025: ma10 > ma20 < ma50 < ma200
+	4th Nov 25 2025: ma10 > ma20 > ma50 < ma200
+Index 2878(4th Nov 25 2025): Strong Bearish momentum
+	3rd Nov 25 2025: ma10 > ma20 > ma50 < ma200
+	31st Oct 25 2025: ma10 > ma20 < ma50 < ma200
+Index 2880(31st Oct 25 2025): Weak Bullish momentum
+	30th Oct 25 2025: ma10 > ma20 < ma50 < ma200
+	29th Oct 25 2025: ma10 > ma20 < ma50 < ma200
+	28th Oct 25 2025: ma10 > ma20 < ma50 < ma200
+	27th Oct 25 2025: ma10 > ma20 < ma50 < ma200
+	24th Oct 25 2025: ma10 > ma20 < ma50 < ma200
+	23rd Oct 25 2025: ma10 > ma20 < ma50 < ma200
+	21st Oct 25 2025: ma10 > ma20 < ma50 < ma200
+	20th Oct 25 2025: ma10 > ma20 < ma50 < ma200
+	17th Oct 25 2025: ma10 > ma20 < ma50 < ma200
+	16th Oct 25 2025: ma10 < ma20 > ma50 < ma200
+Index 2890(16th Oct 25 2025): Strong Bearish momentum
+	15th Oct 25 2025: ma10 < ma20 > ma50 < ma200
+	14th Oct 25 2025: ma10 < ma20 > ma50 < ma200
+	13th Oct 25 2025: ma10 < ma20 > ma50 < ma200
+	10th Oct 25 2025: ma10 < ma20 > ma50 < ma200
+	9th Oct 25 2025: ma10 < ma20 > ma50 < ma200
+	8th Oct 25 2025: ma10 < ma20 > ma50 < ma200
+	7th Oct 25 2025: ma10 < ma20 > ma50 < ma200
+	6th Oct 25 2025: ma10 < ma20 > ma50 < ma200
+	3rd Oct 25 2025: ma10 < ma20 > ma50 < ma200
+	1st Oct 25 2025: ma10 < ma20 > ma50 < ma200
+	30th Sep 25 2025: ma10 < ma20 > ma50 < ma200
+	29th Sep 25 2025: ma10 < ma20 > ma50 < ma200
+	26th Sep 25 2025: ma10 > ma20 > ma50 < ma200
+	25th Sep 25 2025: ma10 > ma20 > ma50 < ma200
+	24th Sep 25 2025: ma10 > ma20 > ma50 < ma200
+	23rd Sep 25 2025: ma10 > ma20 > ma50 < ma200
+	22nd Sep 25 2025: ma10 > ma20 > ma50 < ma200
+	19th Sep 25 2025: ma10 > ma20 > ma50 < ma200
+	18th Sep 25 2025: ma10 > ma20 > ma50 < ma200
+	17th Sep 25 2025: ma10 > ma20 > ma50 < ma200
+	16th Sep 25 2025: ma10 > ma20 > ma50 < ma200
+	15th Sep 25 2025: ma10 > ma20 > ma50 < ma200
+	12th Sep 25 2025: ma10 > ma20 > ma50 < ma200
+	11th Sep 25 2025: ma10 > ma20 < ma50 < ma200
+Index 2914(11th Sep 25 2025): Weak Bullish momentum
+	10th Sep 25 2025: ma10 > ma20 < ma50 < ma200
+	9th Sep 25 2025: ma10 > ma20 < ma50 < ma200
+	8th Sep 25 2025: ma10 > ma20 < ma50 < ma200
+	5th Sep 25 2025: ma10 > ma20 < ma50 < ma200
+	4th Sep 25 2025: ma10 > ma20 < ma50 > ma200
+Index 2919(4th Sep 25 2025):Start of Long-term Bearish market
+	3rd Sep 25 2025: ma10 > ma20 < ma50 > ma200
+	2nd Sep 25 2025: ma10 > ma20 < ma50 > ma200
+	1st Sep 25 2025: ma10 > ma20 < ma50 > ma200
+	29th Aug 25 2025: ma10 > ma20 < ma50 > ma200
+	28th Aug 25 2025: ma10 > ma20 < ma50 > ma200
+	26th Aug 25 2025: ma10 > ma20 < ma50 > ma200
+	25th Aug 25 2025: ma10 > ma20 < ma50 > ma200
+	22nd Aug 25 2025: ma10 > ma20 < ma50 > ma200
+	21st Aug 25 2025: ma10 > ma20 < ma50 > ma200
+	20th Aug 25 2025: ma10 < ma20 < ma50 > ma200
+	19th Aug 25 2025: ma10 < ma20 < ma50 > ma200
+	18th Aug 25 2025: ma10 < ma20 < ma50 > ma200
+	14th Aug 25 2025: ma10 < ma20 < ma50 > ma200
+	13th Aug 25 2025: ma10 < ma20 < ma50 > ma200
+	12th Aug 25 2025: ma10 < ma20 < ma50 > ma200
+	11th Aug 25 2025: ma10 < ma20 < ma50 > ma200
+	8th Aug 25 2025: ma10 < ma20 < ma50 > ma200
+	7th Aug 25 2025: ma10 < ma20 < ma50 > ma200
+	6th Aug 25 2025: ma10 < ma20 < ma50 > ma200
+	5th Aug 25 2025: ma10 < ma20 < ma50 > ma200
+	4th Aug 25 2025: ma10 < ma20 < ma50 > ma200
+	1st Aug 25 2025: ma10 < ma20 < ma50 > ma200
+	31st Jul 25 2025: ma10 < ma20 < ma50 > ma200
+	30th Jul 25 2025: ma10 < ma20 < ma50 > ma200
+	29th Jul 25 2025: ma10 < ma20 < ma50 > ma200
+	28th Jul 25 2025: ma10 < ma20 < ma50 > ma200
+	25th Jul 25 2025: ma10 < ma20 < ma50 > ma200
+	24th Jul 25 2025: ma10 < ma20 < ma50 > ma200
+	23rd Jul 25 2025: ma10 < ma20 < ma50 > ma200
+	22nd Jul 25 2025: ma10 < ma20 < ma50 > ma200
+	21st Jul 25 2025: ma10 < ma20 < ma50 > ma200
+	18th Jul 25 2025: ma10 < ma20 < ma50 > ma200
+	17th Jul 25 2025: ma10 < ma20 < ma50 > ma200
+	16th Jul 25 2025: ma10 > ma20 < ma50 > ma200
+	15th Jul 25 2025: ma10 > ma20 < ma50 > ma200
+	14th Jul 25 2025: ma10 > ma20 < ma50 > ma200
+	11th Jul 25 2025: ma10 > ma20 < ma50 > ma200
+	10th Jul 25 2025: ma10 > ma20 < ma50 > ma200
+	9th Jul 25 2025: ma10 > ma20 < ma50 > ma200
+	8th Jul 25 2025: ma10 > ma20 < ma50 > ma200
+	7th Jul 25 2025: ma10 > ma20 < ma50 > ma200
+	4th Jul 25 2025: ma10 > ma20 < ma50 > ma200
+	3rd Jul 25 2025: ma10 < ma20 < ma50 > ma200
+	2nd Jul 25 2025: ma10 < ma20 < ma50 > ma200
+	1st Jul 25 2025: ma10 < ma20 < ma50 > ma200
+	30th Jun 25 2025: ma10 < ma20 < ma50 > ma200
+	27th Jun 25 2025: ma10 < ma20 < ma50 > ma200
+	26th Jun 25 2025: ma10 < ma20 < ma50 > ma200
+	25th Jun 25 2025: ma10 < ma20 < ma50 > ma200
+	24th Jun 25 2025: ma10 < ma20 < ma50 > ma200
+	23rd Jun 25 2025: ma10 < ma20 < ma50 > ma200
+	20th Jun 25 2025: ma10 < ma20 > ma50 > ma200
+Index 2971(20th Jun 25 2025): Short-term Bearish momentum
+	19th Jun 25 2025: ma10 < ma20 > ma50 > ma200
+	18th Jun 25 2025: ma10 < ma20 > ma50 > ma200
+	17th Jun 25 2025: ma10 < ma20 > ma50 > ma200
+	16th Jun 25 2025: ma10 < ma20 > ma50 > ma200
+	13th Jun 25 2025: ma10 < ma20 > ma50 > ma200
+	12th Jun 25 2025: ma10 < ma20 > ma50 > ma200
+	11th Jun 25 2025: ma10 < ma20 > ma50 > ma200
+	10th Jun 25 2025: ma10 < ma20 > ma50 > ma200
+	9th Jun 25 2025: ma10 < ma20 > ma50 > ma200
+	6th Jun 25 2025: ma10 < ma20 > ma50 > ma200
+	5th Jun 25 2025: ma10 < ma20 > ma50 > ma200
+	4th Jun 25 2025: ma10 > ma20 > ma50 > ma200
+	3rd Jun 25 2025: ma10 > ma20 > ma50 > ma200
+	2nd Jun 25 2025: ma10 > ma20 > ma50 > ma200
+	30th May 25 2025: ma10 > ma20 > ma50 > ma200
+	29th May 25 2025: ma10 > ma20 > ma50 > ma200
+	28th May 25 2025: ma10 > ma20 > ma50 > ma200
+	27th May 25 2025: ma10 > ma20 > ma50 > ma200
+	26th May 25 2025: ma10 > ma20 > ma50 > ma200
+	23rd May 25 2025: ma10 > ma20 > ma50 > ma200
+	22nd May 25 2025: ma10 > ma20 > ma50 > ma200
+	21st May 25 2025: ma10 > ma20 > ma50 > ma200
+	20th May 25 2025: ma10 > ma20 > ma50 > ma200
+	19th May 25 2025: ma10 < ma20 > ma50 > ma200
+	16th May 25 2025: ma10 < ma20 > ma50 > ma200
+	15th May 25 2025: ma10 < ma20 > ma50 > ma200
+	14th May 25 2025: ma10 < ma20 > ma50 > ma200
+	13th May 25 2025: ma10 < ma20 > ma50 > ma200
+	12th May 25 2025: ma10 < ma20 > ma50 > ma200
+	9th May 25 2025: ma10 < ma20 > ma50 < ma200
+Index 3001(9th May 25 2025): Start of Long-term Bullish market
+	8th May 25 2025: ma10 < ma20 > ma50 < ma200
+	7th May 25 2025: ma10 > ma20 > ma50 < ma200
+	6th May 25 2025: ma10 > ma20 > ma50 < ma200
+	5th May 25 2025: ma10 > ma20 > ma50 < ma200
+	2nd May 25 2025: ma10 > ma20 > ma50 < ma200
+	30th Apr 25 2025: ma10 > ma20 > ma50 < ma200
+	29th Apr 25 2025: ma10 > ma20 > ma50 < ma200
+	28th Apr 25 2025: ma10 > ma20 > ma50 < ma200
+	25th Apr 25 2025: ma10 > ma20 > ma50 < ma200
+	24th Apr 25 2025: ma10 > ma20 > ma50 < ma200
+	23rd Apr 25 2025: ma10 > ma20 > ma50 < ma200
+	22nd Apr 25 2025: ma10 > ma20 > ma50 < ma200
+	21st Apr 25 2025: ma10 > ma20 > ma50 < ma200
+	17th Apr 25 2025: ma10 > ma20 > ma50 < ma200
+	16th Apr 25 2025: ma10 > ma20 > ma50 < ma200
+	15th Apr 25 2025: ma10 > ma20 < ma50 < ma200
+Index 3017(15th Apr 25 2025): Weak Bullish momentum
 	11th Apr 25 2025: ma10 > ma20 < ma50 < ma200
 	9th Apr 25 2025: ma10 > ma20 < ma50 < ma200
 	8th Apr 25 2025: ma10 > ma20 < ma50 < ma200
@@ -2927,7 +3191,7 @@ Index 2765(15th Apr 25 2025): Weak Bullish momentum
 	12th Mar 26 2026: ma10 < ma20 < ma50 < ma200
 	11th Mar 26 2026: ma10 < ma20 < ma50 < ma200
 	10th Mar 26 2026: ma10 < ma20 > ma50 < ma200
-Index 2791(10th Mar 26 2026): Strong Bearish momentum
+Index 3043(10th Mar 26 2026): Strong Bearish momentum
 	9th Mar 26 2026: ma10 < ma20 > ma50 < ma200
 	6th Mar 26 2026: ma10 < ma20 > ma50 < ma200
 	5th Mar 26 2026: ma10 < ma20 > ma50 < ma200
@@ -2947,7 +3211,7 @@ Index 2791(10th Mar 26 2026): Strong Bearish momentum
 	12th Feb 26 2026: ma10 > ma20 > ma50 < ma200
 	11th Feb 26 2026: ma10 > ma20 > ma50 < ma200
 	10th Feb 26 2026: ma10 > ma20 < ma50 < ma200
-Index 2810(10th Feb 26 2026): Weak Bullish momentum
+Index 3062(10th Feb 26 2026): Weak Bullish momentum
 	9th Feb 26 2026: ma10 > ma20 < ma50 < ma200
 	6th Feb 26 2026: ma10 > ma20 < ma50 < ma200
 	5th Feb 26 2026: ma10 > ma20 < ma50 < ma200
@@ -2960,7 +3224,7 @@ Index 2810(10th Feb 26 2026): Weak Bullish momentum
 	28th Jan 26 2026: ma10 < ma20 < ma50 < ma200
 	27th Jan 26 2026: ma10 < ma20 < ma50 < ma200
 	23rd Jan 26 2026: ma10 < ma20 > ma50 < ma200
-Index 2822(23rd Jan 26 2026): Strong Bearish momentum
+Index 3074(23rd Jan 26 2026): Strong Bearish momentum
 	22nd Jan 26 2026: ma10 < ma20 > ma50 < ma200
 	21st Jan 26 2026: ma10 < ma20 > ma50 < ma200
 	20th Jan 26 2026: ma10 < ma20 > ma50 < ma200
@@ -2974,7 +3238,7 @@ Index 2822(23rd Jan 26 2026): Strong Bearish momentum
 	7th Jan 26 2026: ma10 > ma20 > ma50 < ma200
 	6th Jan 26 2026: ma10 > ma20 > ma50 < ma200
 	5th Jan 26 2026: ma10 > ma20 < ma50 < ma200
-Index 2835(5th Jan 26 2026): Weak Bullish momentum
+Index 3087(5th Jan 26 2026): Weak Bullish momentum
 	2nd Jan 26 2026: ma10 > ma20 < ma50 < ma200
 	1st Jan 26 2026: ma10 > ma20 < ma50 < ma200
 	31st Dec 25 2025: ma10 > ma20 < ma50 < ma200
@@ -3017,10 +3281,10 @@ Index 2835(5th Jan 26 2026): Weak Bullish momentum
 	7th Nov 25 2025: ma10 > ma20 < ma50 < ma200
 	6th Nov 25 2025: ma10 > ma20 < ma50 < ma200
 	4th Nov 25 2025: ma10 > ma20 > ma50 < ma200
-Index 2877(4th Nov 25 2025): Strong Bearish momentum
+Index 3129(4th Nov 25 2025): Strong Bearish momentum
 	3rd Nov 25 2025: ma10 > ma20 > ma50 < ma200
 	31st Oct 25 2025: ma10 > ma20 < ma50 < ma200
-Index 2879(31st Oct 25 2025): Weak Bullish momentum
+Index 3131(31st Oct 25 2025): Weak Bullish momentum
 	30th Oct 25 2025: ma10 > ma20 < ma50 < ma200
 	29th Oct 25 2025: ma10 > ma20 < ma50 < ma200
 	28th Oct 25 2025: ma10 > ma20 < ma50 < ma200
@@ -3031,7 +3295,7 @@ Index 2879(31st Oct 25 2025): Weak Bullish momentum
 	20th Oct 25 2025: ma10 > ma20 < ma50 < ma200
 	17th Oct 25 2025: ma10 > ma20 < ma50 < ma200
 	16th Oct 25 2025: ma10 < ma20 > ma50 < ma200
-Index 2889(16th Oct 25 2025): Strong Bearish momentum
+Index 3141(16th Oct 25 2025): Strong Bearish momentum
 	15th Oct 25 2025: ma10 < ma20 > ma50 < ma200
 	14th Oct 25 2025: ma10 < ma20 > ma50 < ma200
 	13th Oct 25 2025: ma10 < ma20 > ma50 < ma200
@@ -3056,12 +3320,12 @@ Index 2889(16th Oct 25 2025): Strong Bearish momentum
 	15th Sep 25 2025: ma10 > ma20 > ma50 < ma200
 	12th Sep 25 2025: ma10 > ma20 > ma50 < ma200
 	11th Sep 25 2025: ma10 > ma20 < ma50 < ma200
-Index 2913(11th Sep 25 2025): Weak Bullish momentum
+Index 3165(11th Sep 25 2025): Weak Bullish momentum
 	10th Sep 25 2025: ma10 > ma20 < ma50 < ma200
 	9th Sep 25 2025: ma10 > ma20 < ma50 < ma200
 	8th Sep 25 2025: ma10 > ma20 < ma50 < ma200
 	5th Sep 25 2025: ma10 > ma20 < ma50 > ma200
-Index 2917(5th Sep 25 2025):Start of Long-term Bearish market
+Index 3169(5th Sep 25 2025):Start of Long-term Bearish market
 	4th Sep 25 2025: ma10 > ma20 < ma50 > ma200
 	3rd Sep 25 2025: ma10 > ma20 < ma50 > ma200
 	2nd Sep 25 2025: ma10 > ma20 < ma50 > ma200
@@ -3115,7 +3379,7 @@ Index 2917(5th Sep 25 2025):Start of Long-term Bearish market
 	24th Jun 25 2025: ma10 < ma20 < ma50 > ma200
 	23rd Jun 25 2025: ma10 < ma20 < ma50 > ma200
 	20th Jun 25 2025: ma10 < ma20 > ma50 > ma200
-Index 2970(20th Jun 25 2025): Short-term Bearish momentum
+Index 3222(20th Jun 25 2025): Short-term Bearish momentum
 	19th Jun 25 2025: ma10 < ma20 > ma50 > ma200
 	18th Jun 25 2025: ma10 < ma20 > ma50 > ma200
 	17th Jun 25 2025: ma10 < ma20 > ma50 > ma200
@@ -3145,7 +3409,7 @@ Index 2970(20th Jun 25 2025): Short-term Bearish momentum
 	14th May 25 2025: ma10 < ma20 > ma50 > ma200
 	13th May 25 2025: ma10 < ma20 > ma50 > ma200
 	12th May 25 2025: ma10 < ma20 > ma50 < ma200
-Index 2999(12th May 25 2025): Start of Long-term Bullish market
+Index 3251(12th May 25 2025): Start of Long-term Bullish market
 	9th May 25 2025: ma10 < ma20 > ma50 < ma200
 	8th May 25 2025: ma10 < ma20 > ma50 < ma200
 	7th May 25 2025: ma10 > ma20 > ma50 < ma200
@@ -3163,7 +3427,7 @@ Index 2999(12th May 25 2025): Start of Long-term Bullish market
 	17th Apr 25 2025: ma10 > ma20 > ma50 < ma200
 	16th Apr 25 2025: ma10 > ma20 > ma50 < ma200
 	15th Apr 25 2025: ma10 > ma20 < ma50 < ma200
-Index 3016(15th Apr 25 2025): Weak Bullish momentum
+Index 3268(15th Apr 25 2025): Weak Bullish momentum
 	11th Apr 25 2025: ma10 > ma20 < ma50 < ma200
 	9th Apr 25 2025: ma10 > ma20 < ma50 < ma200
 	8th Apr 25 2025: ma10 > ma20 < ma50 < ma200
@@ -3190,7 +3454,7 @@ Index 3016(15th Apr 25 2025): Weak Bullish momentum
 	12th Mar 26 2026: ma10 < ma20 < ma50 < ma200
 	11th Mar 26 2026: ma10 < ma20 < ma50 < ma200
 	10th Mar 26 2026: ma10 < ma20 > ma50 < ma200
-Index 3042(10th Mar 26 2026): Strong Bearish momentum
+Index 3294(10th Mar 26 2026): Strong Bearish momentum
 	9th Mar 26 2026: ma10 < ma20 > ma50 < ma200
 	6th Mar 26 2026: ma10 < ma20 > ma50 < ma200
 	5th Mar 26 2026: ma10 < ma20 > ma50 < ma200
@@ -3210,7 +3474,7 @@ Index 3042(10th Mar 26 2026): Strong Bearish momentum
 	12th Feb 26 2026: ma10 > ma20 > ma50 < ma200
 	11th Feb 26 2026: ma10 > ma20 > ma50 < ma200
 	10th Feb 26 2026: ma10 > ma20 < ma50 < ma200
-Index 3061(10th Feb 26 2026): Weak Bullish momentum
+Index 3313(10th Feb 26 2026): Weak Bullish momentum
 	9th Feb 26 2026: ma10 > ma20 < ma50 < ma200
 	6th Feb 26 2026: ma10 > ma20 < ma50 < ma200
 	5th Feb 26 2026: ma10 > ma20 < ma50 < ma200
@@ -3223,7 +3487,7 @@ Index 3061(10th Feb 26 2026): Weak Bullish momentum
 	28th Jan 26 2026: ma10 < ma20 < ma50 < ma200
 	27th Jan 26 2026: ma10 < ma20 < ma50 < ma200
 	23rd Jan 26 2026: ma10 < ma20 > ma50 < ma200
-Index 3073(23rd Jan 26 2026): Strong Bearish momentum
+Index 3325(23rd Jan 26 2026): Strong Bearish momentum
 	22nd Jan 26 2026: ma10 < ma20 > ma50 < ma200
 	21st Jan 26 2026: ma10 < ma20 > ma50 < ma200
 	20th Jan 26 2026: ma10 < ma20 > ma50 < ma200
@@ -3237,7 +3501,7 @@ Index 3073(23rd Jan 26 2026): Strong Bearish momentum
 	7th Jan 26 2026: ma10 > ma20 > ma50 < ma200
 	6th Jan 26 2026: ma10 > ma20 > ma50 < ma200
 	5th Jan 26 2026: ma10 > ma20 < ma50 < ma200
-Index 3086(5th Jan 26 2026): Weak Bullish momentum
+Index 3338(5th Jan 26 2026): Weak Bullish momentum
 	2nd Jan 26 2026: ma10 > ma20 < ma50 < ma200
 	1st Jan 26 2026: ma10 > ma20 < ma50 < ma200
 	31st Dec 25 2025: ma10 > ma20 < ma50 < ma200
@@ -3280,10 +3544,10 @@ Index 3086(5th Jan 26 2026): Weak Bullish momentum
 	7th Nov 25 2025: ma10 > ma20 < ma50 < ma200
 	6th Nov 25 2025: ma10 > ma20 < ma50 < ma200
 	4th Nov 25 2025: ma10 > ma20 > ma50 < ma200
-Index 3128(4th Nov 25 2025): Strong Bearish momentum
+Index 3380(4th Nov 25 2025): Strong Bearish momentum
 	3rd Nov 25 2025: ma10 > ma20 > ma50 < ma200
 	31st Oct 25 2025: ma10 > ma20 < ma50 < ma200
-Index 3130(31st Oct 25 2025): Weak Bullish momentum
+Index 3382(31st Oct 25 2025): Weak Bullish momentum
 	30th Oct 25 2025: ma10 > ma20 < ma50 < ma200
 	29th Oct 25 2025: ma10 > ma20 < ma50 < ma200
 	28th Oct 25 2025: ma10 > ma20 < ma50 < ma200
@@ -3294,7 +3558,7 @@ Index 3130(31st Oct 25 2025): Weak Bullish momentum
 	20th Oct 25 2025: ma10 > ma20 < ma50 < ma200
 	17th Oct 25 2025: ma10 > ma20 < ma50 < ma200
 	16th Oct 25 2025: ma10 < ma20 > ma50 < ma200
-Index 3140(16th Oct 25 2025): Strong Bearish momentum
+Index 3392(16th Oct 25 2025): Strong Bearish momentum
 	15th Oct 25 2025: ma10 < ma20 > ma50 < ma200
 	14th Oct 25 2025: ma10 < ma20 > ma50 < ma200
 	13th Oct 25 2025: ma10 < ma20 > ma50 < ma200
@@ -3319,12 +3583,12 @@ Index 3140(16th Oct 25 2025): Strong Bearish momentum
 	15th Sep 25 2025: ma10 > ma20 > ma50 < ma200
 	12th Sep 25 2025: ma10 > ma20 > ma50 < ma200
 	11th Sep 25 2025: ma10 > ma20 < ma50 < ma200
-Index 3164(11th Sep 25 2025): Weak Bullish momentum
+Index 3416(11th Sep 25 2025): Weak Bullish momentum
 	10th Sep 25 2025: ma10 > ma20 < ma50 < ma200
 	9th Sep 25 2025: ma10 > ma20 < ma50 < ma200
 	8th Sep 25 2025: ma10 > ma20 < ma50 < ma200
 	5th Sep 25 2025: ma10 > ma20 < ma50 > ma200
-Index 3168(5th Sep 25 2025):Start of Long-term Bearish market
+Index 3420(5th Sep 25 2025):Start of Long-term Bearish market
 	4th Sep 25 2025: ma10 > ma20 < ma50 > ma200
 	3rd Sep 25 2025: ma10 > ma20 < ma50 > ma200
 	2nd Sep 25 2025: ma10 > ma20 < ma50 > ma200
@@ -3378,7 +3642,7 @@ Index 3168(5th Sep 25 2025):Start of Long-term Bearish market
 	24th Jun 25 2025: ma10 < ma20 < ma50 > ma200
 	23rd Jun 25 2025: ma10 < ma20 < ma50 > ma200
 	20th Jun 25 2025: ma10 < ma20 > ma50 > ma200
-Index 3221(20th Jun 25 2025): Short-term Bearish momentum
+Index 3473(20th Jun 25 2025): Short-term Bearish momentum
 	19th Jun 25 2025: ma10 < ma20 > ma50 > ma200
 	18th Jun 25 2025: ma10 < ma20 > ma50 > ma200
 	17th Jun 25 2025: ma10 < ma20 > ma50 > ma200
@@ -3407,7 +3671,7 @@ Index 3221(20th Jun 25 2025): Short-term Bearish momentum
 	15th May 25 2025: ma10 < ma20 > ma50 > ma200
 	14th May 25 2025: ma10 < ma20 > ma50 > ma200
 	13th May 25 2025: ma10 < ma20 > ma50 < ma200
-Index 3249(13th May 25 2025): Start of Long-term Bullish market
+Index 3501(13th May 25 2025): Start of Long-term Bullish market
 	12th May 25 2025: ma10 < ma20 > ma50 < ma200
 	9th May 25 2025: ma10 < ma20 > ma50 < ma200
 	8th May 25 2025: ma10 < ma20 > ma50 < ma200
@@ -3426,7 +3690,7 @@ Index 3249(13th May 25 2025): Start of Long-term Bullish market
 	17th Apr 25 2025: ma10 > ma20 > ma50 < ma200
 	16th Apr 25 2025: ma10 > ma20 > ma50 < ma200
 	15th Apr 25 2025: ma10 > ma20 < ma50 < ma200
-Index 3267(15th Apr 25 2025): Weak Bullish momentum
+Index 3519(15th Apr 25 2025): Weak Bullish momentum
 	11th Apr 25 2025: ma10 > ma20 < ma50 < ma200
 	9th Apr 25 2025: ma10 > ma20 < ma50 < ma200
 	8th Apr 25 2025: ma10 > ma20 < ma50 < ma200
@@ -3453,7 +3717,7 @@ Index 3267(15th Apr 25 2025): Weak Bullish momentum
 	12th Mar 26 2026: ma10 < ma20 < ma50 < ma200
 	11th Mar 26 2026: ma10 < ma20 < ma50 < ma200
 	10th Mar 26 2026: ma10 < ma20 > ma50 < ma200
-Index 3293(10th Mar 26 2026): Strong Bearish momentum
+Index 3545(10th Mar 26 2026): Strong Bearish momentum
 	9th Mar 26 2026: ma10 < ma20 > ma50 < ma200
 	6th Mar 26 2026: ma10 < ma20 > ma50 < ma200
 	5th Mar 26 2026: ma10 < ma20 > ma50 < ma200
@@ -3473,7 +3737,7 @@ Index 3293(10th Mar 26 2026): Strong Bearish momentum
 	12th Feb 26 2026: ma10 > ma20 > ma50 < ma200
 	11th Feb 26 2026: ma10 > ma20 > ma50 < ma200
 	10th Feb 26 2026: ma10 > ma20 < ma50 < ma200
-Index 3312(10th Feb 26 2026): Weak Bullish momentum
+Index 3564(10th Feb 26 2026): Weak Bullish momentum
 	9th Feb 26 2026: ma10 > ma20 < ma50 < ma200
 	6th Feb 26 2026: ma10 > ma20 < ma50 < ma200
 	5th Feb 26 2026: ma10 > ma20 < ma50 < ma200
@@ -3486,7 +3750,7 @@ Index 3312(10th Feb 26 2026): Weak Bullish momentum
 	28th Jan 26 2026: ma10 < ma20 < ma50 < ma200
 	27th Jan 26 2026: ma10 < ma20 < ma50 < ma200
 	23rd Jan 26 2026: ma10 < ma20 > ma50 < ma200
-Index 3324(23rd Jan 26 2026): Strong Bearish momentum
+Index 3576(23rd Jan 26 2026): Strong Bearish momentum
 	22nd Jan 26 2026: ma10 < ma20 > ma50 < ma200
 	21st Jan 26 2026: ma10 < ma20 > ma50 < ma200
 	20th Jan 26 2026: ma10 < ma20 > ma50 < ma200
@@ -3500,7 +3764,7 @@ Index 3324(23rd Jan 26 2026): Strong Bearish momentum
 	7th Jan 26 2026: ma10 > ma20 > ma50 < ma200
 	6th Jan 26 2026: ma10 > ma20 > ma50 < ma200
 	5th Jan 26 2026: ma10 > ma20 < ma50 < ma200
-Index 3337(5th Jan 26 2026): Weak Bullish momentum
+Index 3589(5th Jan 26 2026): Weak Bullish momentum
 	2nd Jan 26 2026: ma10 > ma20 < ma50 < ma200
 	1st Jan 26 2026: ma10 > ma20 < ma50 < ma200
 	31st Dec 25 2025: ma10 > ma20 < ma50 < ma200
@@ -3543,10 +3807,10 @@ Index 3337(5th Jan 26 2026): Weak Bullish momentum
 	7th Nov 25 2025: ma10 > ma20 < ma50 < ma200
 	6th Nov 25 2025: ma10 > ma20 < ma50 < ma200
 	4th Nov 25 2025: ma10 > ma20 > ma50 < ma200
-Index 3379(4th Nov 25 2025): Strong Bearish momentum
+Index 3631(4th Nov 25 2025): Strong Bearish momentum
 	3rd Nov 25 2025: ma10 > ma20 > ma50 < ma200
 	31st Oct 25 2025: ma10 > ma20 < ma50 < ma200
-Index 3381(31st Oct 25 2025): Weak Bullish momentum
+Index 3633(31st Oct 25 2025): Weak Bullish momentum
 	30th Oct 25 2025: ma10 > ma20 < ma50 < ma200
 	29th Oct 25 2025: ma10 > ma20 < ma50 < ma200
 	28th Oct 25 2025: ma10 > ma20 < ma50 < ma200
@@ -3557,7 +3821,7 @@ Index 3381(31st Oct 25 2025): Weak Bullish momentum
 	20th Oct 25 2025: ma10 > ma20 < ma50 < ma200
 	17th Oct 25 2025: ma10 > ma20 < ma50 < ma200
 	16th Oct 25 2025: ma10 < ma20 > ma50 < ma200
-Index 3391(16th Oct 25 2025): Strong Bearish momentum
+Index 3643(16th Oct 25 2025): Strong Bearish momentum
 	15th Oct 25 2025: ma10 < ma20 > ma50 < ma200
 	14th Oct 25 2025: ma10 < ma20 > ma50 < ma200
 	13th Oct 25 2025: ma10 < ma20 > ma50 < ma200
@@ -3582,12 +3846,12 @@ Index 3391(16th Oct 25 2025): Strong Bearish momentum
 	15th Sep 25 2025: ma10 > ma20 > ma50 < ma200
 	12th Sep 25 2025: ma10 > ma20 > ma50 < ma200
 	11th Sep 25 2025: ma10 > ma20 < ma50 < ma200
-Index 3415(11th Sep 25 2025): Weak Bullish momentum
+Index 3667(11th Sep 25 2025): Weak Bullish momentum
 	10th Sep 25 2025: ma10 > ma20 < ma50 < ma200
 	9th Sep 25 2025: ma10 > ma20 < ma50 < ma200
 	8th Sep 25 2025: ma10 > ma20 < ma50 < ma200
 	5th Sep 25 2025: ma10 > ma20 < ma50 > ma200
-Index 3419(5th Sep 25 2025):Start of Long-term Bearish market
+Index 3671(5th Sep 25 2025):Start of Long-term Bearish market
 	4th Sep 25 2025: ma10 > ma20 < ma50 > ma200
 	3rd Sep 25 2025: ma10 > ma20 < ma50 > ma200
 	2nd Sep 25 2025: ma10 > ma20 < ma50 > ma200
@@ -3641,7 +3905,7 @@ Index 3419(5th Sep 25 2025):Start of Long-term Bearish market
 	24th Jun 25 2025: ma10 < ma20 < ma50 > ma200
 	23rd Jun 25 2025: ma10 < ma20 < ma50 > ma200
 	20th Jun 25 2025: ma10 < ma20 > ma50 > ma200
-Index 3472(20th Jun 25 2025): Short-term Bearish momentum
+Index 3724(20th Jun 25 2025): Short-term Bearish momentum
 	19th Jun 25 2025: ma10 < ma20 > ma50 > ma200
 	18th Jun 25 2025: ma10 < ma20 > ma50 > ma200
 	17th Jun 25 2025: ma10 < ma20 > ma50 > ma200
@@ -3670,7 +3934,7 @@ Index 3472(20th Jun 25 2025): Short-term Bearish momentum
 	15th May 25 2025: ma10 < ma20 > ma50 > ma200
 	14th May 25 2025: ma10 < ma20 > ma50 > ma200
 	13th May 25 2025: ma10 < ma20 > ma50 < ma200
-Index 3500(13th May 25 2025): Start of Long-term Bullish market
+Index 3752(13th May 25 2025): Start of Long-term Bullish market
 	12th May 25 2025: ma10 < ma20 > ma50 < ma200
 	9th May 25 2025: ma10 < ma20 > ma50 < ma200
 	8th May 25 2025: ma10 < ma20 > ma50 < ma200
@@ -3688,7 +3952,7 @@ Index 3500(13th May 25 2025): Start of Long-term Bullish market
 	21st Apr 25 2025: ma10 > ma20 > ma50 < ma200
 	17th Apr 25 2025: ma10 > ma20 > ma50 < ma200
 	16th Apr 25 2025: ma10 > ma20 < ma50 < ma200
-Index 3517(16th Apr 25 2025): Weak Bullish momentum
+Index 3769(16th Apr 25 2025): Weak Bullish momentum
 	15th Apr 25 2025: ma10 > ma20 < ma50 < ma200
 	11th Apr 25 2025: ma10 > ma20 < ma50 < ma200
 	9th Apr 25 2025: ma10 > ma20 < ma50 < ma200
@@ -3716,7 +3980,7 @@ Index 3517(16th Apr 25 2025): Weak Bullish momentum
 	12th Mar 26 2026: ma10 < ma20 < ma50 < ma200
 	11th Mar 26 2026: ma10 < ma20 < ma50 < ma200
 	10th Mar 26 2026: ma10 < ma20 > ma50 < ma200
-Index 3544(10th Mar 26 2026): Strong Bearish momentum
+Index 3796(10th Mar 26 2026): Strong Bearish momentum
 	9th Mar 26 2026: ma10 < ma20 > ma50 < ma200
 	6th Mar 26 2026: ma10 < ma20 > ma50 < ma200
 	5th Mar 26 2026: ma10 < ma20 > ma50 < ma200
@@ -3736,7 +4000,7 @@ Index 3544(10th Mar 26 2026): Strong Bearish momentum
 	12th Feb 26 2026: ma10 > ma20 > ma50 < ma200
 	11th Feb 26 2026: ma10 > ma20 > ma50 < ma200
 	10th Feb 26 2026: ma10 > ma20 < ma50 < ma200
-Index 3563(10th Feb 26 2026): Weak Bullish momentum
+Index 3815(10th Feb 26 2026): Weak Bullish momentum
 	9th Feb 26 2026: ma10 > ma20 < ma50 < ma200
 	6th Feb 26 2026: ma10 > ma20 < ma50 < ma200
 	5th Feb 26 2026: ma10 > ma20 < ma50 < ma200
@@ -3749,7 +4013,7 @@ Index 3563(10th Feb 26 2026): Weak Bullish momentum
 	28th Jan 26 2026: ma10 < ma20 < ma50 < ma200
 	27th Jan 26 2026: ma10 < ma20 < ma50 < ma200
 	23rd Jan 26 2026: ma10 < ma20 > ma50 < ma200
-Index 3575(23rd Jan 26 2026): Strong Bearish momentum
+Index 3827(23rd Jan 26 2026): Strong Bearish momentum
 	22nd Jan 26 2026: ma10 < ma20 > ma50 < ma200
 	21st Jan 26 2026: ma10 < ma20 > ma50 < ma200
 	20th Jan 26 2026: ma10 < ma20 > ma50 < ma200
@@ -3763,7 +4027,7 @@ Index 3575(23rd Jan 26 2026): Strong Bearish momentum
 	7th Jan 26 2026: ma10 > ma20 > ma50 < ma200
 	6th Jan 26 2026: ma10 > ma20 > ma50 < ma200
 	5th Jan 26 2026: ma10 > ma20 < ma50 < ma200
-Index 3588(5th Jan 26 2026): Weak Bullish momentum
+Index 3840(5th Jan 26 2026): Weak Bullish momentum
 	2nd Jan 26 2026: ma10 > ma20 < ma50 < ma200
 	1st Jan 26 2026: ma10 > ma20 < ma50 < ma200
 	31st Dec 25 2025: ma10 > ma20 < ma50 < ma200
@@ -3806,10 +4070,10 @@ Index 3588(5th Jan 26 2026): Weak Bullish momentum
 	7th Nov 25 2025: ma10 > ma20 < ma50 < ma200
 	6th Nov 25 2025: ma10 > ma20 < ma50 < ma200
 	4th Nov 25 2025: ma10 > ma20 > ma50 < ma200
-Index 3630(4th Nov 25 2025): Strong Bearish momentum
+Index 3882(4th Nov 25 2025): Strong Bearish momentum
 	3rd Nov 25 2025: ma10 > ma20 > ma50 < ma200
 	31st Oct 25 2025: ma10 > ma20 < ma50 < ma200
-Index 3632(31st Oct 25 2025): Weak Bullish momentum
+Index 3884(31st Oct 25 2025): Weak Bullish momentum
 	30th Oct 25 2025: ma10 > ma20 < ma50 < ma200
 	29th Oct 25 2025: ma10 > ma20 < ma50 < ma200
 	28th Oct 25 2025: ma10 > ma20 < ma50 < ma200
@@ -3820,7 +4084,7 @@ Index 3632(31st Oct 25 2025): Weak Bullish momentum
 	20th Oct 25 2025: ma10 > ma20 < ma50 < ma200
 	17th Oct 25 2025: ma10 > ma20 < ma50 < ma200
 	16th Oct 25 2025: ma10 < ma20 > ma50 < ma200
-Index 3642(16th Oct 25 2025): Strong Bearish momentum
+Index 3894(16th Oct 25 2025): Strong Bearish momentum
 	15th Oct 25 2025: ma10 < ma20 > ma50 < ma200
 	14th Oct 25 2025: ma10 < ma20 > ma50 < ma200
 	13th Oct 25 2025: ma10 < ma20 > ma50 < ma200
@@ -3845,12 +4109,12 @@ Index 3642(16th Oct 25 2025): Strong Bearish momentum
 	15th Sep 25 2025: ma10 > ma20 > ma50 < ma200
 	12th Sep 25 2025: ma10 > ma20 > ma50 < ma200
 	11th Sep 25 2025: ma10 > ma20 < ma50 < ma200
-Index 3666(11th Sep 25 2025): Weak Bullish momentum
+Index 3918(11th Sep 25 2025): Weak Bullish momentum
 	10th Sep 25 2025: ma10 > ma20 < ma50 < ma200
 	9th Sep 25 2025: ma10 > ma20 < ma50 < ma200
 	8th Sep 25 2025: ma10 > ma20 < ma50 < ma200
 	5th Sep 25 2025: ma10 > ma20 < ma50 > ma200
-Index 3670(5th Sep 25 2025):Start of Long-term Bearish market
+Index 3922(5th Sep 25 2025):Start of Long-term Bearish market
 	4th Sep 25 2025: ma10 > ma20 < ma50 > ma200
 	3rd Sep 25 2025: ma10 > ma20 < ma50 > ma200
 	2nd Sep 25 2025: ma10 > ma20 < ma50 > ma200
@@ -3904,7 +4168,7 @@ Index 3670(5th Sep 25 2025):Start of Long-term Bearish market
 	24th Jun 25 2025: ma10 < ma20 < ma50 > ma200
 	23rd Jun 25 2025: ma10 < ma20 < ma50 > ma200
 	20th Jun 25 2025: ma10 < ma20 > ma50 > ma200
-Index 3723(20th Jun 25 2025): Short-term Bearish momentum
+Index 3975(20th Jun 25 2025): Short-term Bearish momentum
 	19th Jun 25 2025: ma10 < ma20 > ma50 > ma200
 	18th Jun 25 2025: ma10 < ma20 > ma50 > ma200
 	17th Jun 25 2025: ma10 < ma20 > ma50 > ma200
@@ -3933,7 +4197,7 @@ Index 3723(20th Jun 25 2025): Short-term Bearish momentum
 	15th May 25 2025: ma10 < ma20 > ma50 > ma200
 	14th May 25 2025: ma10 < ma20 > ma50 > ma200
 	13th May 25 2025: ma10 < ma20 > ma50 < ma200
-Index 3751(13th May 25 2025): Start of Long-term Bullish market
+Index 4003(13th May 25 2025): Start of Long-term Bullish market
 	12th May 25 2025: ma10 < ma20 > ma50 < ma200
 	9th May 25 2025: ma10 < ma20 > ma50 < ma200
 	8th May 25 2025: ma10 < ma20 > ma50 < ma200
@@ -3951,7 +4215,7 @@ Index 3751(13th May 25 2025): Start of Long-term Bullish market
 	21st Apr 25 2025: ma10 > ma20 > ma50 < ma200
 	17th Apr 25 2025: ma10 > ma20 > ma50 < ma200
 	16th Apr 25 2025: ma10 > ma20 < ma50 < ma200
-Index 3768(16th Apr 25 2025): Weak Bullish momentum
+Index 4020(16th Apr 25 2025): Weak Bullish momentum
 	15th Apr 25 2025: ma10 > ma20 < ma50 < ma200
 	11th Apr 25 2025: ma10 > ma20 < ma50 < ma200
 	9th Apr 25 2025: ma10 > ma20 < ma50 < ma200
@@ -3963,270 +4227,6 @@ Index 3768(16th Apr 25 2025): Weak Bullish momentum
 	1st Apr 25 2025: ma10 > ma20 < ma50 < ma200
 	28th Mar 25 2025: ma10 > ma20 < ma50 < ma200
 	27th Mar 25 2025: ma10 > ma20 < ma50 < ma200
-	2nd Apr 26 2026: ma10 > ma20 < ma50 < ma200
-	1st Apr 26 2026: ma10 < ma20 < ma50 < ma200
-	30th Mar 26 2026: ma10 < ma20 < ma50 < ma200
-	27th Mar 26 2026: ma10 < ma20 < ma50 < ma200
-	25th Mar 26 2026: ma10 < ma20 < ma50 < ma200
-	24th Mar 26 2026: ma10 < ma20 < ma50 < ma200
-	23rd Mar 26 2026: ma10 < ma20 < ma50 < ma200
-	20th Mar 26 2026: ma10 < ma20 < ma50 < ma200
-	19th Mar 26 2026: ma10 < ma20 < ma50 < ma200
-	18th Mar 26 2026: ma10 < ma20 < ma50 < ma200
-	17th Mar 26 2026: ma10 < ma20 < ma50 < ma200
-	16th Mar 26 2026: ma10 < ma20 < ma50 < ma200
-	13th Mar 26 2026: ma10 < ma20 < ma50 < ma200
-	12th Mar 26 2026: ma10 < ma20 < ma50 < ma200
-	11th Mar 26 2026: ma10 < ma20 < ma50 < ma200
-	10th Mar 26 2026: ma10 < ma20 > ma50 < ma200
-Index 3795(10th Mar 26 2026): Strong Bearish momentum
-	9th Mar 26 2026: ma10 < ma20 > ma50 < ma200
-	6th Mar 26 2026: ma10 < ma20 > ma50 < ma200
-	5th Mar 26 2026: ma10 < ma20 > ma50 < ma200
-	4th Mar 26 2026: ma10 < ma20 > ma50 < ma200
-	2nd Mar 26 2026: ma10 < ma20 > ma50 < ma200
-	27th Feb 26 2026: ma10 < ma20 > ma50 < ma200
-	26th Feb 26 2026: ma10 < ma20 > ma50 < ma200
-	25th Feb 26 2026: ma10 < ma20 > ma50 < ma200
-	24th Feb 26 2026: ma10 > ma20 > ma50 < ma200
-	23rd Feb 26 2026: ma10 > ma20 > ma50 < ma200
-	20th Feb 26 2026: ma10 > ma20 > ma50 < ma200
-	19th Feb 26 2026: ma10 > ma20 > ma50 < ma200
-	18th Feb 26 2026: ma10 > ma20 > ma50 < ma200
-	17th Feb 26 2026: ma10 > ma20 > ma50 < ma200
-	16th Feb 26 2026: ma10 > ma20 > ma50 < ma200
-	13th Feb 26 2026: ma10 > ma20 > ma50 < ma200
-	12th Feb 26 2026: ma10 > ma20 > ma50 < ma200
-	11th Feb 26 2026: ma10 > ma20 > ma50 < ma200
-	10th Feb 26 2026: ma10 > ma20 < ma50 < ma200
-Index 3814(10th Feb 26 2026): Weak Bullish momentum
-	9th Feb 26 2026: ma10 > ma20 < ma50 < ma200
-	6th Feb 26 2026: ma10 > ma20 < ma50 < ma200
-	5th Feb 26 2026: ma10 > ma20 < ma50 < ma200
-	4th Feb 26 2026: ma10 > ma20 < ma50 < ma200
-	3rd Feb 26 2026: ma10 < ma20 < ma50 < ma200
-	2nd Feb 26 2026: ma10 < ma20 < ma50 < ma200
-	1st Feb 26 2026: ma10 < ma20 < ma50 < ma200
-	30th Jan 26 2026: ma10 < ma20 < ma50 < ma200
-	29th Jan 26 2026: ma10 < ma20 < ma50 < ma200
-	28th Jan 26 2026: ma10 < ma20 < ma50 < ma200
-	27th Jan 26 2026: ma10 < ma20 < ma50 < ma200
-	23rd Jan 26 2026: ma10 < ma20 > ma50 < ma200
-Index 3826(23rd Jan 26 2026): Strong Bearish momentum
-	22nd Jan 26 2026: ma10 < ma20 > ma50 < ma200
-	21st Jan 26 2026: ma10 < ma20 > ma50 < ma200
-	20th Jan 26 2026: ma10 < ma20 > ma50 < ma200
-	19th Jan 26 2026: ma10 < ma20 > ma50 < ma200
-	16th Jan 26 2026: ma10 < ma20 > ma50 < ma200
-	14th Jan 26 2026: ma10 < ma20 > ma50 < ma200
-	13th Jan 26 2026: ma10 > ma20 > ma50 < ma200
-	12th Jan 26 2026: ma10 > ma20 > ma50 < ma200
-	9th Jan 26 2026: ma10 > ma20 > ma50 < ma200
-	8th Jan 26 2026: ma10 > ma20 > ma50 < ma200
-	7th Jan 26 2026: ma10 > ma20 > ma50 < ma200
-	6th Jan 26 2026: ma10 > ma20 > ma50 < ma200
-	5th Jan 26 2026: ma10 > ma20 < ma50 < ma200
-Index 3839(5th Jan 26 2026): Weak Bullish momentum
-	2nd Jan 26 2026: ma10 > ma20 < ma50 < ma200
-	1st Jan 26 2026: ma10 > ma20 < ma50 < ma200
-	31st Dec 25 2025: ma10 > ma20 < ma50 < ma200
-	30th Dec 25 2025: ma10 > ma20 < ma50 < ma200
-	29th Dec 25 2025: ma10 > ma20 < ma50 < ma200
-	26th Dec 25 2025: ma10 > ma20 < ma50 < ma200
-	24th Dec 25 2025: ma10 > ma20 < ma50 < ma200
-	23rd Dec 25 2025: ma10 > ma20 < ma50 < ma200
-	22nd Dec 25 2025: ma10 < ma20 < ma50 < ma200
-	19th Dec 25 2025: ma10 < ma20 < ma50 < ma200
-	18th Dec 25 2025: ma10 < ma20 < ma50 < ma200
-	17th Dec 25 2025: ma10 < ma20 < ma50 < ma200
-	16th Dec 25 2025: ma10 < ma20 < ma50 < ma200
-	15th Dec 25 2025: ma10 < ma20 < ma50 < ma200
-	12th Dec 25 2025: ma10 < ma20 < ma50 < ma200
-	11th Dec 25 2025: ma10 < ma20 < ma50 < ma200
-	10th Dec 25 2025: ma10 < ma20 < ma50 < ma200
-	9th Dec 25 2025: ma10 < ma20 < ma50 < ma200
-	8th Dec 25 2025: ma10 < ma20 < ma50 < ma200
-	5th Dec 25 2025: ma10 < ma20 < ma50 < ma200
-	4th Dec 25 2025: ma10 < ma20 < ma50 < ma200
-	3rd Dec 25 2025: ma10 < ma20 < ma50 < ma200
-	2nd Dec 25 2025: ma10 < ma20 < ma50 < ma200
-	1st Dec 25 2025: ma10 < ma20 < ma50 < ma200
-	28th Nov 25 2025: ma10 < ma20 < ma50 < ma200
-	27th Nov 25 2025: ma10 < ma20 < ma50 < ma200
-	26th Nov 25 2025: ma10 < ma20 < ma50 < ma200
-	25th Nov 25 2025: ma10 < ma20 < ma50 < ma200
-	24th Nov 25 2025: ma10 < ma20 < ma50 < ma200
-	21st Nov 25 2025: ma10 < ma20 < ma50 < ma200
-	20th Nov 25 2025: ma10 < ma20 < ma50 < ma200
-	19th Nov 25 2025: ma10 < ma20 < ma50 < ma200
-	18th Nov 25 2025: ma10 < ma20 < ma50 < ma200
-	17th Nov 25 2025: ma10 < ma20 < ma50 < ma200
-	14th Nov 25 2025: ma10 < ma20 < ma50 < ma200
-	13th Nov 25 2025: ma10 < ma20 < ma50 < ma200
-	12th Nov 25 2025: ma10 < ma20 < ma50 < ma200
-	11th Nov 25 2025: ma10 < ma20 < ma50 < ma200
-	10th Nov 25 2025: ma10 > ma20 < ma50 < ma200
-	7th Nov 25 2025: ma10 > ma20 < ma50 < ma200
-	6th Nov 25 2025: ma10 > ma20 < ma50 < ma200
-	4th Nov 25 2025: ma10 > ma20 > ma50 < ma200
-Index 3881(4th Nov 25 2025): Strong Bearish momentum
-	3rd Nov 25 2025: ma10 > ma20 > ma50 < ma200
-	31st Oct 25 2025: ma10 > ma20 < ma50 < ma200
-Index 3883(31st Oct 25 2025): Weak Bullish momentum
-	30th Oct 25 2025: ma10 > ma20 < ma50 < ma200
-	29th Oct 25 2025: ma10 > ma20 < ma50 < ma200
-	28th Oct 25 2025: ma10 > ma20 < ma50 < ma200
-	27th Oct 25 2025: ma10 > ma20 < ma50 < ma200
-	24th Oct 25 2025: ma10 > ma20 < ma50 < ma200
-	23rd Oct 25 2025: ma10 > ma20 < ma50 < ma200
-	21st Oct 25 2025: ma10 > ma20 < ma50 < ma200
-	20th Oct 25 2025: ma10 > ma20 < ma50 < ma200
-	17th Oct 25 2025: ma10 > ma20 < ma50 < ma200
-	16th Oct 25 2025: ma10 < ma20 > ma50 < ma200
-Index 3893(16th Oct 25 2025): Strong Bearish momentum
-	15th Oct 25 2025: ma10 < ma20 > ma50 < ma200
-	14th Oct 25 2025: ma10 < ma20 > ma50 < ma200
-	13th Oct 25 2025: ma10 < ma20 > ma50 < ma200
-	10th Oct 25 2025: ma10 < ma20 > ma50 < ma200
-	9th Oct 25 2025: ma10 < ma20 > ma50 < ma200
-	8th Oct 25 2025: ma10 < ma20 > ma50 < ma200
-	7th Oct 25 2025: ma10 < ma20 > ma50 < ma200
-	6th Oct 25 2025: ma10 < ma20 > ma50 < ma200
-	3rd Oct 25 2025: ma10 < ma20 > ma50 < ma200
-	1st Oct 25 2025: ma10 < ma20 > ma50 < ma200
-	30th Sep 25 2025: ma10 < ma20 > ma50 < ma200
-	29th Sep 25 2025: ma10 < ma20 > ma50 < ma200
-	26th Sep 25 2025: ma10 > ma20 > ma50 < ma200
-	25th Sep 25 2025: ma10 > ma20 > ma50 < ma200
-	24th Sep 25 2025: ma10 > ma20 > ma50 < ma200
-	23rd Sep 25 2025: ma10 > ma20 > ma50 < ma200
-	22nd Sep 25 2025: ma10 > ma20 > ma50 < ma200
-	19th Sep 25 2025: ma10 > ma20 > ma50 < ma200
-	18th Sep 25 2025: ma10 > ma20 > ma50 < ma200
-	17th Sep 25 2025: ma10 > ma20 > ma50 < ma200
-	16th Sep 25 2025: ma10 > ma20 > ma50 < ma200
-	15th Sep 25 2025: ma10 > ma20 > ma50 < ma200
-	12th Sep 25 2025: ma10 > ma20 > ma50 < ma200
-	11th Sep 25 2025: ma10 > ma20 < ma50 < ma200
-Index 3917(11th Sep 25 2025): Weak Bullish momentum
-	10th Sep 25 2025: ma10 > ma20 < ma50 < ma200
-	9th Sep 25 2025: ma10 > ma20 < ma50 < ma200
-	8th Sep 25 2025: ma10 > ma20 < ma50 < ma200
-	5th Sep 25 2025: ma10 > ma20 < ma50 > ma200
-Index 3921(5th Sep 25 2025):Start of Long-term Bearish market
-	4th Sep 25 2025: ma10 > ma20 < ma50 > ma200
-	3rd Sep 25 2025: ma10 > ma20 < ma50 > ma200
-	2nd Sep 25 2025: ma10 > ma20 < ma50 > ma200
-	1st Sep 25 2025: ma10 > ma20 < ma50 > ma200
-	29th Aug 25 2025: ma10 > ma20 < ma50 > ma200
-	28th Aug 25 2025: ma10 > ma20 < ma50 > ma200
-	26th Aug 25 2025: ma10 > ma20 < ma50 > ma200
-	25th Aug 25 2025: ma10 > ma20 < ma50 > ma200
-	22nd Aug 25 2025: ma10 > ma20 < ma50 > ma200
-	21st Aug 25 2025: ma10 > ma20 < ma50 > ma200
-	20th Aug 25 2025: ma10 < ma20 < ma50 > ma200
-	19th Aug 25 2025: ma10 < ma20 < ma50 > ma200
-	18th Aug 25 2025: ma10 < ma20 < ma50 > ma200
-	14th Aug 25 2025: ma10 < ma20 < ma50 > ma200
-	13th Aug 25 2025: ma10 < ma20 < ma50 > ma200
-	12th Aug 25 2025: ma10 < ma20 < ma50 > ma200
-	11th Aug 25 2025: ma10 < ma20 < ma50 > ma200
-	8th Aug 25 2025: ma10 < ma20 < ma50 > ma200
-	7th Aug 25 2025: ma10 < ma20 < ma50 > ma200
-	6th Aug 25 2025: ma10 < ma20 < ma50 > ma200
-	5th Aug 25 2025: ma10 < ma20 < ma50 > ma200
-	4th Aug 25 2025: ma10 < ma20 < ma50 > ma200
-	1st Aug 25 2025: ma10 < ma20 < ma50 > ma200
-	31st Jul 25 2025: ma10 < ma20 < ma50 > ma200
-	30th Jul 25 2025: ma10 < ma20 < ma50 > ma200
-	29th Jul 25 2025: ma10 < ma20 < ma50 > ma200
-	28th Jul 25 2025: ma10 < ma20 < ma50 > ma200
-	25th Jul 25 2025: ma10 < ma20 < ma50 > ma200
-	24th Jul 25 2025: ma10 < ma20 < ma50 > ma200
-	23rd Jul 25 2025: ma10 < ma20 < ma50 > ma200
-	22nd Jul 25 2025: ma10 < ma20 < ma50 > ma200
-	21st Jul 25 2025: ma10 < ma20 < ma50 > ma200
-	18th Jul 25 2025: ma10 < ma20 < ma50 > ma200
-	17th Jul 25 2025: ma10 < ma20 < ma50 > ma200
-	16th Jul 25 2025: ma10 > ma20 < ma50 > ma200
-	15th Jul 25 2025: ma10 > ma20 < ma50 > ma200
-	14th Jul 25 2025: ma10 > ma20 < ma50 > ma200
-	11th Jul 25 2025: ma10 > ma20 < ma50 > ma200
-	10th Jul 25 2025: ma10 > ma20 < ma50 > ma200
-	9th Jul 25 2025: ma10 > ma20 < ma50 > ma200
-	8th Jul 25 2025: ma10 > ma20 < ma50 > ma200
-	7th Jul 25 2025: ma10 > ma20 < ma50 > ma200
-	4th Jul 25 2025: ma10 > ma20 < ma50 > ma200
-	3rd Jul 25 2025: ma10 < ma20 < ma50 > ma200
-	2nd Jul 25 2025: ma10 < ma20 < ma50 > ma200
-	1st Jul 25 2025: ma10 < ma20 < ma50 > ma200
-	30th Jun 25 2025: ma10 < ma20 < ma50 > ma200
-	27th Jun 25 2025: ma10 < ma20 < ma50 > ma200
-	26th Jun 25 2025: ma10 < ma20 < ma50 > ma200
-	25th Jun 25 2025: ma10 < ma20 < ma50 > ma200
-	24th Jun 25 2025: ma10 < ma20 < ma50 > ma200
-	23rd Jun 25 2025: ma10 < ma20 < ma50 > ma200
-	20th Jun 25 2025: ma10 < ma20 > ma50 > ma200
-Index 3974(20th Jun 25 2025): Short-term Bearish momentum
-	19th Jun 25 2025: ma10 < ma20 > ma50 > ma200
-	18th Jun 25 2025: ma10 < ma20 > ma50 > ma200
-	17th Jun 25 2025: ma10 < ma20 > ma50 > ma200
-	16th Jun 25 2025: ma10 < ma20 > ma50 > ma200
-	13th Jun 25 2025: ma10 < ma20 > ma50 > ma200
-	12th Jun 25 2025: ma10 < ma20 > ma50 > ma200
-	11th Jun 25 2025: ma10 < ma20 > ma50 > ma200
-	10th Jun 25 2025: ma10 < ma20 > ma50 > ma200
-	9th Jun 25 2025: ma10 < ma20 > ma50 > ma200
-	6th Jun 25 2025: ma10 < ma20 > ma50 > ma200
-	5th Jun 25 2025: ma10 < ma20 > ma50 > ma200
-	4th Jun 25 2025: ma10 > ma20 > ma50 > ma200
-	3rd Jun 25 2025: ma10 > ma20 > ma50 > ma200
-	2nd Jun 25 2025: ma10 > ma20 > ma50 > ma200
-	30th May 25 2025: ma10 > ma20 > ma50 > ma200
-	29th May 25 2025: ma10 > ma20 > ma50 > ma200
-	28th May 25 2025: ma10 > ma20 > ma50 > ma200
-	27th May 25 2025: ma10 > ma20 > ma50 > ma200
-	26th May 25 2025: ma10 > ma20 > ma50 > ma200
-	23rd May 25 2025: ma10 > ma20 > ma50 > ma200
-	22nd May 25 2025: ma10 > ma20 > ma50 > ma200
-	21st May 25 2025: ma10 > ma20 > ma50 > ma200
-	20th May 25 2025: ma10 > ma20 > ma50 > ma200
-	19th May 25 2025: ma10 < ma20 > ma50 > ma200
-	16th May 25 2025: ma10 < ma20 > ma50 > ma200
-	15th May 25 2025: ma10 < ma20 > ma50 > ma200
-	14th May 25 2025: ma10 < ma20 > ma50 > ma200
-	13th May 25 2025: ma10 < ma20 > ma50 > ma200
-	12th May 25 2025: ma10 < ma20 > ma50 < ma200
-Index 4003(12th May 25 2025): Start of Long-term Bullish market
-	9th May 25 2025: ma10 < ma20 > ma50 < ma200
-	8th May 25 2025: ma10 < ma20 > ma50 < ma200
-	7th May 25 2025: ma10 > ma20 > ma50 < ma200
-	6th May 25 2025: ma10 > ma20 > ma50 < ma200
-	5th May 25 2025: ma10 > ma20 > ma50 < ma200
-	2nd May 25 2025: ma10 > ma20 > ma50 < ma200
-	30th Apr 25 2025: ma10 > ma20 > ma50 < ma200
-	29th Apr 25 2025: ma10 > ma20 > ma50 < ma200
-	28th Apr 25 2025: ma10 > ma20 > ma50 < ma200
-	25th Apr 25 2025: ma10 > ma20 > ma50 < ma200
-	24th Apr 25 2025: ma10 > ma20 > ma50 < ma200
-	23rd Apr 25 2025: ma10 > ma20 > ma50 < ma200
-	22nd Apr 25 2025: ma10 > ma20 > ma50 < ma200
-	21st Apr 25 2025: ma10 > ma20 > ma50 < ma200
-	17th Apr 25 2025: ma10 > ma20 > ma50 < ma200
-	16th Apr 25 2025: ma10 > ma20 > ma50 < ma200
-	15th Apr 25 2025: ma10 > ma20 < ma50 < ma200
-Index 4020(15th Apr 25 2025): Weak Bullish momentum
-	11th Apr 25 2025: ma10 > ma20 < ma50 < ma200
-	9th Apr 25 2025: ma10 > ma20 < ma50 < ma200
-	8th Apr 25 2025: ma10 > ma20 < ma50 < ma200
-	7th Apr 25 2025: ma10 > ma20 < ma50 < ma200
-	4th Apr 25 2025: ma10 > ma20 < ma50 < ma200
-	3rd Apr 25 2025: ma10 > ma20 < ma50 < ma200
-	2nd Apr 25 2025: ma10 > ma20 < ma50 < ma200
-	1st Apr 25 2025: ma10 > ma20 < ma50 < ma200
-	28th Mar 25 2025: ma10 > ma20 < ma50 < ma200
-	27th Mar 25 2025: ma10 > ma20 < ma50 < ma200
-	26th Mar 25 2025: ma10 > ma20 < ma50 < ma200
 	2nd Apr 26 2026: ma10 > ma20 < ma50 < ma200
 	1st Apr 26 2026: ma10 < ma20 < ma50 < ma200
 	30th Mar 26 2026: ma10 < ma20 < ma50 < ma200
@@ -4491,6 +4491,7 @@ Index 4272(15th Apr 25 2025): Weak Bullish momentum
 	28th Mar 25 2025: ma10 > ma20 < ma50 < ma200
 	27th Mar 25 2025: ma10 > ma20 < ma50 < ma200
 	26th Mar 25 2025: ma10 > ma20 < ma50 < ma200
+	2nd Apr 26 2026: ma10 > ma20 < ma50 < ma200
 	1st Apr 26 2026: ma10 < ma20 < ma50 < ma200
 	30th Mar 26 2026: ma10 < ma20 < ma50 < ma200
 	27th Mar 26 2026: ma10 < ma20 < ma50 < ma200
@@ -4506,7 +4507,7 @@ Index 4272(15th Apr 25 2025): Weak Bullish momentum
 	12th Mar 26 2026: ma10 < ma20 < ma50 < ma200
 	11th Mar 26 2026: ma10 < ma20 < ma50 < ma200
 	10th Mar 26 2026: ma10 < ma20 > ma50 < ma200
-Index 4298(10th Mar 26 2026): Strong Bearish momentum
+Index 4299(10th Mar 26 2026): Strong Bearish momentum
 	9th Mar 26 2026: ma10 < ma20 > ma50 < ma200
 	6th Mar 26 2026: ma10 < ma20 > ma50 < ma200
 	5th Mar 26 2026: ma10 < ma20 > ma50 < ma200
@@ -4526,7 +4527,7 @@ Index 4298(10th Mar 26 2026): Strong Bearish momentum
 	12th Feb 26 2026: ma10 > ma20 > ma50 < ma200
 	11th Feb 26 2026: ma10 > ma20 > ma50 < ma200
 	10th Feb 26 2026: ma10 > ma20 < ma50 < ma200
-Index 4317(10th Feb 26 2026): Weak Bullish momentum
+Index 4318(10th Feb 26 2026): Weak Bullish momentum
 	9th Feb 26 2026: ma10 > ma20 < ma50 < ma200
 	6th Feb 26 2026: ma10 > ma20 < ma50 < ma200
 	5th Feb 26 2026: ma10 > ma20 < ma50 < ma200
@@ -4539,7 +4540,7 @@ Index 4317(10th Feb 26 2026): Weak Bullish momentum
 	28th Jan 26 2026: ma10 < ma20 < ma50 < ma200
 	27th Jan 26 2026: ma10 < ma20 < ma50 < ma200
 	23rd Jan 26 2026: ma10 < ma20 > ma50 < ma200
-Index 4329(23rd Jan 26 2026): Strong Bearish momentum
+Index 4330(23rd Jan 26 2026): Strong Bearish momentum
 	22nd Jan 26 2026: ma10 < ma20 > ma50 < ma200
 	21st Jan 26 2026: ma10 < ma20 > ma50 < ma200
 	20th Jan 26 2026: ma10 < ma20 > ma50 < ma200
@@ -4553,7 +4554,270 @@ Index 4329(23rd Jan 26 2026): Strong Bearish momentum
 	7th Jan 26 2026: ma10 > ma20 > ma50 < ma200
 	6th Jan 26 2026: ma10 > ma20 > ma50 < ma200
 	5th Jan 26 2026: ma10 > ma20 < ma50 < ma200
-Index 4342(5th Jan 26 2026): Weak Bullish momentum
+Index 4343(5th Jan 26 2026): Weak Bullish momentum
+	2nd Jan 26 2026: ma10 > ma20 < ma50 < ma200
+	1st Jan 26 2026: ma10 > ma20 < ma50 < ma200
+	31st Dec 25 2025: ma10 > ma20 < ma50 < ma200
+	30th Dec 25 2025: ma10 > ma20 < ma50 < ma200
+	29th Dec 25 2025: ma10 > ma20 < ma50 < ma200
+	26th Dec 25 2025: ma10 > ma20 < ma50 < ma200
+	24th Dec 25 2025: ma10 > ma20 < ma50 < ma200
+	23rd Dec 25 2025: ma10 > ma20 < ma50 < ma200
+	22nd Dec 25 2025: ma10 < ma20 < ma50 < ma200
+	19th Dec 25 2025: ma10 < ma20 < ma50 < ma200
+	18th Dec 25 2025: ma10 < ma20 < ma50 < ma200
+	17th Dec 25 2025: ma10 < ma20 < ma50 < ma200
+	16th Dec 25 2025: ma10 < ma20 < ma50 < ma200
+	15th Dec 25 2025: ma10 < ma20 < ma50 < ma200
+	12th Dec 25 2025: ma10 < ma20 < ma50 < ma200
+	11th Dec 25 2025: ma10 < ma20 < ma50 < ma200
+	10th Dec 25 2025: ma10 < ma20 < ma50 < ma200
+	9th Dec 25 2025: ma10 < ma20 < ma50 < ma200
+	8th Dec 25 2025: ma10 < ma20 < ma50 < ma200
+	5th Dec 25 2025: ma10 < ma20 < ma50 < ma200
+	4th Dec 25 2025: ma10 < ma20 < ma50 < ma200
+	3rd Dec 25 2025: ma10 < ma20 < ma50 < ma200
+	2nd Dec 25 2025: ma10 < ma20 < ma50 < ma200
+	1st Dec 25 2025: ma10 < ma20 < ma50 < ma200
+	28th Nov 25 2025: ma10 < ma20 < ma50 < ma200
+	27th Nov 25 2025: ma10 < ma20 < ma50 < ma200
+	26th Nov 25 2025: ma10 < ma20 < ma50 < ma200
+	25th Nov 25 2025: ma10 < ma20 < ma50 < ma200
+	24th Nov 25 2025: ma10 < ma20 < ma50 < ma200
+	21st Nov 25 2025: ma10 < ma20 < ma50 < ma200
+	20th Nov 25 2025: ma10 < ma20 < ma50 < ma200
+	19th Nov 25 2025: ma10 < ma20 < ma50 < ma200
+	18th Nov 25 2025: ma10 < ma20 < ma50 < ma200
+	17th Nov 25 2025: ma10 < ma20 < ma50 < ma200
+	14th Nov 25 2025: ma10 < ma20 < ma50 < ma200
+	13th Nov 25 2025: ma10 < ma20 < ma50 < ma200
+	12th Nov 25 2025: ma10 < ma20 < ma50 < ma200
+	11th Nov 25 2025: ma10 < ma20 < ma50 < ma200
+	10th Nov 25 2025: ma10 > ma20 < ma50 < ma200
+	7th Nov 25 2025: ma10 > ma20 < ma50 < ma200
+	6th Nov 25 2025: ma10 > ma20 < ma50 < ma200
+	4th Nov 25 2025: ma10 > ma20 > ma50 < ma200
+Index 4385(4th Nov 25 2025): Strong Bearish momentum
+	3rd Nov 25 2025: ma10 > ma20 > ma50 < ma200
+	31st Oct 25 2025: ma10 > ma20 < ma50 < ma200
+Index 4387(31st Oct 25 2025): Weak Bullish momentum
+	30th Oct 25 2025: ma10 > ma20 < ma50 < ma200
+	29th Oct 25 2025: ma10 > ma20 < ma50 < ma200
+	28th Oct 25 2025: ma10 > ma20 < ma50 < ma200
+	27th Oct 25 2025: ma10 > ma20 < ma50 < ma200
+	24th Oct 25 2025: ma10 > ma20 < ma50 < ma200
+	23rd Oct 25 2025: ma10 > ma20 < ma50 < ma200
+	21st Oct 25 2025: ma10 > ma20 < ma50 < ma200
+	20th Oct 25 2025: ma10 > ma20 < ma50 < ma200
+	17th Oct 25 2025: ma10 > ma20 < ma50 < ma200
+	16th Oct 25 2025: ma10 < ma20 > ma50 < ma200
+Index 4397(16th Oct 25 2025): Strong Bearish momentum
+	15th Oct 25 2025: ma10 < ma20 > ma50 < ma200
+	14th Oct 25 2025: ma10 < ma20 > ma50 < ma200
+	13th Oct 25 2025: ma10 < ma20 > ma50 < ma200
+	10th Oct 25 2025: ma10 < ma20 > ma50 < ma200
+	9th Oct 25 2025: ma10 < ma20 > ma50 < ma200
+	8th Oct 25 2025: ma10 < ma20 > ma50 < ma200
+	7th Oct 25 2025: ma10 < ma20 > ma50 < ma200
+	6th Oct 25 2025: ma10 < ma20 > ma50 < ma200
+	3rd Oct 25 2025: ma10 < ma20 > ma50 < ma200
+	1st Oct 25 2025: ma10 < ma20 > ma50 < ma200
+	30th Sep 25 2025: ma10 < ma20 > ma50 < ma200
+	29th Sep 25 2025: ma10 < ma20 > ma50 < ma200
+	26th Sep 25 2025: ma10 > ma20 > ma50 < ma200
+	25th Sep 25 2025: ma10 > ma20 > ma50 < ma200
+	24th Sep 25 2025: ma10 > ma20 > ma50 < ma200
+	23rd Sep 25 2025: ma10 > ma20 > ma50 < ma200
+	22nd Sep 25 2025: ma10 > ma20 > ma50 < ma200
+	19th Sep 25 2025: ma10 > ma20 > ma50 < ma200
+	18th Sep 25 2025: ma10 > ma20 > ma50 < ma200
+	17th Sep 25 2025: ma10 > ma20 > ma50 < ma200
+	16th Sep 25 2025: ma10 > ma20 > ma50 < ma200
+	15th Sep 25 2025: ma10 > ma20 > ma50 < ma200
+	12th Sep 25 2025: ma10 > ma20 > ma50 < ma200
+	11th Sep 25 2025: ma10 > ma20 < ma50 < ma200
+Index 4421(11th Sep 25 2025): Weak Bullish momentum
+	10th Sep 25 2025: ma10 > ma20 < ma50 < ma200
+	9th Sep 25 2025: ma10 > ma20 < ma50 < ma200
+	8th Sep 25 2025: ma10 > ma20 < ma50 < ma200
+	5th Sep 25 2025: ma10 > ma20 < ma50 > ma200
+Index 4425(5th Sep 25 2025):Start of Long-term Bearish market
+	4th Sep 25 2025: ma10 > ma20 < ma50 > ma200
+	3rd Sep 25 2025: ma10 > ma20 < ma50 > ma200
+	2nd Sep 25 2025: ma10 > ma20 < ma50 > ma200
+	1st Sep 25 2025: ma10 > ma20 < ma50 > ma200
+	29th Aug 25 2025: ma10 > ma20 < ma50 > ma200
+	28th Aug 25 2025: ma10 > ma20 < ma50 > ma200
+	26th Aug 25 2025: ma10 > ma20 < ma50 > ma200
+	25th Aug 25 2025: ma10 > ma20 < ma50 > ma200
+	22nd Aug 25 2025: ma10 > ma20 < ma50 > ma200
+	21st Aug 25 2025: ma10 > ma20 < ma50 > ma200
+	20th Aug 25 2025: ma10 < ma20 < ma50 > ma200
+	19th Aug 25 2025: ma10 < ma20 < ma50 > ma200
+	18th Aug 25 2025: ma10 < ma20 < ma50 > ma200
+	14th Aug 25 2025: ma10 < ma20 < ma50 > ma200
+	13th Aug 25 2025: ma10 < ma20 < ma50 > ma200
+	12th Aug 25 2025: ma10 < ma20 < ma50 > ma200
+	11th Aug 25 2025: ma10 < ma20 < ma50 > ma200
+	8th Aug 25 2025: ma10 < ma20 < ma50 > ma200
+	7th Aug 25 2025: ma10 < ma20 < ma50 > ma200
+	6th Aug 25 2025: ma10 < ma20 < ma50 > ma200
+	5th Aug 25 2025: ma10 < ma20 < ma50 > ma200
+	4th Aug 25 2025: ma10 < ma20 < ma50 > ma200
+	1st Aug 25 2025: ma10 < ma20 < ma50 > ma200
+	31st Jul 25 2025: ma10 < ma20 < ma50 > ma200
+	30th Jul 25 2025: ma10 < ma20 < ma50 > ma200
+	29th Jul 25 2025: ma10 < ma20 < ma50 > ma200
+	28th Jul 25 2025: ma10 < ma20 < ma50 > ma200
+	25th Jul 25 2025: ma10 < ma20 < ma50 > ma200
+	24th Jul 25 2025: ma10 < ma20 < ma50 > ma200
+	23rd Jul 25 2025: ma10 < ma20 < ma50 > ma200
+	22nd Jul 25 2025: ma10 < ma20 < ma50 > ma200
+	21st Jul 25 2025: ma10 < ma20 < ma50 > ma200
+	18th Jul 25 2025: ma10 < ma20 < ma50 > ma200
+	17th Jul 25 2025: ma10 < ma20 < ma50 > ma200
+	16th Jul 25 2025: ma10 > ma20 < ma50 > ma200
+	15th Jul 25 2025: ma10 > ma20 < ma50 > ma200
+	14th Jul 25 2025: ma10 > ma20 < ma50 > ma200
+	11th Jul 25 2025: ma10 > ma20 < ma50 > ma200
+	10th Jul 25 2025: ma10 > ma20 < ma50 > ma200
+	9th Jul 25 2025: ma10 > ma20 < ma50 > ma200
+	8th Jul 25 2025: ma10 > ma20 < ma50 > ma200
+	7th Jul 25 2025: ma10 > ma20 < ma50 > ma200
+	4th Jul 25 2025: ma10 > ma20 < ma50 > ma200
+	3rd Jul 25 2025: ma10 < ma20 < ma50 > ma200
+	2nd Jul 25 2025: ma10 < ma20 < ma50 > ma200
+	1st Jul 25 2025: ma10 < ma20 < ma50 > ma200
+	30th Jun 25 2025: ma10 < ma20 < ma50 > ma200
+	27th Jun 25 2025: ma10 < ma20 < ma50 > ma200
+	26th Jun 25 2025: ma10 < ma20 < ma50 > ma200
+	25th Jun 25 2025: ma10 < ma20 < ma50 > ma200
+	24th Jun 25 2025: ma10 < ma20 < ma50 > ma200
+	23rd Jun 25 2025: ma10 < ma20 < ma50 > ma200
+	20th Jun 25 2025: ma10 < ma20 > ma50 > ma200
+Index 4478(20th Jun 25 2025): Short-term Bearish momentum
+	19th Jun 25 2025: ma10 < ma20 > ma50 > ma200
+	18th Jun 25 2025: ma10 < ma20 > ma50 > ma200
+	17th Jun 25 2025: ma10 < ma20 > ma50 > ma200
+	16th Jun 25 2025: ma10 < ma20 > ma50 > ma200
+	13th Jun 25 2025: ma10 < ma20 > ma50 > ma200
+	12th Jun 25 2025: ma10 < ma20 > ma50 > ma200
+	11th Jun 25 2025: ma10 < ma20 > ma50 > ma200
+	10th Jun 25 2025: ma10 < ma20 > ma50 > ma200
+	9th Jun 25 2025: ma10 < ma20 > ma50 > ma200
+	6th Jun 25 2025: ma10 < ma20 > ma50 > ma200
+	5th Jun 25 2025: ma10 < ma20 > ma50 > ma200
+	4th Jun 25 2025: ma10 > ma20 > ma50 > ma200
+	3rd Jun 25 2025: ma10 > ma20 > ma50 > ma200
+	2nd Jun 25 2025: ma10 > ma20 > ma50 > ma200
+	30th May 25 2025: ma10 > ma20 > ma50 > ma200
+	29th May 25 2025: ma10 > ma20 > ma50 > ma200
+	28th May 25 2025: ma10 > ma20 > ma50 > ma200
+	27th May 25 2025: ma10 > ma20 > ma50 > ma200
+	26th May 25 2025: ma10 > ma20 > ma50 > ma200
+	23rd May 25 2025: ma10 > ma20 > ma50 > ma200
+	22nd May 25 2025: ma10 > ma20 > ma50 > ma200
+	21st May 25 2025: ma10 > ma20 > ma50 > ma200
+	20th May 25 2025: ma10 > ma20 > ma50 > ma200
+	19th May 25 2025: ma10 < ma20 > ma50 > ma200
+	16th May 25 2025: ma10 < ma20 > ma50 > ma200
+	15th May 25 2025: ma10 < ma20 > ma50 > ma200
+	14th May 25 2025: ma10 < ma20 > ma50 > ma200
+	13th May 25 2025: ma10 < ma20 > ma50 > ma200
+	12th May 25 2025: ma10 < ma20 > ma50 < ma200
+Index 4507(12th May 25 2025): Start of Long-term Bullish market
+	9th May 25 2025: ma10 < ma20 > ma50 < ma200
+	8th May 25 2025: ma10 < ma20 > ma50 < ma200
+	7th May 25 2025: ma10 > ma20 > ma50 < ma200
+	6th May 25 2025: ma10 > ma20 > ma50 < ma200
+	5th May 25 2025: ma10 > ma20 > ma50 < ma200
+	2nd May 25 2025: ma10 > ma20 > ma50 < ma200
+	30th Apr 25 2025: ma10 > ma20 > ma50 < ma200
+	29th Apr 25 2025: ma10 > ma20 > ma50 < ma200
+	28th Apr 25 2025: ma10 > ma20 > ma50 < ma200
+	25th Apr 25 2025: ma10 > ma20 > ma50 < ma200
+	24th Apr 25 2025: ma10 > ma20 > ma50 < ma200
+	23rd Apr 25 2025: ma10 > ma20 > ma50 < ma200
+	22nd Apr 25 2025: ma10 > ma20 > ma50 < ma200
+	21st Apr 25 2025: ma10 > ma20 > ma50 < ma200
+	17th Apr 25 2025: ma10 > ma20 > ma50 < ma200
+	16th Apr 25 2025: ma10 > ma20 > ma50 < ma200
+	15th Apr 25 2025: ma10 > ma20 < ma50 < ma200
+Index 4524(15th Apr 25 2025): Weak Bullish momentum
+	11th Apr 25 2025: ma10 > ma20 < ma50 < ma200
+	9th Apr 25 2025: ma10 > ma20 < ma50 < ma200
+	8th Apr 25 2025: ma10 > ma20 < ma50 < ma200
+	7th Apr 25 2025: ma10 > ma20 < ma50 < ma200
+	4th Apr 25 2025: ma10 > ma20 < ma50 < ma200
+	3rd Apr 25 2025: ma10 > ma20 < ma50 < ma200
+	2nd Apr 25 2025: ma10 > ma20 < ma50 < ma200
+	1st Apr 25 2025: ma10 > ma20 < ma50 < ma200
+	28th Mar 25 2025: ma10 > ma20 < ma50 < ma200
+	27th Mar 25 2025: ma10 > ma20 < ma50 < ma200
+	26th Mar 25 2025: ma10 > ma20 < ma50 < ma200
+	1st Apr 26 2026: ma10 < ma20 < ma50 < ma200
+	30th Mar 26 2026: ma10 < ma20 < ma50 < ma200
+	27th Mar 26 2026: ma10 < ma20 < ma50 < ma200
+	25th Mar 26 2026: ma10 < ma20 < ma50 < ma200
+	24th Mar 26 2026: ma10 < ma20 < ma50 < ma200
+	23rd Mar 26 2026: ma10 < ma20 < ma50 < ma200
+	20th Mar 26 2026: ma10 < ma20 < ma50 < ma200
+	19th Mar 26 2026: ma10 < ma20 < ma50 < ma200
+	18th Mar 26 2026: ma10 < ma20 < ma50 < ma200
+	17th Mar 26 2026: ma10 < ma20 < ma50 < ma200
+	16th Mar 26 2026: ma10 < ma20 < ma50 < ma200
+	13th Mar 26 2026: ma10 < ma20 < ma50 < ma200
+	12th Mar 26 2026: ma10 < ma20 < ma50 < ma200
+	11th Mar 26 2026: ma10 < ma20 < ma50 < ma200
+	10th Mar 26 2026: ma10 < ma20 > ma50 < ma200
+Index 4550(10th Mar 26 2026): Strong Bearish momentum
+	9th Mar 26 2026: ma10 < ma20 > ma50 < ma200
+	6th Mar 26 2026: ma10 < ma20 > ma50 < ma200
+	5th Mar 26 2026: ma10 < ma20 > ma50 < ma200
+	4th Mar 26 2026: ma10 < ma20 > ma50 < ma200
+	2nd Mar 26 2026: ma10 < ma20 > ma50 < ma200
+	27th Feb 26 2026: ma10 < ma20 > ma50 < ma200
+	26th Feb 26 2026: ma10 < ma20 > ma50 < ma200
+	25th Feb 26 2026: ma10 < ma20 > ma50 < ma200
+	24th Feb 26 2026: ma10 > ma20 > ma50 < ma200
+	23rd Feb 26 2026: ma10 > ma20 > ma50 < ma200
+	20th Feb 26 2026: ma10 > ma20 > ma50 < ma200
+	19th Feb 26 2026: ma10 > ma20 > ma50 < ma200
+	18th Feb 26 2026: ma10 > ma20 > ma50 < ma200
+	17th Feb 26 2026: ma10 > ma20 > ma50 < ma200
+	16th Feb 26 2026: ma10 > ma20 > ma50 < ma200
+	13th Feb 26 2026: ma10 > ma20 > ma50 < ma200
+	12th Feb 26 2026: ma10 > ma20 > ma50 < ma200
+	11th Feb 26 2026: ma10 > ma20 > ma50 < ma200
+	10th Feb 26 2026: ma10 > ma20 < ma50 < ma200
+Index 4569(10th Feb 26 2026): Weak Bullish momentum
+	9th Feb 26 2026: ma10 > ma20 < ma50 < ma200
+	6th Feb 26 2026: ma10 > ma20 < ma50 < ma200
+	5th Feb 26 2026: ma10 > ma20 < ma50 < ma200
+	4th Feb 26 2026: ma10 > ma20 < ma50 < ma200
+	3rd Feb 26 2026: ma10 < ma20 < ma50 < ma200
+	2nd Feb 26 2026: ma10 < ma20 < ma50 < ma200
+	1st Feb 26 2026: ma10 < ma20 < ma50 < ma200
+	30th Jan 26 2026: ma10 < ma20 < ma50 < ma200
+	29th Jan 26 2026: ma10 < ma20 < ma50 < ma200
+	28th Jan 26 2026: ma10 < ma20 < ma50 < ma200
+	27th Jan 26 2026: ma10 < ma20 < ma50 < ma200
+	23rd Jan 26 2026: ma10 < ma20 > ma50 < ma200
+Index 4581(23rd Jan 26 2026): Strong Bearish momentum
+	22nd Jan 26 2026: ma10 < ma20 > ma50 < ma200
+	21st Jan 26 2026: ma10 < ma20 > ma50 < ma200
+	20th Jan 26 2026: ma10 < ma20 > ma50 < ma200
+	19th Jan 26 2026: ma10 < ma20 > ma50 < ma200
+	16th Jan 26 2026: ma10 < ma20 > ma50 < ma200
+	14th Jan 26 2026: ma10 < ma20 > ma50 < ma200
+	13th Jan 26 2026: ma10 > ma20 > ma50 < ma200
+	12th Jan 26 2026: ma10 > ma20 > ma50 < ma200
+	9th Jan 26 2026: ma10 > ma20 > ma50 < ma200
+	8th Jan 26 2026: ma10 > ma20 > ma50 < ma200
+	7th Jan 26 2026: ma10 > ma20 > ma50 < ma200
+	6th Jan 26 2026: ma10 > ma20 > ma50 < ma200
+	5th Jan 26 2026: ma10 > ma20 < ma50 < ma200
+Index 4594(5th Jan 26 2026): Weak Bullish momentum
 	2nd Jan 26 2026: ma10 > ma20 < ma50 < ma200
 	1st Jan 26 2026: ma10 > ma20 < ma50 < ma200
 	31st Dec 25 2025: ma10 > ma20 < ma50 < ma200
@@ -4596,10 +4860,10 @@ Index 4342(5th Jan 26 2026): Weak Bullish momentum
 	7th Nov 25 2025: ma10 > ma20 < ma50 < ma200
 	6th Nov 25 2025: ma10 > ma20 < ma50 < ma200
 	4th Nov 25 2025: ma10 > ma20 > ma50 < ma200
-Index 4384(4th Nov 25 2025): Strong Bearish momentum
+Index 4636(4th Nov 25 2025): Strong Bearish momentum
 	3rd Nov 25 2025: ma10 > ma20 > ma50 < ma200
 	31st Oct 25 2025: ma10 > ma20 < ma50 < ma200
-Index 4386(31st Oct 25 2025): Weak Bullish momentum
+Index 4638(31st Oct 25 2025): Weak Bullish momentum
 	30th Oct 25 2025: ma10 > ma20 < ma50 < ma200
 	29th Oct 25 2025: ma10 > ma20 < ma50 < ma200
 	28th Oct 25 2025: ma10 > ma20 < ma50 < ma200
@@ -4610,7 +4874,7 @@ Index 4386(31st Oct 25 2025): Weak Bullish momentum
 	20th Oct 25 2025: ma10 > ma20 < ma50 < ma200
 	17th Oct 25 2025: ma10 > ma20 < ma50 < ma200
 	16th Oct 25 2025: ma10 < ma20 > ma50 < ma200
-Index 4396(16th Oct 25 2025): Strong Bearish momentum
+Index 4648(16th Oct 25 2025): Strong Bearish momentum
 	15th Oct 25 2025: ma10 < ma20 > ma50 < ma200
 	14th Oct 25 2025: ma10 < ma20 > ma50 < ma200
 	13th Oct 25 2025: ma10 < ma20 > ma50 < ma200
@@ -4635,19 +4899,19 @@ Index 4396(16th Oct 25 2025): Strong Bearish momentum
 	15th Sep 25 2025: ma10 > ma20 > ma50 < ma200
 	12th Sep 25 2025: ma10 > ma20 > ma50 < ma200
 	11th Sep 25 2025: ma10 > ma20 < ma50 < ma200
-Index 4420(11th Sep 25 2025): Weak Bullish momentum
+Index 4672(11th Sep 25 2025): Weak Bullish momentum
 	10th Sep 25 2025: ma10 > ma20 < ma50 < ma200
 	9th Sep 25 2025: ma10 > ma20 < ma50 < ma200
 	8th Sep 25 2025: ma10 > ma20 < ma50 < ma200
 	5th Sep 25 2025: ma10 > ma20 < ma50 < ma200
 	4th Sep 25 2025: ma10 > ma20 < ma50 > ma200
-Index 4425(4th Sep 25 2025):Start of Long-term Bearish market
+Index 4677(4th Sep 25 2025):Start of Long-term Bearish market
 	3rd Sep 25 2025: ma10 > ma20 < ma50 > ma200
 	2nd Sep 25 2025: ma10 > ma20 < ma50 < ma200
 	1st Sep 25 2025: ma10 > ma20 < ma50 < ma200
 	29th Aug 25 2025: ma10 > ma20 < ma50 < ma200
 	28th Aug 25 2025: ma10 > ma20 < ma50 > ma200
-Index 4430(28th Aug 25 2025):Start of Long-term Bearish market
+Index 4682(28th Aug 25 2025):Start of Long-term Bearish market
 	26th Aug 25 2025: ma10 > ma20 < ma50 > ma200
 	25th Aug 25 2025: ma10 > ma20 < ma50 > ma200
 	22nd Aug 25 2025: ma10 > ma20 < ma50 > ma200
@@ -4695,7 +4959,7 @@ Index 4430(28th Aug 25 2025):Start of Long-term Bearish market
 	24th Jun 25 2025: ma10 < ma20 < ma50 > ma200
 	23rd Jun 25 2025: ma10 < ma20 < ma50 > ma200
 	20th Jun 25 2025: ma10 < ma20 > ma50 > ma200
-Index 4477(20th Jun 25 2025): Short-term Bearish momentum
+Index 4729(20th Jun 25 2025): Short-term Bearish momentum
 	19th Jun 25 2025: ma10 < ma20 > ma50 > ma200
 	18th Jun 25 2025: ma10 < ma20 > ma50 > ma200
 	17th Jun 25 2025: ma10 < ma20 > ma50 > ma200
@@ -4726,7 +4990,7 @@ Index 4477(20th Jun 25 2025): Short-term Bearish momentum
 	13th May 25 2025: ma10 < ma20 > ma50 > ma200
 	12th May 25 2025: ma10 < ma20 > ma50 > ma200
 	9th May 25 2025: ma10 < ma20 > ma50 < ma200
-Index 4507(9th May 25 2025): Start of Long-term Bullish market
+Index 4759(9th May 25 2025): Start of Long-term Bullish market
 	8th May 25 2025: ma10 < ma20 > ma50 > ma200
 	7th May 25 2025: ma10 > ma20 > ma50 > ma200
 	6th May 25 2025: ma10 > ma20 > ma50 > ma200
@@ -4741,9 +5005,9 @@ Index 4507(9th May 25 2025): Start of Long-term Bullish market
 	22nd Apr 25 2025: ma10 > ma20 > ma50 > ma200
 	21st Apr 25 2025: ma10 > ma20 > ma50 > ma200
 	17th Apr 25 2025: ma10 > ma20 > ma50 < ma200
-Index 4521(17th Apr 25 2025): Start of Long-term Bullish market
+Index 4773(17th Apr 25 2025): Start of Long-term Bullish market
 	16th Apr 25 2025: ma10 > ma20 < ma50 < ma200
-Index 4522(16th Apr 25 2025): Weak Bullish momentum
+Index 4774(16th Apr 25 2025): Weak Bullish momentum
 	15th Apr 25 2025: ma10 > ma20 < ma50 < ma200
 	11th Apr 25 2025: ma10 > ma20 < ma50 < ma200
 	9th Apr 25 2025: ma10 > ma20 < ma50 < ma200
@@ -4768,7 +5032,7 @@ Index 4522(16th Apr 25 2025): Weak Bullish momentum
 	12th Mar 26 2026: ma10 < ma20 < ma50 < ma200
 	11th Mar 26 2026: ma10 < ma20 < ma50 < ma200
 	10th Mar 26 2026: ma10 < ma20 > ma50 < ma200
-Index 4546(10th Mar 26 2026): Strong Bearish momentum
+Index 4798(10th Mar 26 2026): Strong Bearish momentum
 	9th Mar 26 2026: ma10 < ma20 > ma50 < ma200
 	6th Mar 26 2026: ma10 < ma20 > ma50 < ma200
 	5th Mar 26 2026: ma10 < ma20 > ma50 < ma200
@@ -4788,7 +5052,7 @@ Index 4546(10th Mar 26 2026): Strong Bearish momentum
 	12th Feb 26 2026: ma10 > ma20 > ma50 < ma200
 	11th Feb 26 2026: ma10 > ma20 > ma50 < ma200
 	10th Feb 26 2026: ma10 > ma20 < ma50 < ma200
-Index 4565(10th Feb 26 2026): Weak Bullish momentum
+Index 4817(10th Feb 26 2026): Weak Bullish momentum
 	9th Feb 26 2026: ma10 > ma20 < ma50 < ma200
 	6th Feb 26 2026: ma10 > ma20 < ma50 < ma200
 	5th Feb 26 2026: ma10 > ma20 < ma50 < ma200
@@ -4801,7 +5065,7 @@ Index 4565(10th Feb 26 2026): Weak Bullish momentum
 	28th Jan 26 2026: ma10 < ma20 < ma50 < ma200
 	27th Jan 26 2026: ma10 < ma20 < ma50 < ma200
 	23rd Jan 26 2026: ma10 < ma20 > ma50 < ma200
-Index 4577(23rd Jan 26 2026): Strong Bearish momentum
+Index 4829(23rd Jan 26 2026): Strong Bearish momentum
 	22nd Jan 26 2026: ma10 < ma20 > ma50 < ma200
 	21st Jan 26 2026: ma10 < ma20 > ma50 < ma200
 	20th Jan 26 2026: ma10 < ma20 > ma50 < ma200
@@ -4815,7 +5079,7 @@ Index 4577(23rd Jan 26 2026): Strong Bearish momentum
 	7th Jan 26 2026: ma10 > ma20 > ma50 < ma200
 	6th Jan 26 2026: ma10 > ma20 > ma50 < ma200
 	5th Jan 26 2026: ma10 > ma20 < ma50 < ma200
-Index 4590(5th Jan 26 2026): Weak Bullish momentum
+Index 4842(5th Jan 26 2026): Weak Bullish momentum
 	2nd Jan 26 2026: ma10 > ma20 < ma50 < ma200
 	1st Jan 26 2026: ma10 > ma20 < ma50 < ma200
 	31st Dec 25 2025: ma10 > ma20 < ma50 < ma200
@@ -4858,10 +5122,10 @@ Index 4590(5th Jan 26 2026): Weak Bullish momentum
 	7th Nov 25 2025: ma10 > ma20 < ma50 < ma200
 	6th Nov 25 2025: ma10 > ma20 < ma50 < ma200
 	4th Nov 25 2025: ma10 > ma20 > ma50 < ma200
-Index 4632(4th Nov 25 2025): Strong Bearish momentum
+Index 4884(4th Nov 25 2025): Strong Bearish momentum
 	3rd Nov 25 2025: ma10 > ma20 > ma50 < ma200
 	31st Oct 25 2025: ma10 > ma20 < ma50 < ma200
-Index 4634(31st Oct 25 2025): Weak Bullish momentum
+Index 4886(31st Oct 25 2025): Weak Bullish momentum
 	30th Oct 25 2025: ma10 > ma20 < ma50 < ma200
 	29th Oct 25 2025: ma10 > ma20 < ma50 < ma200
 	28th Oct 25 2025: ma10 > ma20 < ma50 < ma200
@@ -4872,7 +5136,7 @@ Index 4634(31st Oct 25 2025): Weak Bullish momentum
 	20th Oct 25 2025: ma10 > ma20 < ma50 < ma200
 	17th Oct 25 2025: ma10 > ma20 < ma50 < ma200
 	16th Oct 25 2025: ma10 < ma20 > ma50 < ma200
-Index 4644(16th Oct 25 2025): Strong Bearish momentum
+Index 4896(16th Oct 25 2025): Strong Bearish momentum
 	15th Oct 25 2025: ma10 < ma20 > ma50 < ma200
 	14th Oct 25 2025: ma10 < ma20 > ma50 < ma200
 	13th Oct 25 2025: ma10 < ma20 > ma50 < ma200
@@ -4897,7 +5161,7 @@ Index 4644(16th Oct 25 2025): Strong Bearish momentum
 	15th Sep 25 2025: ma10 > ma20 > ma50 < ma200
 	12th Sep 25 2025: ma10 > ma20 > ma50 < ma200
 	11th Sep 25 2025: ma10 > ma20 < ma50 < ma200
-Index 4668(11th Sep 25 2025): Weak Bullish momentum
+Index 4920(11th Sep 25 2025): Weak Bullish momentum
 	10th Sep 25 2025: ma10 > ma20 < ma50 < ma200
 	9th Sep 25 2025: ma10 > ma20 < ma50 < ma200
 	8th Sep 25 2025: ma10 > ma20 < ma50 < ma200
@@ -4909,7 +5173,7 @@ Index 4668(11th Sep 25 2025): Weak Bullish momentum
 	29th Aug 25 2025: ma10 > ma20 < ma50 < ma200
 	28th Aug 25 2025: ma10 > ma20 < ma50 < ma200
 	26th Aug 25 2025: ma10 > ma20 < ma50 > ma200
-Index 4679(26th Aug 25 2025):Start of Long-term Bearish market
+Index 4931(26th Aug 25 2025):Start of Long-term Bearish market
 	25th Aug 25 2025: ma10 > ma20 < ma50 > ma200
 	22nd Aug 25 2025: ma10 > ma20 < ma50 > ma200
 	21st Aug 25 2025: ma10 > ma20 < ma50 > ma200
@@ -4956,7 +5220,7 @@ Index 4679(26th Aug 25 2025):Start of Long-term Bearish market
 	24th Jun 25 2025: ma10 < ma20 < ma50 > ma200
 	23rd Jun 25 2025: ma10 < ma20 < ma50 > ma200
 	20th Jun 25 2025: ma10 < ma20 > ma50 > ma200
-Index 4725(20th Jun 25 2025): Short-term Bearish momentum
+Index 4977(20th Jun 25 2025): Short-term Bearish momentum
 	19th Jun 25 2025: ma10 < ma20 > ma50 > ma200
 	18th Jun 25 2025: ma10 < ma20 > ma50 > ma200
 	17th Jun 25 2025: ma10 < ma20 > ma50 > ma200
@@ -5004,11 +5268,11 @@ Index 4725(20th Jun 25 2025): Short-term Bearish momentum
 	16th Apr 25 2025: ma10 > ma20 > ma50 > ma200
 	15th Apr 25 2025: ma10 > ma20 > ma50 > ma200
 	11th Apr 25 2025: ma10 > ma20 > ma50 < ma200
-Index 4772(11th Apr 25 2025): Start of Long-term Bullish market
+Index 5024(11th Apr 25 2025): Start of Long-term Bullish market
 	9th Apr 25 2025: ma10 > ma20 > ma50 < ma200
 	8th Apr 25 2025: ma10 > ma20 > ma50 < ma200
 	7th Apr 25 2025: ma10 > ma20 < ma50 < ma200
-Index 4775(7th Apr 25 2025): Weak Bullish momentum
+Index 5027(7th Apr 25 2025): Weak Bullish momentum
 	4th Apr 25 2025: ma10 > ma20 < ma50 < ma200
 	3rd Apr 25 2025: ma10 > ma20 < ma50 < ma200
 	2nd Apr 25 2025: ma10 > ma20 < ma50 < ma200
@@ -5031,7 +5295,7 @@ Index 4775(7th Apr 25 2025): Weak Bullish momentum
 	12th Mar 26 2026: ma10 < ma20 < ma50 < ma200
 	11th Mar 26 2026: ma10 < ma20 < ma50 < ma200
 	10th Mar 26 2026: ma10 < ma20 > ma50 < ma200
-Index 4797(10th Mar 26 2026): Strong Bearish momentum
+Index 5049(10th Mar 26 2026): Strong Bearish momentum
 	9th Mar 26 2026: ma10 < ma20 > ma50 < ma200
 	6th Mar 26 2026: ma10 < ma20 > ma50 < ma200
 	5th Mar 26 2026: ma10 < ma20 > ma50 < ma200
@@ -5051,7 +5315,7 @@ Index 4797(10th Mar 26 2026): Strong Bearish momentum
 	12th Feb 26 2026: ma10 > ma20 > ma50 < ma200
 	11th Feb 26 2026: ma10 > ma20 > ma50 < ma200
 	10th Feb 26 2026: ma10 > ma20 < ma50 < ma200
-Index 4816(10th Feb 26 2026): Weak Bullish momentum
+Index 5068(10th Feb 26 2026): Weak Bullish momentum
 	9th Feb 26 2026: ma10 > ma20 < ma50 < ma200
 	6th Feb 26 2026: ma10 > ma20 < ma50 < ma200
 	5th Feb 26 2026: ma10 > ma20 < ma50 < ma200
@@ -5064,7 +5328,7 @@ Index 4816(10th Feb 26 2026): Weak Bullish momentum
 	28th Jan 26 2026: ma10 < ma20 < ma50 < ma200
 	27th Jan 26 2026: ma10 < ma20 < ma50 < ma200
 	23rd Jan 26 2026: ma10 < ma20 > ma50 < ma200
-Index 4828(23rd Jan 26 2026): Strong Bearish momentum
+Index 5080(23rd Jan 26 2026): Strong Bearish momentum
 	22nd Jan 26 2026: ma10 < ma20 > ma50 < ma200
 	21st Jan 26 2026: ma10 < ma20 > ma50 < ma200
 	20th Jan 26 2026: ma10 < ma20 > ma50 < ma200
@@ -5078,7 +5342,7 @@ Index 4828(23rd Jan 26 2026): Strong Bearish momentum
 	7th Jan 26 2026: ma10 > ma20 > ma50 < ma200
 	6th Jan 26 2026: ma10 > ma20 > ma50 < ma200
 	5th Jan 26 2026: ma10 > ma20 < ma50 < ma200
-Index 4841(5th Jan 26 2026): Weak Bullish momentum
+Index 5093(5th Jan 26 2026): Weak Bullish momentum
 	2nd Jan 26 2026: ma10 > ma20 < ma50 < ma200
 	1st Jan 26 2026: ma10 > ma20 < ma50 < ma200
 	31st Dec 25 2025: ma10 > ma20 < ma50 < ma200
@@ -5121,10 +5385,10 @@ Index 4841(5th Jan 26 2026): Weak Bullish momentum
 	7th Nov 25 2025: ma10 > ma20 < ma50 < ma200
 	6th Nov 25 2025: ma10 > ma20 < ma50 < ma200
 	4th Nov 25 2025: ma10 > ma20 > ma50 < ma200
-Index 4883(4th Nov 25 2025): Strong Bearish momentum
+Index 5135(4th Nov 25 2025): Strong Bearish momentum
 	3rd Nov 25 2025: ma10 > ma20 > ma50 < ma200
 	31st Oct 25 2025: ma10 > ma20 < ma50 < ma200
-Index 4885(31st Oct 25 2025): Weak Bullish momentum
+Index 5137(31st Oct 25 2025): Weak Bullish momentum
 	30th Oct 25 2025: ma10 > ma20 < ma50 < ma200
 	29th Oct 25 2025: ma10 > ma20 < ma50 < ma200
 	28th Oct 25 2025: ma10 > ma20 < ma50 < ma200
@@ -5135,7 +5399,7 @@ Index 4885(31st Oct 25 2025): Weak Bullish momentum
 	20th Oct 25 2025: ma10 > ma20 < ma50 < ma200
 	17th Oct 25 2025: ma10 > ma20 < ma50 < ma200
 	16th Oct 25 2025: ma10 < ma20 > ma50 < ma200
-Index 4895(16th Oct 25 2025): Strong Bearish momentum
+Index 5147(16th Oct 25 2025): Strong Bearish momentum
 	15th Oct 25 2025: ma10 < ma20 > ma50 < ma200
 	14th Oct 25 2025: ma10 < ma20 > ma50 < ma200
 	13th Oct 25 2025: ma10 < ma20 > ma50 < ma200
@@ -5160,7 +5424,7 @@ Index 4895(16th Oct 25 2025): Strong Bearish momentum
 	15th Sep 25 2025: ma10 > ma20 > ma50 < ma200
 	12th Sep 25 2025: ma10 > ma20 > ma50 < ma200
 	11th Sep 25 2025: ma10 > ma20 < ma50 < ma200
-Index 4919(11th Sep 25 2025): Weak Bullish momentum
+Index 5171(11th Sep 25 2025): Weak Bullish momentum
 	10th Sep 25 2025: ma10 > ma20 < ma50 < ma200
 	9th Sep 25 2025: ma10 > ma20 < ma50 < ma200
 	8th Sep 25 2025: ma10 > ma20 < ma50 < ma200
@@ -5173,7 +5437,7 @@ Index 4919(11th Sep 25 2025): Weak Bullish momentum
 	28th Aug 25 2025: ma10 > ma20 < ma50 < ma200
 	26th Aug 25 2025: ma10 > ma20 < ma50 < ma200
 	25th Aug 25 2025: ma10 > ma20 < ma50 > ma200
-Index 4931(25th Aug 25 2025):Start of Long-term Bearish market
+Index 5183(25th Aug 25 2025):Start of Long-term Bearish market
 	22nd Aug 25 2025: ma10 > ma20 < ma50 > ma200
 	21st Aug 25 2025: ma10 > ma20 < ma50 > ma200
 	20th Aug 25 2025: ma10 < ma20 < ma50 > ma200
@@ -5219,7 +5483,7 @@ Index 4931(25th Aug 25 2025):Start of Long-term Bearish market
 	24th Jun 25 2025: ma10 < ma20 < ma50 > ma200
 	23rd Jun 25 2025: ma10 < ma20 < ma50 > ma200
 	20th Jun 25 2025: ma10 < ma20 > ma50 > ma200
-Index 4976(20th Jun 25 2025): Short-term Bearish momentum
+Index 5228(20th Jun 25 2025): Short-term Bearish momentum
 	19th Jun 25 2025: ma10 < ma20 > ma50 > ma200
 	18th Jun 25 2025: ma10 < ma20 > ma50 > ma200
 	17th Jun 25 2025: ma10 < ma20 > ma50 > ma200
@@ -5267,11 +5531,11 @@ Index 4976(20th Jun 25 2025): Short-term Bearish momentum
 	16th Apr 25 2025: ma10 < ma20 > ma50 > ma200
 	15th Apr 25 2025: ma10 < ma20 > ma50 > ma200
 	11th Apr 25 2025: ma10 < ma20 > ma50 < ma200
-Index 5023(11th Apr 25 2025): Start of Long-term Bullish market
+Index 5275(11th Apr 25 2025): Start of Long-term Bullish market
 	9th Apr 25 2025: ma10 > ma20 > ma50 < ma200
 	8th Apr 25 2025: ma10 > ma20 > ma50 < ma200
 	7th Apr 25 2025: ma10 > ma20 < ma50 < ma200
-Index 5026(7th Apr 25 2025): Weak Bullish momentum
+Index 5278(7th Apr 25 2025): Weak Bullish momentum
 	4th Apr 25 2025: ma10 > ma20 < ma50 < ma200
 	3rd Apr 25 2025: ma10 > ma20 < ma50 < ma200
 	2nd Apr 25 2025: ma10 > ma20 < ma50 < ma200
@@ -5294,7 +5558,7 @@ Index 5026(7th Apr 25 2025): Weak Bullish momentum
 	12th Mar 26 2026: ma10 < ma20 < ma50 < ma200
 	11th Mar 26 2026: ma10 < ma20 < ma50 < ma200
 	10th Mar 26 2026: ma10 < ma20 > ma50 < ma200
-Index 5048(10th Mar 26 2026): Strong Bearish momentum
+Index 5300(10th Mar 26 2026): Strong Bearish momentum
 	9th Mar 26 2026: ma10 < ma20 > ma50 < ma200
 	6th Mar 26 2026: ma10 < ma20 > ma50 < ma200
 	5th Mar 26 2026: ma10 < ma20 > ma50 < ma200
@@ -5314,7 +5578,7 @@ Index 5048(10th Mar 26 2026): Strong Bearish momentum
 	12th Feb 26 2026: ma10 > ma20 > ma50 < ma200
 	11th Feb 26 2026: ma10 > ma20 > ma50 < ma200
 	10th Feb 26 2026: ma10 > ma20 < ma50 < ma200
-Index 5067(10th Feb 26 2026): Weak Bullish momentum
+Index 5319(10th Feb 26 2026): Weak Bullish momentum
 	9th Feb 26 2026: ma10 > ma20 < ma50 < ma200
 	6th Feb 26 2026: ma10 > ma20 < ma50 < ma200
 	5th Feb 26 2026: ma10 > ma20 < ma50 < ma200
@@ -5327,7 +5591,7 @@ Index 5067(10th Feb 26 2026): Weak Bullish momentum
 	28th Jan 26 2026: ma10 < ma20 < ma50 < ma200
 	27th Jan 26 2026: ma10 < ma20 < ma50 < ma200
 	23rd Jan 26 2026: ma10 < ma20 > ma50 < ma200
-Index 5079(23rd Jan 26 2026): Strong Bearish momentum
+Index 5331(23rd Jan 26 2026): Strong Bearish momentum
 	22nd Jan 26 2026: ma10 < ma20 > ma50 < ma200
 	21st Jan 26 2026: ma10 < ma20 > ma50 < ma200
 	20th Jan 26 2026: ma10 < ma20 > ma50 < ma200
@@ -5341,7 +5605,7 @@ Index 5079(23rd Jan 26 2026): Strong Bearish momentum
 	7th Jan 26 2026: ma10 > ma20 > ma50 < ma200
 	6th Jan 26 2026: ma10 > ma20 > ma50 < ma200
 	5th Jan 26 2026: ma10 > ma20 < ma50 < ma200
-Index 5092(5th Jan 26 2026): Weak Bullish momentum
+Index 5344(5th Jan 26 2026): Weak Bullish momentum
 	2nd Jan 26 2026: ma10 > ma20 < ma50 < ma200
 	1st Jan 26 2026: ma10 > ma20 < ma50 < ma200
 	31st Dec 25 2025: ma10 > ma20 < ma50 < ma200
@@ -5384,10 +5648,10 @@ Index 5092(5th Jan 26 2026): Weak Bullish momentum
 	7th Nov 25 2025: ma10 > ma20 < ma50 < ma200
 	6th Nov 25 2025: ma10 > ma20 < ma50 < ma200
 	4th Nov 25 2025: ma10 > ma20 > ma50 < ma200
-Index 5134(4th Nov 25 2025): Strong Bearish momentum
+Index 5386(4th Nov 25 2025): Strong Bearish momentum
 	3rd Nov 25 2025: ma10 > ma20 > ma50 < ma200
 	31st Oct 25 2025: ma10 > ma20 < ma50 < ma200
-Index 5136(31st Oct 25 2025): Weak Bullish momentum
+Index 5388(31st Oct 25 2025): Weak Bullish momentum
 	30th Oct 25 2025: ma10 > ma20 < ma50 < ma200
 	29th Oct 25 2025: ma10 > ma20 < ma50 < ma200
 	28th Oct 25 2025: ma10 > ma20 < ma50 < ma200
@@ -5398,7 +5662,7 @@ Index 5136(31st Oct 25 2025): Weak Bullish momentum
 	20th Oct 25 2025: ma10 > ma20 < ma50 < ma200
 	17th Oct 25 2025: ma10 > ma20 < ma50 < ma200
 	16th Oct 25 2025: ma10 < ma20 > ma50 < ma200
-Index 5146(16th Oct 25 2025): Strong Bearish momentum
+Index 5398(16th Oct 25 2025): Strong Bearish momentum
 	15th Oct 25 2025: ma10 < ma20 > ma50 < ma200
 	14th Oct 25 2025: ma10 < ma20 > ma50 < ma200
 	13th Oct 25 2025: ma10 < ma20 > ma50 < ma200
@@ -5423,7 +5687,7 @@ Index 5146(16th Oct 25 2025): Strong Bearish momentum
 	15th Sep 25 2025: ma10 > ma20 > ma50 < ma200
 	12th Sep 25 2025: ma10 > ma20 > ma50 < ma200
 	11th Sep 25 2025: ma10 > ma20 < ma50 < ma200
-Index 5170(11th Sep 25 2025): Weak Bullish momentum
+Index 5422(11th Sep 25 2025): Weak Bullish momentum
 	10th Sep 25 2025: ma10 > ma20 < ma50 < ma200
 	9th Sep 25 2025: ma10 > ma20 < ma50 < ma200
 	8th Sep 25 2025: ma10 > ma20 < ma50 < ma200
@@ -5436,7 +5700,7 @@ Index 5170(11th Sep 25 2025): Weak Bullish momentum
 	28th Aug 25 2025: ma10 > ma20 < ma50 < ma200
 	26th Aug 25 2025: ma10 > ma20 < ma50 < ma200
 	25th Aug 25 2025: ma10 > ma20 < ma50 > ma200
-Index 5182(25th Aug 25 2025):Start of Long-term Bearish market
+Index 5434(25th Aug 25 2025):Start of Long-term Bearish market
 	22nd Aug 25 2025: ma10 > ma20 < ma50 > ma200
 	21st Aug 25 2025: ma10 > ma20 < ma50 > ma200
 	20th Aug 25 2025: ma10 < ma20 < ma50 > ma200
@@ -5482,7 +5746,7 @@ Index 5182(25th Aug 25 2025):Start of Long-term Bearish market
 	24th Jun 25 2025: ma10 < ma20 < ma50 > ma200
 	23rd Jun 25 2025: ma10 < ma20 < ma50 > ma200
 	20th Jun 25 2025: ma10 < ma20 > ma50 > ma200
-Index 5227(20th Jun 25 2025): Short-term Bearish momentum
+Index 5479(20th Jun 25 2025): Short-term Bearish momentum
 	19th Jun 25 2025: ma10 < ma20 > ma50 > ma200
 	18th Jun 25 2025: ma10 < ma20 > ma50 > ma200
 	17th Jun 25 2025: ma10 < ma20 > ma50 > ma200
@@ -5531,14 +5795,14 @@ Index 5227(20th Jun 25 2025): Short-term Bearish momentum
 	15th Apr 25 2025: ma10 < ma20 > ma50 > ma200
 	11th Apr 25 2025: ma10 < ma20 > ma50 > ma200
 	9th Apr 25 2025: ma10 > ma20 > ma50 < ma200
-Index 5275(9th Apr 25 2025): Start of Long-term Bullish market
+Index 5527(9th Apr 25 2025): Start of Long-term Bullish market
 	8th Apr 25 2025: ma10 > ma20 > ma50 < ma200
 	7th Apr 25 2025: ma10 > ma20 < ma50 < ma200
-Index 5277(7th Apr 25 2025): Weak Bullish momentum
+Index 5529(7th Apr 25 2025): Weak Bullish momentum
 	4th Apr 25 2025: ma10 > ma20 > ma50 < ma200
-Index 5278(4th Apr 25 2025): Strong Bearish momentum
+Index 5530(4th Apr 25 2025): Strong Bearish momentum
 	3rd Apr 25 2025: ma10 > ma20 < ma50 < ma200
-Index 5279(3rd Apr 25 2025): Weak Bullish momentum
+Index 5531(3rd Apr 25 2025): Weak Bullish momentum
 	2nd Apr 25 2025: ma10 > ma20 < ma50 < ma200
 	1st Apr 25 2025: ma10 > ma20 < ma50 < ma200
 	28th Mar 25 2025: ma10 > ma20 < ma50 < ma200
@@ -5559,7 +5823,7 @@ Index 5279(3rd Apr 25 2025): Weak Bullish momentum
 	12th Mar 26 2026: ma10 < ma20 < ma50 < ma200
 	11th Mar 26 2026: ma10 < ma20 < ma50 < ma200
 	10th Mar 26 2026: ma10 < ma20 > ma50 < ma200
-Index 5299(10th Mar 26 2026): Strong Bearish momentum
+Index 5551(10th Mar 26 2026): Strong Bearish momentum
 	9th Mar 26 2026: ma10 < ma20 > ma50 < ma200
 	6th Mar 26 2026: ma10 < ma20 > ma50 < ma200
 	5th Mar 26 2026: ma10 < ma20 > ma50 < ma200
@@ -5579,7 +5843,7 @@ Index 5299(10th Mar 26 2026): Strong Bearish momentum
 	12th Feb 26 2026: ma10 > ma20 > ma50 < ma200
 	11th Feb 26 2026: ma10 > ma20 > ma50 < ma200
 	10th Feb 26 2026: ma10 > ma20 < ma50 < ma200
-Index 5318(10th Feb 26 2026): Weak Bullish momentum
+Index 5570(10th Feb 26 2026): Weak Bullish momentum
 	9th Feb 26 2026: ma10 > ma20 < ma50 < ma200
 	6th Feb 26 2026: ma10 > ma20 < ma50 < ma200
 	5th Feb 26 2026: ma10 > ma20 < ma50 < ma200
@@ -5592,7 +5856,7 @@ Index 5318(10th Feb 26 2026): Weak Bullish momentum
 	28th Jan 26 2026: ma10 < ma20 < ma50 < ma200
 	27th Jan 26 2026: ma10 < ma20 < ma50 < ma200
 	23rd Jan 26 2026: ma10 < ma20 > ma50 < ma200
-Index 5330(23rd Jan 26 2026): Strong Bearish momentum
+Index 5582(23rd Jan 26 2026): Strong Bearish momentum
 	22nd Jan 26 2026: ma10 < ma20 > ma50 < ma200
 	21st Jan 26 2026: ma10 < ma20 > ma50 < ma200
 	20th Jan 26 2026: ma10 < ma20 > ma50 < ma200
@@ -5606,7 +5870,7 @@ Index 5330(23rd Jan 26 2026): Strong Bearish momentum
 	7th Jan 26 2026: ma10 > ma20 > ma50 < ma200
 	6th Jan 26 2026: ma10 > ma20 > ma50 < ma200
 	5th Jan 26 2026: ma10 > ma20 < ma50 < ma200
-Index 5343(5th Jan 26 2026): Weak Bullish momentum
+Index 5595(5th Jan 26 2026): Weak Bullish momentum
 	2nd Jan 26 2026: ma10 > ma20 < ma50 < ma200
 	1st Jan 26 2026: ma10 > ma20 < ma50 < ma200
 	31st Dec 25 2025: ma10 > ma20 < ma50 < ma200
@@ -5649,10 +5913,10 @@ Index 5343(5th Jan 26 2026): Weak Bullish momentum
 	7th Nov 25 2025: ma10 > ma20 < ma50 < ma200
 	6th Nov 25 2025: ma10 > ma20 < ma50 < ma200
 	4th Nov 25 2025: ma10 > ma20 > ma50 < ma200
-Index 5385(4th Nov 25 2025): Strong Bearish momentum
+Index 5637(4th Nov 25 2025): Strong Bearish momentum
 	3rd Nov 25 2025: ma10 > ma20 > ma50 < ma200
 	31st Oct 25 2025: ma10 > ma20 < ma50 < ma200
-Index 5387(31st Oct 25 2025): Weak Bullish momentum
+Index 5639(31st Oct 25 2025): Weak Bullish momentum
 	30th Oct 25 2025: ma10 > ma20 < ma50 < ma200
 	29th Oct 25 2025: ma10 > ma20 < ma50 < ma200
 	28th Oct 25 2025: ma10 > ma20 < ma50 < ma200
@@ -5663,7 +5927,7 @@ Index 5387(31st Oct 25 2025): Weak Bullish momentum
 	20th Oct 25 2025: ma10 > ma20 < ma50 < ma200
 	17th Oct 25 2025: ma10 > ma20 < ma50 < ma200
 	16th Oct 25 2025: ma10 < ma20 > ma50 < ma200
-Index 5397(16th Oct 25 2025): Strong Bearish momentum
+Index 5649(16th Oct 25 2025): Strong Bearish momentum
 	15th Oct 25 2025: ma10 < ma20 > ma50 < ma200
 	14th Oct 25 2025: ma10 < ma20 > ma50 < ma200
 	13th Oct 25 2025: ma10 < ma20 > ma50 < ma200
@@ -5688,7 +5952,7 @@ Index 5397(16th Oct 25 2025): Strong Bearish momentum
 	15th Sep 25 2025: ma10 > ma20 > ma50 < ma200
 	12th Sep 25 2025: ma10 > ma20 > ma50 < ma200
 	11th Sep 25 2025: ma10 > ma20 < ma50 < ma200
-Index 5421(11th Sep 25 2025): Weak Bullish momentum
+Index 5673(11th Sep 25 2025): Weak Bullish momentum
 	10th Sep 25 2025: ma10 > ma20 < ma50 < ma200
 	9th Sep 25 2025: ma10 > ma20 < ma50 < ma200
 	8th Sep 25 2025: ma10 > ma20 < ma50 < ma200
@@ -5701,7 +5965,7 @@ Index 5421(11th Sep 25 2025): Weak Bullish momentum
 	28th Aug 25 2025: ma10 > ma20 < ma50 < ma200
 	26th Aug 25 2025: ma10 > ma20 < ma50 < ma200
 	25th Aug 25 2025: ma10 > ma20 < ma50 > ma200
-Index 5433(25th Aug 25 2025):Start of Long-term Bearish market
+Index 5685(25th Aug 25 2025):Start of Long-term Bearish market
 	22nd Aug 25 2025: ma10 > ma20 < ma50 > ma200
 	21st Aug 25 2025: ma10 > ma20 < ma50 > ma200
 	20th Aug 25 2025: ma10 < ma20 < ma50 > ma200
@@ -5747,7 +6011,7 @@ Index 5433(25th Aug 25 2025):Start of Long-term Bearish market
 	24th Jun 25 2025: ma10 < ma20 < ma50 > ma200
 	23rd Jun 25 2025: ma10 < ma20 < ma50 > ma200
 	20th Jun 25 2025: ma10 < ma20 > ma50 > ma200
-Index 5478(20th Jun 25 2025): Short-term Bearish momentum
+Index 5730(20th Jun 25 2025): Short-term Bearish momentum
 	19th Jun 25 2025: ma10 < ma20 > ma50 > ma200
 	18th Jun 25 2025: ma10 < ma20 > ma50 > ma200
 	17th Jun 25 2025: ma10 < ma20 > ma50 > ma200
@@ -5796,12 +6060,12 @@ Index 5478(20th Jun 25 2025): Short-term Bearish momentum
 	15th Apr 25 2025: ma10 < ma20 > ma50 > ma200
 	11th Apr 25 2025: ma10 < ma20 > ma50 > ma200
 	9th Apr 25 2025: ma10 > ma20 > ma50 < ma200
-Index 5526(9th Apr 25 2025): Start of Long-term Bullish market
+Index 5778(9th Apr 25 2025): Start of Long-term Bullish market
 	8th Apr 25 2025: ma10 > ma20 > ma50 < ma200
 	7th Apr 25 2025: ma10 > ma20 > ma50 < ma200
 	4th Apr 25 2025: ma10 > ma20 > ma50 < ma200
 	3rd Apr 25 2025: ma10 > ma20 < ma50 < ma200
-Index 5530(3rd Apr 25 2025): Weak Bullish momentum
+Index 5782(3rd Apr 25 2025): Weak Bullish momentum
 	2nd Apr 25 2025: ma10 > ma20 < ma50 < ma200
 	1st Apr 25 2025: ma10 > ma20 < ma50 < ma200
 	28th Mar 25 2025: ma10 > ma20 < ma50 < ma200
@@ -5822,7 +6086,7 @@ Index 5530(3rd Apr 25 2025): Weak Bullish momentum
 	12th Mar 26 2026: ma10 < ma20 < ma50 < ma200
 	11th Mar 26 2026: ma10 < ma20 < ma50 < ma200
 	10th Mar 26 2026: ma10 < ma20 > ma50 < ma200
-Index 5550(10th Mar 26 2026): Strong Bearish momentum
+Index 5802(10th Mar 26 2026): Strong Bearish momentum
 	9th Mar 26 2026: ma10 < ma20 > ma50 < ma200
 	6th Mar 26 2026: ma10 < ma20 > ma50 < ma200
 	5th Mar 26 2026: ma10 < ma20 > ma50 < ma200
@@ -5842,7 +6106,7 @@ Index 5550(10th Mar 26 2026): Strong Bearish momentum
 	12th Feb 26 2026: ma10 > ma20 > ma50 < ma200
 	11th Feb 26 2026: ma10 > ma20 > ma50 < ma200
 	10th Feb 26 2026: ma10 > ma20 < ma50 < ma200
-Index 5569(10th Feb 26 2026): Weak Bullish momentum
+Index 5821(10th Feb 26 2026): Weak Bullish momentum
 	9th Feb 26 2026: ma10 > ma20 < ma50 < ma200
 	6th Feb 26 2026: ma10 > ma20 < ma50 < ma200
 	5th Feb 26 2026: ma10 > ma20 < ma50 < ma200
@@ -5855,7 +6119,7 @@ Index 5569(10th Feb 26 2026): Weak Bullish momentum
 	28th Jan 26 2026: ma10 < ma20 < ma50 < ma200
 	27th Jan 26 2026: ma10 < ma20 < ma50 < ma200
 	23rd Jan 26 2026: ma10 < ma20 > ma50 < ma200
-Index 5581(23rd Jan 26 2026): Strong Bearish momentum
+Index 5833(23rd Jan 26 2026): Strong Bearish momentum
 	22nd Jan 26 2026: ma10 < ma20 > ma50 < ma200
 	21st Jan 26 2026: ma10 < ma20 > ma50 < ma200
 	20th Jan 26 2026: ma10 < ma20 > ma50 < ma200
@@ -5869,7 +6133,7 @@ Index 5581(23rd Jan 26 2026): Strong Bearish momentum
 	7th Jan 26 2026: ma10 > ma20 > ma50 < ma200
 	6th Jan 26 2026: ma10 > ma20 > ma50 < ma200
 	5th Jan 26 2026: ma10 > ma20 < ma50 < ma200
-Index 5594(5th Jan 26 2026): Weak Bullish momentum
+Index 5846(5th Jan 26 2026): Weak Bullish momentum
 	2nd Jan 26 2026: ma10 > ma20 < ma50 < ma200
 	1st Jan 26 2026: ma10 > ma20 < ma50 < ma200
 	31st Dec 25 2025: ma10 > ma20 < ma50 < ma200
@@ -5912,10 +6176,10 @@ Index 5594(5th Jan 26 2026): Weak Bullish momentum
 	7th Nov 25 2025: ma10 > ma20 < ma50 < ma200
 	6th Nov 25 2025: ma10 > ma20 < ma50 < ma200
 	4th Nov 25 2025: ma10 > ma20 > ma50 < ma200
-Index 5636(4th Nov 25 2025): Strong Bearish momentum
+Index 5888(4th Nov 25 2025): Strong Bearish momentum
 	3rd Nov 25 2025: ma10 > ma20 > ma50 < ma200
 	31st Oct 25 2025: ma10 > ma20 < ma50 < ma200
-Index 5638(31st Oct 25 2025): Weak Bullish momentum
+Index 5890(31st Oct 25 2025): Weak Bullish momentum
 	30th Oct 25 2025: ma10 > ma20 < ma50 < ma200
 	29th Oct 25 2025: ma10 > ma20 < ma50 < ma200
 	28th Oct 25 2025: ma10 > ma20 < ma50 < ma200
@@ -5926,7 +6190,7 @@ Index 5638(31st Oct 25 2025): Weak Bullish momentum
 	20th Oct 25 2025: ma10 > ma20 < ma50 < ma200
 	17th Oct 25 2025: ma10 > ma20 < ma50 < ma200
 	16th Oct 25 2025: ma10 < ma20 > ma50 < ma200
-Index 5648(16th Oct 25 2025): Strong Bearish momentum
+Index 5900(16th Oct 25 2025): Strong Bearish momentum
 	15th Oct 25 2025: ma10 < ma20 > ma50 < ma200
 	14th Oct 25 2025: ma10 < ma20 > ma50 < ma200
 	13th Oct 25 2025: ma10 < ma20 > ma50 < ma200
@@ -5951,7 +6215,7 @@ Index 5648(16th Oct 25 2025): Strong Bearish momentum
 	15th Sep 25 2025: ma10 > ma20 > ma50 < ma200
 	12th Sep 25 2025: ma10 > ma20 > ma50 < ma200
 	11th Sep 25 2025: ma10 > ma20 < ma50 < ma200
-Index 5672(11th Sep 25 2025): Weak Bullish momentum
+Index 5924(11th Sep 25 2025): Weak Bullish momentum
 	10th Sep 25 2025: ma10 > ma20 < ma50 < ma200
 	9th Sep 25 2025: ma10 > ma20 < ma50 < ma200
 	8th Sep 25 2025: ma10 > ma20 < ma50 < ma200
@@ -5964,7 +6228,7 @@ Index 5672(11th Sep 25 2025): Weak Bullish momentum
 	28th Aug 25 2025: ma10 > ma20 < ma50 < ma200
 	26th Aug 25 2025: ma10 > ma20 < ma50 < ma200
 	25th Aug 25 2025: ma10 > ma20 < ma50 > ma200
-Index 5684(25th Aug 25 2025):Start of Long-term Bearish market
+Index 5936(25th Aug 25 2025):Start of Long-term Bearish market
 	22nd Aug 25 2025: ma10 > ma20 < ma50 > ma200
 	21st Aug 25 2025: ma10 > ma20 < ma50 > ma200
 	20th Aug 25 2025: ma10 < ma20 < ma50 > ma200
@@ -6010,7 +6274,7 @@ Index 5684(25th Aug 25 2025):Start of Long-term Bearish market
 	24th Jun 25 2025: ma10 < ma20 < ma50 > ma200
 	23rd Jun 25 2025: ma10 < ma20 < ma50 > ma200
 	20th Jun 25 2025: ma10 < ma20 > ma50 > ma200
-Index 5729(20th Jun 25 2025): Short-term Bearish momentum
+Index 5981(20th Jun 25 2025): Short-term Bearish momentum
 	19th Jun 25 2025: ma10 < ma20 > ma50 > ma200
 	18th Jun 25 2025: ma10 < ma20 > ma50 > ma200
 	17th Jun 25 2025: ma10 < ma20 > ma50 > ma200
@@ -6059,14 +6323,14 @@ Index 5729(20th Jun 25 2025): Short-term Bearish momentum
 	15th Apr 25 2025: ma10 < ma20 > ma50 > ma200
 	11th Apr 25 2025: ma10 < ma20 > ma50 > ma200
 	9th Apr 25 2025: ma10 > ma20 > ma50 < ma200
-Index 5777(9th Apr 25 2025): Start of Long-term Bullish market
+Index 6029(9th Apr 25 2025): Start of Long-term Bullish market
 	8th Apr 25 2025: ma10 > ma20 > ma50 < ma200
 	7th Apr 25 2025: ma10 > ma20 < ma50 < ma200
-Index 5779(7th Apr 25 2025): Weak Bullish momentum
+Index 6031(7th Apr 25 2025): Weak Bullish momentum
 	4th Apr 25 2025: ma10 > ma20 > ma50 < ma200
-Index 5780(4th Apr 25 2025): Strong Bearish momentum
+Index 6032(4th Apr 25 2025): Strong Bearish momentum
 	3rd Apr 25 2025: ma10 > ma20 < ma50 < ma200
-Index 5781(3rd Apr 25 2025): Weak Bullish momentum
+Index 6033(3rd Apr 25 2025): Weak Bullish momentum
 	2nd Apr 25 2025: ma10 > ma20 < ma50 < ma200
 	1st Apr 25 2025: ma10 > ma20 < ma50 < ma200
 	28th Mar 25 2025: ma10 > ma20 < ma50 < ma200
@@ -6087,7 +6351,7 @@ Index 5781(3rd Apr 25 2025): Weak Bullish momentum
 	12th Mar 26 2026: ma10 < ma20 < ma50 < ma200
 	11th Mar 26 2026: ma10 < ma20 < ma50 < ma200
 	10th Mar 26 2026: ma10 < ma20 > ma50 < ma200
-Index 5801(10th Mar 26 2026): Strong Bearish momentum
+Index 6053(10th Mar 26 2026): Strong Bearish momentum
 	9th Mar 26 2026: ma10 < ma20 > ma50 < ma200
 	6th Mar 26 2026: ma10 < ma20 > ma50 < ma200
 	5th Mar 26 2026: ma10 < ma20 > ma50 < ma200
@@ -6107,7 +6371,7 @@ Index 5801(10th Mar 26 2026): Strong Bearish momentum
 	12th Feb 26 2026: ma10 > ma20 > ma50 < ma200
 	11th Feb 26 2026: ma10 > ma20 > ma50 < ma200
 	10th Feb 26 2026: ma10 > ma20 < ma50 < ma200
-Index 5820(10th Feb 26 2026): Weak Bullish momentum
+Index 6072(10th Feb 26 2026): Weak Bullish momentum
 	9th Feb 26 2026: ma10 > ma20 < ma50 < ma200
 	6th Feb 26 2026: ma10 > ma20 < ma50 < ma200
 	5th Feb 26 2026: ma10 > ma20 < ma50 < ma200
@@ -6120,7 +6384,7 @@ Index 5820(10th Feb 26 2026): Weak Bullish momentum
 	28th Jan 26 2026: ma10 < ma20 < ma50 < ma200
 	27th Jan 26 2026: ma10 < ma20 < ma50 < ma200
 	23rd Jan 26 2026: ma10 < ma20 > ma50 < ma200
-Index 5832(23rd Jan 26 2026): Strong Bearish momentum
+Index 6084(23rd Jan 26 2026): Strong Bearish momentum
 	22nd Jan 26 2026: ma10 < ma20 > ma50 < ma200
 	21st Jan 26 2026: ma10 < ma20 > ma50 < ma200
 	20th Jan 26 2026: ma10 < ma20 > ma50 < ma200
@@ -6134,7 +6398,7 @@ Index 5832(23rd Jan 26 2026): Strong Bearish momentum
 	7th Jan 26 2026: ma10 > ma20 > ma50 < ma200
 	6th Jan 26 2026: ma10 > ma20 > ma50 < ma200
 	5th Jan 26 2026: ma10 > ma20 < ma50 < ma200
-Index 5845(5th Jan 26 2026): Weak Bullish momentum
+Index 6097(5th Jan 26 2026): Weak Bullish momentum
 	2nd Jan 26 2026: ma10 > ma20 < ma50 < ma200
 	1st Jan 26 2026: ma10 > ma20 < ma50 < ma200
 	31st Dec 25 2025: ma10 > ma20 < ma50 < ma200
@@ -6177,10 +6441,10 @@ Index 5845(5th Jan 26 2026): Weak Bullish momentum
 	7th Nov 25 2025: ma10 > ma20 < ma50 < ma200
 	6th Nov 25 2025: ma10 > ma20 < ma50 < ma200
 	4th Nov 25 2025: ma10 > ma20 > ma50 < ma200
-Index 5887(4th Nov 25 2025): Strong Bearish momentum
+Index 6139(4th Nov 25 2025): Strong Bearish momentum
 	3rd Nov 25 2025: ma10 > ma20 > ma50 < ma200
 	31st Oct 25 2025: ma10 > ma20 < ma50 < ma200
-Index 5889(31st Oct 25 2025): Weak Bullish momentum
+Index 6141(31st Oct 25 2025): Weak Bullish momentum
 	30th Oct 25 2025: ma10 > ma20 < ma50 < ma200
 	29th Oct 25 2025: ma10 > ma20 < ma50 < ma200
 	28th Oct 25 2025: ma10 > ma20 < ma50 < ma200
@@ -6191,7 +6455,7 @@ Index 5889(31st Oct 25 2025): Weak Bullish momentum
 	20th Oct 25 2025: ma10 > ma20 < ma50 < ma200
 	17th Oct 25 2025: ma10 > ma20 < ma50 < ma200
 	16th Oct 25 2025: ma10 < ma20 > ma50 < ma200
-Index 5899(16th Oct 25 2025): Strong Bearish momentum
+Index 6151(16th Oct 25 2025): Strong Bearish momentum
 	15th Oct 25 2025: ma10 < ma20 > ma50 < ma200
 	14th Oct 25 2025: ma10 < ma20 > ma50 < ma200
 	13th Oct 25 2025: ma10 < ma20 > ma50 < ma200
@@ -6216,7 +6480,7 @@ Index 5899(16th Oct 25 2025): Strong Bearish momentum
 	15th Sep 25 2025: ma10 > ma20 > ma50 < ma200
 	12th Sep 25 2025: ma10 > ma20 > ma50 < ma200
 	11th Sep 25 2025: ma10 > ma20 < ma50 < ma200
-Index 5923(11th Sep 25 2025): Weak Bullish momentum
+Index 6175(11th Sep 25 2025): Weak Bullish momentum
 	10th Sep 25 2025: ma10 > ma20 < ma50 < ma200
 	9th Sep 25 2025: ma10 > ma20 < ma50 < ma200
 	8th Sep 25 2025: ma10 > ma20 < ma50 < ma200
@@ -6229,7 +6493,7 @@ Index 5923(11th Sep 25 2025): Weak Bullish momentum
 	28th Aug 25 2025: ma10 > ma20 < ma50 < ma200
 	26th Aug 25 2025: ma10 > ma20 < ma50 < ma200
 	25th Aug 25 2025: ma10 > ma20 < ma50 > ma200
-Index 5935(25th Aug 25 2025):Start of Long-term Bearish market
+Index 6187(25th Aug 25 2025):Start of Long-term Bearish market
 	22nd Aug 25 2025: ma10 > ma20 < ma50 > ma200
 	21st Aug 25 2025: ma10 > ma20 < ma50 > ma200
 	20th Aug 25 2025: ma10 < ma20 < ma50 > ma200
@@ -6275,7 +6539,7 @@ Index 5935(25th Aug 25 2025):Start of Long-term Bearish market
 	24th Jun 25 2025: ma10 < ma20 < ma50 > ma200
 	23rd Jun 25 2025: ma10 < ma20 < ma50 > ma200
 	20th Jun 25 2025: ma10 < ma20 > ma50 > ma200
-Index 5980(20th Jun 25 2025): Short-term Bearish momentum
+Index 6232(20th Jun 25 2025): Short-term Bearish momentum
 	19th Jun 25 2025: ma10 < ma20 > ma50 > ma200
 	18th Jun 25 2025: ma10 < ma20 > ma50 > ma200
 	17th Jun 25 2025: ma10 < ma20 > ma50 > ma200
@@ -6324,12 +6588,12 @@ Index 5980(20th Jun 25 2025): Short-term Bearish momentum
 	15th Apr 25 2025: ma10 < ma20 > ma50 > ma200
 	11th Apr 25 2025: ma10 < ma20 > ma50 > ma200
 	9th Apr 25 2025: ma10 > ma20 > ma50 < ma200
-Index 6028(9th Apr 25 2025): Start of Long-term Bullish market
+Index 6280(9th Apr 25 2025): Start of Long-term Bullish market
 	8th Apr 25 2025: ma10 > ma20 > ma50 < ma200
 	7th Apr 25 2025: ma10 > ma20 > ma50 < ma200
 	4th Apr 25 2025: ma10 > ma20 > ma50 < ma200
 	3rd Apr 25 2025: ma10 > ma20 < ma50 < ma200
-Index 6032(3rd Apr 25 2025): Weak Bullish momentum
+Index 6284(3rd Apr 25 2025): Weak Bullish momentum
 	2nd Apr 25 2025: ma10 > ma20 < ma50 < ma200
 	1st Apr 25 2025: ma10 > ma20 < ma50 < ma200
 	28th Mar 25 2025: ma10 > ma20 < ma50 < ma200
@@ -6350,7 +6614,7 @@ Index 6032(3rd Apr 25 2025): Weak Bullish momentum
 	12th Mar 26 2026: ma10 < ma20 < ma50 < ma200
 	11th Mar 26 2026: ma10 < ma20 < ma50 < ma200
 	10th Mar 26 2026: ma10 < ma20 > ma50 < ma200
-Index 6052(10th Mar 26 2026): Strong Bearish momentum
+Index 6304(10th Mar 26 2026): Strong Bearish momentum
 	9th Mar 26 2026: ma10 < ma20 > ma50 < ma200
 	6th Mar 26 2026: ma10 < ma20 > ma50 < ma200
 	5th Mar 26 2026: ma10 < ma20 > ma50 < ma200
@@ -6370,7 +6634,7 @@ Index 6052(10th Mar 26 2026): Strong Bearish momentum
 	12th Feb 26 2026: ma10 > ma20 > ma50 < ma200
 	11th Feb 26 2026: ma10 > ma20 > ma50 < ma200
 	10th Feb 26 2026: ma10 > ma20 < ma50 < ma200
-Index 6071(10th Feb 26 2026): Weak Bullish momentum
+Index 6323(10th Feb 26 2026): Weak Bullish momentum
 	9th Feb 26 2026: ma10 > ma20 < ma50 < ma200
 	6th Feb 26 2026: ma10 > ma20 < ma50 < ma200
 	5th Feb 26 2026: ma10 > ma20 < ma50 < ma200
@@ -6383,7 +6647,7 @@ Index 6071(10th Feb 26 2026): Weak Bullish momentum
 	28th Jan 26 2026: ma10 < ma20 < ma50 < ma200
 	27th Jan 26 2026: ma10 < ma20 < ma50 < ma200
 	23rd Jan 26 2026: ma10 < ma20 > ma50 < ma200
-Index 6083(23rd Jan 26 2026): Strong Bearish momentum
+Index 6335(23rd Jan 26 2026): Strong Bearish momentum
 	22nd Jan 26 2026: ma10 < ma20 > ma50 < ma200
 	21st Jan 26 2026: ma10 < ma20 > ma50 < ma200
 	20th Jan 26 2026: ma10 < ma20 > ma50 < ma200
@@ -6397,7 +6661,7 @@ Index 6083(23rd Jan 26 2026): Strong Bearish momentum
 	7th Jan 26 2026: ma10 > ma20 > ma50 < ma200
 	6th Jan 26 2026: ma10 > ma20 > ma50 < ma200
 	5th Jan 26 2026: ma10 > ma20 < ma50 < ma200
-Index 6096(5th Jan 26 2026): Weak Bullish momentum
+Index 6348(5th Jan 26 2026): Weak Bullish momentum
 	2nd Jan 26 2026: ma10 > ma20 < ma50 < ma200
 	1st Jan 26 2026: ma10 > ma20 < ma50 < ma200
 	31st Dec 25 2025: ma10 > ma20 < ma50 < ma200
@@ -6440,10 +6704,10 @@ Index 6096(5th Jan 26 2026): Weak Bullish momentum
 	7th Nov 25 2025: ma10 > ma20 < ma50 < ma200
 	6th Nov 25 2025: ma10 > ma20 < ma50 < ma200
 	4th Nov 25 2025: ma10 > ma20 > ma50 < ma200
-Index 6138(4th Nov 25 2025): Strong Bearish momentum
+Index 6390(4th Nov 25 2025): Strong Bearish momentum
 	3rd Nov 25 2025: ma10 > ma20 > ma50 < ma200
 	31st Oct 25 2025: ma10 > ma20 < ma50 < ma200
-Index 6140(31st Oct 25 2025): Weak Bullish momentum
+Index 6392(31st Oct 25 2025): Weak Bullish momentum
 	30th Oct 25 2025: ma10 > ma20 < ma50 < ma200
 	29th Oct 25 2025: ma10 > ma20 < ma50 < ma200
 	28th Oct 25 2025: ma10 > ma20 < ma50 < ma200
@@ -6454,7 +6718,7 @@ Index 6140(31st Oct 25 2025): Weak Bullish momentum
 	20th Oct 25 2025: ma10 > ma20 < ma50 < ma200
 	17th Oct 25 2025: ma10 > ma20 < ma50 < ma200
 	16th Oct 25 2025: ma10 < ma20 > ma50 < ma200
-Index 6150(16th Oct 25 2025): Strong Bearish momentum
+Index 6402(16th Oct 25 2025): Strong Bearish momentum
 	15th Oct 25 2025: ma10 < ma20 > ma50 < ma200
 	14th Oct 25 2025: ma10 < ma20 > ma50 < ma200
 	13th Oct 25 2025: ma10 < ma20 > ma50 < ma200
@@ -6479,7 +6743,7 @@ Index 6150(16th Oct 25 2025): Strong Bearish momentum
 	15th Sep 25 2025: ma10 > ma20 > ma50 < ma200
 	12th Sep 25 2025: ma10 > ma20 > ma50 < ma200
 	11th Sep 25 2025: ma10 > ma20 < ma50 < ma200
-Index 6174(11th Sep 25 2025): Weak Bullish momentum
+Index 6426(11th Sep 25 2025): Weak Bullish momentum
 	10th Sep 25 2025: ma10 > ma20 < ma50 < ma200
 	9th Sep 25 2025: ma10 > ma20 < ma50 < ma200
 	8th Sep 25 2025: ma10 > ma20 < ma50 < ma200
@@ -6492,7 +6756,7 @@ Index 6174(11th Sep 25 2025): Weak Bullish momentum
 	28th Aug 25 2025: ma10 > ma20 < ma50 < ma200
 	26th Aug 25 2025: ma10 > ma20 < ma50 < ma200
 	25th Aug 25 2025: ma10 > ma20 < ma50 > ma200
-Index 6186(25th Aug 25 2025):Start of Long-term Bearish market
+Index 6438(25th Aug 25 2025):Start of Long-term Bearish market
 	22nd Aug 25 2025: ma10 > ma20 < ma50 > ma200
 	21st Aug 25 2025: ma10 > ma20 < ma50 > ma200
 	20th Aug 25 2025: ma10 < ma20 < ma50 > ma200
@@ -6538,7 +6802,7 @@ Index 6186(25th Aug 25 2025):Start of Long-term Bearish market
 	24th Jun 25 2025: ma10 < ma20 < ma50 > ma200
 	23rd Jun 25 2025: ma10 < ma20 < ma50 > ma200
 	20th Jun 25 2025: ma10 < ma20 > ma50 > ma200
-Index 6231(20th Jun 25 2025): Short-term Bearish momentum
+Index 6483(20th Jun 25 2025): Short-term Bearish momentum
 	19th Jun 25 2025: ma10 < ma20 > ma50 > ma200
 	18th Jun 25 2025: ma10 < ma20 > ma50 > ma200
 	17th Jun 25 2025: ma10 < ma20 > ma50 > ma200
@@ -6587,13 +6851,13 @@ Index 6231(20th Jun 25 2025): Short-term Bearish momentum
 	15th Apr 25 2025: ma10 < ma20 > ma50 > ma200
 	11th Apr 25 2025: ma10 < ma20 > ma50 > ma200
 	9th Apr 25 2025: ma10 > ma20 > ma50 < ma200
-Index 6279(9th Apr 25 2025): Start of Long-term Bullish market
+Index 6531(9th Apr 25 2025): Start of Long-term Bullish market
 	8th Apr 25 2025: ma10 > ma20 > ma50 < ma200
 	7th Apr 25 2025: ma10 > ma20 > ma50 < ma200
 	4th Apr 25 2025: ma10 > ma20 > ma50 < ma200
 	3rd Apr 25 2025: ma10 > ma20 > ma50 < ma200
 	2nd Apr 25 2025: ma10 > ma20 < ma50 < ma200
-Index 6284(2nd Apr 25 2025): Weak Bullish momentum
+Index 6536(2nd Apr 25 2025): Weak Bullish momentum
 	1st Apr 25 2025: ma10 > ma20 < ma50 < ma200
 	28th Mar 25 2025: ma10 > ma20 < ma50 < ma200
 	27th Mar 25 2025: ma10 > ma20 < ma50 < ma200
@@ -6613,7 +6877,7 @@ Index 6284(2nd Apr 25 2025): Weak Bullish momentum
 	12th Mar 26 2026: ma10 < ma20 < ma50 < ma200
 	11th Mar 26 2026: ma10 < ma20 < ma50 < ma200
 	10th Mar 26 2026: ma10 < ma20 > ma50 < ma200
-Index 6303(10th Mar 26 2026): Strong Bearish momentum
+Index 6555(10th Mar 26 2026): Strong Bearish momentum
 	9th Mar 26 2026: ma10 < ma20 > ma50 < ma200
 	6th Mar 26 2026: ma10 < ma20 > ma50 < ma200
 	5th Mar 26 2026: ma10 < ma20 > ma50 < ma200
@@ -6633,7 +6897,7 @@ Index 6303(10th Mar 26 2026): Strong Bearish momentum
 	12th Feb 26 2026: ma10 > ma20 > ma50 < ma200
 	11th Feb 26 2026: ma10 > ma20 > ma50 < ma200
 	10th Feb 26 2026: ma10 > ma20 < ma50 < ma200
-Index 6322(10th Feb 26 2026): Weak Bullish momentum
+Index 6574(10th Feb 26 2026): Weak Bullish momentum
 	9th Feb 26 2026: ma10 > ma20 < ma50 < ma200
 	6th Feb 26 2026: ma10 > ma20 < ma50 < ma200
 	5th Feb 26 2026: ma10 > ma20 < ma50 < ma200
@@ -6646,7 +6910,7 @@ Index 6322(10th Feb 26 2026): Weak Bullish momentum
 	28th Jan 26 2026: ma10 < ma20 < ma50 < ma200
 	27th Jan 26 2026: ma10 < ma20 < ma50 < ma200
 	23rd Jan 26 2026: ma10 < ma20 > ma50 < ma200
-Index 6334(23rd Jan 26 2026): Strong Bearish momentum
+Index 6586(23rd Jan 26 2026): Strong Bearish momentum
 	22nd Jan 26 2026: ma10 < ma20 > ma50 < ma200
 	21st Jan 26 2026: ma10 < ma20 > ma50 < ma200
 	20th Jan 26 2026: ma10 < ma20 > ma50 < ma200
@@ -6660,7 +6924,7 @@ Index 6334(23rd Jan 26 2026): Strong Bearish momentum
 	7th Jan 26 2026: ma10 > ma20 > ma50 < ma200
 	6th Jan 26 2026: ma10 > ma20 > ma50 < ma200
 	5th Jan 26 2026: ma10 > ma20 < ma50 < ma200
-Index 6347(5th Jan 26 2026): Weak Bullish momentum
+Index 6599(5th Jan 26 2026): Weak Bullish momentum
 	2nd Jan 26 2026: ma10 > ma20 < ma50 < ma200
 	1st Jan 26 2026: ma10 > ma20 < ma50 < ma200
 	31st Dec 25 2025: ma10 > ma20 < ma50 < ma200
@@ -6703,10 +6967,10 @@ Index 6347(5th Jan 26 2026): Weak Bullish momentum
 	7th Nov 25 2025: ma10 > ma20 < ma50 < ma200
 	6th Nov 25 2025: ma10 > ma20 < ma50 < ma200
 	4th Nov 25 2025: ma10 > ma20 > ma50 < ma200
-Index 6389(4th Nov 25 2025): Strong Bearish momentum
+Index 6641(4th Nov 25 2025): Strong Bearish momentum
 	3rd Nov 25 2025: ma10 > ma20 > ma50 < ma200
 	31st Oct 25 2025: ma10 > ma20 < ma50 < ma200
-Index 6391(31st Oct 25 2025): Weak Bullish momentum
+Index 6643(31st Oct 25 2025): Weak Bullish momentum
 	30th Oct 25 2025: ma10 > ma20 < ma50 < ma200
 	29th Oct 25 2025: ma10 > ma20 < ma50 < ma200
 	28th Oct 25 2025: ma10 > ma20 < ma50 < ma200
@@ -6717,7 +6981,7 @@ Index 6391(31st Oct 25 2025): Weak Bullish momentum
 	20th Oct 25 2025: ma10 > ma20 < ma50 < ma200
 	17th Oct 25 2025: ma10 > ma20 < ma50 < ma200
 	16th Oct 25 2025: ma10 < ma20 > ma50 < ma200
-Index 6401(16th Oct 25 2025): Strong Bearish momentum
+Index 6653(16th Oct 25 2025): Strong Bearish momentum
 	15th Oct 25 2025: ma10 < ma20 > ma50 < ma200
 	14th Oct 25 2025: ma10 < ma20 > ma50 < ma200
 	13th Oct 25 2025: ma10 < ma20 > ma50 < ma200
@@ -6742,7 +7006,7 @@ Index 6401(16th Oct 25 2025): Strong Bearish momentum
 	15th Sep 25 2025: ma10 > ma20 > ma50 < ma200
 	12th Sep 25 2025: ma10 > ma20 > ma50 < ma200
 	11th Sep 25 2025: ma10 > ma20 < ma50 < ma200
-Index 6425(11th Sep 25 2025): Weak Bullish momentum
+Index 6677(11th Sep 25 2025): Weak Bullish momentum
 	10th Sep 25 2025: ma10 > ma20 < ma50 < ma200
 	9th Sep 25 2025: ma10 > ma20 < ma50 < ma200
 	8th Sep 25 2025: ma10 > ma20 < ma50 < ma200
@@ -6758,7 +7022,7 @@ Index 6425(11th Sep 25 2025): Weak Bullish momentum
 	22nd Aug 25 2025: ma10 > ma20 < ma50 < ma200
 	21st Aug 25 2025: ma10 > ma20 < ma50 < ma200
 	20th Aug 25 2025: ma10 < ma20 < ma50 > ma200
-Index 6440(20th Aug 25 2025):Start of Long-term Bearish market
+Index 6692(20th Aug 25 2025):Start of Long-term Bearish market
 	19th Aug 25 2025: ma10 < ma20 < ma50 > ma200
 	18th Aug 25 2025: ma10 < ma20 < ma50 > ma200
 	14th Aug 25 2025: ma10 < ma20 < ma50 > ma200
@@ -6801,7 +7065,7 @@ Index 6440(20th Aug 25 2025):Start of Long-term Bearish market
 	24th Jun 25 2025: ma10 < ma20 < ma50 > ma200
 	23rd Jun 25 2025: ma10 < ma20 < ma50 > ma200
 	20th Jun 25 2025: ma10 < ma20 > ma50 > ma200
-Index 6482(20th Jun 25 2025): Short-term Bearish momentum
+Index 6734(20th Jun 25 2025): Short-term Bearish momentum
 	19th Jun 25 2025: ma10 < ma20 > ma50 > ma200
 	18th Jun 25 2025: ma10 < ma20 > ma50 > ma200
 	17th Jun 25 2025: ma10 < ma20 > ma50 > ma200
@@ -6845,7 +7109,7 @@ Index 6482(20th Jun 25 2025): Short-term Bearish momentum
 	23rd Apr 25 2025: ma10 > ma20 > ma50 > ma200
 	22nd Apr 25 2025: ma10 < ma20 > ma50 > ma200
 	21st Apr 25 2025: ma10 < ma20 > ma50 < ma200
-Index 6525(21st Apr 25 2025): Start of Long-term Bullish market
+Index 6777(21st Apr 25 2025): Start of Long-term Bullish market
 	17th Apr 25 2025: ma10 < ma20 > ma50 < ma200
 	16th Apr 25 2025: ma10 < ma20 > ma50 < ma200
 	15th Apr 25 2025: ma10 < ma20 > ma50 < ma200
@@ -6878,7 +7142,7 @@ Index 6525(21st Apr 25 2025): Start of Long-term Bullish market
 	12th Feb 2026  : ma10 > ma20 > ma50 < ma200
 	11th Feb 2026  : ma10 > ma20 > ma50 < ma200
 	10th Feb 2026  : ma10 > ma20 < ma50 < ma200
-Index 6557(10th Feb 2026): Weak Bullish momentum
+Index 6809(10th Feb 2026): Weak Bullish momentum
 	9th Feb 2026   : ma10 > ma20 < ma50 < ma200
 	6th Feb 2026   : ma10 > ma20 < ma50 < ma200
 	5th Feb 2026   : ma10 > ma20 < ma50 < ma200
@@ -6891,7 +7155,7 @@ Index 6557(10th Feb 2026): Weak Bullish momentum
 	28th Jan 2026  : ma10 < ma20 < ma50 < ma200
 	27th Jan 2026  : ma10 < ma20 < ma50 < ma200
 	23rd Jan 2026  : ma10 < ma20 > ma50 < ma200
-Index 6569(23rd Jan 2026): Strong Bearish momentum
+Index 6821(23rd Jan 2026): Strong Bearish momentum
 	22nd Jan 2026  : ma10 < ma20 > ma50 < ma200
 	21st Jan 2026  : ma10 < ma20 > ma50 < ma200
 	20th Jan 2026  : ma10 < ma20 > ma50 < ma200
@@ -6905,7 +7169,7 @@ Index 6569(23rd Jan 2026): Strong Bearish momentum
 	7th Jan 2026   : ma10 > ma20 > ma50 < ma200
 	6th Jan 2026   : ma10 > ma20 > ma50 < ma200
 	5th Jan 2026   : ma10 > ma20 < ma50 < ma200
-Index 6582(5th Jan 2026): Weak Bullish momentum
+Index 6834(5th Jan 2026): Weak Bullish momentum
 	2nd Jan 2026   : ma10 > ma20 < ma50 < ma200
 	1st Jan 2026   : ma10 > ma20 < ma50 < ma200
 	31st Dec 2025  : ma10 > ma20 < ma50 < ma200
@@ -6939,7 +7203,7 @@ Index 6582(5th Jan 2026): Weak Bullish momentum
 	20th Nov 2025  : ma10 < ma20 < ma50 < ma200
 	19th Nov 2025  : ma10 < ma20 < ma50 < ma200
 	18th Nov 2025  : ma10 < ma20 < ma50 > ma200
-Index 6615(18th Nov 2025):Start of Long-term Bearish market
+Index 6867(18th Nov 2025):Start of Long-term Bearish market
 	17th Nov 2025  : ma10 < ma20 < ma50 > ma200
 	14th Nov 2025  : ma10 < ma20 < ma50 > ma200
 	13th Nov 2025  : ma10 < ma20 < ma50 > ma200
@@ -6961,7 +7225,7 @@ Index 6615(18th Nov 2025):Start of Long-term Bearish market
 	20th Oct 2025  : ma10 > ma20 < ma50 < ma200
 	17th Oct 2025  : ma10 > ma20 < ma50 < ma200
 	16th Oct 2025  : ma10 < ma20 > ma50 < ma200
-Index 6636(16th Oct 2025): Strong Bearish momentum
+Index 6888(16th Oct 2025): Strong Bearish momentum
 	15th Oct 2025  : ma10 < ma20 > ma50 < ma200
 	14th Oct 2025  : ma10 < ma20 > ma50 < ma200
 	13th Oct 2025  : ma10 < ma20 > ma50 < ma200
@@ -6986,11 +7250,11 @@ Index 6636(16th Oct 2025): Strong Bearish momentum
 	15th Sep 2025  : ma10 > ma20 > ma50 < ma200
 	12th Sep 2025  : ma10 > ma20 > ma50 < ma200
 	11th Sep 2025  : ma10 > ma20 < ma50 < ma200
-Index 6660(11th Sep 2025): Weak Bullish momentum
+Index 6912(11th Sep 2025): Weak Bullish momentum
 	10th Sep 2025  : ma10 > ma20 < ma50 < ma200
 	9th Sep 2025   : ma10 > ma20 < ma50 < ma200
 	8th Sep 2025   : ma10 > ma20 < ma50 > ma200
-Index 6663(8th Sep 2025):Start of Long-term Bearish market
+Index 6915(8th Sep 2025):Start of Long-term Bearish market
 	5th Sep 2025   : ma10 > ma20 < ma50 > ma200
 	4th Sep 2025   : ma10 > ma20 < ma50 > ma200
 	3rd Sep 2025   : ma10 > ma20 < ma50 > ma200
@@ -7045,7 +7309,7 @@ Index 6663(8th Sep 2025):Start of Long-term Bearish market
 	24th Jun 2025  : ma10 < ma20 < ma50 > ma200
 	23rd Jun 2025  : ma10 < ma20 < ma50 > ma200
 	20th Jun 2025  : ma10 < ma20 > ma50 > ma200
-Index 6717(20th Jun 2025): Short-term Bearish momentum
+Index 6969(20th Jun 2025): Short-term Bearish momentum
 	19th Jun 2025  : ma10 < ma20 > ma50 > ma200
 	18th Jun 2025  : ma10 < ma20 > ma50 > ma200
 	17th Jun 2025  : ma10 < ma20 > ma50 > ma200
@@ -7081,7 +7345,7 @@ Index 6717(20th Jun 2025): Short-term Bearish momentum
 	6th May 2025   : ma10 > ma20 > ma50 > ma200
 	5th May 2025   : ma10 > ma20 > ma50 > ma200
 	2nd May 2025   : ma10 > ma20 > ma50 < ma200
-Index 6752(2nd May 2025): Start of Long-term Bullish market
+Index 7004(2nd May 2025): Start of Long-term Bullish market
 	30th Apr 2025  : ma10 > ma20 > ma50 < ma200
 	29th Apr 2025  : ma10 > ma20 > ma50 < ma200
 	28th Apr 2025  : ma10 > ma20 > ma50 < ma200
@@ -7109,7 +7373,7 @@ Index 6752(2nd May 2025): Start of Long-term Bullish market
 	21st Mar 2025  : ma10 > ma20 > ma50 < ma200
 	20th Mar 2025  : ma10 > ma20 > ma50 < ma200
 	19th Mar 2025  : ma10 > ma20 < ma50 < ma200
-Index 6779(19th Mar 2025): Weak Bullish momentum
+Index 7031(19th Mar 2025): Weak Bullish momentum
 	18th Mar 2025  : ma10 > ma20 < ma50 < ma200
 	17th Mar 2025  : ma10 > ma20 < ma50 < ma200
 	13th Mar 2025  : ma10 > ma20 < ma50 < ma200
@@ -7160,7 +7424,7 @@ Index 6779(19th Mar 2025): Weak Bullish momentum
 	9th Jan 2025   : ma10 < ma20 < ma50 < ma200
 	8th Jan 2025   : ma10 < ma20 < ma50 < ma200
 	7th Jan 2025   : ma10 < ma20 > ma50 < ma200
-Index 6829(7th Jan 2025): Strong Bearish momentum
+Index 7081(7th Jan 2025): Strong Bearish momentum
 	6th Jan 2025   : ma10 < ma20 > ma50 < ma200
 	3rd Jan 2025   : ma10 < ma20 > ma50 < ma200
 	2nd Jan 2025   : ma10 < ma20 > ma50 < ma200
@@ -7189,7 +7453,7 @@ Index 6829(7th Jan 2025): Strong Bearish momentum
 	29th Nov 2024  : ma10 < ma20 > ma50 < ma200
 	28th Nov 2024  : ma10 < ma20 > ma50 < ma200
 	27th Nov 2024  : ma10 < ma20 < ma50 < ma200
-Index 6857(27th Nov 2024): Weak Bullish momentum
+Index 7109(27th Nov 2024): Weak Bullish momentum
 	26th Nov 2024  : ma10 < ma20 < ma50 < ma200
 	25th Nov 2024  : ma10 < ma20 < ma50 < ma200
 	22nd Nov 2024  : ma10 < ma20 < ma50 < ma200
@@ -7231,7 +7495,7 @@ Index 6857(27th Nov 2024): Weak Bullish momentum
 	30th Sep 2024  : ma10 < ma20 < ma50 < ma200
 	27th Sep 2024  : ma10 < ma20 < ma50 < ma200
 	26th Sep 2024  : ma10 < ma20 > ma50 < ma200
-Index 6898(26th Sep 2024): Strong Bearish momentum
+Index 7150(26th Sep 2024): Strong Bearish momentum
 	25th Sep 2024  : ma10 < ma20 > ma50 < ma200
 	24th Sep 2024  : ma10 < ma20 > ma50 < ma200
 	23rd Sep 2024  : ma10 < ma20 > ma50 < ma200
@@ -7244,7 +7508,7 @@ Index 6898(26th Sep 2024): Strong Bearish momentum
 	12th Sep 2024  : ma10 < ma20 > ma50 > ma200
 	11th Sep 2024  : ma10 < ma20 > ma50 > ma200
 	10th Sep 2024  : ma10 > ma20 < ma50 > ma200
-Index 6910(10th Sep 2024): Strong Bullish momentum
+Index 7162(10th Sep 2024): Strong Bullish momentum
 	9th Sep 2024   : ma10 > ma20 < ma50 > ma200
 	6th Sep 2024   : ma10 > ma20 < ma50 > ma200
 	5th Sep 2024   : ma10 > ma20 < ma50 > ma200
@@ -7271,7 +7535,7 @@ Index 6910(10th Sep 2024): Strong Bullish momentum
 	6th Aug 2024   : ma10 < ma20 < ma50 > ma200
 	5th Aug 2024   : ma10 < ma20 < ma50 > ma200
 	2nd Aug 2024   : ma10 < ma20 > ma50 > ma200
-Index 6936(2nd Aug 2024): Short-term Bearish momentum
+Index 7188(2nd Aug 2024): Short-term Bearish momentum
 	1st Aug 2024   : ma10 < ma20 > ma50 > ma200
 	31st Jul 2024  : ma10 < ma20 > ma50 > ma200
 	30th Jul 2024  : ma10 < ma20 > ma50 > ma200
@@ -7302,7 +7566,7 @@ Index 6936(2nd Aug 2024): Short-term Bearish momentum
 	24th Jun 2024  : ma10 > ma20 > ma50 > ma200
 	21st Jun 2024  : ma10 > ma20 > ma50 > ma200
 	20th Jun 2024  : ma10 > ma20 < ma50 > ma200
-Index 6966(20th Jun 2024): Strong Bullish momentum
+Index 7218(20th Jun 2024): Strong Bullish momentum
 	19th Jun 2024  : ma10 > ma20 < ma50 > ma200
 	18th Jun 2024  : ma10 > ma20 < ma50 > ma200
 	14th Jun 2024  : ma10 > ma20 < ma50 > ma200
@@ -7320,7 +7584,7 @@ Index 6966(20th Jun 2024): Strong Bullish momentum
 	29th May 2024  : ma10 > ma20 < ma50 < ma200
 	28th May 2024  : ma10 > ma20 < ma50 < ma200
 	27th May 2024  : ma10 > ma20 > ma50 < ma200
-Index 6983(27th May 2024): Strong Bearish momentum
+Index 7235(27th May 2024): Strong Bearish momentum
 	24th May 2024  : ma10 < ma20 > ma50 < ma200
 	23rd May 2024  : ma10 < ma20 > ma50 < ma200
 	22nd May 2024  : ma10 < ma20 > ma50 < ma200
@@ -7350,10 +7614,10 @@ Index 6983(27th May 2024): Strong Bearish momentum
 	16th Apr 2024  : ma10 > ma20 > ma50 < ma200
 	15th Apr 2024  : ma10 > ma20 > ma50 < ma200
 	12th Apr 2024  : ma10 > ma20 < ma50 < ma200
-Index 7012(12th Apr 2024): Weak Bullish momentum
+Index 7264(12th Apr 2024): Weak Bullish momentum
 	10th Apr 2024  : ma10 > ma20 < ma50 < ma200
 	9th Apr 2024   : ma10 > ma20 < ma50 > ma200
-Index 7014(9th Apr 2024):Start of Long-term Bearish market
+Index 7266(9th Apr 2024):Start of Long-term Bearish market
 	8th Apr 2024   : ma10 > ma20 < ma50 > ma200
 	5th Apr 2024   : ma10 > ma20 < ma50 > ma200
 	4th Apr 2024   : ma10 > ma20 < ma50 > ma200
@@ -7404,7 +7668,7 @@ Index 7014(9th Apr 2024):Start of Long-term Bearish market
 	30th Jan 2024  : ma10 < ma20 < ma50 > ma200
 	29th Jan 2024  : ma10 < ma20 < ma50 > ma200
 	25th Jan 2024  : ma10 < ma20 > ma50 > ma200
-Index 7064(25th Jan 2024): Short-term Bearish momentum
+Index 7316(25th Jan 2024): Short-term Bearish momentum
 	24th Jan 2024  : ma10 < ma20 > ma50 > ma200
 	23rd Jan 2024  : ma10 < ma20 > ma50 > ma200
 	20th Jan 2024  : ma10 < ma20 > ma50 > ma200
@@ -7450,7 +7714,7 @@ Index 7064(25th Jan 2024): Short-term Bearish momentum
 	23rd Nov 2023  : ma10 > ma20 > ma50 > ma200
 	22nd Nov 2023  : ma10 > ma20 > ma50 > ma200
 	21st Nov 2023  : ma10 > ma20 < ma50 > ma200
-Index 7109(21st Nov 2023): Strong Bullish momentum
+Index 7361(21st Nov 2023): Strong Bullish momentum
 	20th Nov 2023  : ma10 > ma20 < ma50 > ma200
 	17th Nov 2023  : ma10 > ma20 < ma50 > ma200
 	16th Nov 2023  : ma10 > ma20 < ma50 > ma200
@@ -7487,7 +7751,7 @@ Index 7109(21st Nov 2023): Strong Bullish momentum
 	3rd Oct 2023   : ma10 < ma20 < ma50 > ma200
 	29th Sep 2023  : ma10 < ma20 < ma50 > ma200
 	28th Sep 2023  : ma10 < ma20 > ma50 > ma200
-Index 7145(28th Sep 2023): Short-term Bearish momentum
+Index 7397(28th Sep 2023): Short-term Bearish momentum
 	27th Sep 2023  : ma10 < ma20 > ma50 > ma200
 	26th Sep 2023  : ma10 < ma20 > ma50 > ma200
 	25th Sep 2023  : ma10 < ma20 > ma50 > ma200
@@ -7501,14 +7765,14 @@ Index 7145(28th Sep 2023): Short-term Bearish momentum
 	12th Sep 2023  : ma10 > ma20 > ma50 > ma200
 	11th Sep 2023  : ma10 > ma20 > ma50 > ma200
 	8th Sep 2023   : ma10 > ma20 < ma50 > ma200
-Index 7158(8th Sep 2023): Strong Bullish momentum
+Index 7410(8th Sep 2023): Strong Bullish momentum
 	7th Sep 2023   : ma10 > ma20 < ma50 > ma200
 	6th Sep 2023   : ma10 > ma20 < ma50 > ma200
 	5th Sep 2023   : ma10 > ma20 < ma50 > ma200
 	4th Sep 2023   : ma10 > ma20 < ma50 > ma200
 	1st Sep 2023   : ma10 > ma20 < ma50 > ma200
 	31st Aug 2023  : ma10 > ma20 > ma50 < ma200
-Index 7164(31st Aug 2023): Short-term Bearish momentum
+Index 7416(31st Aug 2023): Short-term Bearish momentum
 	30th Aug 2023  : ma10 < ma20 > ma50 < ma200
 	29th Aug 2023  : ma10 < ma20 > ma50 < ma200
 	28th Aug 2023  : ma10 < ma20 > ma50 < ma200

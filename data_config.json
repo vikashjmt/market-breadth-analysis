@@ -2,13 +2,9 @@
     "url": "https://chartink.com/dashboard/381757",
     "folder": "market_breadth"
 },
-"hourly_multiple_ema_screener": {
-    "url": "https://chartink.com/screener/trending-10-21-50-200",
-    "folder": "hourly_trending_screener"
-},
-"multiple_timeframe_ema_screener": {
-    "url": "https://chartink.com/screener/all-emas-in-hour-day-week-month-interval-trending",
-    "folder": "multiple_timeframe_ema_screener"
+"fundamental_bullish_stocks_screener": {
+    "url": "https://chartink.com/screener/daily-fundamental-bullish-stocks-3",
+    "folder": "fundamental_bullish_stocks_screener"
 },
 "weekly_macd_crossover_screener": {
     "url": "https://chartink.com/screener/after-weekly-macd-crossover-emas-crossed",

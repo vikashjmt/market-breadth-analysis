@@ -8,6 +8,8 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
+
+from selenium.webdriver.common.action_chains import ActionChains
 from selenium import webdriver
 from icecream import ic
 from pathlib import Path
@@ -34,31 +36,32 @@ MB_ANALYSIS_FILE = "market_breadth/analysis.txt"
 
 def download_screener(url, dashboard=False):
     driver = webdriver.Chrome(options=options)
-    wait = WebDriverWait(driver, 20)
+    wait = WebDriverWait(driver, 25)
+    actions = ActionChains(driver)
 
     driver.get(url)
-    # Let page load initial layout
-    sleep(8)
+    # Give the dashboard time to populate the grid
+    sleep(10)
 
     if dashboard:
-        # Click the Market Breadth pane/title
-        market_breadth_div = wait.until(
-            EC.element_to_be_clickable(
-                (By.XPATH, "//div[contains(., 'Market Breadth')]"))
-        )
-        market_breadth_div.click()
-        sleep(7)
+        # 1. Targeted XPath for the Market Breadth header text specifically
+        # We target the text node to ensure we are over the right area
+        header_xpath = "//span[contains(text(), 'Market Breadth')] | //div[contains(@class, 'panel-title') and contains(., 'Market Breadth')]"
+        market_breadth_el = wait.until(EC.presence_of_element_located((By.XPATH, header_xpath)))
+        
+        # 2. Move to element to trigger any 'hover' states required for the CSV button to appear
+        actions.move_to_element(market_breadth_el).perform()
+        sleep(2)
+        
+        # 3. Locate the CSV button
+        # Added a wait for visibility to ensure it's rendered after the hover/click
         csv_button = wait.until(
-            EC.element_to_be_clickable((By.XPATH, "//span[text()='CSV']"))
+            EC.element_to_be_clickable((By.XPATH, "//span[contains(text(), 'CSV')]"))
         )
-        sleep(6)
-        wait.until(
-            EC.presence_of_element_located((By.CSS_SELECTOR, "table tbody tr"))
-        )
-        csv_button.click()
-        # Use the below one if above click does not work
-        # driver.execute_script("arguments[0].click();", csv_button)
-
+        
+        # 4. Use JavaScript click to bypass any transparent overlays or "note" icons
+        driver.execute_script("arguments[0].click();", csv_button)
+        # console.print("[green]CSV download triggered successfully.[/green]")
     # Normal Screener Page (Non-dashboard)
     else:
         # Wait for screener’s download button

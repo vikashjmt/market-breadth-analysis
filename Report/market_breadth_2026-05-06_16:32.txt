@@ -26,10 +26,3 @@ DAY1 | 6th May 26 2026:
      #stocks > 20 ema (Last 5 days):
 	1750, 1633, 1725, 1640, 1900
      Market Status: Light Green
-
-
-Analysis on the weekly macd xOver screener: https://chartink.com/screener/after-weekly-macd-crossover-emas-crossed
-    Current market status: Very Bullish
-
-Analysis on the weekly macd xDown screener: https://chartink.com/screener/after-weekly-macd-crossdown
-    Current market status: Very Bullish

@@ -26,10 +26,3 @@ DAY1 | 13th May 26 2026:
      #stocks > 20 ema (Last 5 days):
 	1949, 1856, 1530, 892, 1012
      Market Status:  Green-Yellow (non-trending phase)
-
-
-Analysis on the weekly macd xOver screener: https://chartink.com/screener/after-weekly-macd-crossover-emas-crossed
-    Current market status: Neutral with Bullish bias
-
-Analysis on the weekly macd xDown screener: https://chartink.com/screener/after-weekly-macd-crossdown
-    Current market status: Neutral with Bullish bias

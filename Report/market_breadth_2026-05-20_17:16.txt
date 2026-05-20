@@ -24,10 +24,3 @@ DAY1 | 20th May 26 2026:
      #stocks > 20 ema (Last 5 days):
 	1057, 934, 697, 888, 960
      Market Status:  Red to Yellow
-
-
-Analysis on the weekly macd xOver screener: https://chartink.com/screener/after-weekly-macd-crossover-emas-crossed
-    Current market status: Neutral with Bullish bias
-
-Analysis on the weekly macd xDown screener: https://chartink.com/screener/after-weekly-macd-crossdown
-    Current market status: Neutral with Bullish bias

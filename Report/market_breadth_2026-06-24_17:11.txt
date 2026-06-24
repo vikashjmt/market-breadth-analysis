@@ -27,10 +27,3 @@ DAY1 | 24th Jun 26 2026:
 	1651, 1623, 1705, 1510, 1500
      Market Status: MB topped out today
 Light Green
-
-
-Analysis on the weekly macd xOver screener: https://chartink.com/screener/after-weekly-macd-crossover-emas-crossed
-    Current market status: Very Bullish
-
-Analysis on the weekly macd xDown screener: https://chartink.com/screener/after-weekly-macd-crossdown
-    Current market status: Very Bullish

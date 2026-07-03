@@ -25,10 +25,3 @@ DAY1 | 3rd Jul 26 2026:
 	1153, 1269, 1341, 1488, 1457
      Market Status: MB topped out today
  Green-Yellow (non-trending phase)
-
-
-Analysis on the weekly macd xOver screener: https://chartink.com/screener/after-weekly-macd-crossover-emas-crossed
-    Current market status: Neutral with Bullish bias
-
-Analysis on the weekly macd xDown screener: https://chartink.com/screener/after-weekly-macd-crossdown
-    Current market status: Neutral with Bullish bias

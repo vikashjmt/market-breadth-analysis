@@ -25,10 +25,3 @@ DAY1 | 8th Jul 26 2026:
      #stocks > 20 ema (Last 5 days):
 	1483, 1453, 1399, 1263, 783
      Market Status:  Dark Red
-
-
-Analysis on the weekly macd xOver screener: https://chartink.com/screener/after-weekly-macd-crossover-emas-crossed
-    Current market status: Very Bearish
-
-Analysis on the weekly macd xDown screener: https://chartink.com/screener/after-weekly-macd-crossdown
-    Current market status: Very Bearish

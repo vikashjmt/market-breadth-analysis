@@ -24,10 +24,3 @@ DAY1 | 12th Aug 26 2026:
      #stocks > 20 ema (Last 5 days):
 	1425, 1358, 1309, 1241, 1161
      Market Status:  Light Red. Could be right time to panic and tighten the stop loss
-
-
-Analysis on the weekly macd xOver screener: https://chartink.com/screener/after-weekly-macd-crossover-emas-crossed
-    Current market status: Very Bearish
-
-Analysis on the weekly macd xDown screener: https://chartink.com/screener/after-weekly-macd-crossdown
-    Current market status: Very Bearish

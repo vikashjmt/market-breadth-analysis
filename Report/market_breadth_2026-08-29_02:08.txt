@@ -24,7 +24,3 @@ DAY1 | 28th Aug 26 2026:
      #stocks > 20 ema (Last 5 days):
 	1037, 1078, 1151, 1048, 1094
      Market Status: Yellow to Red
-
-
-Analysis on the weekly macd xDown screener: https://chartink.com/screener/after-weekly-macd-crossdown
-    Current market status: Very Bearish

@@ -1,0 +1,28 @@
+Processing url : https://chartink.com/dashboard/381757
+
+Today's MB status:
+	14th Oct 26 2026: ma10 < ma20 < ma50 < ma200
+
+Market Breadth MA analysis link: https://github.com/vikashjmt/market-breadth-analysis/blob/main/market_breadth/analysis.txt
+
+DAY4 | 9th Oct 26 2026:
+     #stocks > 20 ema (Last 5 days):
+	504, 704, 721, 413, 497
+     Market Status:  Red
+
+DAY3 | 12th Oct 26 2026:
+     #stocks > 20 ema (Last 5 days):
+	704, 721, 413, 497, 571
+     Market Status:  Red
+
+DAY2 | 13th Oct 26 2026:
+     #stocks > 20 ema (Last 5 days):
+	721, 413, 497, 571, 671
+     Market Status:  Red to Yellow
+
+DAY1 | 14th Oct 26 2026:
+     #stocks > 20 ema (Last 5 days):
+	413, 497, 571, 671, 799
+     Market Status:  Red to Yellow
+Market might have bottomed for short/long term. Beware of 3 phases of bear 
+market downfall

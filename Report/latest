@@ -1,30 +1,31 @@
 Processing url : https://chartink.com/dashboard/381757
 
 Today's MB status:
-	11th Nov 26 2026: ma10 > ma20 > ma50 < ma200
+	13th Nov 26 2026: ma10 > ma20 > ma50 < ma200
 
 Market Breadth MA analysis link: https://github.com/vikashjmt/market-breadth-analysis/blob/main/market_breadth/analysis.txt
 
-DAY4 | 6th Nov 26 2026:
+DAY4 | 9th Nov 26 2026:
      #stocks > 20 ema (Last 5 days):
-	747, 912, 1257, 1492, 1275
-     Market Status:  Green-Yellow (non-trending phase)
-
-DAY3 | 8th Nov 26 2026:
-     #stocks > 20 ema (Last 5 days):
-	912, 1257, 1492, 1275, 1541
-     Market Status:  Green-Yellow (non-trending phase)
-
-DAY2 | 9th Nov 26 2026:
-     #stocks > 20 ema (Last 5 days):
-	1257, 1492, 1275, 1541, 1465
+	1261, 1496, 1281, 1547, 1471
      Market Status: MB topped out today
 Light Green
 
-DAY1 | 11th Nov 26 2026:
+DAY3 | 11th Nov 26 2026:
      #stocks > 20 ema (Last 5 days):
-	1492, 1275, 1541, 1465, 1681
+	1496, 1281, 1547, 1471, 1689
      Market Status: Light Green
+
+DAY2 | 12th Nov 26 2026:
+     #stocks > 20 ema (Last 5 days):
+	1281, 1547, 1471, 1689, 1715
+     Market Status: Light Green
+
+DAY1 | 13th Nov 26 2026:
+     #stocks > 20 ema (Last 5 days):
+	1547, 1471, 1689, 1715, 1597
+     Market Status: MB topped out today
+Light Green
 
 
 Analysis on the weekly macd xOver screener: https://chartink.com/screener/after-weekly-macd-crossover-emas-crossed

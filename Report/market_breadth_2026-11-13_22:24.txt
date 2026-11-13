@@ -1,0 +1,28 @@
+Processing url : https://chartink.com/dashboard/381757
+
+Today's MB status:
+	13th Nov 26 2026: ma10 > ma20 > ma50 < ma200
+
+Market Breadth MA analysis link: https://github.com/vikashjmt/market-breadth-analysis/blob/main/market_breadth/analysis.txt
+
+DAY4 | 9th Nov 26 2026:
+     #stocks > 20 ema (Last 5 days):
+	1261, 1496, 1281, 1547, 1471
+     Market Status: MB topped out today
+Light Green
+
+DAY3 | 11th Nov 26 2026:
+     #stocks > 20 ema (Last 5 days):
+	1496, 1281, 1547, 1471, 1689
+     Market Status: Light Green
+
+DAY2 | 12th Nov 26 2026:
+     #stocks > 20 ema (Last 5 days):
+	1281, 1547, 1471, 1689, 1715
+     Market Status: Light Green
+
+DAY1 | 13th Nov 26 2026:
+     #stocks > 20 ema (Last 5 days):
+	1547, 1471, 1689, 1715, 1597
+     Market Status: MB topped out today
+Light Green
